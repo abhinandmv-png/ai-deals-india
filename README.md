@@ -10,5 +10,5 @@ SEO-ready static landing page for AI Deals India, focused on live Amazon deals, 
 - `logo.png` — AI Deals India profile/logo image
 - `robots.txt` — crawler access rules
 
-## Final SEO step
-After the final production domain is chosen, add an absolute `<link rel="canonical" ...>` to `index.html` and create `sitemap.xml` using that exact domain. Then submit the sitemap in Google Search Console.
+## SEO setup
+The current production URL is `https://abhinandmv-png.github.io/ai-deals-india/`. The site includes an absolute canonical URL, crawler-friendly `robots.txt`, `sitemap.xml`, Open Graph metadata and WebSite/Organization structured data. After publishing changes, add the site to Google Search Console and submit `/ai-deals-india/sitemap.xml`.

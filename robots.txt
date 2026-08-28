@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://abhinandmv-png.github.io/ai-deals-india/sitemap.xml
