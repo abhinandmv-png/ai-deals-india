@@ -1,0 +1,32 @@
+{
+  "updated_at": "2026-08-28T13:00:00+05:30",
+  "deals": [
+    {
+      "title": "Example: Jack & Jones Men's Clothing",
+      "price": 699,
+      "original_price": 1999,
+      "category": "Fashion",
+      "badge": "70%+ OFF",
+      "note": "DEMO DEAL \u2014 replace this entry with a real deal from your bot.",
+      "url": "https://www.amazon.in/"
+    },
+    {
+      "title": "Example: Skybags Backpack & Luggage Offers",
+      "price": 899,
+      "original_price": 2299,
+      "category": "Travel",
+      "badge": "60%+ OFF",
+      "note": "DEMO DEAL \u2014 replace this entry with a real deal from your bot.",
+      "url": "https://www.amazon.in/"
+    },
+    {
+      "title": "Example: Vector X Turbo Cap Pack of 2",
+      "price": 227,
+      "original_price": 499,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "DEMO DEAL \u2014 replace this entry with a real deal from your bot.",
+      "url": "https://www.amazon.in/"
+    }
+  ]
+}
