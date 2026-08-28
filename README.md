@@ -1,14 +1,18 @@
 # AI Deals India
 
-SEO-ready static landing page for AI Deals India, focused on live Amazon deals, price drops and shopping offers for Indian shoppers.
-
-## Files
-- `index.html` — page, SEO metadata, Open Graph/Twitter metadata and JSON-LD
-- `styles.css` — responsive glass UI
-- `script.js` — deal feed, search, category filter and refresh
-- `deals.json` — website deal feed
-- `logo.png` — AI Deals India profile/logo image
-- `robots.txt` — crawler access rules
+SEO-ready static GitHub Pages site for AI Deals India.
 
 ## SEO setup
-The current production URL is `https://abhinandmv-png.github.io/ai-deals-india/`. The site includes an absolute canonical URL, crawler-friendly `robots.txt`, `sitemap.xml`, Open Graph metadata and WebSite/Organization structured data. After publishing changes, add the site to Google Search Console and submit `/ai-deals-india/sitemap.xml`.
+- `index.html` — title, description, canonical URL, Open Graph/Twitter metadata and JSON-LD
+- `robots.txt` — crawler access plus sitemap location
+- `sitemap.xml` — exact live GitHub Pages URL
+- Google Search Console ownership file — keep it in the repository
+- The homepage contains crawlable text about Amazon deals, offers, discounts and price drops in India
+
+## Deal feed
+- `deals.json` — feed consumed by `script.js`
+- `script.js` — search, category filter and refresh
+- Replace the sample records with genuine bot-generated deal records before treating them as live deals.
+
+## Deployment
+This version is intended for GitHub Pages. Railway is not required for the static website.

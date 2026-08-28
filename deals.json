@@ -7,7 +7,7 @@
       "original_price": 1999,
       "category": "Fashion",
       "badge": "70%+ OFF",
-      "note": "DEMO DEAL \u2014 replace this entry with a real deal from your bot.",
+      "note": "Sample listing — verify the current price and availability on Amazon.",
       "url": "https://www.amazon.in/"
     },
     {
@@ -16,7 +16,7 @@
       "original_price": 2299,
       "category": "Travel",
       "badge": "60%+ OFF",
-      "note": "DEMO DEAL \u2014 replace this entry with a real deal from your bot.",
+      "note": "Sample listing — verify the current price and availability on Amazon.",
       "url": "https://www.amazon.in/"
     },
     {
@@ -25,7 +25,7 @@
       "original_price": 499,
       "category": "Fashion",
       "badge": "DEAL",
-      "note": "DEMO DEAL \u2014 replace this entry with a real deal from your bot.",
+      "note": "Sample listing — verify the current price and availability on Amazon.",
       "url": "https://www.amazon.in/"
     }
   ]
