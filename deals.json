@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-29T14:15:53+00:00",
+  "updated_at": "2026-08-29T15:00:52+00:00",
   "deals": [
+    {
+      "title": "53% Off : AWESOME Nasal Strips for Snoring Relief (30 Count) at Rs.699",
+      "price": 699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "53% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2XFH8SC?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0G2XFH8SC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2XFH8SC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2XFH8SC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Upto 25% Off on CP Plus Wi-Fi CCTV Camera",
       "price": 2299,
