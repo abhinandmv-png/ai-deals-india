@@ -1,5 +1,7 @@
 const TELEGRAM_URL = "https://t.me/onlineshopingdeals_india";
 const REFRESH_MS = 60000;
+const IMAGE_LOAD_TIMEOUT_MS = 10000;
+const MIN_USABLE_IMAGE_DIMENSION = 20;
 
 const grid = document.getElementById("dealGrid");
 const empty = document.getElementById("emptyState");
@@ -45,12 +47,34 @@ function dealImage(deal) {
 
   return `
     <div class="deal-img" data-fallback-icon="${escapeHtml(fallbackIcon)}">
+      <span class="image-placeholder" aria-hidden="true">${fallbackIcon}</span>
       <img src="${escapeHtml(urls[0])}" alt="${escapeHtml(deal.title || "Deal image")}" data-fallbacks="${escapeHtml(JSON.stringify(urls.slice(1)))}">
     </div>
   `;
 }
 
+function clearImageTimer(image) {
+  const timerId = Number(image.dataset.fallbackTimer);
+  if (timerId) window.clearTimeout(timerId);
+  delete image.dataset.fallbackTimer;
+}
+
+function watchImage(image) {
+  clearImageTimer(image);
+  image.dataset.fallbackTimer = String(window.setTimeout(() => tryNextImage(image), IMAGE_LOAD_TIMEOUT_MS));
+}
+
+function showImagePlaceholder(image) {
+  clearImageTimer(image);
+  const container = image.closest(".deal-img");
+  if (container) {
+    container.classList.add("image-unavailable");
+    image.remove();
+  }
+}
+
 function tryNextImage(image) {
+  clearImageTimer(image);
   let fallbacks = [];
 
   try {
@@ -63,14 +87,23 @@ function tryNextImage(image) {
   if (nextUrl) {
     image.dataset.fallbacks = JSON.stringify(fallbacks);
     image.src = nextUrl;
+    watchImage(image);
     return;
   }
 
-  const container = image.closest(".deal-img");
-  if (container) {
-    container.classList.add("image-unavailable");
-    container.textContent = container.dataset.fallbackIcon || "🛒";
+  showImagePlaceholder(image);
+}
+
+function handleImageLoad(image) {
+  const isUsable = image.naturalWidth >= MIN_USABLE_IMAGE_DIMENSION &&
+    image.naturalHeight >= MIN_USABLE_IMAGE_DIMENSION;
+
+  if (isUsable) {
+    clearImageTimer(image);
+    return;
   }
+
+  tryNextImage(image);
 }
 
 function render() {
@@ -103,6 +136,8 @@ function render() {
       </div>
     </article>
   `).join("");
+
+  grid.querySelectorAll(".deal-img img").forEach(watchImage);
 }
 
 function populateCategories() {
@@ -137,7 +172,14 @@ grid.addEventListener("error", event => {
     tryNextImage(image);
   }
 }, true);
+grid.addEventListener("load", event => {
+  const image = event.target;
+  if (image instanceof HTMLImageElement && image.matches(".deal-img img")) {
+    handleImageLoad(image);
+  }
+}, true);
 document.getElementById("year").textContent = new Date().getFullYear();
 
 loadDeals();
 setInterval(loadDeals, REFRESH_MS);
+
