@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-29T13:15:50+00:00",
+  "updated_at": "2026-08-29T13:45:52+00:00",
   "deals": [
+    {
+      "title": "Logitech G502 X Lightspeed Wireless Gaming Mouse → ₹10,995",
+      "price": 10995,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BCQ83WL9?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BCQ83WL9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Logitech Signature Slim Solar+ Wireless Keyboard @ Rs.7995",
       "price": 7995,
