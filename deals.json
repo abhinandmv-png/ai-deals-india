@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-29T11:47:54+00:00",
+  "updated_at": "2026-08-29T12:47:53+00:00",
   "deals": [
+    {
+      "title": "Aristocrat Set of 6 Luggage (3 Trolley Bags & 3 Duffle Bags) @ Rs.5184",
+      "price": 5184,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "15% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVZFNWF3?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0DVZFNWF3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVZFNWF3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVZFNWF3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "R3SET Japanese Marine Collagen Type-1 for Anti-Ageing, Wrinkle - 10 Sachets at 299",
       "price": null,
