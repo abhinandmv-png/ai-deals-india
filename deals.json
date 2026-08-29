@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-29T15:00:52+00:00",
+  "updated_at": "2026-08-29T19:13:43+00:00",
   "deals": [
+    {
+      "title": "Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07Q2VQ1Z4?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B07Q2VQ1Z4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07Q2VQ1Z4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07Q2VQ1Z4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "53% Off : AWESOME Nasal Strips for Snoring Relief (30 Count) at Rs.699",
       "price": 699,
