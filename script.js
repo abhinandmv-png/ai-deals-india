@@ -20,13 +20,57 @@ function escapeHtml(s="") {
 }
 
 function iconFor(category="") {
-  const c = category.toLowerCase();
+  const c = String(category || "").toLowerCase();
   if (c.includes("fashion") || c.includes("cloth")) return "👕";
   if (c.includes("beauty") || c.includes("personal")) return "✨";
   if (c.includes("elect")) return "🎧";
   if (c.includes("home")) return "🏠";
   if (c.includes("travel") || c.includes("luggage")) return "🧳";
   return "🛒";
+}
+
+function imageUrlsFor(deal) {
+  const fallbacks = Array.isArray(deal.image_fallbacks) ? deal.image_fallbacks : [];
+  return [deal.image, ...fallbacks]
+    .filter(url => typeof url === "string" && url.trim());
+}
+
+function dealImage(deal) {
+  const urls = imageUrlsFor(deal);
+  const fallbackIcon = iconFor(deal.category);
+
+  if (!urls.length) {
+    return `<div class="deal-img image-unavailable" aria-hidden="true">${fallbackIcon}</div>`;
+  }
+
+  return `
+    <div class="deal-img" data-fallback-icon="${escapeHtml(fallbackIcon)}">
+      <img src="${escapeHtml(urls[0])}" alt="${escapeHtml(deal.title || "Deal image")}" data-fallbacks="${escapeHtml(JSON.stringify(urls.slice(1)))}">
+    </div>
+  `;
+}
+
+function tryNextImage(image) {
+  let fallbacks = [];
+
+  try {
+    fallbacks = JSON.parse(image.dataset.fallbacks || "[]");
+  } catch (error) {
+    console.warn("Invalid image fallback list", error);
+  }
+
+  const nextUrl = fallbacks.shift();
+  if (nextUrl) {
+    image.dataset.fallbacks = JSON.stringify(fallbacks);
+    image.src = nextUrl;
+    return;
+  }
+
+  const container = image.closest(".deal-img");
+  if (container) {
+    container.classList.add("image-unavailable");
+    container.textContent = container.dataset.fallbackIcon || "🛒";
+  }
 }
 
 function render() {
@@ -40,7 +84,7 @@ function render() {
   empty.hidden = filtered.length !== 0;
   grid.innerHTML = filtered.map(d => `
     <article class="deal-card">
-      <div class="deal-img">${d.image ? `<img src="${escapeHtml(d.image)}" alt="" style="width:100%;height:100%;object-fit:cover" onerror="this.onerror=null;this.src='${escapeHtml((d.image_fallbacks && d.image_fallbacks[0]) || "")}'">` : iconFor(d.category)}</div>
+      ${dealImage(d)}
       <div class="deal-body">
         <div class="deal-tags">
           <span class="tag">${escapeHtml(d.badge || "DEAL")}</span>
@@ -87,6 +131,12 @@ async function loadDeals() {
 
 searchInput.addEventListener("input", render);
 categorySelect.addEventListener("change", render);
+grid.addEventListener("error", event => {
+  const image = event.target;
+  if (image instanceof HTMLImageElement && image.matches(".deal-img img")) {
+    tryNextImage(image);
+  }
+}, true);
 document.getElementById("year").textContent = new Date().getFullYear();
 
 loadDeals();
