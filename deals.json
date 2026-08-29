@@ -1,32 +1,15 @@
 {
-  "updated_at": "2026-08-28T13:00:00+05:30",
+  "updated_at": "2026-08-29T07:10:56+00:00",
   "deals": [
     {
-      "title": "Example: Jack & Jones Men's Clothing",
-      "price": 699,
-      "original_price": 1999,
-      "category": "Fashion",
-      "badge": "70%+ OFF",
-      "note": "Sample listing — verify the current price and availability on Amazon.",
-      "url": "https://www.amazon.in/"
-    },
-    {
-      "title": "Example: Skybags Backpack & Luggage Offers",
-      "price": 899,
-      "original_price": 2299,
-      "category": "Travel",
-      "badge": "60%+ OFF",
-      "note": "Sample listing — verify the current price and availability on Amazon.",
-      "url": "https://www.amazon.in/"
-    },
-    {
-      "title": "Example: Vector X Turbo Cap Pack of 2",
-      "price": 227,
-      "original_price": 499,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Sample listing — verify the current price and availability on Amazon.",
-      "url": "https://www.amazon.in/"
+      "title": "Parachute Advansed Protein Shampoo, 1.2L for ₹314.",
+      "price": 314,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQVGHRYB?tag=2244005-21",
+      "source": "AI Deals India"
     }
   ]
 }
