@@ -40,7 +40,7 @@ function render() {
   empty.hidden = filtered.length !== 0;
   grid.innerHTML = filtered.map(d => `
     <article class="deal-card">
-      <div class="deal-img">${d.image ? `<img src="${escapeHtml(d.image)}" alt="" style="width:100%;height:100%;object-fit:cover">` : iconFor(d.category)}</div>
+      <div class="deal-img">${d.image ? `<img src="${escapeHtml(d.image)}" alt="" style="width:100%;height:100%;object-fit:cover" onerror="this.style.display='none';this.parentElement.textContent=iconFor('${escapeHtml(d.category || "Shopping")}')">` : iconFor(d.category)}</div>
       <div class="deal-body">
         <div class="deal-tags">
           <span class="tag">${escapeHtml(d.badge || "DEAL")}</span>
