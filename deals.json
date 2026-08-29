@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-29T19:13:43+00:00",
+  "updated_at": "2026-08-29T19:15:54+00:00",
   "deals": [
+    {
+      "title": "insta360 X4 8K @ Rs.39,990",
+      "price": 39990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5HNSDQC?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0D5HNSDQC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5HNSDQC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5HNSDQC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply Coupon",
       "price": null,
