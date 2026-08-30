@@ -42,12 +42,9 @@
 
 .deal-img {
   position: relative;
-  height: 200px;
-  flex: 0 0 200px;
-  overflow: hidden;
-  display: grid;
-  place-items: center;
-  background: #fff;
+  height: 210px;
+  flex: 0 0 210px;
+  background: radial-gradient(circle at 50% 35%, #29384d, #131c29);
   color: #c4d0e0;
 }
 
@@ -64,20 +61,13 @@
 .deal-img img {
   position: relative;
   z-index: 1;
-  display: block;
   width: 100%;
   height: 100%;
-  max-width: 100%;
-  max-height: 100%;
-  object-fit: contain;
-  object-position: center;
-  padding: 10px;
-  box-sizing: border-box;
+  object-fit: cover;
 }
 
 .deal-img.image-unavailable {
   font-size: 52px;
-  background: radial-gradient(circle at 50% 35%, #29384d, #131c29);
 }
 
 .deal-body {
@@ -167,7 +157,6 @@
     height: auto;
     flex: initial;
     font-size: 34px;
-    background: #fff;
   }
 
   .deal-img.image-unavailable {
