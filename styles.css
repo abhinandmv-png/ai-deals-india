@@ -5,14 +5,14 @@
     height:190px;
     min-height:190px;
     flex:0 0 190px;
-    padding:18px;
+    padding:8px;
   }
 
   .deal-img img{
     width:auto;
     height:auto;
-    max-width:78%;
-    max-height:155px;
+    max-width:94%;
+    max-height:178px;
     object-fit:contain;
     object-position:center;
   }
@@ -261,3 +261,31 @@
   }
 }
 
+
+/* FINAL DESKTOP DEAL IMAGE FIX
+   Product images sit inside a compact square thumbnail area.
+   Mobile styles are intentionally untouched. */
+@media (min-width: 561px) {
+  .deal-img {
+    height: 190px;
+    min-height: 190px;
+    flex: 0 0 190px;
+    display: grid;
+    place-items: center;
+    padding: 10px;
+    overflow: hidden;
+  }
+
+  .deal-img img {
+    display: block;
+    width: 170px;
+    height: 170px;
+    max-width: 170px;
+    max-height: 170px;
+    min-width: 0;
+    min-height: 0;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 16px;
+  }
+}
