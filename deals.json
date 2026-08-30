@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-29T19:19:57+00:00",
+  "updated_at": "2026-08-30T03:05:04+00:00",
   "deals": [
+    {
+      "title": "L'Oreal Paris Infallible 24H Cushion Foundation at 482",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G537HJ6F?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0G537HJ6F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G537HJ6F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G537HJ6F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply Coupon",
       "price": null,
