@@ -1,7 +1,10 @@
 const TELEGRAM_URL = "https://t.me/onlineshopingdeals_india";
 const REFRESH_MS = 60000;
-const IMAGE_LOAD_TIMEOUT_MS = 10000;
+const IMAGE_LOAD_TIMEOUT_MS = 15000;
 const MIN_USABLE_IMAGE_DIMENSION = 20;
+
+// Image proxy used only when the original image URL fails.
+const IMAGE_PROXY = "https://wsrv.nl/?url=";
 
 const grid = document.getElementById("dealGrid");
 const empty = document.getElementById("emptyState");
@@ -14,88 +17,166 @@ let deals = [];
 
 function money(v) {
   if (v === null || v === undefined || v === "") return "";
-  return new Intl.NumberFormat("en-IN", {style:"currency", currency:"INR", maximumFractionDigits:0}).format(Number(v));
+
+  return new Intl.NumberFormat("en-IN", {
+    style: "currency",
+    currency: "INR",
+    maximumFractionDigits: 0
+  }).format(Number(v));
 }
 
-function escapeHtml(s="") {
-  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+function escapeHtml(s = "") {
+  return String(s).replace(
+    /[&<>"']/g,
+    c => ({
+      "&": "&amp;",
+      "<": "&lt;",
+      ">": "&gt;",
+      '"': "&quot;",
+      "'": "&#039;"
+    }[c])
+  );
 }
 
-function iconFor(category="") {
+function iconFor(category = "") {
   const c = String(category || "").toLowerCase();
+
   if (c.includes("fashion") || c.includes("cloth")) return "👕";
   if (c.includes("beauty") || c.includes("personal")) return "✨";
   if (c.includes("elect")) return "🎧";
   if (c.includes("home")) return "🏠";
   if (c.includes("travel") || c.includes("luggage")) return "🧳";
+
   return "🛒";
 }
 
+
+/* =========================================================
+   IMAGE URL HANDLING
+   ========================================================= */
+
 function imageUrlsFor(deal) {
-  const fallbacks = Array.isArray(deal.image_fallbacks) ? deal.image_fallbacks : [];
-  return [deal.image, ...fallbacks]
+  const fallbacks = Array.isArray(deal.image_fallbacks)
+    ? deal.image_fallbacks
+    : [];
+
+  // Original URLs from deals.json.
+  const directUrls = [deal.image, ...fallbacks]
     .filter(url => typeof url === "string" && url.trim());
+
+  // Proxy versions are only used after the direct URLs fail.
+  const proxiedUrls = directUrls
+    .filter(url => /^https?:\/\//i.test(url))
+    .map(url => IMAGE_PROXY + encodeURIComponent(url));
+
+  return [...directUrls, ...proxiedUrls];
 }
+
+
+/* =========================================================
+   DEAL IMAGE
+   ========================================================= */
 
 function dealImage(deal) {
   const urls = imageUrlsFor(deal);
   const fallbackIcon = iconFor(deal.category);
 
   if (!urls.length) {
-    return `<div class="deal-img image-unavailable" aria-hidden="true">${fallbackIcon}</div>`;
+    return `
+      <div class="deal-img image-unavailable" aria-hidden="true">
+        ${fallbackIcon}
+      </div>
+    `;
   }
 
   return `
     <div class="deal-img" data-fallback-icon="${escapeHtml(fallbackIcon)}">
-      <span class="image-placeholder" aria-hidden="true">${fallbackIcon}</span>
-      <img src="${escapeHtml(urls[0])}" alt="${escapeHtml(deal.title || "Deal image")}" data-fallbacks="${escapeHtml(JSON.stringify(urls.slice(1)))}">
+      <span class="image-placeholder" aria-hidden="true">
+        ${fallbackIcon}
+      </span>
+
+      <img
+        src="${escapeHtml(urls[0])}"
+        alt="${escapeHtml(deal.title || "Deal image")}"
+        data-fallbacks="${escapeHtml(JSON.stringify(urls.slice(1)))}"
+      >
     </div>
   `;
 }
 
+
+/* =========================================================
+   IMAGE FALLBACK SYSTEM
+   ========================================================= */
+
 function clearImageTimer(image) {
   const timerId = Number(image.dataset.fallbackTimer);
-  if (timerId) window.clearTimeout(timerId);
+
+  if (timerId) {
+    window.clearTimeout(timerId);
+  }
+
   delete image.dataset.fallbackTimer;
 }
 
+
 function watchImage(image) {
   clearImageTimer(image);
-  image.dataset.fallbackTimer = String(window.setTimeout(() => tryNextImage(image), IMAGE_LOAD_TIMEOUT_MS));
+
+  image.dataset.fallbackTimer = String(
+    window.setTimeout(
+      () => tryNextImage(image),
+      IMAGE_LOAD_TIMEOUT_MS
+    )
+  );
 }
+
 
 function showImagePlaceholder(image) {
   clearImageTimer(image);
+
   const container = image.closest(".deal-img");
+
   if (container) {
     container.classList.add("image-unavailable");
     image.remove();
   }
 }
 
+
 function tryNextImage(image) {
   clearImageTimer(image);
+
   let fallbacks = [];
 
   try {
-    fallbacks = JSON.parse(image.dataset.fallbacks || "[]");
+    fallbacks = JSON.parse(
+      image.dataset.fallbacks || "[]"
+    );
   } catch (error) {
     console.warn("Invalid image fallback list", error);
   }
 
   const nextUrl = fallbacks.shift();
+
   if (nextUrl) {
     image.dataset.fallbacks = JSON.stringify(fallbacks);
+
     image.src = nextUrl;
+
     watchImage(image);
+
     return;
   }
 
+  // No more images available.
   showImagePlaceholder(image);
 }
 
+
 function handleImageLoad(image) {
-  const isUsable = image.naturalWidth >= MIN_USABLE_IMAGE_DIMENSION &&
+  const isUsable =
+    image.naturalWidth >= MIN_USABLE_IMAGE_DIMENSION &&
     image.naturalHeight >= MIN_USABLE_IMAGE_DIMENSION;
 
   if (isUsable) {
@@ -106,80 +187,249 @@ function handleImageLoad(image) {
   tryNextImage(image);
 }
 
+
+/* =========================================================
+   RENDER DEALS
+   ========================================================= */
+
 function render() {
   const q = searchInput.value.trim().toLowerCase();
   const cat = categorySelect.value;
+
   const filtered = deals.filter(d => {
-    const hay = `${d.title} ${d.category} ${d.note}`.toLowerCase();
-    return (!q || hay.includes(q)) && (cat === "all" || d.category === cat);
+    const hay =
+      `${d.title} ${d.category} ${d.note}`.toLowerCase();
+
+    return (
+      (!q || hay.includes(q)) &&
+      (cat === "all" || d.category === cat)
+    );
   });
 
   empty.hidden = filtered.length !== 0;
+
   grid.innerHTML = filtered.map(d => `
     <article class="deal-card">
+
       ${dealImage(d)}
+
       <div class="deal-body">
+
         <div class="deal-tags">
-          <span class="tag">${escapeHtml(d.badge || "DEAL")}</span>
-          <span class="category">${escapeHtml(d.category || "Shopping")}</span>
+          <span class="tag">
+            ${escapeHtml(d.badge || "DEAL")}
+          </span>
+
+          <span class="category">
+            ${escapeHtml(d.category || "Shopping")}
+          </span>
         </div>
-        <h3>${escapeHtml(d.title)}</h3>
+
+        <h3>
+          ${escapeHtml(d.title)}
+        </h3>
+
         <div class="price">
-          <strong>${money(d.price)}</strong>
-          ${d.original_price ? `<span class="old">${money(d.original_price)}</span>` : ""}
+          <strong>
+            ${money(d.price)}
+          </strong>
+
+          ${
+            d.original_price
+              ? `<span class="old">${money(d.original_price)}</span>`
+              : ""
+          }
         </div>
-        <p class="deal-note">${escapeHtml(d.note || "Limited-time offer. Check the retailer for the final price.")}</p>
+
+        <p class="deal-note">
+          ${escapeHtml(
+            d.note ||
+            "Limited-time offer. Check the retailer for the final price."
+          )}
+        </p>
+
         <div class="deal-actions">
-          <a class="view" href="${escapeHtml(d.url)}" target="_blank" rel="sponsored noopener">View deal ↗</a>
-          <a class="telegram-mini" href="${TELEGRAM_URL}" target="_blank" rel="noopener">Telegram</a>
+
+          <!-- YOUR AFFILIATE LINK IS UNCHANGED -->
+          <a
+            class="view"
+            href="${escapeHtml(d.url)}"
+            target="_blank"
+            rel="sponsored noopener"
+          >
+            View deal ↗
+          </a>
+
+          <a
+            class="telegram-mini"
+            href="${TELEGRAM_URL}"
+            target="_blank"
+            rel="noopener"
+          >
+            Telegram
+          </a>
+
         </div>
+
       </div>
+
     </article>
   `).join("");
 
-  grid.querySelectorAll(".deal-img img").forEach(watchImage);
+  grid
+    .querySelectorAll(".deal-img img")
+    .forEach(watchImage);
 }
 
+
+/* =========================================================
+   CATEGORIES
+   ========================================================= */
+
 function populateCategories() {
-  const cats = [...new Set(deals.map(d => d.category).filter(Boolean))].sort();
-  categorySelect.innerHTML = `<option value="all">All categories</option>` +
-    cats.map(c => `<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join("");
+  const cats = [
+    ...new Set(
+      deals
+        .map(d => d.category)
+        .filter(Boolean)
+    )
+  ].sort();
+
+  categorySelect.innerHTML =
+    `<option value="all">All categories</option>` +
+    cats
+      .map(
+        c =>
+          `<option value="${escapeHtml(c)}">
+            ${escapeHtml(c)}
+          </option>`
+      )
+      .join("");
 }
+
+
+/* =========================================================
+   LOAD DEALS
+   ========================================================= */
 
 async function loadDeals() {
   try {
-    const res = await fetch(`deals.json?v=${Date.now()}`, {cache:"no-store"});
-    if (!res.ok) throw new Error("deals.json unavailable");
+    const res = await fetch(
+      `deals.json?v=${Date.now()}`,
+      {
+        cache: "no-store"
+      }
+    );
+
+    if (!res.ok) {
+      throw new Error("deals.json unavailable");
+    }
+
     const data = await res.json();
-    deals = Array.isArray(data.deals) ? data.deals : [];
+
+    deals = Array.isArray(data.deals)
+      ? data.deals
+      : [];
+
     populateCategories();
     render();
-    const updated = data.updated_at ? new Date(data.updated_at) : new Date();
-    lastUpdated.textContent = "Updated " + updated.toLocaleTimeString("en-IN", {hour:"2-digit", minute:"2-digit"});
-    heroDealTitle.textContent = deals[0]?.title || "Waiting for the next deal…";
+
+    const updated = data.updated_at
+      ? new Date(data.updated_at)
+      : new Date();
+
+    lastUpdated.textContent =
+      "Updated " +
+      updated.toLocaleTimeString(
+        "en-IN",
+        {
+          hour: "2-digit",
+          minute: "2-digit"
+        }
+      );
+
+    heroDealTitle.textContent =
+      deals[0]?.title ||
+      "Waiting for the next deal…";
+
   } catch (e) {
     console.error(e);
-    lastUpdated.textContent = "Feed unavailable";
-    heroDealTitle.textContent = "Check Telegram for the latest deals";
+
+    lastUpdated.textContent =
+      "Feed unavailable";
+
+    heroDealTitle.textContent =
+      "Check Telegram for the latest deals";
   }
 }
 
-searchInput.addEventListener("input", render);
-categorySelect.addEventListener("change", render);
-grid.addEventListener("error", event => {
-  const image = event.target;
-  if (image instanceof HTMLImageElement && image.matches(".deal-img img")) {
-    tryNextImage(image);
-  }
-}, true);
-grid.addEventListener("load", event => {
-  const image = event.target;
-  if (image instanceof HTMLImageElement && image.matches(".deal-img img")) {
-    handleImageLoad(image);
-  }
-}, true);
-document.getElementById("year").textContent = new Date().getFullYear();
+
+/* =========================================================
+   SEARCH / CATEGORY
+   ========================================================= */
+
+searchInput.addEventListener(
+  "input",
+  render
+);
+
+categorySelect.addEventListener(
+  "change",
+  render
+);
+
+
+/* =========================================================
+   IMAGE ERROR HANDLING
+   ========================================================= */
+
+grid.addEventListener(
+  "error",
+  event => {
+    const image = event.target;
+
+    if (
+      image instanceof HTMLImageElement &&
+      image.matches(".deal-img img")
+    ) {
+      tryNextImage(image);
+    }
+  },
+  true
+);
+
+
+grid.addEventListener(
+  "load",
+  event => {
+    const image = event.target;
+
+    if (
+      image instanceof HTMLImageElement &&
+      image.matches(".deal-img img")
+    ) {
+      handleImageLoad(image);
+    }
+  },
+  true
+);
+
+
+/* =========================================================
+   FOOTER YEAR
+   ========================================================= */
+
+document.getElementById("year").textContent =
+  new Date().getFullYear();
+
+
+/* =========================================================
+   START
+   ========================================================= */
 
 loadDeals();
-setInterval(loadDeals, REFRESH_MS);
 
+setInterval(
+  loadDeals,
+  REFRESH_MS
+);
