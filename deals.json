@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-30T07:05:06+00:00",
+  "updated_at": "2026-08-30T08:35:07+00:00",
   "deals": [
+    {
+      "title": "Loot Fast, 200 ml @149.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H62G2T4X?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0H62G2T4X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H62G2T4X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H62G2T4X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Digital Kitchen Timer & Stopwatch at Rs.175.",
       "price": 175,
