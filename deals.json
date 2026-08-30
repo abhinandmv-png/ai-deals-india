@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-30T09:35:08+00:00",
+  "updated_at": "2026-08-30T10:35:09+00:00",
   "deals": [
+    {
+      "title": "Orient Electric 1200mm BLDC Ceiling Fan with Remote at Rs.2599",
+      "price": 2599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H467ZCH6?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0H467ZCH6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H467ZCH6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H467ZCH6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Artis Mixer Grinder, 3 Jar + 1 Blender Jar, 800 W (21000 RPM) @ Rs.3384",
       "price": 3384,
