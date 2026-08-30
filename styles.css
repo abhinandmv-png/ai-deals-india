@@ -5,14 +5,14 @@
     height:190px;
     min-height:190px;
     flex:0 0 190px;
-    padding:8px;
+    padding:18px;
   }
 
   .deal-img img{
     width:auto;
     height:auto;
-    max-width:94%;
-    max-height:178px;
+    max-width:78%;
+    max-height:155px;
     object-fit:contain;
     object-position:center;
   }
