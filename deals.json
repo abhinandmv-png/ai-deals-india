@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-31T02:35:21+00:00",
+  "updated_at": "2026-08-31T03:35:22+00:00",
   "deals": [
+    {
+      "title": "Amazon Basics 2-Slice Pop-Up Toaster with 7 Browning Levels for ₹1,059.",
+      "price": 1059,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GV44K8KS?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GV44K8KS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GV44K8KS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GV44K8KS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "55% Off : Santoor Glycerine Soap (Pack Of 6) @ Rs.250",
       "price": 250,
