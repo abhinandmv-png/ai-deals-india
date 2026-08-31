@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-31T14:38:35+00:00",
+  "updated_at": "2026-08-31T15:08:36+00:00",
   "deals": [
+    {
+      "title": "Haldiram's Rajbhog, 1 Kg @₹162.",
+      "price": 162,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08K4HCD83?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B08K4HCD83.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08K4HCD83.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08K4HCD83.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 330 15.6-inch Laptop Backpack @658.",
       "price": null,
