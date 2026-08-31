@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-31T03:35:22+00:00",
+  "updated_at": "2026-08-31T05:50:24+00:00",
   "deals": [
+    {
+      "title": "ASUS Vivobook 16, Snapdragon X, 16GB RAM, 512GB SSD Laptop @62391",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DX1VZDTG?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0DX1VZDTG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DX1VZDTG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DX1VZDTG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Basics 2-Slice Pop-Up Toaster with 7 Browning Levels for ₹1,059.",
       "price": 1059,
