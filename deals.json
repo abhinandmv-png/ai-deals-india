@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-08-31T17:23:38+00:00",
+  "updated_at": "2026-09-01T01:38:43+00:00",
   "deals": [
+    {
+      "title": "V-Guard BLDC 1200mm Ceiling Fan @3649.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DL59H9C8?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0DL59H9C8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DL59H9C8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DL59H9C8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Whirlpool 9 Kg 5 star Front Washing Machine @ Rs.25,490",
       "price": 25490,
