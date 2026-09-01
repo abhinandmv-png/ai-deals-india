@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-01T06:23:47+00:00",
+  "updated_at": "2026-09-01T07:08:47+00:00",
   "deals": [
+    {
+      "title": "Realme Robot 2 In 1 Vaccum Cleaner @9974.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0999MY3DN?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0999MY3DN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0999MY3DN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0999MY3DN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "64% Off : Parachute Advansed Protein Shampoo 650ml @252",
       "price": null,
