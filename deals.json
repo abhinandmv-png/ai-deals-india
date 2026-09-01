@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-01T14:08:52+00:00",
+  "updated_at": "2026-09-01T16:38:54+00:00",
   "deals": [
+    {
+      "title": "Titan Aura Watch for Women @ Rs.6693.",
+      "price": 6693,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D62VCR5X?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0D62VCR5X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D62VCR5X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D62VCR5X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Park Avenue Premium Soap (Pack Of 4) @104.",
       "price": null,
