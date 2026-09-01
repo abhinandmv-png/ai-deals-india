@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-01T16:38:54+00:00",
+  "updated_at": "2026-09-01T16:53:55+00:00",
   "deals": [
+    {
+      "title": "62% Off : Wild Stone Edge Deodorant Spray 200ml @ Rs.114",
+      "price": 114,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "62% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZP7DVP7?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0DZP7DVP7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZP7DVP7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZP7DVP7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Titan Aura Watch for Women @ Rs.6693.",
       "price": 6693,
