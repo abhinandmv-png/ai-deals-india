@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-01T18:53:57+00:00",
+  "updated_at": "2026-09-02T01:24:01+00:00",
   "deals": [
+    {
+      "title": "63% Off : Dettol Body Wash, 500 ml @ Rs.173",
+      "price": 173,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "63% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRR82SVB?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRR82SVB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dove Beauty Eventone Deodorant, 150ml at 235.",
       "price": null,
