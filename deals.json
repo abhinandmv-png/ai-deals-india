@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-02T03:54:03+00:00",
+  "updated_at": "2026-09-02T04:54:04+00:00",
   "deals": [
+    {
+      "title": "Yardley London Gentleman Luxury Grooming Kit @ Rs.349",
+      "price": 349,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CLS5RJL5?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0CLS5RJL5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CLS5RJL5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CLS5RJL5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bikano Royal Gulab Jamun 1kg @ Rs.185",
       "price": 185,
@@ -731,17 +746,6 @@
       "url": "https://www.amazon.in/dp/B0FB3VFGZD?tag=2244005-21",
       "source": "AI Deals India",
       "image": "https://m.media-amazon.com/images/P/B0FB3VFGZD.01._SL500_.jpg"
-    },
-    {
-      "title": "Blaupunkt BT03 Wireless Bluetooth Speaker with Deep Bass & Mobile Stand at 351/-",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09DG9RCXB?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B09DG9RCXB.01._SL500_.jpg"
     }
   ]
 }
