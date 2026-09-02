@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-02T18:39:13+00:00",
+  "updated_at": "2026-09-02T18:54:14+00:00",
   "deals": [
+    {
+      "title": "AMD Ryzen 7 7700X3D Desktop Processor @38,149.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H71CW1SZ?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0H71CW1SZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H71CW1SZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H71CW1SZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MamyPoko Pants Baby Diapers 210 Count at 2,183.",
       "price": 210,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5HNSDQC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5HNSDQC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07Q2VQ1Z4?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B07Q2VQ1Z4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07Q2VQ1Z4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07Q2VQ1Z4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
