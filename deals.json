@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-02T11:09:10+00:00",
+  "updated_at": "2026-09-02T13:54:10+00:00",
   "deals": [
+    {
+      "title": "Toshiba (32inch) 80 cm HD Ready Smart LED TV for ₹8,115.",
+      "price": 8115,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDL28K43?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0FDL28K43.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDL28K43.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDL28K43.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "59",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FM7C2JBM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FM7C2JBM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Nitra Isolate [1kg, Rich Chocolate] at Rs.1999",
-      "price": 1999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DMVZ3WD2?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
