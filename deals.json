@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-02T18:54:14+00:00",
+  "updated_at": "2026-09-02T19:09:14+00:00",
   "deals": [
+    {
+      "title": "MILTON Insulated Casserole for Roti at 359.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "73% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G6KQQZQ5?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0G6KQQZQ5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G6KQQZQ5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G6KQQZQ5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AMD Ryzen 7 7700X3D Desktop Processor @38,149.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GL2Z9Z6V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GL2Z9Z6V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "insta360 X4 8K @ Rs.39,990",
-      "price": 39990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D5HNSDQC?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0D5HNSDQC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D5HNSDQC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D5HNSDQC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
