@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-02T14:54:11+00:00",
+  "updated_at": "2026-09-02T15:09:11+00:00",
   "deals": [
+    {
+      "title": "Washable Anti Slip Mat @ Rs.99.",
+      "price": 99,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQ42T8VW?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0FQ42T8VW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQ42T8VW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQ42T8VW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Creatine Monohydrate [83 Servings, Unflavoured] at Rs.749",
       "price": 749,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5JKBJTQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5JKBJTQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Logitech G502 X Lightspeed Wireless Gaming Mouse → ₹10,995",
-      "price": 10995,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BCQ83WL9?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BCQ83WL9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
