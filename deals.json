@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-02T11:09:08+00:00",
+  "updated_at": "2026-09-02T11:09:10+00:00",
   "deals": [
+    {
+      "title": "59",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4WM1SJ4?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0H4WM1SJ4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4WM1SJ4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4WM1SJ4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon Pressure Cooker, 5 Ltr @ Rs.1078",
       "price": 1078,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Set of 6 Luggage (3 Trolley Bags & 3 Duffle Bags) @ Rs.5184",
-      "price": 5184,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "15% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVZFNWF3?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DVZFNWF3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVZFNWF3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVZFNWF3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
