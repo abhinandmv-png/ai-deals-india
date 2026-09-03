@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T17:18:39+00:00",
+  "updated_at": "2026-09-03T18:48:40+00:00",
   "deals": [
+    {
+      "title": "Hindware Smart Appliances Calisto 105L at 9499.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09S3L6139?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B09S3L6139.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09S3L6139.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09S3L6139.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% : Oneplus Buds Pro Wireless Earbuds with Smart Noise Cancellation for ₹4,799.",
       "price": 4799,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07H61MZTC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07H61MZTC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DABUR Herb'L Activated Charcoal Toothpaste, 240g @ Rs.99",
-      "price": 99,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BQC6B15R?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
