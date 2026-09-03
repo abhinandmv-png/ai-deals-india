@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T09:39:24+00:00",
+  "updated_at": "2026-09-03T11:39:26+00:00",
   "deals": [
+    {
+      "title": "Philips Mixer Grinder with 4 Stainless Steel Jars and 3 Speed Control for ₹4,499.",
+      "price": 4499,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B9349P89?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0B9349P89.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B9349P89.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B9349P89.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wonderchef Chopper, 900ml at 199.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G2YMCHGW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G2YMCHGW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton 24 Hours Hot & Cold Bottle, 510ml @449.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F1T8N2VR?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0F1T8N2VR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F1T8N2VR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F1T8N2VR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
