@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T16:48:39+00:00",
+  "updated_at": "2026-09-03T17:18:39+00:00",
   "deals": [
+    {
+      "title": "60% : Oneplus Buds Pro Wireless Earbuds with Smart Noise Cancellation for ₹4,799.",
+      "price": 4799,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07XW91NX8?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B07XW91NX8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07XW91NX8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07XW91NX8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Earth Rhythm pH Glass Lip & Cheek Tint @ Rs.211",
       "price": 211,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon Air Fryer 3.3L at 2625",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCBWN172?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FCBWN172.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCBWN172.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCBWN172.01.LZZZZZZZ.jpg"
       ]
     }
   ]
