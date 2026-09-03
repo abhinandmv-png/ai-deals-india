@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T01:24:17+00:00",
+  "updated_at": "2026-09-03T01:54:18+00:00",
   "deals": [
+    {
+      "title": "60% Off : LUX Body Wash, 400 ml @ Rs.142",
+      "price": 142,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRN6VQB4?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0BRN6VQB4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRN6VQB4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRN6VQB4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Teakwood Set Of 3 Trolley Bag @ Rs.3999",
       "price": 3999,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQPGBX6P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQPGBX6P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "L'Oreal Paris Infallible 24H Cushion Foundation at 482",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G537HJ6F?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0G537HJ6F.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G537HJ6F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G537HJ6F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
