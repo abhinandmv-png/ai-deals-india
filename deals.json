@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T06:24:22+00:00",
+  "updated_at": "2026-09-03T07:39:23+00:00",
   "deals": [
+    {
+      "title": "Reebok Men Sweatshirt at 750.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZRN28X2?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0CZRN28X2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZRN28X2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZRN28X2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon Stainless Steel 1000ml Bottle @535",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H62G2T4X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H62G2T4X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Digital Kitchen Timer & Stopwatch at Rs.175.",
-      "price": 175,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTGJC5DQ?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DTGJC5DQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTGJC5DQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTGJC5DQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
