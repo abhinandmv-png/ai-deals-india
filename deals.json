@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T12:54:27+00:00",
+  "updated_at": "2026-09-03T13:09:27+00:00",
   "deals": [
+    {
+      "title": "60% Off : Biotique Travel Kit @125.",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00R97ZMOG?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B00R97ZMOG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00R97ZMOG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00R97ZMOG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot (Pack of 3) @ Rs.199",
       "price": 199,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CG17DT8T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Colgate Visible White Purple Toothpaste (Pack Of 2 x 240g) at 395.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRG7FW8R?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FRG7FW8R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRG7FW8R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRG7FW8R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
