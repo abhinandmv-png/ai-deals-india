@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T11:39:26+00:00",
+  "updated_at": "2026-09-03T12:24:26+00:00",
   "deals": [
+    {
+      "title": "Sony PlayStation5 Gaming Console (Slim) for ₹66,491 (Effectively)",
+      "price": 66491,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GNMKL3VP?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GNMKL3VP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Philips Mixer Grinder with 4 Stainless Steel Jars and 3 Speed Control for ₹4,499.",
       "price": 4499,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H467ZCH6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H467ZCH6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton Artis Mixer Grinder, 3 Jar + 1 Blender Jar, 800 W (21000 RPM) @ Rs.3384",
-      "price": 3384,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G2YMCHGW?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0G2YMCHGW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G2YMCHGW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G2YMCHGW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
