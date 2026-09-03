@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T14:03:38+00:00",
+  "updated_at": "2026-09-03T14:33:37+00:00",
   "deals": [
+    {
+      "title": "Tommy Hilfiger Brown Watch for Men @ Rs.4,027",
+      "price": 4027,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D6B6ZY95?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0D6B6ZY95.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D6B6ZY95.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D6B6ZY95.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% Off : Biotique Travel Kit @125.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXP56PMZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXP56PMZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67% Off : Parachute Body Lotion 600ml @189.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CG17DT8T?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CG17DT8T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
