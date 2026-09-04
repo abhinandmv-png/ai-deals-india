@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T10:54:52+00:00",
+  "updated_at": "2026-09-04T11:24:52+00:00",
   "deals": [
+    {
+      "title": "AGARO Hobby Knife Set, 29 pcs Set HK2129 at 299",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09WQHH3HZ?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B09WQHH3HZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09WQHH3HZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09WQHH3HZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bata Men's Slip-on Slipper at 269.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BYDWD4VL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BYDWD4VL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ASICS Mens Classic CT S Sneakers @2280.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC6G68J9?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FC6G68J9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC6G68J9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC6G68J9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
