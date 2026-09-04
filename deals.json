@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T10:09:51+00:00",
+  "updated_at": "2026-09-04T10:39:52+00:00",
   "deals": [
+    {
+      "title": "Pigeon 1800 watt Induction Cooktop @1,599.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01GFTEV5Y?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B01GFTEV5Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01GFTEV5Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01GFTEV5Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Garnier Brightening Moisturiser, 45g @ Rs.119",
       "price": 119,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GK8M51NM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GK8M51NM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Premium Gold Whey [ 1Kg Rich Chocolate ] at Rs.1799",
-      "price": 1799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B084H8LWC3?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B084H8LWC3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B084H8LWC3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B084H8LWC3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
