@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T08:09:50+00:00",
+  "updated_at": "2026-09-04T10:09:51+00:00",
   "deals": [
+    {
+      "title": "Garnier Brightening Moisturiser, 45g @ Rs.119",
+      "price": 119,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0874W8X4H?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0874W8X4H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0874W8X4H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0874W8X4H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Casio Analog Blue Dial Watch at 1797.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B084H8LWC3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B084H8LWC3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony New Linkbuds Fit WF-LS910N at ₹11,976",
-      "price": 11976,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F21B9R8H?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0F21B9R8H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F21B9R8H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F21B9R8H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
