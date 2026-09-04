@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-03T18:48:40+00:00",
+  "updated_at": "2026-09-04T03:18:47+00:00",
   "deals": [
+    {
+      "title": "Kellogg's Chocolate & Almond Muesli 400g @187",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSWT8PVV?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GSWT8PVV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSWT8PVV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSWT8PVV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hindware Smart Appliances Calisto 105L at 9499.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GV44K8KS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GV44K8KS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "55% Off : Santoor Glycerine Soap (Pack Of 6) @ Rs.250",
-      "price": 250,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "55% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07H61MZTC?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B07H61MZTC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07H61MZTC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07H61MZTC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
