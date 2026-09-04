@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T04:03:47+00:00",
+  "updated_at": "2026-09-04T06:24:49+00:00",
   "deals": [
+    {
+      "title": "Bosch 7 kg 5 Star Fully Automatic Top Load Washing Machine @ Rs.15,098 (Effective)",
+      "price": 15098,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GCNSBMR3?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GCNSBMR3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GCNSBMR3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GCNSBMR3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon 1200W Air Fryer, 3.3L @ Rs.2362",
       "price": 2362,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC6PD74R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC6PD74R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ASUS Vivobook 16, Snapdragon X, 16GB RAM, 512GB SSD Laptop @62391",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DX1VZDTG?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DX1VZDTG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DX1VZDTG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DX1VZDTG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
