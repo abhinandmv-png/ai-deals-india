@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T17:09:56+00:00",
+  "updated_at": "2026-09-04T17:39:57+00:00",
   "deals": [
+    {
+      "title": "Axe Deo 215ml @104.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09264ZY38?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B09264ZY38.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09264ZY38.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09264ZY38.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "realme Buds N1 @ Rs.1499.",
       "price": 1499,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DL59H9C8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DL59H9C8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Whirlpool 9 Kg 5 star Front Washing Machine @ Rs.25,490",
-      "price": 25490,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1X7JHZP?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1X7JHZP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
