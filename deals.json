@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T15:09:55+00:00",
+  "updated_at": "2026-09-04T15:39:55+00:00",
   "deals": [
+    {
+      "title": "Havells 1000W Mixer Grinder, 3 Jars @4109.",
+      "price": 990,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZG82CJ2?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GZG82CJ2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZG82CJ2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZG82CJ2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Whey Protein with Fibre (Rich Chocolate, 1kg) at Rs.1449",
       "price": 1449,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G52KJN5C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G52KJN5C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haldiram's Rajbhog, 1 Kg @₹162.",
-      "price": 162,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08K4HCD83?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B08K4HCD83.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08K4HCD83.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08K4HCD83.01.LZZZZZZZ.jpg"
       ]
     }
   ]
