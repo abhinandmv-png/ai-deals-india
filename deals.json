@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T06:24:49+00:00",
+  "updated_at": "2026-09-04T08:09:50+00:00",
   "deals": [
+    {
+      "title": "Casio Analog Blue Dial Watch at 1797.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FF4T9KFB?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0FF4T9KFB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FF4T9KFB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FF4T9KFB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bosch 7 kg 5 Star Fully Automatic Top Load Washing Machine @ Rs.15,098 (Effective)",
       "price": 15098,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F21B9R8H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F21B9R8H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Comet Set Of 2 Luggage at 2715.",
-      "price": 84,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC6PD74R?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FC6PD74R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC6PD74R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC6PD74R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
