@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T15:39:55+00:00",
+  "updated_at": "2026-09-04T17:09:56+00:00",
   "deals": [
+    {
+      "title": "realme Buds N1 @ Rs.1499.",
+      "price": 1499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DF2Z6WKD?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0DF2Z6WKD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DF2Z6WKD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DF2Z6WKD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells 1000W Mixer Grinder, 3 Jars @4109.",
       "price": 990,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H1X7JHZP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Rare Rabbit Regular fit Checked Shirt at 1480/-",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G52KJN5C?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0G52KJN5C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G52KJN5C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G52KJN5C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
