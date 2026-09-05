@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-05T15:25:17+00:00",
+  "updated_at": "2026-09-05T15:55:13+00:00",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B1M86YD9?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0B1M86YD9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B1M86YD9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B1M86YD9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply Coupon on Borosil Glass Lunchbox Nostalgia",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B006LXBS24.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B006LXBS24.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "62% Off : Wild Stone Edge Deodorant Spray 200ml @ Rs.114",
-      "price": 114,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "62% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZP7DVP7?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DZP7DVP7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZP7DVP7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZP7DVP7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
