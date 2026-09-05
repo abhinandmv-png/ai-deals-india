@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-05T12:55:11+00:00",
+  "updated_at": "2026-09-05T13:25:11+00:00",
   "deals": [
+    {
+      "title": "Prestige Iris Nutri-Mix 350W Mixer Grinder with 2 Jars for ₹1,631.",
+      "price": 1631,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D45B9TB9?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0D45B9TB9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D45B9TB9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D45B9TB9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AGARO Regency 26cm Triply Stainless Steel Fry Pan with Lid, 2.3L for ₹1,454.",
       "price": 1454,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B6ZXHMX7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B6ZXHMX7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Realme Robot 2 In 1 Vaccum Cleaner @9974.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0999MY3DN?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0999MY3DN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0999MY3DN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0999MY3DN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
