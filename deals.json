@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-05T13:40:11+00:00",
+  "updated_at": "2026-09-05T15:25:17+00:00",
   "deals": [
+    {
+      "title": "Apply Coupon on Borosil Glass Lunchbox Nostalgia",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDQ7LTVV?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0FDQ7LTVV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDQ7LTVV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDQ7LTVV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric Instaflo Neo Geyser 3 Litre @ 1806",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZP7DVP7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZP7DVP7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Titan Aura Watch for Women @ Rs.6693.",
-      "price": 6693,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D62VCR5X?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0D62VCR5X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D62VCR5X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D62VCR5X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
