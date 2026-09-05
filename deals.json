@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-04T18:54:58+00:00",
+  "updated_at": "2026-09-05T02:25:03+00:00",
   "deals": [
+    {
+      "title": "Fila Womens Kyraa W Sneaker @ Rs.909",
+      "price": 909,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09Q4LRQQ8?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B09Q4LRQQ8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09Q4LRQQ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09Q4LRQQ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Axe Deo 215ml @104.",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07M7ZVC89.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07M7ZVC89.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "V-Guard BLDC 1200mm Ceiling Fan @3649.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DL59H9C8?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DL59H9C8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DL59H9C8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DL59H9C8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
