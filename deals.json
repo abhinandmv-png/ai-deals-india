@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-05T15:55:13+00:00",
+  "updated_at": "2026-09-05T17:25:15+00:00",
   "deals": [
+    {
+      "title": "257",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "28% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FXWWSPX5?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0FXWWSPX5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FXWWSPX5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FXWWSPX5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Deal",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08YFCDP3C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08YFCDP3C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Revlon Touch & Glow Moisturising Compact at 168.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "3% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B006LXBS24?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B006LXBS24.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B006LXBS24.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B006LXBS24.01.LZZZZZZZ.jpg"
       ]
     }
   ]
