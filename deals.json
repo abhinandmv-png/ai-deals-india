@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-06T13:25:32+00:00",
+  "updated_at": "2026-09-06T13:40:31+00:00",
   "deals": [
+    {
+      "title": "Upto 51% Off on Milton Digital Air Fryers 4.2L (1450W) at Rs.3199",
+      "price": 4.2,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "51% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DNQYFJMQ?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0DNQYFJMQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DNQYFJMQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DNQYFJMQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 67% Off on Portronics Wireless Mouse Upgrade Your Desk Setup",
       "price": 599,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQ42T8VW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQ42T8VW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Creatine Monohydrate [83 Servings, Unflavoured] at Rs.749",
-      "price": 749,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPM1V9C5?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GPM1V9C5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPM1V9C5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPM1V9C5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
