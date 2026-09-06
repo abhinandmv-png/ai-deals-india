@@ -43,3 +43,14 @@
 
 /* Remove the decorative progress line from the static featured section. */
 .showcase-progress{display:none!important}
+
+/* Deal wall composition: use the viewport instead of leaving a dead right half. */
+.horizontal-deals{height:120vh;min-height:760px}
+.horizontal-pin{height:100vh;min-height:760px}
+.horizontal-head{width:31vw;min-width:360px;padding-left:max(28px,calc((100vw - 1180px)/2));padding-right:28px}
+.horizontal-track{flex:1;min-width:0;gap:24px;padding-right:6vw}
+.horizontal-card{flex-basis:min(360px,30vw);height:min(500px,68vh)}
+@media(max-width:1100px) and (min-width:851px){
+  .horizontal-head{width:34vw;min-width:320px;padding-left:32px}
+  .horizontal-card{flex-basis:330px}
+}
