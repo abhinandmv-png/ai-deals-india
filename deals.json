@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-06T13:10:31+00:00",
+  "updated_at": "2026-09-06T13:25:32+00:00",
   "deals": [
+    {
+      "title": "Upto 67% Off on Portronics Wireless Mouse Upgrade Your Desk Setup",
+      "price": 599,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYYHQX1K?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GYYHQX1K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYYHQX1K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYYHQX1K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 52% Off on Baidyanath Trusoul Honey & Chyawanprash",
       "price": 199,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPM1V9C5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPM1V9C5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Toshiba (32inch) 80 cm HD Ready Smart LED TV for ₹8,115.",
-      "price": 8115,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDL28K43?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FDL28K43.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDL28K43.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDL28K43.01.LZZZZZZZ.jpg"
       ]
     }
   ]
