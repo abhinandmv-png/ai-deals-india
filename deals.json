@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-06T10:55:28+00:00",
+  "updated_at": "2026-09-06T13:10:31+00:00",
   "deals": [
+    {
+      "title": "Upto 52% Off on Baidyanath Trusoul Honey & Chyawanprash",
+      "price": 199,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "52% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GF2FPD7T?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GF2FPD7T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GF2FPD7T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GF2FPD7T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon by Stovekraft 3 Litre Special Stainless Steel Pressure Cooker @1099",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDL28K43.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDL28K43.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "59",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4WM1SJ4?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0H4WM1SJ4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4WM1SJ4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4WM1SJ4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
