@@ -32,3 +32,11 @@
 /* Keep brand identity calm while cinematic motion happens around it. */
 .topbar,.brand,.brandmark,.mini-brand,.mini-brand img{animation:none!important;transition:none!important}
 .mini-brand{transform:none!important;opacity:1!important}
+
+/* Static featured-deal section: no scroll/pin choreography. */
+.scroll-showcase{height:100vh;min-height:680px;overflow:hidden}
+.showcase-pin{height:100vh;min-height:680px}
+.showcase-stage,.product-frame,.showcase-copy,.showcase-label,.stage-glow,.product-shadow{transform:none!important}
+.showcase-label{opacity:1!important}
+.orbit-a,.orbit-b{animation:none!important;transform:rotate(-28deg)!important}
+.showcase-progress span{width:100%!important}
