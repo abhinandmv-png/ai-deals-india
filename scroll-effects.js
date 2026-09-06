@@ -2,6 +2,30 @@
   const reduce=window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   if(!window.gsap||!window.ScrollTrigger||reduce)return;
   gsap.registerPlugin(ScrollTrigger);
+  const hero=document.querySelector(".hero");
+  if(hero){
+    const heroCopy=hero.querySelector(".hero-copy"), heroVisual=hero.querySelector(".hero-visual");
+    const heroTitle=hero.querySelector("h1"), heroLead=hero.querySelector(".hero-lead"), heroActions=hero.querySelector(".hero-actions"), trust=hero.querySelector(".trustline");
+    const heroTl=gsap.timeline({scrollTrigger:{trigger:hero,start:"top top",end:"bottom top",scrub:1.15}});
+    heroTl.to(heroTitle,{y:-95,scale:.9,opacity:.12,duration:1},0)
+      .to(heroLead,{y:-55,opacity:0,duration:.72},.05)
+      .to(heroActions,{y:-35,opacity:0,duration:.58},.1)
+      .to(trust,{y:-20,opacity:0,duration:.45},.15)
+      .to(heroVisual,{y:105,scale:.88,rotateY:-8,opacity:.15,duration:1},0)
+      .to(heroCopy,{x:-28,duration:1},0);
+    gsap.fromTo(heroTitle,{y:35,opacity:0,clipPath:"inset(0 0 100% 0)"},{y:0,opacity:1,clipPath:"inset(0 0 0% 0)",duration:1.05,ease:"power4.out",delay:.08});
+    gsap.fromTo(heroLead,{y:25,opacity:0},{y:0,opacity:1,duration:.8,ease:"power3.out",delay:.28});
+    gsap.fromTo(heroActions,{y:20,opacity:0},{y:0,opacity:1,duration:.7,ease:"power3.out",delay:.4});
+    gsap.fromTo(trust,{y:15,opacity:0},{y:0,opacity:1,duration:.65,ease:"power3.out",delay:.52});
+    gsap.fromTo(heroVisual,{x:50,y:25,scale:.94,opacity:0},{x:0,y:0,scale:1,opacity:1,duration:1.1,ease:"power3.out",delay:.2});
+    gsap.fromTo(".hero-card",{rotateX:7,rotateY:-5},{rotateX:0,rotateY:0,duration:1.2,ease:"power3.out",delay:.3});
+    gsap.to(".glass-orb.orb-one",{y:-35,x:18,rotation:18,duration:3.8,repeat:-1,yoyo:true,ease:"sine.inOut"});
+    gsap.to(".glass-orb.orb-two",{y:28,x:-15,rotation:-15,duration:4.5,repeat:-1,yoyo:true,ease:"sine.inOut"});
+    gsap.to(".chip-top",{y:-16,x:8,rotation:-3,duration:2.8,repeat:-1,yoyo:true,ease:"sine.inOut"});
+    gsap.to(".chip-bottom",{y:14,x:-8,rotation:3,duration:3.4,repeat:-1,yoyo:true,ease:"sine.inOut"});
+    gsap.to(".signal-bar span",{scaleX:.82,transformOrigin:"left center",duration:1.5,repeat:-1,yoyo:true,ease:"sine.inOut"});
+  }
+
   const showcase=document.querySelector(".scroll-showcase");
   if(showcase){
     const img=document.getElementById("showcaseImage"),title=document.getElementById("showcaseCaption"),price=document.getElementById("showcasePrice"),badge=document.getElementById("showcaseBadge"),featured=(window.__deals||[])[0];
