@@ -40,3 +40,6 @@
 .showcase-label{opacity:1!important}
 .orbit-a,.orbit-b{animation:none!important;transform:rotate(-28deg)!important}
 .showcase-progress span{width:100%!important}
+
+/* Remove the decorative progress line from the static featured section. */
+.showcase-progress{display:none!important}
