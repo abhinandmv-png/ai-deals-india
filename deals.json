@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-06T15:55:33+00:00",
+  "updated_at": "2026-09-06T16:25:33+00:00",
   "deals": [
+    {
+      "title": "Butterfly Triply Sauce Pan with SS Lid, 1.8 Litre @955.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "41% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJ42RTST?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0CJ42RTST.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJ42RTST.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJ42RTST.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric 1200mm Decorative Ceiling Fan with Dual-Toned Blades for ₹2,722.",
       "price": 2722,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H71CW1SZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H71CW1SZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "MamyPoko Pants Baby Diapers 210 Count at 2,183.",
-      "price": 210,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07Y8RTS47?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B07Y8RTS47.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07Y8RTS47.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07Y8RTS47.01.LZZZZZZZ.jpg"
       ]
     }
   ]
