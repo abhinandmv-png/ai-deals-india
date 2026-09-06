@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-06T02:25:21+00:00",
+  "updated_at": "2026-09-06T04:10:23+00:00",
   "deals": [
+    {
+      "title": "Butterfly Tez Triply Fry/Saute Pan | 24 cm | 1.5 Litre @ 820",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "46% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJ3PHPGP?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0CJ3PHPGP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJ3PHPGP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJ3PHPGP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat Airpro Set of 2 Trolley Bags @2899",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "63% Off : Dettol Body Wash, 500 ml @ Rs.173",
-      "price": 173,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "63% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRR82SVB?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRR82SVB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
