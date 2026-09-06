@@ -11,6 +11,35 @@
     tl.fromTo(frame,{scale:.68,rotateY:-16,y:110,opacity:.35},{scale:1.02,rotateY:0,y:0,opacity:1,duration:.42,ease:"power2.out"}).to(frame,{scale:.86,rotateY:12,rotateX:-5,y:-40,duration:.32,ease:"power2.inOut"}).to(frame,{scale:1.08,rotateY:-4,rotateX:2,y:10,duration:.26,ease:"power2.inOut"}).to(stage,{x:-18,duration:.3},0).to(".showcase-copy",{y:-30,opacity:.75,duration:.35},0).fromTo(glow,{scale:.5,opacity:.1},{scale:1.25,opacity:.7,duration:.55},"<").fromTo(a,{x:70,opacity:0},{x:0,opacity:1,duration:.2},"<.12").fromTo(b,{x:-70,opacity:0},{x:0,opacity:1,duration:.2},"<.08").to(progress,{width:"100%",duration:1},"<");
     gsap.to(".orbit-a",{rotation:360,duration:18,repeat:-1,ease:"none"});gsap.to(".orbit-b",{rotation:-360,duration:25,repeat:-1,ease:"none"});
   }
+  const horizontal=document.querySelector(".horizontal-deals");
+  const track=document.getElementById("horizontalTrack");
+  function buildHorizontal(){
+    if(!track||!horizontal)return;
+    track.innerHTML="";
+    const deals=(window.__deals||[]).slice(0,8);
+    if(!deals.length)return;
+    deals.forEach((d,i)=>{
+      const card=document.createElement("article");
+      card.className="horizontal-card";
+      const price=d.price!=null?new Intl.NumberFormat("en-IN",{style:"currency",currency:"INR",maximumFractionDigits:0}).format(Number(d.price)):"Check price";
+      const old=d.originalPrice!=null?new Intl.NumberFormat("en-IN",{style:"currency",currency:"INR",maximumFractionDigits:0}).format(Number(d.originalPrice)):"";
+      card.innerHTML='<span class="hc-number">'+String(i+1).padStart(2,"0")+'</span><div class="hc-image"><img loading="lazy" src="'+(d.image||"logo.png")+'" alt=""></div><div class="hc-info"><div><div class="hc-kicker">AI SELECTED DEAL</div><div class="hc-title"></div></div><div class="hc-bottom"><div><span class="hc-price">'+price+'</span>'+(old?'<span class="hc-old">'+old+"</span>":"")+'</div><span class="hc-badge">'+(d.badge||"LIVE")+"</span></div></div>";
+      card.querySelector(".hc-title").textContent=d.title||"Featured deal";
+      track.appendChild(card);
+    });
+    if(window.innerWidth>850){
+      const distance=()=>Math.max(0,track.scrollWidth-window.innerWidth+40);
+      gsap.set(track,{x:0});
+      gsap.to(track,{x:()=>-distance(),ease:"none",scrollTrigger:{trigger:horizontal,start:"top top",end:()=>"+="+(distance()+window.innerWidth),pin:".horizontal-pin",scrub:1,invalidateOnRefresh:true,anticipatePin:1}});
+      gsap.fromTo(".horizontal-card",{rotateY:12,scale:.9,opacity:.7},{rotateY:0,scale:1,opacity:1,stagger:.12,scrollTrigger:{trigger:horizontal,start:"top top",end:()=>"+="+(distance()+window.innerWidth),scrub:1}});
+      gsap.to(".h-progress span",{width:"100%",ease:"none",scrollTrigger:{trigger:horizontal,start:"top top",end:()=>"+="+(distance()+window.innerWidth),scrub:1}});
+    }else{
+      gsap.to(track,{x:()=>-(track.scrollWidth-window.innerWidth+44),ease:"none",scrollTrigger:{trigger:horizontal,start:"top top",end:"+=1400",pin:".horizontal-pin",scrub:1,invalidateOnRefresh:true}});
+      gsap.to(".h-progress span",{width:"100%",ease:"none",scrollTrigger:{trigger:horizontal,start:"top top",end:"+=1400",scrub:1}});
+    }
+  }
+  buildHorizontal();
+
   let animated=new WeakSet();
   function revealCards(){
     document.querySelectorAll(".deal-card").forEach((card,i)=>{
