@@ -54,6 +54,11 @@
     }
   }
   buildHorizontal();
+  window.addEventListener("deals:updated", () => {
+    if (window.ScrollTrigger) ScrollTrigger.getAll().filter(t => t.trigger === horizontal).forEach(t => t.kill());
+    buildHorizontal();
+    if (window.ScrollTrigger) ScrollTrigger.refresh();
+  });
 
   let animated=new WeakSet();
   function revealCards(){
