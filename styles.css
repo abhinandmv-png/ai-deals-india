@@ -276,3 +276,18 @@
     overflow: hidden;
   }
 }
+
+/* Fast vertical browsing: latest deals arrive immediately after the featured moment. */
+.scroll-showcase{height:88vh;min-height:600px}
+.showcase-pin{height:88vh;min-height:600px}
+.deals-section{padding-top:58px}
+.section-head{margin-bottom:24px}
+.deal-posted{display:flex;align-items:center;gap:7px;color:#718096;font-size:10px;margin:0 0 14px}
+.posted-dot{width:6px;height:6px;border-radius:50%;background:#34d399;box-shadow:0 0 10px rgba(52,211,153,.55)}
+@media(max-width:850px){
+  .scroll-showcase{height:auto;min-height:0;padding-bottom:35px}
+  .showcase-pin{height:auto;min-height:0}
+  .showcase-copy{padding-top:30px}
+  .showcase-stage{min-height:380px}
+  .deals-section{padding-top:38px}
+}
