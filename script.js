@@ -14,6 +14,21 @@ const lastUpdated = document.getElementById("lastUpdated");
 const heroDealTitle = document.getElementById("heroDealTitle");
 
 let deals = [];
+let feedUpdatedAt = null;
+
+function postedLabel(deal) {
+  const raw = deal.posted_at || deal.added_at || feedUpdatedAt;
+  if (!raw) return "Posted recently";
+  const date = new Date(raw);
+  if (Number.isNaN(date.getTime())) return "Posted recently";
+  const diff = Math.max(0, Date.now() - date.getTime());
+  const mins = Math.floor(diff / 60000);
+  if (mins < 1) return "Posted just now";
+  if (mins < 60) return `Posted ${mins} min${mins === 1 ? "" : "s"} ago`;
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return `Posted ${hours} hr${hours === 1 ? "" : "s"} ago`;
+  return `Posted ${date.toLocaleDateString("en-IN",{day:"numeric",month:"short"})} at ${date.toLocaleTimeString("en-IN",{hour:"2-digit",minute:"2-digit"})}`;
+}
 
 function money(v) {
   if (v === null || v === undefined || v === "") return "";
