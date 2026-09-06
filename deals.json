@@ -1,6 +1,21 @@
 {
-  "updated_at": "2026-09-06T04:10:23+00:00",
+  "updated_at": "2026-09-06T04:40:23+00:00",
   "deals": [
+    {
+      "title": "USHA Bloom Series 4-Blade BLDC Ceiling Fan at 4719.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "45% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FXMHNHCQ?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0FXMHNHCQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FXMHNHCQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FXMHNHCQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Butterfly Tez Triply Fry/Saute Pan | 24 cm | 1.5 Litre @ 820",
       "price": null,
@@ -734,21 +749,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CLS5RJL5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CLS5RJL5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bikano Royal Gulab Jamun 1kg @ Rs.185",
-      "price": 185,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CFFNH13X?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
