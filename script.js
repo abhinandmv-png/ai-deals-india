@@ -81,9 +81,13 @@ function imageUrlsFor(deal) {
   const match = String(deal.url || "").match(/(?:dp|gp\/product\/|ASIN[=\/])([A-Z0-9]{10})/i);
   if (match) {
     const asin = match[1].toUpperCase();
-    urls.push("https://m.media-amazon.com/images/P/" + asin + ".01._SL500_.jpg");
-    urls.push("https://images-na.ssl-images-amazon.com/images/P/" + asin + ".01._SL500_.jpg");
-    urls.push("https://m.media-amazon.com/images/P/" + asin + ".01.LZZZZZZZ.jpg");
+    // Amazon sometimes serves a blank/placeholder as image #01.
+    // Try several gallery images before giving up.
+    for (const n of ["01", "02", "03", "04"]) {
+      urls.push("https://m.media-amazon.com/images/P/" + asin + "." + n + "._SL500_.jpg");
+      urls.push("https://images-na.ssl-images-amazon.com/images/P/" + asin + "." + n + "._SL500_.jpg");
+      urls.push("https://m.media-amazon.com/images/P/" + asin + "." + n + ".LZZZZZZZ.jpg");
+    }
   }
   const unique = [...new Set(urls)];
   const proxied = unique.filter(url => /^https?:\/\//i.test(url)).map(url => IMAGE_PROXY + encodeURIComponent(url));
