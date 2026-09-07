@@ -445,3 +445,212 @@ body:before{opacity:.35}
   .deal-actions a{font-size:11px;padding:9px 7px}
   .price strong{font-size:21px}
 }
+
+
+/* =========================================================
+   DESKTOP HORIZONTAL DEAL FEED
+   Matches the compact reference card layout.
+   Mobile is intentionally left untouched.
+   ========================================================= */
+@media (min-width: 851px) {
+  .deals-section {
+    max-width: 1400px;
+    padding-left: 28px;
+    padding-right: 28px;
+  }
+
+  .deal-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .deal-card {
+    display: grid;
+    grid-template-columns: 150px minmax(0, 1fr);
+    min-height: 150px;
+    border-radius: 20px;
+    overflow: hidden;
+    background: linear-gradient(110deg, rgba(11,18,31,.94), rgba(10,17,29,.78));
+    border-color: rgba(103,232,249,.12);
+  }
+
+  .deal-img {
+    width: 150px;
+    height: 150px;
+    min-height: 150px;
+    flex: 0 0 150px;
+    background: #f5f6f8;
+  }
+
+  .deal-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .deal-body {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(300px, 390px);
+    align-items: center;
+    gap: 22px;
+    min-width: 0;
+    padding: 18px 20px;
+  }
+
+  .deal-content {
+    min-width: 0;
+  }
+
+  .deal-tags {
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 7px;
+  }
+
+  .retailer-tag {
+    color: #eaf4ff;
+    background: rgba(255,255,255,.07);
+    border-color: rgba(255,255,255,.12);
+    font-weight: 850;
+  }
+
+  .category {
+    padding: 5px 10px;
+    border: 1px solid rgba(103,232,249,.12);
+    border-radius: 999px;
+    color: #aebdce;
+    background: rgba(255,255,255,.025);
+    font-size: 11px;
+  }
+
+  .deal-body h3 {
+    min-height: 0;
+    max-width: 680px;
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.28;
+    letter-spacing: -.018em;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .mobile-price,
+  .deal-content > .deal-note,
+  .deal-content > .deal-actions {
+    display: none;
+  }
+
+  .deal-desktop-side {
+    display: grid;
+    grid-template-columns: minmax(120px, 1fr) auto;
+    grid-template-rows: auto auto;
+    align-items: center;
+    column-gap: 20px;
+    row-gap: 12px;
+    min-width: 0;
+  }
+
+  .desktop-discount {
+    justify-self: start;
+    padding: 9px 17px;
+    border-radius: 999px;
+    background: linear-gradient(180deg, #ff4b46, #f33835);
+    color: #fff;
+    font-size: 18px;
+    line-height: 1;
+    font-weight: 900;
+    letter-spacing: -.02em;
+    box-shadow: 0 8px 24px rgba(255,61,57,.18);
+  }
+
+  .desktop-posted {
+    justify-self: end;
+    color: #c6d0dd;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+  .desktop-posted span {
+    margin-right: 6px;
+  }
+
+  .desktop-price {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    min-width: 0;
+  }
+
+  .desktop-price strong {
+    color: #f8fafc;
+    font-size: 29px;
+    line-height: 1;
+    letter-spacing: -.04em;
+  }
+
+  .desktop-price .old {
+    color: #718096;
+    font-size: 14px;
+  }
+
+  .desktop-buy {
+    justify-self: end;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 128px;
+    padding: 12px 20px;
+    border-radius: 13px;
+    background: linear-gradient(180deg, #1594ff, #0874db);
+    color: #fff;
+    font-size: 15px;
+    font-weight: 850;
+    box-shadow: 0 10px 28px rgba(0,112,255,.18);
+    transition: transform .2s ease, filter .2s ease;
+  }
+
+  .desktop-buy:hover {
+    transform: translateY(-2px);
+    filter: brightness(1.08);
+  }
+}
+
+@media (min-width: 851px) and (max-width: 1150px) {
+  .deal-card {
+    grid-template-columns: 125px minmax(0, 1fr);
+  }
+
+  .deal-img {
+    width: 125px;
+    height: 125px;
+    min-height: 125px;
+    flex-basis: 125px;
+  }
+
+  .deal-body {
+    grid-template-columns: minmax(0, 1fr) minmax(270px, 330px);
+    gap: 16px;
+    padding: 15px 17px;
+  }
+
+  .deal-body h3 {
+    font-size: 16px;
+  }
+
+  .desktop-discount {
+    font-size: 16px;
+    padding: 8px 13px;
+  }
+
+  .desktop-price strong {
+    font-size: 25px;
+  }
+
+  .desktop-buy {
+    min-width: 110px;
+    padding: 10px 15px;
+  }
+}
