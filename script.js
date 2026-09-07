@@ -18,7 +18,11 @@ const heroProductPrice = document.getElementById("heroProductPrice");
 const showcaseImage = document.getElementById("showcaseImage");
 
 let deals = [];
-let feedUpdatedAt = null;\n\n// Support the SEO WebSite SearchAction query parameter.\nconst initialQuery = new URLSearchParams(window.location.search).get("q");\nif (searchInput && initialQuery) searchInput.value = initialQuery;
+let feedUpdatedAt = null;
+
+// Support the SEO WebSite SearchAction query parameter.
+const initialQuery = new URLSearchParams(window.location.search).get("q");
+if (searchInput && initialQuery) searchInput.value = initialQuery;
 
 function postedLabel(deal) {
   const raw = deal.posted_at || deal.added_at || deal.published_at || deal.timestamp;
