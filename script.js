@@ -21,19 +21,20 @@ let deals = [];
 let feedUpdatedAt = null;
 
 function postedLabel(deal) {
-  const raw = deal.posted_at || deal.added_at;
-  if (!raw) return "Posted recently";
+  const raw = deal.posted_at || deal.added_at || deal.published_at || deal.timestamp;
+  if (!raw) return "Published time unavailable";
   const date = new Date(raw);
-  if (Number.isNaN(date.getTime())) return "Posted recently";
+  if (Number.isNaN(date.getTime())) return "Published time unavailable";
   const diff = Math.max(0, Date.now() - date.getTime());
   const mins = Math.floor(diff / 60000);
-  if (mins < 1) return "Posted just now";
-  if (mins < 60) return `Posted ${mins} min${mins === 1 ? "" : "s"} ago`;
+  if (mins < 1) return "Just now";
+  if (mins < 60) return mins + " min" + (mins === 1 ? "" : "s") + " ago";
   const hours = Math.floor(mins / 60);
-  if (hours < 24) return `Posted ${hours} hr${hours === 1 ? "" : "s"} ago`;
-  return `Posted ${date.toLocaleDateString("en-IN",{day:"numeric",month:"short"})} at ${date.toLocaleTimeString("en-IN",{hour:"2-digit",minute:"2-digit"})}`;
+  if (hours < 24) return hours + " hr" + (hours === 1 ? "" : "s") + " ago";
+  const days = Math.floor(hours / 24);
+  if (days < 7) return days + " day" + (days === 1 ? "" : "s") + " ago";
+  return date.toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"});
 }
-
 function money(v) {
   if (v === null || v === undefined || v === "") return "";
 
@@ -75,27 +76,19 @@ function iconFor(category = "") {
    ========================================================= */
 
 function imageUrlsFor(deal) {
-  const fallbacks = Array.isArray(deal.image_fallbacks)
-    ? deal.image_fallbacks
-    : [];
-
-  // Original URLs from deals.json.
-  const directUrls = [deal.image, ...fallbacks]
+  const urls = (Array.isArray(deal.image_fallbacks) ? [deal.image, ...deal.image_fallbacks] : [deal.image])
     .filter(url => typeof url === "string" && url.trim());
-
-  // Proxy versions are only used after the direct URLs fail.
-  const proxiedUrls = directUrls
-    .filter(url => /^https?:\/\//i.test(url))
-    .map(url => IMAGE_PROXY + encodeURIComponent(url));
-
-  return [...directUrls, ...proxiedUrls];
+  const match = String(deal.url || "").match(/(?:dp|gp\/product\/|ASIN[=\/])([A-Z0-9]{10})/i);
+  if (match) {
+    const asin = match[1].toUpperCase();
+    urls.push("https://m.media-amazon.com/images/P/" + asin + ".01._SL500_.jpg");
+    urls.push("https://images-na.ssl-images-amazon.com/images/P/" + asin + ".01._SL500_.jpg");
+    urls.push("https://m.media-amazon.com/images/P/" + asin + ".01.LZZZZZZZ.jpg");
+  }
+  const unique = [...new Set(urls)];
+  const proxied = unique.filter(url => /^https?:\/\//i.test(url)).map(url => IMAGE_PROXY + encodeURIComponent(url));
+  return [...unique, ...proxied];
 }
-
-
-/* =========================================================
-   DEAL IMAGE
-   ========================================================= */
-
 function dealImage(deal) {
   const urls = imageUrlsFor(deal);
   const fallbackIcon = iconFor(deal.category);
@@ -211,6 +204,26 @@ function handleImageLoad(image) {
    RENDER DEALS
    ========================================================= */
 
+function priceFromTitle(title) {
+  const text = String(title || '');
+  const explicit = text.match(/(?:₹|rs\.?|inr)\s*([0-9][0-9,]*(?:\.[0-9]+)?)/i);
+  if (explicit) return Number(explicit[1].replace(/,/g,""));
+  const at = text.match(/@\s*(?:₹|rs\.?|inr)?\s*([0-9][0-9,]*(?:\.[0-9]+)?)(?!\s*(?:l|kg|g|w|ml|cm|mm)\b)/i);
+  if (at) return Number(at[1].replace(/,/g,""));
+  const contextual = text.match(/(?:\bat|\bfor)\s*(?:₹|rs\.?|inr)?\s*([0-9][0-9,]*(?:\.[0-9]+)?)(?!\s*(?:l|kg|g|w|ml|cm|mm)\b)/i);
+  return contextual ? Number(contextual[1].replace(/,/g,"")) : null;
+}
+
+function normalizedDeal(deal) {
+  const out = {...deal};
+  const titlePrice = priceFromTitle(out.title);
+  const existing = Number(out.price);
+  if (titlePrice !== null && (!Number.isFinite(existing) || existing <= 10 || Math.abs(existing-titlePrice) > Math.max(50,titlePrice*0.85))) out.price = titlePrice;
+  const text = String(out.title || "") + " " + String(out.badge || "");
+  const dm = text.match(/(\d{1,3})\s*%\s*(?:off|discount)/i) || text.match(/upto\s*(\d{1,3})\s*%/i);
+  if (dm && !Number.isFinite(Number(out.discount))) out.discount = Number(dm[1]);
+  return out;
+}
 function discountPct(deal) {
   if (deal.discount !== null && deal.discount !== undefined && deal.discount !== "") {
     const n = Number(deal.discount);
@@ -239,7 +252,7 @@ function render() {
   const q = searchInput.value.trim().toLowerCase();
   const cat = categorySelect.value;
 
-  const filtered = deals.filter(d => {
+  const filtered = deals.map(normalizedDeal).filter(d => {
     const hay = `${d.title} ${d.category} ${d.note}`.toLowerCase();
     return (!q || hay.includes(q)) && (cat === "all" || d.category === cat);
   });
@@ -252,6 +265,7 @@ function render() {
     const posted = postedLabel(d);
     const price = money(d.price);
     const oldPrice = d.original_price ? money(d.original_price) : "";
+    const displayPrice = price || "Check price";
 
     return `
       <article class="deal-card">
@@ -267,7 +281,7 @@ function render() {
             <h3>${escapeHtml(d.title)}</h3>
 
             <div class="price mobile-price">
-              <strong>${price}</strong>
+              <strong>${escapeHtml(displayPrice)}</strong>
               ${oldPrice ? `<span class="old">${oldPrice}</span>` : ""}
             </div>
 
@@ -285,7 +299,7 @@ function render() {
             <span class="desktop-discount">${escapeHtml(discountText)}</span>
             <span class="desktop-posted"><span aria-hidden="true">📣</span> ${escapeHtml(posted.replace(/^Posted\s*/i, ""))}</span>
             <div class="desktop-price">
-              <strong>${price || "—"}</strong>
+              <strong>${escapeHtml(displayPrice)}</strong>
               ${oldPrice ? `<span class="old">${oldPrice}</span>` : ""}
             </div>
             <a class="desktop-buy" href="${escapeHtml(d.url)}" target="_blank" rel="sponsored noopener">🛒 Buy</a>
