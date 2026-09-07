@@ -675,3 +675,23 @@ body:before{opacity:.35}
   .desktop-price .old{font-size:10px!important}
   .desktop-buy{justify-self:end!important;min-width:70px!important;padding:8px 10px!important;border-radius:9px!important;font-size:11px!important}
 }
+
+/* ===== FINAL DEAL FEED POLISH ===== */
+.deal-img .image-placeholder{position:absolute;inset:0;display:grid;place-items:center;opacity:.8}
+.deal-img:not(.image-unavailable) .image-placeholder{opacity:0;pointer-events:none}
+.desktop-posted{display:inline-flex;align-items:center;gap:4px}
+.desktop-discount{min-width:92px;text-align:center}
+.desktop-price strong,.desktop-price .old{white-space:nowrap}
+@media (min-width:851px){
+  .deal-card{min-height:150px}
+  .deal-img{height:150px!important;min-height:150px!important}
+}
+@media (max-width:560px){
+  .deal-card{grid-template-columns:104px minmax(0,1fr)!important;min-height:132px!important}
+  .deal-img{width:104px!important;height:132px!important;min-height:132px!important}
+  .deal-body h3{font-size:14px!important}
+  .desktop-posted{font-size:9px!important}
+  .desktop-discount{font-size:12px!important;padding:5px 8px!important;min-width:0!important}
+  .desktop-price strong{font-size:19px!important}
+  .desktop-buy{min-width:70px!important;padding:8px 10px!important;font-size:11px!important}
+}
