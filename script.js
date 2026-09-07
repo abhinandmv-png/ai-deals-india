@@ -217,10 +217,10 @@ function priceFromTitle(title) {
 function normalizedDeal(deal) {
   const out = {...deal};
   const titlePrice = priceFromTitle(out.title);
-  const existing = Number(out.price);
+  const existing = (out.price === null || out.price === undefined || out.price === "") ? NaN : Number(out.price);
   if (titlePrice !== null && (!Number.isFinite(existing) || existing <= 10 || Math.abs(existing-titlePrice) > Math.max(50,titlePrice*0.85))) out.price = titlePrice;
   const text = String(out.title || "") + " " + String(out.badge || "");
-  const dm = text.match(/(\d{1,3})\s*%\s*(?:off|discount)/i) || text.match(/upto\s*(\d{1,3})\s*%/i);
+  const dm = text.match(/(\d{1,3})\s*%\s*(?:off|discount)/i) || text.match(/upto\s*(\d{1,3})\s*%/i) || text.match(/(?:^|\s)(\d{1,3})\s*%\s*:/i);
   if (dm && !Number.isFinite(Number(out.discount))) out.discount = Number(dm[1]);
   return out;
 }
