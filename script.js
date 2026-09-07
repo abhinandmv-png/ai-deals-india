@@ -1,5 +1,6 @@
 const TELEGRAM_URL = "https://t.me/onlineshopingdeals_india";
 const REFRESH_MS = 60000;
+const MAX_DEALS = 500;
 const IMAGE_LOAD_TIMEOUT_MS = 15000;
 const MIN_USABLE_IMAGE_DIMENSION = 20;
 
@@ -210,97 +211,92 @@ function handleImageLoad(image) {
    RENDER DEALS
    ========================================================= */
 
+function discountPct(deal) {
+  if (deal.discount !== null && deal.discount !== undefined && deal.discount !== "") {
+    const n = Number(deal.discount);
+    if (Number.isFinite(n)) return Math.round(n);
+  }
+  const badgeMatch = String(deal.badge || "").match(/(\\d{1,3})\\s*%/);
+  if (badgeMatch) return Number(badgeMatch[1]);
+  const titleMatch = String(deal.title || "").match(/(\\d{1,3})\\s*%\\s*(?:off|discount)/i);
+  if (titleMatch) return Number(titleMatch[1]);
+  const price = Number(deal.price);
+  const original = Number(deal.original_price);
+  if (Number.isFinite(price) && Number.isFinite(original) && original > price && original > 0) {
+    return Math.round(((original - price) / original) * 100);
+  }
+  return null;
+}
+
+function retailerLabel(deal) {
+  const url = String(deal.url || "").toLowerCase();
+  if (url.includes("amazon.")) return "amazon.in";
+  if (url.includes("flipkart.")) return "Flipkart";
+  return "Online store";
+}
+
 function render() {
   const q = searchInput.value.trim().toLowerCase();
   const cat = categorySelect.value;
 
   const filtered = deals.filter(d => {
-    const hay =
-      `${d.title} ${d.category} ${d.note}`.toLowerCase();
-
-    return (
-      (!q || hay.includes(q)) &&
-      (cat === "all" || d.category === cat)
-    );
+    const hay = `${d.title} ${d.category} ${d.note}`.toLowerCase();
+    return (!q || hay.includes(q)) && (cat === "all" || d.category === cat);
   });
 
   empty.hidden = filtered.length !== 0;
 
-  grid.innerHTML = filtered.map(d => `
-    <article class="deal-card">
+  grid.innerHTML = filtered.map(d => {
+    const discount = discountPct(d);
+    const discountText = discount !== null ? `${discount}% OFF` : "DEAL";
+    const posted = postedLabel(d);
+    const price = money(d.price);
+    const oldPrice = d.original_price ? money(d.original_price) : "";
 
-      ${dealImage(d)}
+    return `
+      <article class="deal-card">
+        ${dealImage(d)}
 
-      <div class="deal-body">
+        <div class="deal-body">
+          <div class="deal-content">
+            <div class="deal-tags">
+              <span class="tag retailer-tag">${escapeHtml(retailerLabel(d))}</span>
+              <span class="category">${escapeHtml(d.category || "Shopping")}</span>
+            </div>
 
-        <div class="deal-tags">
-          <span class="tag">
-            ${escapeHtml(d.badge || "DEAL")}
-          </span>
+            <h3>${escapeHtml(d.title)}</h3>
 
-          <span class="category">
-            ${escapeHtml(d.category || "Shopping")}
-          </span>
+            <div class="price mobile-price">
+              <strong>${price}</strong>
+              ${oldPrice ? `<span class="old">${oldPrice}</span>` : ""}
+            </div>
+
+            <p class="deal-note">${escapeHtml(
+              d.note || "Limited-time offer. Check the retailer for the final price."
+            )}</p>
+
+            <div class="deal-actions">
+              <a class="view" href="${escapeHtml(d.url)}" target="_blank" rel="sponsored noopener">View deal ↗</a>
+              <a class="telegram-mini" href="${TELEGRAM_URL}" target="_blank" rel="noopener">Telegram</a>
+            </div>
+          </div>
+
+          <div class="deal-desktop-side">
+            <span class="desktop-discount">${escapeHtml(discountText)}</span>
+            <span class="desktop-posted"><span aria-hidden="true">📣</span> ${escapeHtml(posted.replace(/^Posted\s*/i, ""))}</span>
+            <div class="desktop-price">
+              <strong>${price || "—"}</strong>
+              ${oldPrice ? `<span class="old">${oldPrice}</span>` : ""}
+            </div>
+            <a class="desktop-buy" href="${escapeHtml(d.url)}" target="_blank" rel="sponsored noopener">🛒 Buy</a>
+          </div>
         </div>
+      </article>
+    `;
+  }).join("");
 
-        <h3>
-          ${escapeHtml(d.title)}
-        </h3>
-
-        <div class="price">
-          <strong>
-            ${money(d.price)}
-          </strong>
-
-          ${
-            d.original_price
-              ? `<span class="old">${money(d.original_price)}</span>`
-              : ""
-          }
-        </div>
-
-        <p class="deal-note">
-          ${escapeHtml(
-            d.note ||
-            "Limited-time offer. Check the retailer for the final price."
-          )}
-        </p>
-
-        <div class="deal-actions">
-
-          <!-- YOUR AFFILIATE LINK IS UNCHANGED -->
-          <a
-            class="view"
-            href="${escapeHtml(d.url)}"
-            target="_blank"
-            rel="sponsored noopener"
-          >
-            View deal ↗
-          </a>
-
-          <a
-            class="telegram-mini"
-            href="${TELEGRAM_URL}"
-            target="_blank"
-            rel="noopener"
-          >
-            Telegram
-          </a>
-
-        </div>
-
-      </div>
-
-    </article>
-  `).join("");
-
-  grid
-    .querySelectorAll(".deal-img img")
-    .forEach(watchImage);
-}
-
-
-/* =========================================================
+  grid.querySelectorAll(".deal-img img").forEach(watchImage);
+}/* =========================================================
    CATEGORIES
    ========================================================= */
 
@@ -345,8 +341,9 @@ async function loadDeals() {
 
     const data = await res.json();
 
+    feedUpdatedAt = data.updated_at || null;
     deals = Array.isArray(data.deals)
-      ? data.deals
+      ? data.deals.slice(0, MAX_DEALS)
       : [];
 
     populateCategories();
