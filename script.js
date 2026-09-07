@@ -216,9 +216,9 @@ function discountPct(deal) {
     const n = Number(deal.discount);
     if (Number.isFinite(n)) return Math.round(n);
   }
-  const badgeMatch = String(deal.badge || "").match(/(\\d{1,3})\\s*%/);
+  const badgeMatch = String(deal.badge || "").match(/(\d{1,3})\s*%/);
   if (badgeMatch) return Number(badgeMatch[1]);
-  const titleMatch = String(deal.title || "").match(/(\\d{1,3})\\s*%\\s*(?:off|discount)/i);
+  const titleMatch = String(deal.title || "").match(/(\d{1,3})\s*%\s*(?:off|discount)/i);
   if (titleMatch) return Number(titleMatch[1]);
   const price = Number(deal.price);
   const original = Number(deal.original_price);
