@@ -51,7 +51,7 @@ Do not hard-code the token in bot.py.
 
 ## Python helper
 
-Add a helper that reads the current deals.json from GitHub, prepends the new deal, keeps (for example) the latest 100 deals, then PUTs the updated file back through the GitHub Contents API.
+Add a helper that reads the current deals.json from GitHub, prepends the new deal, keeps the latest 500 deals, then PUTs the updated file back through the GitHub Contents API.
 
 The helper should run only AFTER your Telegram message has been successfully sent.
 
