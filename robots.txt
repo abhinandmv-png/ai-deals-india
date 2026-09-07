@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://onlineshoppingindia.shop/sitemap.xml
+Sitemap: https://onlineshoppingdeals.shop/sitemap.xml
