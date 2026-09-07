@@ -12,6 +12,9 @@ const searchInput = document.getElementById("searchInput");
 const categorySelect = document.getElementById("categorySelect");
 const lastUpdated = document.getElementById("lastUpdated");
 const heroDealTitle = document.getElementById("heroDealTitle");
+const heroProductImage = document.getElementById("heroProductImage");
+const heroProductPrice = document.getElementById("heroProductPrice");
+const showcaseImage = document.getElementById("showcaseImage");
 
 let deals = [];
 let feedUpdatedAt = null;
