@@ -21,7 +21,7 @@ let deals = [];
 let feedUpdatedAt = null;
 
 function postedLabel(deal) {
-  const raw = deal.posted_at || deal.added_at || feedUpdatedAt;
+  const raw = deal.posted_at || deal.added_at;
   if (!raw) return "Posted recently";
   const date = new Date(raw);
   if (Number.isNaN(date.getTime())) return "Posted recently";
