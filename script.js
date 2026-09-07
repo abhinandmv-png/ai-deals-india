@@ -363,102 +363,18 @@ async function loadDeals() {
     populateCategories();
     render();
 
-    const updated = data.updated_at
-      ? new Date(data.updated_at)
-      : new Date();
+    const updated = data.updated_at ? new Date(data.updated_at) : new Date();
 
-    lastUpdated.textContent =
-      "Updated " +
-      updated.toLocaleTimeString(
-        "en-IN",
-        {
-          hour: "2-digit",
-          minute: "2-digit"
-        }
-      );
-
-    heroDealTitle.textContent =
-      deals[0]?.title ||
-      "Waiting for the next deal…";
-
+    if (lastUpdated) lastUpdated.textContent = "Updated " + updated.toLocaleTimeString("en-IN",{hour:"2-digit",minute:"2-digit"});
+    if (heroDealTitle) heroDealTitle.textContent = deals[0]?.title || "Waiting for the next deal…";
+    if (heroProductImage && deals[0]?.image) heroProductImage.src = deals[0].image;
+    if (heroProductPrice) heroProductPrice.textContent = money(normalizedDeal(deals[0] || {}).price) || "₹—";
   } catch (e) {
     console.error(e);
 
-    lastUpdated.textContent =
-      "Feed unavailable";
-
-    heroDealTitle.textContent =
-      "Check Telegram for the latest deals";
+    if (lastUpdated) lastUpdated.textContent = "Feed unavailable";
+    if (heroDealTitle) heroDealTitle.textContent = "Check Telegram for the latest deals";
   }
 }
 
 
-/* =========================================================
-   SEARCH / CATEGORY
-   ========================================================= */
-
-searchInput.addEventListener(
-  "input",
-  render
-);
-
-categorySelect.addEventListener(
-  "change",
-  render
-);
-
-
-/* =========================================================
-   IMAGE ERROR HANDLING
-   ========================================================= */
-
-grid.addEventListener(
-  "error",
-  event => {
-    const image = event.target;
-
-    if (
-      image instanceof HTMLImageElement &&
-      image.matches(".deal-img img")
-    ) {
-      tryNextImage(image);
-    }
-  },
-  true
-);
-
-
-grid.addEventListener(
-  "load",
-  event => {
-    const image = event.target;
-
-    if (
-      image instanceof HTMLImageElement &&
-      image.matches(".deal-img img")
-    ) {
-      handleImageLoad(image);
-    }
-  },
-  true
-);
-
-
-/* =========================================================
-   FOOTER YEAR
-   ========================================================= */
-
-document.getElementById("year").textContent =
-  new Date().getFullYear();
-
-
-/* =========================================================
-   START
-   ========================================================= */
-
-loadDeals();
-
-setInterval(
-  loadDeals,
-  REFRESH_MS
-);
