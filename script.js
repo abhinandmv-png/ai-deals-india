@@ -378,3 +378,22 @@ async function loadDeals() {
 }
 
 
+
+/* =========================================================
+   FEED BOOTSTRAP
+   ========================================================= */
+function refreshDealFeed() {
+  loadDeals();
+}
+
+if (searchInput) {
+  searchInput.addEventListener("input", render);
+}
+
+if (categorySelect) {
+  categorySelect.addEventListener("change", render);
+}
+
+// Load the feed immediately, then keep it fresh.
+loadDeals();
+window.setInterval(refreshDealFeed, REFRESH_MS);
