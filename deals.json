@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-07T11:00:36+00:00",
+  "updated_at": "2026-09-07T11:15:35+00:00",
   "deals": [
+    {
+      "title": "Lenovo FHD 15.6 Laptop with Intel Core i5, 16GB RAM, 512GB SSD for ₹₹75,990",
+      "price": 75990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HG1QKHLM?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0HG1QKHLM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HG1QKHLM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HG1QKHLM.01.LZZZZZZZ.jpg"
+      ],
+      "posted_at": "2026-09-07T11:00:56+00:00"
+    },
     {
       "title": "Toshiba (50 inches) 4K UHD Smart Google TV @29,990",
       "price": 4000,
