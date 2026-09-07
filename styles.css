@@ -291,3 +291,68 @@
   .showcase-stage{min-height:380px}
   .deals-section{padding-top:38px}
 }
+
+/* ===== CINEMATIC EDITORIAL REDESIGN ===== */
+body{background:#060812;color:#f4f6fb}
+body:before{opacity:.35}
+.topbar{height:82px;border-bottom:1px solid rgba(255,255,255,.055);background:rgba(6,8,18,.72)}
+.lusion-hero{position:relative;max-width:none;width:min(1380px,100%);min-height:calc(100vh - 82px);padding:70px max(28px,5vw) 55px;grid-template-columns:1fr 1fr;gap:5vw;overflow:hidden}
+.lusion-hero:before{content:"";position:absolute;width:55vw;height:55vw;max-width:760px;max-height:760px;right:-13vw;top:5%;border:1px solid rgba(103,232,249,.09);border-radius:50%;box-shadow:0 0 120px rgba(34,211,238,.07);pointer-events:none}
+.hero-copy{position:relative;z-index:3;align-self:center}
+.lusion-hero .eyebrow{font-size:10px;margin-bottom:18px}
+.lusion-hero h1{font-size:clamp(58px,8.4vw,132px);line-height:.84;letter-spacing:-.075em;max-width:900px;margin:0 0 32px}
+.hero-line{display:block}
+.hero-line.accent{background:linear-gradient(100deg,#f8fafc 0%,#6fe7f7 52%,#9b8cff 100%);-webkit-background-clip:text;background-clip:text;color:transparent}
+.lusion-hero .hero-lead{font-size:16px;color:#8793a8;margin:0;max-width:390px}
+.lusion-hero .hero-actions{margin:28px 0 35px}
+.hero-meta{display:flex;gap:28px;color:#59667b;font-size:9px;letter-spacing:.15em;font-weight:800}
+.lusion-hero .hero-visual{min-height:560px;position:relative;perspective:1000px}
+.hero-number{position:absolute;top:3%;right:5%;font-size:clamp(100px,15vw,230px);font-weight:900;letter-spacing:-.1em;color:rgba(255,255,255,.025);line-height:1}
+.hero-product-wrap{position:relative;z-index:2;width:min(520px,90%);transform:rotate(-4deg)}
+.hero-product-card{width:100%;aspect-ratio:1/1;border-radius:42px;overflow:hidden;background:linear-gradient(145deg,#f8fafc,#cbd5e1);box-shadow:25px 40px 90px rgba(0,0,0,.5),0 0 100px rgba(34,211,238,.12);border:1px solid rgba(255,255,255,.45);display:grid;place-items:center}
+.hero-product-card img{width:100%;height:100%;object-fit:cover;display:block}
+.hero-product-glow{position:absolute;inset:15%;background:#22d3ee;filter:blur(100px);opacity:.13;z-index:-1}
+.hero-product-caption{display:flex;justify-content:space-between;align-items:end;margin-top:17px;color:#66748a;font-size:9px;letter-spacing:.16em}
+.hero-product-caption strong{font-size:28px;letter-spacing:-.04em;color:#f7f9fc}
+.hero-orbit{position:absolute;border:1px solid rgba(255,255,255,.09);border-radius:50%;pointer-events:none}
+.orbit-left{width:470px;height:470px;left:0;top:8%;transform:rotate(25deg) skewX(-12deg)}
+.orbit-right{width:620px;height:620px;right:-8%;top:-1%;transform:rotate(-20deg) skewX(8deg)}
+.hero-scroll{position:absolute;bottom:20px;left:max(28px,5vw);right:max(28px,5vw);display:flex;justify-content:space-between;color:#56647a;font-size:9px;letter-spacing:.18em;font-weight:800;border-top:1px solid rgba(255,255,255,.08);padding-top:12px}
+.hero-scroll b{color:#67e8f9}
+.story-section{position:relative;height:105vh;min-height:700px;margin:0;overflow:hidden;border:0;background:radial-gradient(circle at 70% 50%,rgba(34,211,238,.08),transparent 30%),#060812}
+.story-section:before{display:none}
+.story-inner{position:relative;width:min(1380px,100%);height:100%;margin:auto;padding:90px max(28px,5vw) 45px;display:grid;grid-template-columns:42% 58%;align-items:center}
+.story-copy{position:relative;z-index:4;align-self:center}
+.story-index{font-size:12px;color:#59667b;letter-spacing:.15em;margin:14px 0 10px}
+.story-copy h2{font-size:clamp(52px,7vw,108px);line-height:.86;letter-spacing:-.07em;margin:0 0 25px}
+.story-copy h2 span{background:linear-gradient(100deg,#72e8f7,#9b8cff);-webkit-background-clip:text;background-clip:text;color:transparent}
+.story-copy p{max-width:370px;color:#7e8ba0;font-size:14px;line-height:1.7}
+.story-price{display:flex;align-items:end;gap:14px;margin-top:28px}
+.story-price span{font-size:8px;letter-spacing:.17em;color:#58667b}
+.story-price strong{font-size:34px;letter-spacing:-.04em}
+.story-price b{font-size:8px;color:#55e6a5;letter-spacing:.12em;padding-bottom:7px}
+.story-stage{height:100%;position:relative;display:grid;place-items:center;min-width:0}
+.story-product{position:relative;z-index:3;width:min(500px,75%);aspect-ratio:1/1;border-radius:32px;overflow:hidden;background:#f3f5f8;box-shadow:25px 35px 90px rgba(0,0,0,.5),0 0 90px rgba(34,211,238,.12);transform:rotate(3deg)}
+.story-product img{width:100%;height:100%;object-fit:cover;display:block}
+.story-glow{position:absolute;width:50%;height:50%;background:#22d3ee;filter:blur(110px);opacity:.12}
+.story-ring{position:absolute;border:1px solid rgba(255,255,255,.09);border-radius:50%;width:80%;aspect-ratio:1}
+.ring-one{transform:rotate(22deg) scaleX(.72)}
+.ring-two{transform:rotate(-35deg) scaleX(.8);width:100%}
+.story-tag{position:absolute;z-index:5;padding:10px 13px;border:1px solid rgba(255,255,255,.13);border-radius:999px;background:rgba(10,14,25,.75);backdrop-filter:blur(14px);font-size:8px;letter-spacing:.12em;font-weight:900}
+.tag-one{top:25%;right:8%;color:#67e8f9}.tag-two{bottom:23%;left:7%;color:#62e8a4}
+.story-footer{position:absolute;left:max(28px,5vw);right:max(28px,5vw);bottom:24px;display:flex;justify-content:space-between;color:#526078;font-size:8px;letter-spacing:.16em;border-top:1px solid rgba(255,255,255,.07);padding-top:12px}
+.deals-section{padding-top:75px}
+.deal-posted{display:flex;align-items:center;gap:7px;color:#718096;font-size:10px;margin:0 0 14px}.posted-dot{width:6px;height:6px;border-radius:50%;background:#34d399;box-shadow:0 0 10px rgba(52,211,153,.55)}
+@media(max-width:850px){
+ .lusion-hero{min-height:auto;padding:55px 22px 30px;grid-template-columns:1fr;gap:35px}
+ .lusion-hero h1{font-size:clamp(55px,15vw,88px)}
+ .lusion-hero .hero-visual{min-height:440px}
+ .hero-product-wrap{width:min(390px,86vw)}
+ .hero-scroll{position:relative;left:auto;right:auto;bottom:auto;margin-top:20px}
+ .story-section{height:auto;min-height:760px}
+ .story-inner{height:auto;min-height:760px;padding:65px 22px 60px;display:flex;flex-direction:column;align-items:stretch}
+ .story-copy h2{font-size:clamp(50px,14vw,75px)}
+ .story-stage{min-height:420px;margin-top:10px}
+ .story-product{width:min(390px,78vw)}
+ .tag-one{right:2%}.tag-two{left:2%}
+}
