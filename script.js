@@ -350,15 +350,28 @@ function populateCategories() {
 
 async function loadDeals() {
   try {
-    const res = await fetch(
-      `deals.json?v=${Date.now()}`,
-      {
-        cache: "no-store"
-      }
-    );
+    const feedUrls = [
+      `https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deals.json?v=${Date.now()}`,
+      `deals.json?v=${Date.now()}`
+    ];
+    let res = null;
+    let lastError = null;
 
-    if (!res.ok) {
-      throw new Error("deals.json unavailable");
+    for (const feedUrl of feedUrls) {
+      try {
+        const candidate = await fetch(feedUrl, { cache: "no-store" });
+        if (candidate.ok) {
+          res = candidate;
+          break;
+        }
+        lastError = new Error("Feed HTTP " + candidate.status);
+      } catch (error) {
+        lastError = error;
+      }
+    }
+
+    if (!res) {
+      throw lastError || new Error("deals.json unavailable");
     }
 
     const data = await res.json();
