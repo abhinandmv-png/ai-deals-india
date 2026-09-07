@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-07T06:40:46+00:00",
+  "updated_at": "2026-09-07T11:00:36+00:00",
   "deals": [
+    {
+      "title": "Toshiba (50 inches) 4K UHD Smart Google TV @29,990",
+      "price": 4000,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHR3DQT8?tag=2244005-21",
+      "source": "AI Deals India",
+      "image": "https://m.media-amazon.com/images/P/B0GHR3DQT8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHR3DQT8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHR3DQT8.01.LZZZZZZZ.jpg"
+      ],
+      "posted_at": "2026-09-07T10:50:27+00:00"
+    },
     {
       "title": "Maharaja Whiteline 25L Water Heater for ₹4989.",
       "price": 4989,
