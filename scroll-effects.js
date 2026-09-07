@@ -35,25 +35,6 @@
     });
   }
 
-  // One restrained story transition — enough movement to feel cinematic, not enough to slow browsing.
-  if (story) {
-    gsap.fromTo(".story-copy",
-      {x:-55,opacity:0},
-      {x:0,opacity:1,duration:.9,ease:"power3.out",
-       scrollTrigger:{trigger:story,start:"top 78%",once:true}});
-    gsap.fromTo(".story-product",
-      {x:90,opacity:0,scale:.84,rotate:10},
-      {x:0,opacity:1,scale:1,rotate:3,duration:1.05,ease:"power3.out",
-       scrollTrigger:{trigger:story,start:"top 72%",once:true}});
-    gsap.fromTo(".story-tag",
-      {y:20,opacity:0},{y:0,opacity:1,duration:.6,stagger:.12,
-       scrollTrigger:{trigger:story,start:"top 65%",once:true}});
-    gsap.to(".story-product",{
-      y:-28,rotate:-1,ease:"none",
-      scrollTrigger:{trigger:story,start:"top bottom",end:"bottom top",scrub:1}
-    });
-  }
-
   const grid = document.getElementById("dealGrid");
   if (grid) {
     const animate = () => {
