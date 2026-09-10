@@ -1,5 +1,5 @@
 (() => {
-  const STYLE_ID = "mobile-amazon-buy-style-v1";
+  const STYLE_ID = "mobile-amazon-buy-style-v2";
   const AMAZON_HOST_RE = /(^|\.)amazon\.[a-z.]+$/i;
 
   function isMobile() {
@@ -17,62 +17,55 @@
           display: inline-flex !important;
           align-items: center;
           justify-content: center;
-          gap: 9px;
+          gap: 8px;
           width: 100%;
-          min-height: 46px;
-          padding: 9px 12px;
-          border-radius: 15px;
-          border: 1px solid rgba(160, 205, 255, .70) !important;
-          background:
-            linear-gradient(135deg, rgba(255,255,255,.22), rgba(139,92,246,.10) 48%, rgba(59,130,246,.16)) !important;
+          min-height: 40px !important;
+          padding: 6px 9px !important;
+          border-radius: 14px !important;
+          border: 1px solid rgba(145, 190, 245, .72) !important;
+          background: linear-gradient(135deg, rgba(255,255,255,.21), rgba(77,99,154,.24) 52%, rgba(43,91,164,.24)) !important;
           color: #fff !important;
-          box-shadow:
-            inset 0 1px rgba(255,255,255,.38),
-            inset 0 -1px rgba(255,255,255,.08),
-            0 8px 24px rgba(34, 115, 220, .18),
-            0 0 22px rgba(103,232,249,.08);
-          backdrop-filter: blur(18px) saturate(160%);
-          -webkit-backdrop-filter: blur(18px) saturate(160%);
+          box-shadow: inset 0 1px rgba(255,255,255,.30), 0 7px 18px rgba(31,91,170,.17), 0 0 17px rgba(84,170,255,.07);
+          backdrop-filter: blur(16px) saturate(150%);
+          -webkit-backdrop-filter: blur(16px) saturate(150%);
           font-weight: 850;
-          font-size: 12px;
+          font-size: 11px !important;
+          line-height: 1;
+          white-space: nowrap;
           text-align: center;
-          text-shadow: 0 1px 8px rgba(0,0,0,.25);
-          transition: transform .2s ease, filter .2s ease, box-shadow .2s ease;
+          text-shadow: 0 1px 7px rgba(0,0,0,.25);
+          box-sizing: border-box;
         }
 
         .desktop-buy.mobile-amazon-buy:hover {
-          background:
-            linear-gradient(135deg, rgba(255,255,255,.28), rgba(139,92,246,.14) 48%, rgba(59,130,246,.20)) !important;
-          color: #fff !important;
-          transform: translateY(-1px);
           filter: brightness(1.06);
-          box-shadow:
-            inset 0 1px rgba(255,255,255,.42),
-            0 10px 28px rgba(34, 115, 220, .24),
-            0 0 28px rgba(103,232,249,.10);
+          transform: translateY(-1px);
         }
 
         .mobile-amazon-buy-content {
           display: inline-flex;
           align-items: center;
           justify-content: center;
-          gap: 8px;
+          gap: 7px;
           min-width: 0;
         }
 
         .mobile-amazon-buy-content img {
-          width: 22px;
-          height: 22px;
+          width: 22px !important;
+          height: 22px !important;
+          flex: 0 0 22px !important;
           display: block;
-          flex: 0 0 22px;
-          object-fit: contain;
-          border-radius: 5px;
-          background: #fff;
-          box-shadow: 0 2px 8px rgba(0,0,0,.18);
+          object-fit: cover;
+          border-radius: 6px;
+          background: #ff9900;
+          box-shadow: 0 2px 8px rgba(0,0,0,.20);
         }
 
         .mobile-amazon-buy-content span:last-child {
+          display: block;
           white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
         }
       }
     `;
@@ -119,25 +112,17 @@
 
   function start() {
     syncAll();
-
     const grid = document.getElementById("dealGrid");
     if (grid) {
       const observer = new MutationObserver(() => syncAll());
       observer.observe(grid, { childList: true, subtree: true });
     }
-
     const media = window.matchMedia("(max-width: 560px)");
     const onChange = () => syncAll();
-    if (media.addEventListener) {
-      media.addEventListener("change", onChange);
-    } else {
-      media.addListener(onChange);
-    }
+    if (media.addEventListener) media.addEventListener("change", onChange);
+    else media.addListener(onChange);
   }
 
-  if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", start, { once: true });
-  } else {
-    start();
-  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", start, { once: true });
+  else start();
 })();
