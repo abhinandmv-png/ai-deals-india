@@ -1,0 +1,337 @@
+/* =========================================================
+   MOBILE DEALS UI
+   Mobile-only presentation layer. Desktop styles are untouched.
+   ========================================================= */
+
+@media (max-width: 560px) {
+  body {
+    background:
+      radial-gradient(circle at 0% 18%, rgba(34, 211, 238, .09), transparent 28%),
+      radial-gradient(circle at 100% 58%, rgba(124, 58, 237, .10), transparent 32%),
+      #060812;
+  }
+
+  .topbar {
+    height: 150px;
+    padding: 18px 20px;
+    align-items: center;
+    border-bottom: 1px solid rgba(255,255,255,.08);
+    background: rgba(5, 10, 20, .78);
+    backdrop-filter: blur(26px) saturate(150%);
+    -webkit-backdrop-filter: blur(26px) saturate(150%);
+  }
+
+  .brand {
+    gap: 13px;
+    min-width: 0;
+  }
+
+  .brandmark {
+    width: 68px;
+    height: 68px;
+    flex-basis: 68px;
+  }
+
+  .brand b {
+    font-size: 22px;
+    line-height: 1.05;
+  }
+
+  .brand small {
+    margin-top: 5px;
+    font-size: 9px;
+    letter-spacing: .20em;
+  }
+
+  nav {
+    gap: 0;
+    flex: 0 0 auto;
+  }
+
+  nav a:not(.telegram) {
+    display: none !important;
+  }
+
+  .telegram {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 12px 13px;
+    min-height: 48px;
+    border-radius: 17px;
+    border: 1px solid rgba(255,255,255,.14);
+    background: linear-gradient(145deg, rgba(255,255,255,.10), rgba(255,255,255,.035));
+    box-shadow: inset 0 1px rgba(255,255,255,.12), 0 12px 35px rgba(0,0,0,.20);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    font-size: 14px;
+    white-space: nowrap;
+  }
+
+  /* The mobile reference is a fast deal wall, not the desktop landing hero. */
+  .hero {
+    display: none !important;
+  }
+
+  .deals-section {
+    width: 100%;
+    max-width: none;
+    padding: 16px 14px 44px;
+  }
+
+  .section-head {
+    margin: 0 0 12px;
+    gap: 10px;
+  }
+
+  .section-head > div:first-child {
+    display: none;
+  }
+
+  .controls {
+    width: 100%;
+    display: block;
+  }
+
+  .search {
+    display: none;
+  }
+
+  .controls select {
+    display: none;
+  }
+
+  .mobile-category-bar {
+    display: flex;
+    width: calc(100% + 2px);
+    gap: 9px;
+    overflow-x: auto;
+    padding: 1px 1px 9px;
+    margin: 0 0 8px;
+    scrollbar-width: none;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .mobile-category-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .mobile-category-chip {
+    flex: 0 0 auto;
+    min-height: 42px;
+    padding: 9px 17px;
+    border-radius: 999px;
+    border: 1px solid rgba(255,255,255,.09);
+    background: rgba(255,255,255,.045);
+    color: #d9e2ef;
+    font: inherit;
+    font-size: 13px;
+    font-weight: 700;
+    white-space: nowrap;
+    box-shadow: inset 0 1px rgba(255,255,255,.05);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+  }
+
+  .mobile-category-chip.active {
+    border-color: rgba(76, 163, 255, .75);
+    background: linear-gradient(180deg, rgba(45, 143, 255, .92), rgba(31, 105, 226, .88));
+    color: #fff;
+    box-shadow: 0 8px 22px rgba(37, 99, 235, .22), inset 0 1px rgba(255,255,255,.25);
+  }
+
+  .deal-grid {
+    grid-template-columns: 1fr !important;
+    gap: 12px !important;
+  }
+
+  .deal-card {
+    display: grid !important;
+    grid-template-columns: 31% minmax(0, 69%) !important;
+    min-height: 184px !important;
+    border-radius: 20px !important;
+    overflow: hidden;
+    background: linear-gradient(115deg, rgba(11, 18, 31, .96), rgba(10, 17, 29, .82));
+    border: 1px solid rgba(255,255,255,.11);
+    box-shadow: inset 0 1px rgba(255,255,255,.045), 0 15px 40px rgba(0,0,0,.16);
+  }
+
+  .deal-img {
+    width: 100% !important;
+    height: 184px !important;
+    min-height: 184px !important;
+    flex-basis: auto !important;
+    background: #f5f6f8;
+  }
+
+  .deal-img img {
+    width: 100%;
+    height: 100%;
+    padding: 7px;
+    object-fit: contain;
+    background: #f5f6f8;
+  }
+
+  .deal-body {
+    display: block !important;
+    min-width: 0 !important;
+    padding: 12px 12px 11px !important;
+    background: transparent;
+  }
+
+  .deal-content {
+    min-width: 0;
+  }
+
+  .deal-tags {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start !important;
+    gap: 6px !important;
+    margin: 0 0 6px !important;
+    font-size: 9px !important;
+  }
+
+  .deal-tags .retailer-tag {
+    display: none;
+  }
+
+  .deal-tags .category {
+    display: inline-flex;
+    align-items: center;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding: 4px 9px !important;
+    border: 1px solid rgba(116, 166, 255, .55) !important;
+    border-radius: 999px;
+    color: #d9e6ff;
+    background: rgba(54, 117, 230, .10);
+    font-size: 9px !important;
+    font-weight: 800;
+    white-space: nowrap;
+  }
+
+  .deal-body h3 {
+    min-height: 0 !important;
+    max-width: none !important;
+    margin: 0 0 7px !important;
+    color: #f8fafc;
+    font-size: 15px !important;
+    line-height: 1.25 !important;
+    letter-spacing: -.012em;
+    display: -webkit-box !important;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2 !important;
+    overflow: hidden !important;
+    text-wrap: initial;
+  }
+
+  .mobile-price,
+  .deal-content > .deal-note,
+  .deal-content > .deal-actions {
+    display: none !important;
+  }
+
+  .deal-desktop-side {
+    display: grid !important;
+    grid-template-columns: minmax(0, 1fr) minmax(122px, auto) !important;
+    grid-template-rows: auto auto !important;
+    align-items: center !important;
+    column-gap: 8px !important;
+    row-gap: 9px !important;
+    min-width: 0;
+  }
+
+  .desktop-discount {
+    justify-self: start !important;
+    min-width: 0 !important;
+    padding: 4px 9px !important;
+    border: 1px solid rgba(69, 224, 171, .52) !important;
+    border-radius: 999px !important;
+    background: rgba(21, 128, 92, .10) !important;
+    color: #65e7b0 !important;
+    font-size: 11px !important;
+    line-height: 1.15;
+    font-weight: 850;
+    box-shadow: none !important;
+    white-space: nowrap;
+  }
+
+  .desktop-posted {
+    justify-self: end !important;
+    color: #c0cad8 !important;
+    font-size: 9px !important;
+    line-height: 1.2;
+    white-space: nowrap;
+  }
+
+  .desktop-posted span {
+    margin-right: 2px !important;
+  }
+
+  .desktop-price {
+    display: flex !important;
+    align-items: baseline;
+    gap: 5px;
+    min-width: 0;
+  }
+
+  .desktop-price strong {
+    color: #fff !important;
+    font-size: 19px !important;
+    line-height: 1;
+    white-space: nowrap;
+  }
+
+  .desktop-price .old {
+    color: #7f8da1 !important;
+    font-size: 10px !important;
+  }
+
+  .desktop-buy {
+    justify-self: stretch !important;
+    min-width: 0 !important;
+    width: 100%;
+    min-height: 46px;
+    padding: 9px 10px !important;
+    border-radius: 14px !important;
+    font-size: 12px !important;
+    font-weight: 850;
+  }
+
+  .feed-note {
+    margin-top: 15px;
+    font-size: 9px;
+  }
+
+  /* Keep the supporting content below the deal wall, but make it compact. */
+  .seo-intro,
+  .how,
+  .telegram-cta,
+  footer {
+    margin-left: 14px;
+    margin-right: 14px;
+  }
+
+  .seo-intro {
+    margin-bottom: 45px;
+    padding: 22px;
+    border-radius: 20px;
+  }
+
+  .how {
+    padding-left: 14px;
+    padding-right: 14px;
+  }
+
+  .telegram-cta {
+    padding: 25px;
+    margin-bottom: 45px;
+  }
+
+  footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
