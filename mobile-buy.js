@@ -17,24 +17,39 @@
           display: inline-flex !important;
           align-items: center;
           justify-content: center;
-          gap: 8px;
+          gap: 9px;
           width: 100%;
           min-height: 46px;
-          padding: 11px 14px;
-          border-radius: 11px;
-          border: 1px solid rgba(96, 165, 250, .55) !important;
-          background: #2563eb !important;
+          padding: 9px 12px;
+          border-radius: 15px;
+          border: 1px solid rgba(160, 205, 255, .70) !important;
+          background:
+            linear-gradient(135deg, rgba(255,255,255,.22), rgba(139,92,246,.10) 48%, rgba(59,130,246,.16)) !important;
           color: #fff !important;
-          box-shadow: 0 10px 24px rgba(37, 99, 235, .28);
+          box-shadow:
+            inset 0 1px rgba(255,255,255,.38),
+            inset 0 -1px rgba(255,255,255,.08),
+            0 8px 24px rgba(34, 115, 220, .18),
+            0 0 22px rgba(103,232,249,.08);
+          backdrop-filter: blur(18px) saturate(160%);
+          -webkit-backdrop-filter: blur(18px) saturate(160%);
           font-weight: 850;
-          font-size: 13px;
+          font-size: 12px;
           text-align: center;
+          text-shadow: 0 1px 8px rgba(0,0,0,.25);
+          transition: transform .2s ease, filter .2s ease, box-shadow .2s ease;
         }
 
         .desktop-buy.mobile-amazon-buy:hover {
-          background: #1d4ed8 !important;
+          background:
+            linear-gradient(135deg, rgba(255,255,255,.28), rgba(139,92,246,.14) 48%, rgba(59,130,246,.20)) !important;
           color: #fff !important;
           transform: translateY(-1px);
+          filter: brightness(1.06);
+          box-shadow:
+            inset 0 1px rgba(255,255,255,.42),
+            0 10px 28px rgba(34, 115, 220, .24),
+            0 0 28px rgba(103,232,249,.10);
         }
 
         .mobile-amazon-buy-content {
@@ -42,15 +57,22 @@
           align-items: center;
           justify-content: center;
           gap: 8px;
+          min-width: 0;
         }
 
         .mobile-amazon-buy-content img {
-          width: 18px;
-          height: 18px;
+          width: 22px;
+          height: 22px;
           display: block;
+          flex: 0 0 22px;
           object-fit: contain;
-          border-radius: 4px;
+          border-radius: 5px;
           background: #fff;
+          box-shadow: 0 2px 8px rgba(0,0,0,.18);
+        }
+
+        .mobile-amazon-buy-content span:last-child {
+          white-space: nowrap;
         }
       }
     `;
