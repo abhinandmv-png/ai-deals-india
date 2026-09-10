@@ -100,7 +100,7 @@
       anchor.innerHTML = `
         <span class="mobile-amazon-buy-content">
           <img src="https://www.amazon.in/favicon.ico" alt="Amazon" loading="lazy" decoding="async">
-          <span>Buy at Amazon</span>
+          <span>Buy at Amazon →</span>
         </span>
       `;
       return;
