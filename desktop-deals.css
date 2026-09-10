@@ -1,0 +1,23 @@
+@media (min-width: 851px) {
+  body{background:radial-gradient(circle at 8% 14%,rgba(34,211,238,.10),transparent 28%),radial-gradient(circle at 92% 44%,rgba(124,58,237,.11),transparent 31%),#060a14}
+  .topbar{height:86px;max-width:1180px;margin:12px auto 0;padding:0 24px;border:1px solid rgba(255,255,255,.12);border-radius:22px;background:linear-gradient(145deg,rgba(18,27,44,.84),rgba(8,14,26,.72));box-shadow:inset 0 1px rgba(255,255,255,.10),0 22px 55px rgba(0,0,0,.20)}
+  .brand{gap:13px}.brandmark{width:56px;height:56px;flex-basis:56px;box-shadow:0 0 32px rgba(34,211,238,.20)}.brand b{font-size:18px}.brand small{font-size:9px;letter-spacing:.21em}
+  nav{gap:27px;font-size:13px}nav .telegram{min-height:50px;padding:11px 18px;border-radius:17px;border-color:rgba(103,232,249,.42);background:linear-gradient(135deg,rgba(255,255,255,.10),rgba(99,102,241,.12));box-shadow:inset 0 1px rgba(255,255,255,.16),0 0 28px rgba(34,211,238,.08)}
+  .hero{min-height:465px;padding:68px 24px 52px;gap:34px}.hero h1{font-size:clamp(48px,5.2vw,72px);margin:15px 0 18px}.hero-lead{font-size:16px}.hero-actions{margin:24px 0}.hero-visual{min-height:330px}.hero-card{width:min(100%,390px);border-radius:26px}
+  .deals-section{padding-top:54px;padding-bottom:72px}.section-head{align-items:center;margin-bottom:24px}.section-head h2{font-size:34px}
+  .search{min-width:285px;height:48px;border-radius:15px;border-color:rgba(103,232,249,.22);background:rgba(20,31,49,.68);box-shadow:inset 0 1px rgba(255,255,255,.06),0 0 25px rgba(34,211,238,.04)}.controls select{height:48px;border-radius:15px;background:rgba(20,31,49,.68)}
+  .deal-grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+  .deal-card{display:grid!important;grid-template-columns:112px minmax(0,1fr)!important;min-height:198px;border-radius:20px;border-color:rgba(103,232,249,.20);background:linear-gradient(135deg,rgba(12,23,39,.94),rgba(8,15,28,.88));box-shadow:inset 0 1px rgba(255,255,255,.055),0 18px 48px rgba(0,0,0,.20)}
+  .deal-card:hover{transform:translateY(-4px);border-color:rgba(103,232,249,.48);box-shadow:inset 0 1px rgba(255,255,255,.08),0 24px 62px rgba(0,0,0,.28),0 0 24px rgba(34,211,238,.05)}
+  .deal-img{width:112px!important;height:198px!important;min-height:198px!important;flex-basis:auto!important;background:#f5f6f8;border-right:1px solid rgba(255,255,255,.08)}.deal-img img{padding:7px;background:#f5f6f8}
+  .deal-body{display:grid!important;grid-template-columns:minmax(0,1fr) 118px!important;gap:10px;min-width:0;padding:14px 14px 13px!important;align-items:stretch}
+  .deal-content{min-width:0;display:flex;flex-direction:column}.deal-tags{justify-content:flex-start!important;gap:6px;margin-bottom:4px}.deal-tags .retailer-tag{display:none}.deal-tags .category{padding:4px 8px;border:1px solid rgba(116,166,255,.45);border-radius:999px;color:#d8e5ff;background:rgba(54,117,230,.08);font-weight:800}
+  .deal-body h3{margin:6px 0 8px;font-size:16px;line-height:1.27;letter-spacing:-.018em;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}
+  .deal-content>.deal-note,.deal-content>.deal-actions,.mobile-price{display:none!important}
+  .deal-desktop-side{display:grid!important;grid-template-columns:1fr;grid-template-rows:auto auto 1fr auto;align-items:end;min-width:0;gap:7px}
+  .desktop-discount{justify-self:start;padding:4px 8px;border:1px solid rgba(69,224,171,.50);border-radius:999px;background:rgba(21,128,92,.09);color:#65e7b0;font-size:10px;font-weight:850;white-space:nowrap}.desktop-posted{justify-self:start;color:#aab6c8;font-size:9px;white-space:nowrap}
+  .desktop-price{align-self:center;min-width:0;display:flex;align-items:baseline;gap:5px}.desktop-price strong{font-size:21px;line-height:1;white-space:nowrap}.desktop-price .old{font-size:10px}
+  .desktop-buy{width:100%;min-height:42px;padding:8px!important;border-radius:13px!important;border:1px solid rgba(160,205,255,.65)!important;background:linear-gradient(135deg,rgba(255,255,255,.19),rgba(99,102,241,.14) 55%,rgba(59,130,246,.18))!important;color:#fff!important;box-shadow:inset 0 1px rgba(255,255,255,.28),0 8px 25px rgba(34,115,220,.16);font-size:0!important;font-weight:850;white-space:nowrap;display:inline-flex!important;align-items:center;justify-content:center;gap:7px}.desktop-buy:hover{color:#fff!important;transform:translateY(-1px);filter:brightness(1.07)}
+  .desktop-buy::before{content:"";width:23px;height:23px;flex:0 0 23px;border-radius:6px;background:#fff url("https://www.amazon.in/favicon.ico") center/18px 18px no-repeat;box-shadow:0 2px 8px rgba(0,0,0,.18)}.desktop-buy::after{content:"Buy at Amazon →";font-size:11px;white-space:nowrap}
+  .seo-intro{margin-bottom:70px}
+}
