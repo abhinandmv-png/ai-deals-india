@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-10T19:11:54Z",
+  "updated_at": "2026-09-10T19:26:53Z",
   "deals": [
+    {
+      "title": "523₹ : More :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVPY7F8H?tag=2244005-21",
+      "posted_at": "2026-09-10T19:26:52Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": ". TRESemmé Keratin Smooth Anti Frizz Conditioner 335ml 277₹",
       "price": null,
