@@ -5,15 +5,16 @@
   .deal-body{padding:10px 10px 9px!important}
   .deal-tags{margin-bottom:4px!important}
   .deal-body h3{font-size:14px!important;line-height:1.22!important;margin-bottom:5px!important}
-  .deal-desktop-side{grid-template-columns:minmax(0,1fr) minmax(108px,112px)!important;column-gap:6px!important;row-gap:7px!important}
+  .deal-desktop-side{grid-template-columns:minmax(92px,1fr) minmax(150px,1.5fr)!important;column-gap:7px!important;row-gap:7px!important;align-items:center!important}
   .desktop-discount{font-size:10px!important;padding:3px 7px!important}
   .desktop-posted{font-size:8px!important}
-  .desktop-price{min-width:0;overflow:hidden}
-  .desktop-price strong{font-size:17px!important;max-width:100%;overflow:hidden;text-overflow:ellipsis}
+  .desktop-price{min-width:0;overflow:hidden;align-self:center!important}
+  .desktop-price strong{font-size:17px!important;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
   .desktop-price .old{font-size:9px!important}
-  .desktop-buy{min-height:40px!important;padding:7px 7px!important;border-radius:12px!important;font-size:0!important}
-  .desktop-buy::before{width:20px!important;height:20px!important;flex-basis:20px!important;background-size:16px 16px!important}
-  .desktop-buy::after{font-size:10px!important}
-  .mobile-amazon-buy-content{gap:6px!important}
-  .mobile-amazon-buy-content img{width:20px!important;height:20px!important;flex-basis:20px!important}
+  .desktop-buy{min-height:42px!important;padding:7px 9px!important;border-radius:14px!important;font-size:0!important;gap:7px!important}
+  .desktop-buy::before{width:22px!important;height:22px!important;flex-basis:22px!important;background-size:17px 17px!important;border-radius:6px!important}
+  .desktop-buy::after{font-size:11px!important}
+  .mobile-amazon-buy-content{gap:7px!important}
+  .mobile-amazon-buy-content img{width:22px!important;height:22px!important;flex-basis:22px!important;border-radius:6px!important}
+  .mobile-amazon-buy-content span:last-child{font-size:11px!important}
 }
