@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T05:21:27Z",
+  "updated_at": "2026-09-11T05:36:23Z",
   "deals": [
+    {
+      "title": "@17,458🔥🔥",
+      "price": 17458,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJR4LQ9V?tag=2244005-21",
+      "posted_at": "2026-09-11T05:36:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_494999.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJR4LQ9V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJR4LQ9V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "56% Off : Himalaya Rose Face Serum 30ml @219.",
       "price": 219,
