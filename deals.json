@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T18:55:52Z",
+  "updated_at": "2026-09-11T19:05:09Z",
   "deals": [
+    {
+      "title": "Grab 💥 2997",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWLXFLRF?tag=2244005-21",
+      "posted_at": "2026-09-11T19:05:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495168.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWLXFLRF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWLXFLRF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Min. 70% Off On Fort Collins Winterwears. Men : Women : Girls : Boys : Surf All Pages",
       "price": null,
