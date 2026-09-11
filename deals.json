@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T04:51:22Z",
+  "updated_at": "2026-09-11T04:51:25Z",
   "deals": [
+    {
+      "title": "Coupon loot🔥🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3F7PKDG?tag=2244005-21",
+      "posted_at": "2026-09-11T04:51:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H3F7PKDG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3F7PKDG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3F7PKDG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "11 Pcs Non Stick Cookware Set with Storage Containers at 1480 Apply Coupon 519",
       "price": null,
