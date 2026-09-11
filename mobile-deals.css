@@ -33,7 +33,7 @@
   }
 
   .brand b {
-    font-size: 22px;
+    font-size: 18px;
     line-height: 1.05;
   }
 
@@ -50,6 +50,11 @@
 
   nav a:not(.telegram) {
     display: none !important;
+  }
+
+  /* Pagination is also a nav, so the generic mobile nav rule above must not hide it. */
+  .deal-pagination a {
+    display: inline-flex !important;
   }
 
   .telegram {
