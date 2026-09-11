@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T16:09:59Z",
+  "updated_at": "2026-09-11T16:55:00Z",
   "deals": [
+    {
+      "title": ". THE Indian Garage CO Men Shirt 553",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BNN758F8?tag=2244005-21",
+      "posted_at": "2026-09-11T16:54:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BNN758F8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BNN758F8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BNN758F8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "59",
       "price": null,
