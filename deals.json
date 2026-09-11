@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T04:51:28Z",
+  "updated_at": "2026-09-11T05:06:24Z",
   "deals": [
+    {
+      "title": "₹2,772 : - Apply 39% coupon - ₹307 off with J&K Bank Mastercard Credit Card More:",
+      "price": 2772,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07WSP2PW9?tag=2244005-21",
+      "posted_at": "2026-09-11T05:06:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_494991.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07WSP2PW9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07WSP2PW9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Butterfly Non Stick Fry Pan @388. Apply 37% Off Coupon : Preethi Non Stick Fry Pan @885. Apply 30% Off Coupon : Preethi Die Cast Non Stick Fry Pan @1577. Apply 33% Off Coupon :",
       "price": 388,
