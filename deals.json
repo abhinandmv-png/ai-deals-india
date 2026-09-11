@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T06:51:29Z",
+  "updated_at": "2026-09-11T06:51:32Z",
   "deals": [
+    {
+      "title": "GRAB 439",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC2VHT34?tag=2244005-21",
+      "posted_at": "2026-09-11T06:51:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FC2VHT34.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC2VHT34.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC2VHT34.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB IF NEED : Apple iPhone Air 256 GB @ ₹93,790 Using PNB CC New Price on Apple Site : 1,49,900",
       "price": 93790,
