@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T05:06:26Z",
+  "updated_at": "2026-09-11T05:06:29Z",
   "deals": [
+    {
+      "title": "₹2,000 : - Apply 25% coupon More:",
+      "price": 2000,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTT9P1ZP?tag=2244005-21",
+      "posted_at": "2026-09-11T05:06:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_494990.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTT9P1ZP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTT9P1ZP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "67% Off : Set Wet AM/PM Gift Set 4x20ml @300",
       "price": 300,
