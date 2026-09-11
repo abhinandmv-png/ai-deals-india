@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T07:36:26Z",
+  "updated_at": "2026-09-11T08:21:24Z",
   "deals": [
+    {
+      "title": "Aristocrat Enigma 52 Cm Luggage @493.",
+      "price": 493,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CWSB3ZS9?tag=2244005-21",
+      "posted_at": "2026-09-11T08:21:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495040.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CWSB3ZS9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CWSB3ZS9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹232 : - Apply 9% coupon More:",
       "price": 232,
