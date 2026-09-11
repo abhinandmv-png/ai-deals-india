@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T12:10:02Z",
+  "updated_at": "2026-09-11T12:25:02Z",
   "deals": [
+    {
+      "title": ". Havells HD3151 1200 W Foldable Hair Dryer; 3 Heat (Hot/Cool/Warm) 959₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01N33BLDT?tag=2244005-21",
+      "posted_at": "2026-09-11T12:24:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B01N33BLDT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01N33BLDT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01N33BLDT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "167",
       "price": null,
