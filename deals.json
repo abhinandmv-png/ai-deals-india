@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T06:51:25Z",
+  "updated_at": "2026-09-11T06:51:27Z",
   "deals": [
+    {
+      "title": "₹88 :",
+      "price": 88,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G665H3SM?tag=2244005-21",
+      "posted_at": "2026-09-11T06:51:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0G665H3SM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G665H3SM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G665H3SM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 70% Off On Hush Puppies Men's Sneakers",
       "price": null,
