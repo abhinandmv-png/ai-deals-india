@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T05:06:31Z",
+  "updated_at": "2026-09-11T05:06:32Z",
   "deals": [
+    {
+      "title": "Tower Induction Cooktop 2000W @1723. Apply 30% Off Coupon : CELLECOR 2000W Induction Cooktop @1562. Apply 20% Off Coupon :",
+      "price": 1723,
+      "original_price": 2461,
+      "category": "Shopping",
+      "badge": "30% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GT9XLGKC?tag=2244005-21",
+      "posted_at": "2026-09-11T05:06:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GT9XLGKC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GT9XLGKC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GT9XLGKC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70% Off : Parachute Advansed Body Lotion, 600ml @174",
       "price": 174,
