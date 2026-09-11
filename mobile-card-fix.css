@@ -5,16 +5,27 @@
   .deal-body{padding:10px 10px 9px!important}
   .deal-tags{margin-bottom:4px!important}
   .deal-body h3{font-size:14px!important;line-height:1.22!important;margin-bottom:5px!important}
-  .deal-desktop-side{grid-template-columns:minmax(92px,1fr) minmax(150px,1.5fr)!important;column-gap:7px!important;row-gap:7px!important;align-items:center!important}
-  .desktop-discount{font-size:10px!important;padding:3px 7px!important}
-  .desktop-posted{font-size:8px!important}
-  .desktop-price{min-width:0;overflow:hidden;align-self:center!important}
-  .desktop-price strong{font-size:17px!important;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-  .desktop-price .old{font-size:9px!important}
-  .desktop-buy{min-height:42px!important;padding:7px 9px!important;border-radius:14px!important;font-size:0!important;gap:7px!important}
-  .desktop-buy::before{width:22px!important;height:22px!important;flex-basis:22px!important;background-size:17px 17px!important;border-radius:6px!important}
-  .desktop-buy::after{font-size:11px!important}
-  .mobile-amazon-buy-content{gap:7px!important}
-  .mobile-amazon-buy-content img{width:22px!important;height:22px!important;flex-basis:22px!important;border-radius:6px!important}
-  .mobile-amazon-buy-content span:last-child{font-size:11px!important}
+  .deal-desktop-side{grid-template-columns:minmax(0,1fr) minmax(0,1fr)!important;column-gap:7px!important;row-gap:7px!important;align-items:center!important;min-width:0!important}
+  .desktop-discount{font-size:10px!important;padding:3px 7px!important;min-width:0!important}
+  .desktop-posted{font-size:8px!important;min-width:0!important;overflow:hidden!important;text-overflow:ellipsis!important}
+  .desktop-price{min-width:0!important;max-width:100%!important;overflow:hidden!important;align-self:center!important}
+  .desktop-price strong{font-size:17px!important;max-width:100%!important;overflow:hidden!important;text-overflow:ellipsis!important;white-space:nowrap!important}
+  .desktop-price .old{font-size:9px!important;white-space:nowrap!important}
+  .desktop-buy{width:100%!important;max-width:100%!important;min-width:0!important;min-height:42px!important;padding:7px 8px!important;border-radius:14px!important;font-size:0!important;gap:6px!important;box-sizing:border-box!important;overflow:hidden!important}
+  .desktop-buy::before{width:22px!important;height:22px!important;flex:0 0 22px!important;background-size:17px 17px!important;border-radius:6px!important}
+  .desktop-buy::after{font-size:10px!important;white-space:nowrap!important}
+  .mobile-amazon-buy-content{gap:6px!important;min-width:0!important}
+  .mobile-amazon-buy-content img{width:22px!important;height:22px!important;flex:0 0 22px!important;border-radius:6px!important}
+  .mobile-amazon-buy-content span:last-child{font-size:10px!important;white-space:nowrap!important}
+
+  /* Hide any older single-button pagination and use the mobile pager below. */
+  #dealGrid ~ .pagination{display:none!important}
+  .mobile-deal-pagination{display:flex!important;justify-content:center!important;align-items:center!important;gap:8px!important;width:100%!important;margin:18px auto 4px!important;padding:0 8px!important;box-sizing:border-box!important;overflow-x:auto!important;scrollbar-width:none!important}
+  .mobile-deal-pagination::-webkit-scrollbar{display:none!important}
+  .mobile-page-number{width:42px!important;height:42px!important;flex:0 0 42px!important;padding:0!important;border:1px solid rgba(103,232,249,.20)!important;border-radius:13px!important;background:rgba(20,31,49,.72)!important;color:#dce7f7!important;font:800 14px/42px system-ui,sans-serif!important;text-align:center!important;box-shadow:inset 0 1px rgba(255,255,255,.07)!important}
+  .mobile-page-number.active{border-color:rgba(103,232,249,.75)!important;background:linear-gradient(135deg,#2187ff,#5141bd)!important;color:#fff!important;box-shadow:0 0 22px rgba(34,150,255,.28),inset 0 1px rgba(255,255,255,.22)!important}
+}
+
+@media (min-width: 561px) {
+  .mobile-deal-pagination{display:none!important}
 }
