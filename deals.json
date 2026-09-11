@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T04:06:19Z",
+  "updated_at": "2026-09-11T04:06:21Z",
   "deals": [
+    {
+      "title": "₹274 : Apply 45% coupon More:",
+      "price": 274,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G6F1FL6X?tag=2244005-21",
+      "posted_at": "2026-09-11T04:06:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0G6F1FL6X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G6F1FL6X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G6F1FL6X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon By Stovekraft 25Ltrs Oven @2972",
       "price": 2972,
