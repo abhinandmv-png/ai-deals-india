@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-09-11T08:54:59Z",
+  "updated_at": "2026-09-11T08:55:02Z",
   "deals": [
+    {
+      "title": "Apply Coupon On Storage Container Set.",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4y0LHyQ",
+      "posted_at": "2026-09-11T08:55:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495048.jpg"
+    },
     {
       "title": "Apply 46% Off Coupon - Gillete Mach 3 Razor @ 128 Apply 50% Off Coupon - Gillete Fusion 5 Razor @ 170",
       "price": 128,
