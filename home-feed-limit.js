@@ -31,15 +31,35 @@
       if (grid) grid.insertAdjacentElement('afterend', nav);
     }
     if (!nav || pages <= 1) { if (nav) nav.innerHTML = ''; return; }
-    const make = (n, label = String(n), active = false) => active ? `<span class="page-current" aria-current="page">${label}</span>` : `<a href="?page=${n}" aria-label="Go to deal page ${n}">${label}</a>`;
+
+    const mobile = window.matchMedia('(max-width: 560px)').matches;
+    const make = (n, label = String(n), active = false) => active
+      ? `<span class="page-current" aria-current="page">${label}</span>`
+      : `<a href="?page=${n}" aria-label="Go to deal page ${n}">${label}</a>`;
+
     const parts = [];
-    if (page > 1) parts.push(make(page - 1, '←'));
-    const start = Math.max(1, page - 2), end = Math.min(pages, page + 2);
-    if (start > 1) { parts.push(make(1)); if (start > 2) parts.push('<span class="page-dots">…</span>'); }
-    for (let n = start; n <= end; n++) parts.push(make(n, String(n), n === page));
-    if (end < pages) { if (end < pages - 1) parts.push('<span class="page-dots">…</span>'); parts.push(make(pages)); }
-    if (page < pages) parts.push(make(page + 1, '→'));
+    if (mobile) {
+      // Mobile gets every page number so no page is hidden behind an ellipsis.
+      for (let n = 1; n <= pages; n++) parts.push(make(n, String(n), n === page));
+    } else {
+      // Desktop keeps the compact existing pagination layout.
+      if (page > 1) parts.push(make(page - 1, '←'));
+      const start = Math.max(1, page - 2), end = Math.min(pages, page + 2);
+      if (start > 1) { parts.push(make(1)); if (start > 2) parts.push('<span class="page-dots">…</span>'); }
+      for (let n = start; n <= end; n++) parts.push(make(n, String(n), n === page));
+      if (end < pages) { if (end < pages - 1) parts.push('<span class="page-dots">…</span>'); parts.push(make(pages)); }
+      if (page < pages) parts.push(make(page + 1, '→'));
+    }
     nav.innerHTML = parts.join('');
     nav.dataset.total = total;
   }
+
+  window.addEventListener('resize', () => {
+    const nav = document.getElementById('dealPagination');
+    if (!nav) return;
+    const page = Math.max(1, parseInt(new URLSearchParams(location.search).get('page') || '1', 10) || 1);
+    const total = Number(nav.dataset.total || 0);
+    const pages = Math.max(1, Math.ceil(total / PER_PAGE));
+    renderPagination(Math.min(page, pages), pages, total);
+  }, {passive:true});
 })();
