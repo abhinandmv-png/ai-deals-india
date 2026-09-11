@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T16:55:00Z",
+  "updated_at": "2026-09-11T16:55:50Z",
   "deals": [
+    {
+      "title": "Grab : Nykaa Wanderlust Fine Fragrance Body and Hair Mistt (Pack of 3) @ Rs.730",
+      "price": 730,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GKFLNJPT?tag=2244005-21",
+      "posted_at": "2026-09-11T16:55:49Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144020.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GKFLNJPT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GKFLNJPT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". THE Indian Garage CO Men Shirt 553",
       "price": null,
