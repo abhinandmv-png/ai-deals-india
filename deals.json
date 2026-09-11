@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T04:36:21Z",
+  "updated_at": "2026-09-11T04:36:23Z",
   "deals": [
+    {
+      "title": "₹885 : - Apply 30% coupon More:",
+      "price": 885,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08L5ZTK6X?tag=2244005-21",
+      "posted_at": "2026-09-11T04:36:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_494977.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08L5ZTK6X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08L5ZTK6X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1999 Loot :",
       "price": null,
