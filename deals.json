@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T03:51:21Z",
+  "updated_at": "2026-09-11T03:51:24Z",
   "deals": [
+    {
+      "title": "₹116 : - Apply 28% coupon More:",
+      "price": 116,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBZZDBZF?tag=2244005-21",
+      "posted_at": "2026-09-11T03:51:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DBZZDBZF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBZZDBZF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBZZDBZF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@388",
       "price": 388,
