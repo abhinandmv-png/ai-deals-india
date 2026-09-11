@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T09:10:01Z",
+  "updated_at": "2026-09-11T09:21:26Z",
   "deals": [
+    {
+      "title": "CAHOOT Mens Co-Ord Set @359.",
+      "price": 359,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C3QYXB4L?tag=2244005-21",
+      "posted_at": "2026-09-11T09:21:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C3QYXB4L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C3QYXB4L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C3QYXB4L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "THE Indian Garage CO Men Shirt at ₹472",
       "price": 472,
