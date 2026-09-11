@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T00:59:18Z",
+  "updated_at": "2026-09-11T01:29:38Z",
   "deals": [
+    {
+      "title": "CELLO MF All in One Lunch Box with Bag at Rs.799.",
+      "price": 799,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGGDHWFG?tag=2244005-21",
+      "posted_at": "2026-09-11T01:29:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DGGDHWFG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGGDHWFG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGGDHWFG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Gentle Baby Shampoo,400 ml at Rs.237. Apply 5% coupon.",
       "price": 237,
