@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12T07:02:17Z",
+  "updated_at": "2026-09-12T07:02:19Z",
   "deals": [
+    {
+      "title": "Home Shopping Special Deal🔥 Home Shopping Products Deal Price: Min. Purchase of ₹500 💥 Offer: Get 10% Cashback Upto ₹200 (Collect Coupon) Collect Offer: Shop Here:",
+      "price": 500,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/3T0diBe",
+      "posted_at": "2026-09-12T07:02:10Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": "₹224 : - Apply 25% coupon More:",
       "price": 224,
