@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T07:04:39Z",
+  "updated_at": "2026-09-12T07:17:12Z",
   "deals": [
+    {
+      "title": "Hot Water Bag at Rs.199",
+      "price": 199,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DP6FY6KJ?tag=2244005-21",
+      "posted_at": "2026-09-12T07:17:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DP6FY6KJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DP6FY6KJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DP6FY6KJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "51% Off : Fevikwik Precision Pro 8 GM (Pack of 3) @153",
       "price": 153,
