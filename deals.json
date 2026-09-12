@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T18:37:06Z",
+  "updated_at": "2026-09-12T18:37:09Z",
   "deals": [
+    {
+      "title": "Apply 35% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "35% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B016I7CVZU?tag=2244005-21",
+      "posted_at": "2026-09-12T18:37:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B016I7CVZU.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B016I7CVZU.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B016I7CVZU.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Colorful LED Light-Up Toy Train for Kid 474₹",
       "price": null,
