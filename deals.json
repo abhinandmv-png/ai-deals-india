@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12T06:17:07Z",
+  "updated_at": "2026-09-12T06:17:10Z",
   "deals": [
+    {
+      "title": "Master Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/3UukGoW",
+      "posted_at": "2026-09-12T06:17:06Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": "Amazon Deal",
       "price": null,
