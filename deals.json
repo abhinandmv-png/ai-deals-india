@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T10:02:15Z",
+  "updated_at": "2026-09-12T10:02:18Z",
   "deals": [
+    {
+      "title": "@348",
+      "price": 348,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07YY7YPLT?tag=2244005-21",
+      "posted_at": "2026-09-12T10:02:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495312.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07YY7YPLT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07YY7YPLT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹50 : Apply 5% Off Coupon",
       "price": 50,
