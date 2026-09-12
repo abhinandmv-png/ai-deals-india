@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T14:19:40Z",
+  "updated_at": "2026-09-12T14:19:43Z",
   "deals": [
+    {
+      "title": "Upto 88% Off on BISSELL Wet & Dry Vacums Cleaners + 10% Bank Offer Portable Carpet Cleaner @ Rs.5,990 Corded with HydroSteam @ Rs.29,750",
+      "price": 5990,
+      "original_price": 49917,
+      "category": "Grocery",
+      "badge": "88% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1YW9T8N?tag=2244005-21",
+      "posted_at": "2026-09-12T14:19:39Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F1YW9T8N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1YW9T8N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1YW9T8N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Creatine Monohydrate [83 Servings, Unflavoured] at Rs.730",
       "price": 730,
