@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T15:17:13Z",
+  "updated_at": "2026-09-12T15:19:42Z",
   "deals": [
+    {
+      "title": "Newly Launched : Upto 75% off on boAt Airdopes Spatial Audio + 60 Hrs Battery at Rs.1,099 Quad Mics + 13mm Drivers at Rs.1,199 Quad Mics + 11mm Drivers at Rs.1,499 :",
+      "price": 1099,
+      "original_price": 4396,
+      "category": "Shopping",
+      "badge": "75% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXBG2MNF?tag=2244005-21",
+      "posted_at": "2026-09-12T15:19:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GXBG2MNF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXBG2MNF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXBG2MNF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Levi's Clothing 🔥 Men's : Women's : Jeans :",
       "price": null,
