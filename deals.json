@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T04:01:16Z",
+  "updated_at": "2026-09-12T04:01:18Z",
   "deals": [
+    {
+      "title": "Ceramic Bowl Set Of 2, 750ml Each @683. 731 : • Apply 30% Off Coupon",
+      "price": 683,
+      "original_price": 976,
+      "category": "Shopping",
+      "badge": "30% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CYH8H4MM?tag=2244005-21",
+      "posted_at": "2026-09-12T04:01:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495211.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CYH8H4MM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CYH8H4MM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Get Rs.100-300 Cashback On Fresh Orders. Collect Fresh Cashback Offers : Best Deal Suggestions Fresh Home Page (Buy) : Product Starts @1 :",
       "price": 100,
