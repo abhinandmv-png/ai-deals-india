@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-12T14:19:43Z",
+  "updated_at": "2026-09-12T14:32:11Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4yEUsih",
+      "posted_at": "2026-09-12T14:32:10Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": "Upto 88% Off on BISSELL Wet & Dry Vacums Cleaners + 10% Bank Offer Portable Carpet Cleaner @ Rs.5,990 Corded with HydroSteam @ Rs.29,750",
       "price": 5990,
