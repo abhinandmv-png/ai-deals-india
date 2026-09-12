@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T11:32:10Z",
+  "updated_at": "2026-09-12T11:47:12Z",
   "deals": [
+    {
+      "title": "Havells Trim Surface Panel 20W RD 3IN1 545",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTTV15WP?tag=2244005-21",
+      "posted_at": "2026-09-12T11:47:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GTTV15WP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTTV15WP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTTV15WP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Del Monte Tomato Ketchup - 900g 90₹",
       "price": null,
