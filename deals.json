@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-11T19:35:08Z",
+  "updated_at": "2026-09-12T01:50:13Z",
   "deals": [
+    {
+      "title": "71% Off : Dove Body Wash, 1 L at Rs.271💥 Link :",
+      "price": 271,
+      "original_price": 934,
+      "category": "Shopping",
+      "badge": "71% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHV82T31?tag=2244005-21",
+      "posted_at": "2026-09-12T01:50:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495181.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHV82T31.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". SanDisk 1 TB SSD 27,169₹ : 35,389₹ :",
       "price": null,
