@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T14:02:15Z",
+  "updated_at": "2026-09-12T14:06:34Z",
   "deals": [
+    {
+      "title": "999",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGHJJXCB?tag=2244005-21",
+      "posted_at": "2026-09-12T14:06:33Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GGHJJXCB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGHJJXCB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGHJJXCB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Philips HL7759/00 Mixer Grinder 🔥 4,499₹",
       "price": null,
