@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T08:17:13Z",
+  "updated_at": "2026-09-12T08:17:16Z",
   "deals": [
+    {
+      "title": "@254",
+      "price": 254,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4RK1WCG?tag=2244005-21",
+      "posted_at": "2026-09-12T08:17:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495288.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4RK1WCG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4RK1WCG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥 @259 Other colour costs more 🔥",
       "price": 259,
