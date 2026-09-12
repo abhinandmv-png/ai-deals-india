@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T09:47:12Z",
+  "updated_at": "2026-09-12T09:47:15Z",
   "deals": [
+    {
+      "title": "₹1,389 : More:",
+      "price": 1389,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRYDNFYL?tag=2244005-21",
+      "posted_at": "2026-09-12T09:47:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495308.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRYDNFYL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRYDNFYL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@978",
       "price": 978,
