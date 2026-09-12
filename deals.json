@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T15:19:42Z",
+  "updated_at": "2026-09-12T15:32:13Z",
   "deals": [
+    {
+      "title": "🔥🔥 1,349₹ HP H250 Wireless Earbuds; Upto 80 Hours Playtime",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM3MJCF3?tag=2244005-21",
+      "posted_at": "2026-09-12T15:32:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495372.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM3MJCF3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM3MJCF3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Newly Launched : Upto 75% off on boAt Airdopes Spatial Audio + 60 Hrs Battery at Rs.1,099 Quad Mics + 13mm Drivers at Rs.1,199 Quad Mics + 11mm Drivers at Rs.1,499 :",
       "price": 1099,
