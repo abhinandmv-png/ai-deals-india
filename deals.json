@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T07:17:15Z",
+  "updated_at": "2026-09-12T07:32:07Z",
   "deals": [
+    {
+      "title": "₹255 :",
+      "price": 255,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVNFL3XS?tag=2244005-21",
+      "posted_at": "2026-09-12T07:32:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CVNFL3XS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVNFL3XS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVNFL3XS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹337 : More:",
       "price": 337,
