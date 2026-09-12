@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-09-12T06:32:19Z",
+  "updated_at": "2026-09-12T06:47:11Z",
   "deals": [
+    {
+      "title": "@608",
+      "price": 608,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4r8Vb8D",
+      "posted_at": "2026-09-12T06:47:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495258.jpg"
+    },
     {
       "title": "623 : 254 : 1178 : Apply coupon",
       "price": null,
