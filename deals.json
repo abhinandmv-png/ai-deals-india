@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T16:34:39Z",
+  "updated_at": "2026-09-12T16:47:11Z",
   "deals": [
+    {
+      "title": "Stainless Steel Lunch Box 714 Apply 30% coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08CTNFCL8?tag=2244005-21",
+      "posted_at": "2026-09-12T16:47:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08CTNFCL8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08CTNFCL8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08CTNFCL8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Back In Stock | Apple iPhone 18 Pro",
       "price": null,
