@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T09:49:42Z",
+  "updated_at": "2026-09-12T10:02:15Z",
   "deals": [
+    {
+      "title": "₹50 : Apply 5% Off Coupon",
+      "price": 50,
+      "original_price": 53,
+      "category": "Shopping",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFMSQGKS?tag=2244005-21",
+      "posted_at": "2026-09-12T10:02:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DFMSQGKS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFMSQGKS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFMSQGKS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Get Rs.100-300 Cashback On Fresh Orders Collect Fresh Cashback Offers : Best Deal Suggestions Fresh Home Page (Buy) : Product Starts at ₹1 :",
       "price": 100,
