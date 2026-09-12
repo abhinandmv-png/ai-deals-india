@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-12T07:02:26Z",
+  "updated_at": "2026-09-12T07:04:39Z",
   "deals": [
+    {
+      "title": "51% Off : Fevikwik Precision Pro 8 GM (Pack of 3) @153",
+      "price": 153,
+      "original_price": 312,
+      "category": "Shopping",
+      "badge": "51% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLDWYBPD?tag=2244005-21",
+      "posted_at": "2026-09-12T07:04:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FLDWYBPD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLDWYBPD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLDWYBPD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹4,367 : - Apply 4% coupon More:",
       "price": 4367,
