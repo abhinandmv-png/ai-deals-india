@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-13T07:28:48Z",
+  "updated_at": "2026-09-13T08:04:42Z",
   "deals": [
+    {
+      "title": "Upto 80% off on Pepe Jeans clothing",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4h0TSUK",
+      "posted_at": "2026-09-13T08:04:41Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "Upto 70% off on Cookies. Unibic : Sunfeast : Kwality : Dukes Waffy Rolls : Bikano : Bikaji :",
       "price": null,
