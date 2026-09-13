@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T16:53:57Z",
+  "updated_at": "2026-09-13T16:54:00Z",
   "deals": [
+    {
+      "title": ". Geonix 8GB MicroSDXC, 150MB/s Read, 70MB/s Write, Memory Card 234",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F544QFQX?tag=2244005-21",
+      "posted_at": "2026-09-13T16:53:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495584.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F544QFQX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F544QFQX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". 526 More :",
       "price": null,
