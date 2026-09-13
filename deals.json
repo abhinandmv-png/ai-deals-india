@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T19:25:02Z",
+  "updated_at": "2026-09-13T19:39:58Z",
   "deals": [
+    {
+      "title": "iPad 11\" A16 43,999 Pay with SBI/ICICI/AXIS Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZ7B7HT9?tag=2244005-21",
+      "posted_at": "2026-09-13T19:39:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DZ7B7HT9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZ7B7HT9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZ7B7HT9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 💥💥💥 6,690₹ 500₹ Coupon + Bank Offer Sony ULT Field 1 Bluetooth Speaker, 30W Massive Bass, 12 Hrs Playtime",
       "price": 500,
