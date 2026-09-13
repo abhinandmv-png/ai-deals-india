@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T06:13:38Z",
+  "updated_at": "2026-09-13T06:13:40Z",
   "deals": [
+    {
+      "title": "Samsung Original 25W USB Type-C Travel Adaptor @533₹",
+      "price": 533,
+      "original_price": 25,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2R26HFV?tag=2244005-21",
+      "posted_at": "2026-09-13T06:13:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2R26HFV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Mivi DuoPods Roar (New Launch) 13mm AAC Audio Tech | AI-ENC | Dual Mic | 5.3 Bluetooth Ear Buds | 70Hrs Battery | Fast Charge | IPX4 | Low Latency | Gaming Earbuds Deal: 873₹(Cashback)",
       "price": null,
