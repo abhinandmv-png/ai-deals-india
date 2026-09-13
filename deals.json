@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-13T19:39:58Z",
+  "updated_at": "2026-09-13T19:40:01Z",
   "deals": [
+    {
+      "title": ". REEBOK Clothing 🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4AipTk7",
+      "posted_at": "2026-09-13T19:39:58Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": "iPad 11\" A16 43,999 Pay with SBI/ICICI/AXIS Credit Card",
       "price": null,
