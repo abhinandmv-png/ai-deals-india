@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T13:19:44Z",
+  "updated_at": "2026-09-13T13:34:44Z",
   "deals": [
+    {
+      "title": "AmazonBasics Wireless Keyboard + Mouse @579.",
+      "price": 579,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GRV123VH?tag=2244005-21",
+      "posted_at": "2026-09-13T13:34:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GRV123VH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GRV123VH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GRV123VH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Park Avenue Allure Women EDP 100ml @263",
       "price": 263,
