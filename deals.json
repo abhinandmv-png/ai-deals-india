@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T03:13:35Z",
+  "updated_at": "2026-09-13T03:19:44Z",
   "deals": [
+    {
+      "title": "**51%** Off : Himalaya Baby Gift Pack (7 items) @ Rs.372",
+      "price": 372,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZNVCTBX?tag=2244005-21",
+      "posted_at": "2026-09-13T03:19:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CZNVCTBX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZNVCTBX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZNVCTBX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Ernesto Inner Stainless Steel Jr. Casserole Set Of 3 @754₹(With Cashback) Available in 2 Colours",
       "price": 754,
