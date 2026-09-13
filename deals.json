@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T17:09:00Z",
+  "updated_at": "2026-09-13T17:09:03Z",
   "deals": [
+    {
+      "title": "Grab 🔥 1,102₹ Vega Ranger DX Revenge Full Face Motorcycle Helmet",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMVH1WXX?tag=2244005-21",
+      "posted_at": "2026-09-13T17:08:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495587.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMVH1WXX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMVH1WXX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Acer Smartchoice Aspire One, AMD Ryzen 5-40, 8GB LPDDR5 RAM/ 256GB SSD 44,990₹",
       "price": null,
