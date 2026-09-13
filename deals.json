@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T08:04:42Z",
+  "updated_at": "2026-09-13T08:06:37Z",
   "deals": [
+    {
+      "title": "70% Off : Smart And Handsome Face Wash 150g @113.",
+      "price": 113,
+      "original_price": 377,
+      "category": "Shopping",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5YRHFYN?tag=2244005-21",
+      "posted_at": "2026-09-13T08:06:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D5YRHFYN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5YRHFYN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5YRHFYN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 80% off on Pepe Jeans clothing",
       "price": null,
