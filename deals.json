@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-13T06:43:40Z",
+  "updated_at": "2026-09-13T06:58:38Z",
   "deals": [
+    {
+      "title": "Amazon Brand - Presto! Spin Mop with Plastic Bucket Set, Blue @531₹(With Cashback)",
+      "price": 531,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B396SW89?tag=2244005-21",
+      "posted_at": "2026-09-13T06:58:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495462.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B396SW89.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B396SW89.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zebronics Premium Gaming Cabinet, Mid-Tower, mATX, mini-ITX,4 ARGB LED Fans,Upto 360mm Front & 240mm Top AIO, Side Tempered Glass,Front Mesh Design, USB 3.0, 2X USB Port(Zyro, Black) @2910₹(Cashback)",
       "price": 2910,
