@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T11:17:38Z",
+  "updated_at": "2026-09-14T11:17:41Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 666₹ FUR JADEN Anti Theft Backpack 15.6 Inch Laptop Bag with USB Charging Port For Men Women Boys Girls",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B078GLXMDY?tag=2244005-21",
+      "posted_at": "2026-09-14T11:17:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B078GLXMDY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B078GLXMDY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B078GLXMDY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "47",
       "price": null,
@@ -7657,22 +7673,6 @@
         "https://m.media-amazon.com/images/P/B0FXX1XRWJ.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-07T06:40:46Z"
-    },
-    {
-      "title": "CELLO 3-piece Cookware Set with Glass Lid, 3L, 1.5L, 2L for ₹1,085.",
-      "price": 1085,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G39TQ4H6?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0G39TQ4H6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G39TQ4H6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G39TQ4H6.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-07T06:10:46Z"
     }
   ]
 }
