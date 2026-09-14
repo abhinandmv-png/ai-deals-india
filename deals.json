@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T08:02:43Z",
+  "updated_at": "2026-09-14T08:02:47Z",
   "deals": [
+    {
+      "title": "₹475 : More:",
+      "price": 475,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CNT9D5KV?tag=2244005-21",
+      "posted_at": "2026-09-14T08:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495724.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CNT9D5KV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CNT9D5KV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gear Vintage2 Anti Theft Faux Leather 28 Ltrs Brown Laptop Backpack @ Rs.879 Apply 3% Off Coupon",
       "price": 879,
@@ -7672,22 +7688,6 @@
         "https://m.media-amazon.com/images/P/B09Q4LRQQ8.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-05T02:25:03Z"
-    },
-    {
-      "title": "Axe Deo 215ml @104.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09264ZY38?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B09264ZY38.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09264ZY38.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09264ZY38.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-04T17:39:57Z"
     }
   ]
 }
