@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T14:02:40Z",
+  "updated_at": "2026-09-14T14:47:37Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Clean Plant Protein 30g Pea & Rice (1kg, Unflavoured) at Rs.999",
+      "price": 999,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H8SDMDV7?tag=2244005-21",
+      "posted_at": "2026-09-14T14:47:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H8SDMDV7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H8SDMDV7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H8SDMDV7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "471 More :",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGGDHWFG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGGDHWFG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Himalaya Gentle Baby Shampoo,400 ml at Rs.237. Apply 5% coupon.",
-      "price": 237,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00H5NMNXC?tag=2244005-21",
-      "posted_at": "2026-09-11T00:59:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00H5NMNXC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00H5NMNXC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00H5NMNXC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
