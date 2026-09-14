@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T11:47:45Z",
+  "updated_at": "2026-09-14T11:47:49Z",
   "deals": [
+    {
+      "title": ". Grab 💥 509₹ SPARX Men's Sandal More :",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08FTXVHNN?tag=2244005-21",
+      "posted_at": "2026-09-14T11:47:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495774.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08FTXVHNN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08FTXVHNN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 2,499₹ 300₹ Coupon Polycab Wizzy Vibe 1200mm 5-Star BLDC Ceiling fan for Home with Remote",
       "price": 300,
@@ -7666,17 +7682,6 @@
       "note": "Check Amazon for the latest price, availability and delivery details.",
       "url": "https://www.amazon.in/dp/B083FFZPXH?tag=2244005-21",
       "posted_at": "2026-09-10T19:11:52Z",
-      "source": "TechFactsDeals"
-    },
-    {
-      "title": ". Belkin 20000 mAh Powerbank 🔥 1,699₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NTNMXL8?tag=2244005-21",
-      "posted_at": "2026-09-10T19:11:51Z",
       "source": "TechFactsDeals"
     }
   ]
