@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T08:47:42Z",
+  "updated_at": "2026-09-14T09:02:44Z",
   "deals": [
+    {
+      "title": "Apply ₹790 Off Coupon",
+      "price": 790,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1GXX6SQ?tag=2244005-21",
+      "posted_at": "2026-09-14T09:02:35Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H1GXX6SQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1GXX6SQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1GXX6SQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "4572 : Coupon",
       "price": null,
@@ -7672,22 +7688,6 @@
         "https://m.media-amazon.com/images/P/B0GYJ1YCY6.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-05T12:55:11Z"
-    },
-    {
-      "title": "65% Off : Lakme 9to5 Hya Matte Cushion Foundation @ Rs.352",
-      "price": 352,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "65% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GGBQMT9K?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GGBQMT9K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GGBQMT9K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GGBQMT9K.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-05T04:25:05Z"
     }
   ]
 }
