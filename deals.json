@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14T07:17:52Z",
+  "updated_at": "2026-09-14T07:19:46Z",
   "deals": [
+    {
+      "title": "Upto 75% Off On Bata Footwear. Women's : Men's :",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "75% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4xTveN5",
+      "posted_at": "2026-09-14T07:19:46Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "₹199 : More:",
       "price": 199,
@@ -7687,22 +7698,6 @@
         "https://m.media-amazon.com/images/P/B0GCNSBMR3.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-04T06:24:49Z"
-    },
-    {
-      "title": "Pigeon 1200W Air Fryer, 3.3L @ Rs.2362",
-      "price": 2362,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCBWN172?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FCBWN172.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCBWN172.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCBWN172.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-04T03:48:48Z"
     }
   ]
 }
