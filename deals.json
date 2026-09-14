@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T08:47:39Z",
+  "updated_at": "2026-09-14T08:47:42Z",
   "deals": [
+    {
+      "title": "4572 : Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GJ5KGGGW?tag=2244005-21",
+      "posted_at": "2026-09-14T08:47:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495732.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GJ5KGGGW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GJ5KGGGW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fast Apply ₹2490 Off Coupon",
       "price": 2490,
@@ -7672,22 +7688,6 @@
         "https://m.media-amazon.com/images/P/B0GGBQMT9K.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-05T04:25:05Z"
-    },
-    {
-      "title": "Larah by Borosil Dinner Set 31Pcs @1647",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MJ7CXZ?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0C7MJ7CXZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MJ7CXZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MJ7CXZ.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-05T03:45:18Z"
     }
   ]
 }
