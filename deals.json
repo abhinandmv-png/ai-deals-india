@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T13:47:38Z",
+  "updated_at": "2026-09-14T14:02:40Z",
   "deals": [
+    {
+      "title": "471 More :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTZLKTQV?tag=2244005-21",
+      "posted_at": "2026-09-14T14:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495797.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTZLKTQV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTZLKTQV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 💥 271₹",
       "price": null,
@@ -7692,17 +7708,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B00H5NMNXC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00H5NMNXC.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 75% Off On Beauty Products. Lakme : Pond's : Biotique : Vaseline : Garnier : LUX : Parachute : Dove : Fiama : Pantene : Head & Shoulder : Master Link : Suggestions👇. Shampoo : Body Lotion : Hair Oil : Skincare : Per",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3PgtybT",
-      "posted_at": "2026-09-11T00:44:39Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
