@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T11:47:40Z",
+  "updated_at": "2026-09-14T11:47:45Z",
   "deals": [
+    {
+      "title": "🔥🔥 2,499₹ 300₹ Coupon Polycab Wizzy Vibe 1200mm 5-Star BLDC Ceiling fan for Home with Remote",
+      "price": 300,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCVJ92ZN?tag=2244005-21",
+      "posted_at": "2026-09-14T11:47:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HCVJ92ZN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCVJ92ZN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCVJ92ZN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fresh Loot : Chicken Winglets, 500g @49. More : Bengaluru Available | Buy Max Qty",
       "price": 49,
@@ -7662,22 +7678,6 @@
       "url": "https://www.amazon.in/dp/B09NTNMXL8?tag=2244005-21",
       "posted_at": "2026-09-10T19:11:51Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "TIMEX Analog Watch for Women @ Rs.1758",
-      "price": 1758,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09W2DKTW4?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B09W2DKTW4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09W2DKTW4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09W2DKTW4.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-10T03:18:15+00:00"
     }
   ]
 }
