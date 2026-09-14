@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T12:17:40Z",
+  "updated_at": "2026-09-14T13:02:38Z",
   "deals": [
+    {
+      "title": ". Big LOOOT 🔥 Apply ₹2500 coupon",
+      "price": 2500,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3F1MRLB?tag=2244005-21",
+      "posted_at": "2026-09-14T13:02:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495788.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3F1MRLB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3F1MRLB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Upto 45% Off on Genus Inverter + 10% Bank offer 1000 VA | 1280Wh Li-ion Battery @ Rs.33,799 2400 VA | 2560Wh Li-ion Battery @ Rs.59,999",
       "price": 33799,
@@ -7687,17 +7703,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B00HHQASW0.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00HHQASW0.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "**Upto 75% Off On Beauty Products. ** **Lakme : ** Pond's :** **Biotique : ** **Vaseline :** **Garnier : ** **LUX : ** **Parachute : ** **Dove : ** **Fiama : ** **Pantene : ** **Head & Shoulder : ** **Master Link : ** **",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4gSHbti**",
-      "posted_at": "2026-09-10T20:29:39Z",
-      "source": "Premium Deals"
     }
   ]
 }
