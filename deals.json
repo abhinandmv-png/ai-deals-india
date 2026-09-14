@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T13:02:38Z",
+  "updated_at": "2026-09-14T13:32:37Z",
   "deals": [
+    {
+      "title": "895",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B078G9SY4H?tag=2244005-21",
+      "posted_at": "2026-09-14T13:32:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B078G9SY4H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B078G9SY4H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B078G9SY4H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Big LOOOT 🔥 Apply ₹2500 coupon",
       "price": 2500,
@@ -7686,22 +7702,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/ixwjeTzLql.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/ixwjeTzLql.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PHILIPS 9-Watts LED bulb at Rs.48.",
-      "price": 48,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00HHQASW0?tag=2244005-21",
-      "posted_at": "2026-09-11T00:44:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00HHQASW0.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00HHQASW0.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00HHQASW0.01.LZZZZZZZ.jpg"
       ]
     }
   ]
