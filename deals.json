@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T11:02:43Z",
+  "updated_at": "2026-09-14T11:02:47Z",
   "deals": [
+    {
+      "title": "11,799₹ More :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C8RNTN6J?tag=2244005-21",
+      "posted_at": "2026-09-14T11:02:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C8RNTN6J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C8RNTN6J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C8RNTN6J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 💥 1,800₹ SANDISK Ultra Dual Drive Go Type-C 128GB, OTG, Upto 400MB/s, Pendrive, Navagio Bay, 5Y Warranty (SDDDC3-128G-146NPD)",
       "price": null,
@@ -7662,22 +7678,6 @@
         "https://m.media-amazon.com/images/P/B0GGBPN5VP.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-07T03:40:43Z"
-    },
-    {
-      "title": "Larah By Borosil Lavender Opalware Floral Dinner Set, 10 -Piece @ Rs.595",
-      "price": 595,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TLD1M4J?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B07TLD1M4J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TLD1M4J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TLD1M4J.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-07T03:10:43Z"
     }
   ]
 }
