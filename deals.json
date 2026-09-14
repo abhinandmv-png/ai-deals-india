@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T02:32:36Z",
+  "updated_at": "2026-09-14T02:55:01Z",
   "deals": [
+    {
+      "title": "Looooooot 🔥 Michael Kors Women's Watch @9,503. Other colours costs more 🔥🔥",
+      "price": 9503,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079XPH8QG?tag=2244005-21",
+      "posted_at": "2026-09-14T02:55:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495627.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079XPH8QG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079XPH8QG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "515",
       "price": null,
