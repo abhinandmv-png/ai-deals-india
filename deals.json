@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14T06:17:44Z",
+  "updated_at": "2026-09-14T06:32:37Z",
   "deals": [
+    {
+      "title": "👆more :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4hqHm29",
+      "posted_at": "2026-09-14T06:32:36Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": "₹400 : More:",
       "price": 400,
@@ -7701,22 +7712,6 @@
         "https://m.media-amazon.com/images/P/B0FHBCBJ6P.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-03T09:39:25Z"
-    },
-    {
-      "title": "Reebok Men Sweatshirt at 750.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZRN28X2?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0CZRN28X2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZRN28X2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZRN28X2.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-03T07:39:23Z"
     }
   ]
 }
