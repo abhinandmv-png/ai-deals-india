@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T09:21:45Z",
+  "updated_at": "2026-09-14T09:21:48Z",
   "deals": [
+    {
+      "title": "Halonix B22 0.5-Watt Led Night Bulb (Pack of 10) @178.",
+      "price": 178,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CXXWQ71V?tag=2244005-21",
+      "posted_at": "2026-09-14T09:21:45Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CXXWQ71V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CXXWQ71V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CXXWQ71V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply Coupon On Havells Products.",
       "price": null,
@@ -7667,22 +7683,6 @@
         "https://m.media-amazon.com/images/P/B0FXWWSPX5.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-05T17:25:16Z"
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B1M86YD9?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0B1M86YD9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B1M86YD9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B1M86YD9.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-05T15:55:14Z"
     }
   ]
 }
