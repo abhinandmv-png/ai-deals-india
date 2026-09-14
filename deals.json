@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T04:02:44Z",
+  "updated_at": "2026-09-14T04:02:48Z",
   "deals": [
+    {
+      "title": "₹581 :",
+      "price": 581,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GCKH12VP?tag=2244005-21",
+      "posted_at": "2026-09-14T04:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495651.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GCKH12VP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GCKH12VP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥 VW Visio World 8.5 kg semiautomatic Top Load Washer Only with Powerful Wash, V8 Supreme-Wash, Black/Grey @5199 Reg : 6899",
       "price": 5199,
