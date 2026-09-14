@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T09:32:40Z",
+  "updated_at": "2026-09-14T09:32:44Z",
   "deals": [
+    {
+      "title": "Lowest : MILTON Pro Hard Anodized Non-Stick Fry Pan @751.",
+      "price": 751,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09CVC2K6W?tag=2244005-21",
+      "posted_at": "2026-09-14T09:32:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495744.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09CVC2K6W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09CVC2K6W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Men’s Briefs (Pack of 2) at Rs.273",
       "price": 273,
@@ -7667,22 +7683,6 @@
         "https://m.media-amazon.com/images/P/B0CJ3PHPGP.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-06T04:10:23Z"
-    },
-    {
-      "title": "Aristocrat Airpro Set of 2 Trolley Bags @2899",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C5DM5GVC?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0C5DM5GVC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C5DM5GVC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C5DM5GVC.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-06T02:25:21Z"
     }
   ]
 }
