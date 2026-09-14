@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T09:02:44Z",
+  "updated_at": "2026-09-14T09:02:48Z",
   "deals": [
+    {
+      "title": "🔥🔥 Apply ₹890 Off Coupon",
+      "price": 890,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS99B2LR?tag=2244005-21",
+      "posted_at": "2026-09-14T09:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495737.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS99B2LR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS99B2LR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply ₹790 Off Coupon",
       "price": 790,
@@ -7672,22 +7688,6 @@
         "https://m.media-amazon.com/images/P/B0D45B9TB9.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-05T13:25:12Z"
-    },
-    {
-      "title": "AGARO Regency 26cm Triply Stainless Steel Fry Pan with Lid, 2.3L for ₹1,454.",
-      "price": 1454,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYJ1YCY6?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GYJ1YCY6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYJ1YCY6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYJ1YCY6.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-05T12:55:11Z"
     }
   ]
 }
