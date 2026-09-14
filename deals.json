@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T07:17:41Z",
+  "updated_at": "2026-09-14T07:17:44Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKZ7FK87?tag=2244005-21",
+      "posted_at": "2026-09-14T07:17:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495712.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKZ7FK87.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKZ7FK87.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Min. 50% Off On Larah by Borosil Dinner Sets.",
       "price": null,
@@ -7691,22 +7707,6 @@
         "https://m.media-amazon.com/images/P/B07XW91NX8.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-03T17:18:40Z"
-    },
-    {
-      "title": "Grab : Earth Rhythm pH Glass Lip & Cheek Tint @ Rs.211",
-      "price": 211,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D6W7KK19?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0D6W7KK19.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D6W7KK19.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D6W7KK19.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-03T16:48:39Z"
     }
   ]
 }
