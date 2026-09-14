@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T10:17:46Z",
+  "updated_at": "2026-09-14T10:32:38Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 2,249₹ ZEBRONICS Mercury Premium Gaming Chassis with Support for mATX",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZ4DKJ6Z?tag=2244005-21",
+      "posted_at": "2026-09-14T10:32:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495754.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZ4DKJ6Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZ4DKJ6Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "100 More :",
       "price": null,
@@ -7662,22 +7678,6 @@
         "https://m.media-amazon.com/images/P/B0GYYHQX1K.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-06T13:25:32Z"
-    },
-    {
-      "title": "Upto 52% Off on Baidyanath Trusoul Honey & Chyawanprash",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "52% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GF2FPD7T?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GF2FPD7T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GF2FPD7T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GF2FPD7T.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-06T13:10:31Z"
     }
   ]
 }
