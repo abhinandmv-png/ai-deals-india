@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T10:47:44Z",
+  "updated_at": "2026-09-14T11:02:38Z",
   "deals": [
+    {
+      "title": ". Amazon Basics 1700W Heat Gun 🔥 756₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4DMFBHD?tag=2244005-21",
+      "posted_at": "2026-09-14T11:02:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495761.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4DMFBHD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4DMFBHD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Biggest LOOTT 💥 1₹ Try Your Luck 😜",
       "price": null,
@@ -7662,22 +7678,6 @@
         "https://m.media-amazon.com/images/P/B0BN8K1QWB.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-06T15:55:33Z"
-    },
-    {
-      "title": "42% off : KeshKing Gold Hair Growth Serum (30ml) for Men & Women @ ₹369 + Apply Coupon",
-      "price": 369,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "42% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLQ4135Z?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FLQ4135Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLQ4135Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLQ4135Z.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-06T15:25:33Z"
     }
   ]
 }
