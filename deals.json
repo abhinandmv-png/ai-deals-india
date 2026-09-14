@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T02:55:01Z",
+  "updated_at": "2026-09-14T02:55:04Z",
   "deals": [
+    {
+      "title": "Pre Order : iPhone 18 Pro 256 GB at Rs.1,64,900",
+      "price": 164900,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJBCGNFM?tag=2244005-21",
+      "posted_at": "2026-09-14T02:55:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HJBCGNFM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJBCGNFM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJBCGNFM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Looooooot 🔥 Michael Kors Women's Watch @9,503. Other colours costs more 🔥🔥",
       "price": 9503,
