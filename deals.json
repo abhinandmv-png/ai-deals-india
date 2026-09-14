@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T10:32:41Z",
+  "updated_at": "2026-09-14T10:47:40Z",
   "deals": [
+    {
+      "title": "88",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DHD7PKJH?tag=2244005-21",
+      "posted_at": "2026-09-14T10:47:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DHD7PKJH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DHD7PKJH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DHD7PKJH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 350₹ PHILIPS FlexiShine 5 Meter Plug n Play LED Rope Light (Pink) - Waterproof (IP65 Rated) and Flexible",
       "price": null,
@@ -7662,22 +7678,6 @@
         "https://m.media-amazon.com/images/P/B0GHRMQFBR.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-06T14:40:34Z"
-    },
-    {
-      "title": "Upto 51% Off on Milton Digital Air Fryers 4.2L (1450W) at Rs.3199",
-      "price": 4.2,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "51% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DNQYFJMQ?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0DNQYFJMQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DNQYFJMQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DNQYFJMQ.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-06T13:40:32Z"
     }
   ]
 }
