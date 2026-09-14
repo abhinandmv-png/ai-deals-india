@@ -1,6 +1,18 @@
 {
-  "updated_at": "2026-09-14T04:47:49Z",
+  "updated_at": "2026-09-14T05:02:38Z",
   "deals": [
+    {
+      "title": "Upto 85% Off On French Connection Watch",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "85% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4u5z979",
+      "posted_at": "2026-09-14T05:02:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495675.jpg"
+    },
     {
       "title": "₹849 : More:",
       "price": 849,
