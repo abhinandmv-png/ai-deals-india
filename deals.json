@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T12:17:37Z",
+  "updated_at": "2026-09-14T12:17:40Z",
   "deals": [
+    {
+      "title": "Grab : Upto 45% Off on Genus Inverter + 10% Bank offer 1000 VA | 1280Wh Li-ion Battery @ Rs.33,799 2400 VA | 2560Wh Li-ion Battery @ Rs.59,999",
+      "price": 33799,
+      "original_price": 61453,
+      "category": "Shopping",
+      "badge": "45% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CW3DJYNX?tag=2244005-21",
+      "posted_at": "2026-09-14T12:17:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CW3DJYNX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CW3DJYNX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CW3DJYNX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "86",
       "price": null,
@@ -7682,17 +7698,6 @@
       "url": "https://amzn.to/4gSHbti**",
       "posted_at": "2026-09-10T20:29:39Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": ". Casio Watch 🔥 597₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0095T72M6?tag=2244005-21",
-      "posted_at": "2026-09-10T19:26:53Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
