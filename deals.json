@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T11:17:41Z",
+  "updated_at": "2026-09-14T11:17:44Z",
   "deals": [
+    {
+      "title": "175",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDKKWD9K?tag=2244005-21",
+      "posted_at": "2026-09-14T11:17:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495766.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDKKWD9K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDKKWD9K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 666₹ FUR JADEN Anti Theft Backpack 15.6 Inch Laptop Bag with USB Charging Port For Men Women Boys Girls",
       "price": null,
@@ -7657,22 +7673,6 @@
         "https://m.media-amazon.com/images/P/B0GHR3DQT8.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-07T10:50:27+00:00"
-    },
-    {
-      "title": "Maharaja Whiteline 25L Water Heater for ₹4989.",
-      "price": 4989,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "21% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXX1XRWJ?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0FXX1XRWJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXX1XRWJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXX1XRWJ.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-07T06:40:46Z"
     }
   ]
 }
