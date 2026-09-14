@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T10:32:38Z",
+  "updated_at": "2026-09-14T10:32:41Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 350₹ PHILIPS FlexiShine 5 Meter Plug n Play LED Rope Light (Pink) - Waterproof (IP65 Rated) and Flexible",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09HR1LQ42?tag=2244005-21",
+      "posted_at": "2026-09-14T10:32:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09HR1LQ42.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09HR1LQ42.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09HR1LQ42.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 2,249₹ ZEBRONICS Mercury Premium Gaming Chassis with Support for mATX",
       "price": null,
@@ -7662,22 +7678,6 @@
         "https://m.media-amazon.com/images/P/B0DNQYFJMQ.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-06T13:40:32Z"
-    },
-    {
-      "title": "Upto 67% Off on Portronics Wireless Mouse Upgrade Your Desk Setup",
-      "price": 599,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYYHQX1K?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GYYHQX1K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYYHQX1K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYYHQX1K.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-06T13:25:32Z"
     }
   ]
 }
