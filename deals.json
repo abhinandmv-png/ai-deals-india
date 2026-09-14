@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T05:17:41Z",
+  "updated_at": "2026-09-14T05:17:45Z",
   "deals": [
+    {
+      "title": "₹354 :",
+      "price": 354,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B013OU6U4C?tag=2244005-21",
+      "posted_at": "2026-09-14T05:17:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495681.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B013OU6U4C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B013OU6U4C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Looooooot 🔥 Marks & Spencer Women Linen Rich Draped Vest Top @399 Other colour costs more 🔥",
       "price": 399,
