@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14T07:02:39Z",
+  "updated_at": "2026-09-14T07:17:41Z",
   "deals": [
+    {
+      "title": "GRAB : Min. 50% Off On Larah by Borosil Dinner Sets.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4AgfBkw",
+      "posted_at": "2026-09-14T07:17:36Z",
+      "source": "TechFactsDeals"
+    },
     {
       "title": "₹153 :",
       "price": 153,
@@ -7696,22 +7707,6 @@
         "https://m.media-amazon.com/images/P/B0D6W7KK19.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-03T16:48:39Z"
-    },
-    {
-      "title": "Tommy Hilfiger Brown Watch for Men @ Rs.4,027",
-      "price": 4027,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D6B6ZY95?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0D6B6ZY95.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D6B6ZY95.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D6B6ZY95.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-03T14:33:38Z"
     }
   ]
 }
