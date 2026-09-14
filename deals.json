@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T02:25:01Z",
+  "updated_at": "2026-09-14T02:25:04Z",
   "deals": [
+    {
+      "title": "Upto 83% Off On American Tourister Backpack & Luggage. Backpack : Luggage :",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "83% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/t1mudQoB4y?tag=2244005-21",
+      "posted_at": "2026-09-14T02:25:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/T1MUDQOB4Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/t1mudQoB4y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/t1mudQoB4y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 60-65% Off On Larah by Borosil Dinner Set.",
       "price": null,
