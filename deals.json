@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T09:02:48Z",
+  "updated_at": "2026-09-14T09:02:51Z",
   "deals": [
+    {
+      "title": "Apply ₹490 Off Coupon 🔥",
+      "price": 490,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZX4LWW5?tag=2244005-21",
+      "posted_at": "2026-09-14T09:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DZX4LWW5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZX4LWW5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZX4LWW5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 Apply ₹890 Off Coupon",
       "price": 890,
@@ -7672,22 +7688,6 @@
         "https://m.media-amazon.com/images/P/B0FSDQ16XP.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-05T13:40:12Z"
-    },
-    {
-      "title": "Prestige Iris Nutri-Mix 350W Mixer Grinder with 2 Jars for ₹1,631.",
-      "price": 1631,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D45B9TB9?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0D45B9TB9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D45B9TB9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D45B9TB9.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-05T13:25:12Z"
     }
   ]
 }
