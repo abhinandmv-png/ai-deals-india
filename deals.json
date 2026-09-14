@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T03:25:05Z",
+  "updated_at": "2026-09-14T03:25:08Z",
   "deals": [
+    {
+      "title": "₹294 : More:",
+      "price": 294,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GFN2RV6G?tag=2244005-21",
+      "posted_at": "2026-09-14T03:25:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495635.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GFN2RV6G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GFN2RV6G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹3,598 : Black neo costs too high More:",
       "price": 3598,
