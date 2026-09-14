@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T02:55:08Z",
+  "updated_at": "2026-09-14T03:09:59Z",
   "deals": [
+    {
+      "title": "Bikano Besan Laddu, 400g @ 130",
+      "price": 130,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07HLVK7J7?tag=2244005-21",
+      "posted_at": "2026-09-14T03:09:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07HLVK7J7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07HLVK7J7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07HLVK7J7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹439 :",
       "price": 439,
