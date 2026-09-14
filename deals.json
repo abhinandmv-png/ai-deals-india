@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T14:47:40Z",
+  "updated_at": "2026-09-14T15:02:41Z",
   "deals": [
+    {
+      "title": "87 More :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07R7TWTLC?tag=2244005-21",
+      "posted_at": "2026-09-14T15:02:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495805.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07R7TWTLC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07R7TWTLC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "34,730 More :",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BD8Z9PSB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BD8Z9PSB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "French Connection Analog Wall Clock at Rs.423.",
-      "price": 423,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C89ZXFDC?tag=2244005-21",
-      "posted_at": "2026-09-11T01:29:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C89ZXFDC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C89ZXFDC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C89ZXFDC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
