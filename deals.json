@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T06:32:50Z",
+  "updated_at": "2026-09-14T07:02:39Z",
   "deals": [
+    {
+      "title": "₹153 :",
+      "price": 153,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH559QW3?tag=2244005-21",
+      "posted_at": "2026-09-14T07:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495706.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH559QW3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH559QW3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹426 :",
       "price": 426,
@@ -7696,22 +7712,6 @@
         "https://m.media-amazon.com/images/P/B0D6B6ZY95.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-03T14:33:38Z"
-    },
-    {
-      "title": "60% Off : Biotique Travel Kit @125.",
-      "price": null,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00R97ZMOG?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B00R97ZMOG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00R97ZMOG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00R97ZMOG.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-03T13:09:27Z"
     }
   ]
 }
