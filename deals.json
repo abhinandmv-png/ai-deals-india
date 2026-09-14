@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T03:40:09Z",
+  "updated_at": "2026-09-14T03:47:37Z",
   "deals": [
+    {
+      "title": "Superr no need of belt any more🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6Q7KHR7?tag=2244005-21",
+      "posted_at": "2026-09-14T03:47:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495646.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6Q7KHR7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6Q7KHR7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong skipping for men @199",
       "price": 199,
