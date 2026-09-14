@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T08:02:37Z",
+  "updated_at": "2026-09-14T08:02:40Z",
   "deals": [
+    {
+      "title": "Cello Insulated Casserole Hot Pot, 2000ml @380 Apply Coupon :",
+      "price": 380,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08RDB22MW?tag=2244005-21",
+      "posted_at": "2026-09-14T08:02:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08RDB22MW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08RDB22MW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08RDB22MW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro Elato FMB 204 Hand Blender with Chopper and Whisk @ Rs.1817",
       "price": 1817,
@@ -7672,22 +7688,6 @@
         "https://m.media-amazon.com/images/P/B0DF2Z6WKD.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-04T17:09:57Z"
-    },
-    {
-      "title": "Havells 1000W Mixer Grinder, 3 Jars @4109.",
-      "price": 990,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GZG82CJ2?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GZG82CJ2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GZG82CJ2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GZG82CJ2.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-04T15:39:56Z"
     }
   ]
 }
