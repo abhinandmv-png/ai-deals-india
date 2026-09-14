@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T06:32:43Z",
+  "updated_at": "2026-09-14T06:32:47Z",
   "deals": [
+    {
+      "title": "ANT Esports Keyboard & Mouse @ Rs.379",
+      "price": 379,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH24P7SX?tag=2244005-21",
+      "posted_at": "2026-09-14T06:32:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FH24P7SX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH24P7SX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH24P7SX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Stainless Steel Water Bottle Chromo Denim Blue 750ml (Pack of 3) @471",
       "price": 471,
@@ -7696,22 +7712,6 @@
         "https://m.media-amazon.com/images/P/B0H624K81D.01.LZZZZZZZ.jpg"
       ],
       "posted_at": "2026-09-03T12:54:27Z"
-    },
-    {
-      "title": "Sony PlayStation5 Gaming Console (Slim) for ₹66,491 (Effectively)",
-      "price": 66491,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNMKL3VP?tag=2244005-21",
-      "source": "AI Deals India",
-      "image": "https://m.media-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNMKL3VP.01.LZZZZZZZ.jpg"
-      ],
-      "posted_at": "2026-09-03T12:24:27Z"
     }
   ]
 }
