@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-14T05:32:37Z",
+  "updated_at": "2026-09-14T05:32:41Z",
   "deals": [
+    {
+      "title": "Upto 80% Off - Marks & Spencer women Clothing",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/pdaHDHB97C?tag=2244005-21",
+      "posted_at": "2026-09-14T05:32:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/PDAHDHB97C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/pdaHDHB97C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/pdaHDHB97C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Veeba Harissa Dressings, 300g @252.",
       "price": 252,
