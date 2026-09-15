@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-15T19:07:37Z",
+  "updated_at": "2026-09-15T19:51:52Z",
   "deals": [
+    {
+      "title": "Upto 75% Off On Bata Footwear. Women's : Men's :",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "75% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4rgWH95",
+      "posted_at": "2026-09-15T19:51:50Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "Grab 💥 3,899₹ Aristocrat Liberty Set of 3 Trolley Bag | 8 Wheels",
       "price": null,
@@ -7681,22 +7692,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08L5ZTK6X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08L5ZTK6X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1999 Loot :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRPMF83F?tag=2244005-21",
-      "posted_at": "2026-09-11T04:36:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FRPMF83F.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRPMF83F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRPMF83F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
