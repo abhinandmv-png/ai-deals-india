@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-14T15:02:41Z",
+  "updated_at": "2026-09-15T16:36:51Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Dinner Set Apply Coupon :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/46uIawP",
+      "posted_at": "2026-09-15T16:36:50Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "87 More :",
       "price": null,
@@ -7691,22 +7702,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFDV666D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFDV666D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% off : Park Avenue Gift Set Eau De Perfume, 200ml @559",
-      "price": 559,
-      "original_price": 1398,
-      "category": "Beauty",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BD8Z9PSB?tag=2244005-21",
-      "posted_at": "2026-09-11T03:36:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BD8Z9PSB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BD8Z9PSB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BD8Z9PSB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
