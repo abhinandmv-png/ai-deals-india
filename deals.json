@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-15T18:35:29Z",
+  "updated_at": "2026-09-15T18:36:50Z",
   "deals": [
+    {
+      "title": "🔥🔥 157₹ Nivia Home Play Football For Kids",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08GSQVSB7?tag=2244005-21",
+      "posted_at": "2026-09-15T18:36:49Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_8.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08GSQVSB7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08GSQVSB7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Allen Solly Clothing 🔥",
       "price": null,
@@ -7681,22 +7697,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G6F1FL6X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G6F1FL6X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon By Stovekraft 25Ltrs Oven @2972",
-      "price": 2972,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07X4SVD7R?tag=2244005-21",
-      "posted_at": "2026-09-11T04:06:18Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07X4SVD7R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07X4SVD7R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07X4SVD7R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
