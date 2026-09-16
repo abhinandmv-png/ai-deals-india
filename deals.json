@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-16T16:42:44Z",
+  "updated_at": "2026-09-16T16:42:54Z",
   "deals": [
+    {
+      "title": "🔥🔥 553₹ Treo by Milton Opalware Aurelia Lunis Dinner Set of 6",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G7ZN1868?tag=2244005-21",
+      "posted_at": "2026-09-16T16:42:53Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_19.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G7ZN1868.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G7ZN1868.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Fujifilm Instax Camera Pal Buddy Pack with 20 Shots-Pink 11,017",
       "price": null,
@@ -7661,22 +7677,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6NMXQ2V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6NMXQ2V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ACTIVA 10L Water Heater Geyser at Rs.3,196",
-      "price": 3196,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07SBR4C8Z?tag=2244005-21",
-      "posted_at": "2026-09-11T06:21:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07SBR4C8Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07SBR4C8Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07SBR4C8Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
