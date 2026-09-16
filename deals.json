@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-16T04:51:29Z",
+  "updated_at": "2026-09-16T05:36:29Z",
   "deals": [
+    {
+      "title": "Upto 92% Off On High Star Women's Jeans & Jeggings.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "92% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4y0eML2",
+      "posted_at": "2026-09-16T05:36:28Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "Guess 42mm Black Dial Analog Men Watch @5,990.",
       "price": 5990,
@@ -7676,22 +7687,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BTT9P1ZP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BTT9P1ZP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67% Off : Set Wet AM/PM Gift Set 4x20ml @300",
-      "price": 300,
-      "original_price": 909,
-      "category": "Shopping",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGLFTNTL?tag=2244005-21",
-      "posted_at": "2026-09-11T05:06:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DGLFTNTL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGLFTNTL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGLFTNTL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
