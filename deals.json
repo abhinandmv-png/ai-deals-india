@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-16T06:21:34Z",
+  "updated_at": "2026-09-16T09:36:31Z",
   "deals": [
+    {
+      "title": "ONE8 Men Brief (Pack Of 2) @199.",
+      "price": 199,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07T9Y47HG?tag=2244005-21",
+      "posted_at": "2026-09-16T09:36:30Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07T9Y47HG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07T9Y47HG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07T9Y47HG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Huggies Baby Diaper (L, 64 Count) (Pack Of 2) @740.",
       "price": 740,
@@ -7671,22 +7687,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09ZPQ91LF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09ZPQ91LF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "30% off coupon🔥🔥 4,499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "30% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FZC1KX9D?tag=2244005-21",
-      "posted_at": "2026-09-11T05:21:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_494995.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FZC1KX9D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FZC1KX9D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
