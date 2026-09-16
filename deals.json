@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-16T09:36:31Z",
+  "updated_at": "2026-09-16T09:51:29Z",
   "deals": [
+    {
+      "title": "**[ New Stock ]** Upto 50% Off On CASIO Watches.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4yGWv5n",
+      "posted_at": "2026-09-16T09:51:28Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "ONE8 Men Brief (Pack Of 2) @199.",
       "price": 199,
@@ -7671,22 +7682,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DDQ83Z1Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DDQ83Z1Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3308",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09ZPQ91LF?tag=2244005-21",
-      "posted_at": "2026-09-11T05:21:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09ZPQ91LF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09ZPQ91LF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09ZPQ91LF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
