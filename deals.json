@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-16T14:36:30Z",
+  "updated_at": "2026-09-16T15:06:30Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Karnage Pre workout (60 Servings) at Rs.1093 Apply ₹82 Off Coupon",
+      "price": 1093,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY1ZZXTB?tag=2244005-21",
+      "posted_at": "2026-09-16T15:06:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj Infrared Induction Cooktop for ₹3,754.",
       "price": 3754,
@@ -7661,22 +7677,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWXQ465R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWXQ465R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Set Of 4 Fridge Container Box @239 Set Of 6 @299 :",
-      "price": 239,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F226652V?tag=2244005-21",
-      "posted_at": "2026-09-11T06:06:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F226652V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F226652V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F226652V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
