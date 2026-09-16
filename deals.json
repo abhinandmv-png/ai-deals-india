@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-16T15:51:33Z",
+  "updated_at": "2026-09-16T16:42:44Z",
   "deals": [
+    {
+      "title": ". Fujifilm Instax Camera Pal Buddy Pack with 20 Shots-Pink 11,017",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5B13S97?tag=2244005-21",
+      "posted_at": "2026-09-16T16:42:43Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0D5B13S97.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5B13S97.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5B13S97.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP Wired Mouse + Keyboard Combo @536.",
       "price": 536,
@@ -7661,22 +7677,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07SBR4C8Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07SBR4C8Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab faast 🔥 249 Other colour 449₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BXL3R3XF?tag=2244005-21",
-      "posted_at": "2026-09-11T06:21:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495015.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BXL3R3XF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BXL3R3XF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
