@@ -1,6 +1,17 @@
 {
-  "updated_at": "2026-09-16T17:28:20Z",
+  "updated_at": "2026-09-16T17:33:54Z",
   "deals": [
+    {
+      "title": "Min. 70% Off On Fort Collins Winterwears. Men's : Women's : Girls : Boys :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://amzn.to/4xyoW4D",
+      "posted_at": "2026-09-16T17:33:53Z",
+      "source": "Premium Deals"
+    },
     {
       "title": "Min. 70% Off On Fort Collins Winterwears. Men's : Women's : Girls : Boys :",
       "price": null,
@@ -7665,18 +7676,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0G665H3SM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G665H3SM.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 70% Off On Hush Puppies Men's Sneakers",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4r4VPUT",
-      "posted_at": "2026-09-11T06:51:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495027.jpg"
     }
   ]
 }
