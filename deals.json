@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-17T17:20:30Z",
+  "updated_at": "2026-09-17T17:35:31Z",
   "deals": [
+    {
+      "title": "**₹393** :",
+      "price": 393,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBLL1TQ8?tag=2244005-21",
+      "posted_at": "2026-09-17T17:35:29Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DBLL1TQ8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBLL1TQ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBLL1TQ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TIMEX Analog Watch for Women @ Rs.1758 Apply 3% off coupon",
       "price": 1758,
@@ -7669,22 +7685,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0843T1FP2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0843T1FP2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Badminton Kit Bag @439. 2 Colours : #amazon",
-      "price": 439,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7LJL5S6?tag=2244005-21",
-      "posted_at": "2026-09-11T07:36:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495035.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7LJL5S6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7LJL5S6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
