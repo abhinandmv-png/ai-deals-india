@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-17T18:20:31Z",
+  "updated_at": "2026-09-17T19:20:30Z",
   "deals": [
+    {
+      "title": "Lowest : OPPO Original (6 months Offical Warranty) Type-C to Type-C @310.",
+      "price": 310,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTL8F1D6?tag=2244005-21",
+      "posted_at": "2026-09-17T19:20:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GTL8F1D6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTL8F1D6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTL8F1D6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Amazon** Basics 16-Inch Pedestal Fan at **₹1,982**.",
       "price": 1982,
@@ -7669,22 +7685,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BC1ZSXY2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BC1ZSXY2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @1512 390₹ off coupon 50 off with hdfc cc🔥",
-      "price": 1512,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRS431Q1?tag=2244005-21",
-      "posted_at": "2026-09-11T08:21:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495041.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRS431Q1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRS431Q1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
