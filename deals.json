@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-16T18:11:17Z",
+  "updated_at": "2026-09-17T01:50:29Z",
   "deals": [
+    {
+      "title": "Dabur Charcoal Toothpaste, 240g @99.",
+      "price": 99,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BQC6B15R?tag=2244005-21",
+      "posted_at": "2026-09-17T01:50:28Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". FAAASSTT 💥 1,038₹ ACEPACK by Verage Megatron Hard Side Polypropylene Luggage Small Cabin 41L",
       "price": null,
@@ -7659,22 +7675,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC2VHT34.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC2VHT34.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB IF NEED : Apple iPhone Air 256 GB @ ₹93,790 Using PNB CC New Price on Apple Site : 1,49,900",
-      "price": 93790,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQFBDQJ1?tag=2244005-21",
-      "posted_at": "2026-09-11T06:51:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FQFBDQJ1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQFBDQJ1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQFBDQJ1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
