@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-17T18:05:30Z",
+  "updated_at": "2026-09-17T18:20:31Z",
   "deals": [
+    {
+      "title": "**Amazon** Basics 16-Inch Pedestal Fan at **₹1,982**.",
+      "price": 1982,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GN8T8812?tag=2244005-21",
+      "posted_at": "2026-09-17T18:20:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GN8T8812.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GN8T8812.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GN8T8812.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Home Centre Study Desk with Flap at Rs.4986* Apply ₹500 Coupon + ₹500 Off With SBI/Axis CC",
       "price": 4986,
@@ -7669,22 +7685,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FRS431Q1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FRS431Q1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Enigma 52 Cm Luggage @493.",
-      "price": 493,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CWSB3ZS9?tag=2244005-21",
-      "posted_at": "2026-09-11T08:21:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495040.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CWSB3ZS9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CWSB3ZS9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
