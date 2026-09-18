@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-18T13:50:52Z",
+  "updated_at": "2026-09-18T15:05:59Z",
   "deals": [
+    {
+      "title": "Premium Mix Dry Fruits 1000 gms at 469 *Buy Maximum Quantity",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFX5PMCN?tag=2244005-21",
+      "posted_at": "2026-09-18T15:05:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HFX5PMCN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFX5PMCN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFX5PMCN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells 500W Mixer Grinder, 3 SS Jars @1944. **Apply ₹590 Off Coupon** :",
       "price": 590,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSW6S3GN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSW6S3GN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sample LOOTT 💥 1₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGRGP244?tag=2244005-21",
-      "posted_at": "2026-09-11T11:09:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HGRGP244.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGRGP244.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGRGP244.01.LZZZZZZZ.jpg"
       ]
     }
   ]
