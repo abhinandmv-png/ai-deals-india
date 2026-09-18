@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-18T18:50:53Z",
+  "updated_at": "2026-09-18T18:50:59Z",
   "deals": [
+    {
+      "title": "**Amazon** Basics Drill Multi-Bit Set at **₹1,277**.",
+      "price": 1277,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S96B1LJ?tag=2244005-21",
+      "posted_at": "2026-09-18T18:50:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07S96B1LJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S96B1LJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S96B1LJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP Laptop Backpack Starts @646.",
       "price": 646,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09Y58XSZQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09Y58XSZQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "adidas Men Silicone Originals Analog Silver Dial Watch @4798",
-      "price": 4798,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B3LNGG2V?tag=2244005-21",
-      "posted_at": "2026-09-11T11:25:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0B3LNGG2V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B3LNGG2V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B3LNGG2V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
