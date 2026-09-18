@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-17T23:20:34Z",
+  "updated_at": "2026-09-18T02:20:35Z",
   "deals": [
+    {
+      "title": "515",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C81GB6H1?tag=2244005-21",
+      "posted_at": "2026-09-18T02:20:34Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C81GB6H1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C81GB6H1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C81GB6H1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Odomos Universal Liquid Vaporiser 45ml X Pack Of 6 @259.",
       "price": 259,
@@ -7675,17 +7691,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B09SLZ732C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09SLZ732C.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 95% Off On Fire-Boltt Smart Watches",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "95% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4xUI4KD",
-      "posted_at": "2026-09-11T08:36:23Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
