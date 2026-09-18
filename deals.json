@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-18T13:20:52Z",
+  "updated_at": "2026-09-18T13:35:52Z",
   "deals": [
+    {
+      "title": "Wonderchef Cookware Set Of 3 + 1 @999. **Regular Price 1500+**",
+      "price": 999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B094JCM5X3?tag=2244005-21",
+      "posted_at": "2026-09-18T13:35:51Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B094JCM5X3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B094JCM5X3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B094JCM5X3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cello Petal Bathroom Set Of 3 for ₹494.",
       "price": 494,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/AGIMOKGOCO.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/AGIMOKGOCO.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". adidas Men's Grand Court 3.0 Sneaker 3,519₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F2FFQPYW?tag=2244005-21",
-      "posted_at": "2026-09-11T10:24:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F2FFQPYW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F2FFQPYW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F2FFQPYW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
