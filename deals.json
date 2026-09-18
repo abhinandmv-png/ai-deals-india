@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-18T15:05:59Z",
+  "updated_at": "2026-09-18T16:36:00Z",
   "deals": [
+    {
+      "title": "Razer Gaming Controller @2,978.",
+      "price": 2978,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09ZPQ91LF?tag=2244005-21",
+      "posted_at": "2026-09-18T16:35:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09ZPQ91LF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09ZPQ91LF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09ZPQ91LF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Premium Mix Dry Fruits 1000 gms at 469 *Buy Maximum Quantity",
       "price": null,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZT6JSFG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZT6JSFG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 2,629₹ RR Signature BrightAir 1200mm BLDC Ceiling Fan with Remote Control",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSW6S3GN?tag=2244005-21",
-      "posted_at": "2026-09-11T11:09:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495077.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSW6S3GN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSW6S3GN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
