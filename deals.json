@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-18T09:05:51Z",
+  "updated_at": "2026-09-18T09:20:51Z",
   "deals": [
+    {
+      "title": "Cello Petal Bathroom Set @ Rs.439",
+      "price": 439,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CR7BLF1W?tag=2244005-21",
+      "posted_at": "2026-09-18T09:20:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CR7BLF1W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CR7BLF1W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CR7BLF1W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot Mrp Error. 1275 :",
       "price": null,
@@ -7678,22 +7694,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08GKXLG5B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08GKXLG5B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CAHOOT Mens Co-Ord Set @359.",
-      "price": 359,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C3QYXB4L?tag=2244005-21",
-      "posted_at": "2026-09-11T09:21:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C3QYXB4L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C3QYXB4L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C3QYXB4L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
