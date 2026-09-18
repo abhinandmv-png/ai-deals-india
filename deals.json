@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-18T11:20:52Z",
+  "updated_at": "2026-09-18T11:50:52Z",
   "deals": [
+    {
+      "title": "Daikin 1.5 Ton 3 Star, New Star rated, Inverter Split AC at ₹37,490",
+      "price": 37490,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GRV2DWP3?tag=2244005-21",
+      "posted_at": "2026-09-18T11:50:51Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GRV2DWP3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GRV2DWP3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GRV2DWP3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "R3SET Japanese Marine Collagen Type-1 for Anti-Ageing, Wrinkle - 10 Sachets at 294",
       "price": null,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGVQBNSB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGVQBNSB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @351",
-      "price": 351,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BJ8W6WXH?tag=2244005-21",
-      "posted_at": "2026-09-11T09:55:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BJ8W6WXH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BJ8W6WXH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BJ8W6WXH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
