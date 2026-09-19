@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T14:50:55Z",
+  "updated_at": "2026-09-19T16:05:56Z",
   "deals": [
+    {
+      "title": "Parachute Advansed Protein Shampoo, 1.2L at ₹384. → Apply 30% Off Coupon :",
+      "price": 384,
+      "original_price": 549,
+      "category": "Beauty",
+      "badge": "30% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQV4SB1M?tag=2244005-21",
+      "posted_at": "2026-09-19T16:05:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GQV4SB1M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQV4SB1M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQV4SB1M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299",
       "price": null,
@@ -7692,17 +7708,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B008LTV330.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B008LTV330.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": ". Parachute Beauty Products 🔥 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4cDGzZ0",
-      "posted_at": "2026-09-11T13:24:57Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
