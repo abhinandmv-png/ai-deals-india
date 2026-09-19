@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T03:36:06Z",
+  "updated_at": "2026-09-19T05:35:54Z",
   "deals": [
+    {
+      "title": "Havells 750W Mixer Grinder, 3 Jars @2550 effectively. Apply ₹490 Coupon + ₹500 Off With SBI/ICICI/HDFC/Axis CC",
+      "price": 490,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNM7XWFD?tag=2244005-21",
+      "posted_at": "2026-09-19T05:35:53Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNM7XWFD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Levi's Men Jeans @930",
       "price": 930,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNG3B1D3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNG3B1D3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 329₹ Zebronics NS2000 Plus Laptop Stand",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GX9KQN5V?tag=2244005-21",
-      "posted_at": "2026-09-11T12:25:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GX9KQN5V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GX9KQN5V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GX9KQN5V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
