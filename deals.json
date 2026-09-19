@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T23:36:08Z",
+  "updated_at": "2026-09-19T23:36:14Z",
   "deals": [
+    {
+      "title": "Kid's Tricycle (2-5 Years) at ₹1199 Multiple Colors Available",
+      "price": 1199,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DG8QSS9R?tag=2244005-21",
+      "posted_at": "2026-09-19T23:36:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DG8QSS9R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DG8QSS9R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DG8QSS9R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong Beard Trimmer at ₹549",
       "price": 549,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BRN6VQB4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BRN6VQB4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "64% Off : Head & Shoulders Shampoo 650ml @429.",
-      "price": 429,
-      "original_price": 1192,
-      "category": "Beauty",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01EJIEC8O?tag=2244005-21",
-      "posted_at": "2026-09-11T13:36:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B01EJIEC8O.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01EJIEC8O.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01EJIEC8O.01.LZZZZZZZ.jpg"
       ]
     }
   ]
