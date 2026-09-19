@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T03:36:01Z",
+  "updated_at": "2026-09-19T03:36:06Z",
   "deals": [
+    {
+      "title": "Levi's Men Jeans @930",
+      "price": 930,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GC7V65WJ?tag=2244005-21",
+      "posted_at": "2026-09-19T03:36:04Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GC7V65WJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GC7V65WJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GC7V65WJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Polycab 1200mm BLDC Ceiling Fan @3599",
       "price": 3599,
@@ -7682,22 +7698,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GX9KQN5V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GX9KQN5V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,599₹ Maharaja Whiteline 500W Mixer Grinder with 3 Stainless Steel Jars with lid and 20,000 RPM Motor Speed (White & Cherry Red)",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BWTCLMBD?tag=2244005-21",
-      "posted_at": "2026-09-11T12:25:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495093.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BWTCLMBD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BWTCLMBD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
