@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T23:36:03Z",
+  "updated_at": "2026-09-19T23:36:08Z",
   "deals": [
+    {
+      "title": "Lifelong Beard Trimmer at ₹549",
+      "price": 549,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKBMB6NW?tag=2244005-21",
+      "posted_at": "2026-09-19T23:36:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FKBMB6NW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKBMB6NW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKBMB6NW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pack of 2 Suitcases at ₹2449 Other Colours at ₹3099",
       "price": 2449,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01EJIEC8O.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01EJIEC8O.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,490₹ Blaupunkt Newly Launched BH41 Bluetooth Wireless Over Ear Headphones",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CGRCT77W?tag=2244005-21",
-      "posted_at": "2026-09-11T13:25:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495110.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CGRCT77W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CGRCT77W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
