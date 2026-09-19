@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T13:36:02Z",
+  "updated_at": "2026-09-19T14:50:55Z",
   "deals": [
+    {
+      "title": "299",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HG1G3SM7?tag=2244005-21",
+      "posted_at": "2026-09-19T14:50:54Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HG1G3SM7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HG1G3SM7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HG1G3SM7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Women Gina Sneaker @1,247.",
       "price": 1247,
@@ -7687,22 +7703,6 @@
       "url": "https://amzn.to/4cDGzZ0",
       "posted_at": "2026-09-11T13:24:57Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": ". Crompton Desert Air Cooler 95L 7,829₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFCVGS1Z?tag=2244005-21",
-      "posted_at": "2026-09-11T13:09:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GFCVGS1Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFCVGS1Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFCVGS1Z.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
