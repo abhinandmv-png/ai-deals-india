@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-19T16:50:56Z",
+  "updated_at": "2026-09-19T17:50:57Z",
   "deals": [
+    {
+      "title": "Wonderchef Non-Stick Kadhai, 2.7L at 649.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01NBF0FZ0?tag=2244005-21",
+      "posted_at": "2026-09-19T17:50:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B01NBF0FZ0.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01NBF0FZ0.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01NBF0FZ0.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "189 :",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F2W41NHB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F2W41NHB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4DZ7WL2?tag=2244005-21",
-      "posted_at": "2026-09-11T13:25:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495107.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4DZ7WL2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4DZ7WL2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
