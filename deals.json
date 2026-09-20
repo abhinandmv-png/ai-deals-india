@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T05:59:01Z",
+  "updated_at": "2026-09-20T06:29:01Z",
   "deals": [
+    {
+      "title": "Black+Decker Galerus Plus Geyser 5.9 Litre at 3298",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FPD2TB13?tag=2244005-21",
+      "posted_at": "2026-09-20T06:29:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FPD2TB13.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FPD2TB13.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FPD2TB13.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "969",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GVNDZMLH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GVNDZMLH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 89₹ Zebronics Type-C Fast Charging Cable",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GVT5NF8W?tag=2244005-21",
-      "posted_at": "2026-09-11T14:10:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GVT5NF8W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GVT5NF8W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GVT5NF8W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
