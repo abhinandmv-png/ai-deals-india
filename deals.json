@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T06:36:04Z",
+  "updated_at": "2026-09-20T06:44:01Z",
   "deals": [
+    {
+      "title": "Bombay Shaving Trimmer 120 Min Battery + 38 Style Settings at ₹699.",
+      "price": 699,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B098P8NRRW?tag=2244005-21",
+      "posted_at": "2026-09-20T06:44:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B098P8NRRW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B098P8NRRW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B098P8NRRW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cello Glass Set Of 6 Pcs 300ml @649.",
       "price": 649,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CG1XZJ46.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CG1XZJ46.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot at ₹37 Check Your Location noida available try your luck!",
-      "price": 37,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07PSZ9TZ6?tag=2244005-21",
-      "posted_at": "2026-09-11T14:24:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07PSZ9TZ6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07PSZ9TZ6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07PSZ9TZ6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
