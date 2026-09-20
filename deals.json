@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T18:03:36Z",
+  "updated_at": "2026-09-20T18:13:40Z",
   "deals": [
+    {
+      "title": "Timex Black Round Men's Watch at 2829.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCRPQYXY?tag=2244005-21",
+      "posted_at": "2026-09-20T18:13:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FCRPQYXY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCRPQYXY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCRPQYXY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Girls Flared Leggings Pack of 5 @236.",
       "price": 236,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08R6T6C7S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08R6T6C7S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply 50% Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQV61J3D?tag=2244005-21",
-      "posted_at": "2026-09-11T15:39:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GQV61J3D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQV61J3D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQV61J3D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
