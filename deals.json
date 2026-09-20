@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T15:59:04Z",
+  "updated_at": "2026-09-20T18:03:36Z",
   "deals": [
+    {
+      "title": "Girls Flared Leggings Pack of 5 @236.",
+      "price": 236,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPF8TKN1?tag=2244005-21",
+      "posted_at": "2026-09-20T18:03:35Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0GPF8TKN1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPF8TKN1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPF8TKN1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Thermosteel Bottle, 510 ml at 449.",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQV61J3D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQV61J3D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt 💥💥💥 Loot : Premium Seeds at Lowest Price Premium Quality Chia Seeds 750g @ 298 : Watermelon seeds 250g @ 199 : Seeds Combo – Pumpkin, Sunflower, Chia & Flax (100g X 4) @ 219 :",
-      "price": 298,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJB7ZZ4V?tag=2244005-21",
-      "posted_at": "2026-09-11T15:25:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJB7ZZ4V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJB7ZZ4V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJB7ZZ4V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
