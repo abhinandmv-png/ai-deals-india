@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T03:06:04Z",
+  "updated_at": "2026-09-20T05:36:08Z",
   "deals": [
+    {
+      "title": "Philips 10W LED Bulb (Pack Of 2) @197.",
+      "price": 197,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C2Q3SZLP?tag=2244005-21",
+      "posted_at": "2026-09-20T05:36:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C2Q3SZLP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3SZLP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C2Q3SZLP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% Off : Lakme Glossy Glass Shine Lip @140",
       "price": 140,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B095HBHKHB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B095HBHKHB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3400 890 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWCWMP14?tag=2244005-21",
-      "posted_at": "2026-09-11T13:54:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495114.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWCWMP14.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWCWMP14.01.LZZZZZZZ.jpg"
       ]
     }
   ]
