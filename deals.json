@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T06:44:01Z",
+  "updated_at": "2026-09-20T07:21:05Z",
   "deals": [
+    {
+      "title": "Samsung SSD 9100 PRO 8TB @102319.",
+      "price": 102319,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FGPSR9VZ?tag=2244005-21",
+      "posted_at": "2026-09-20T07:21:04Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FGPSR9VZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FGPSR9VZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FGPSR9VZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bombay Shaving Trimmer 120 Min Battery + 38 Style Settings at ₹699.",
       "price": 699,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B12RBP4R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B12RBP4R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Noise Vortex Plus AMOLED BT Calling with 7 Days Battery Life at At Rs.1899 (Effective) Use Code at Checkout : NOISE400",
-      "price": 1899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CG1XZJ46?tag=2244005-21",
-      "posted_at": "2026-09-11T14:25:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CG1XZJ46.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CG1XZJ46.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CG1XZJ46.01.LZZZZZZZ.jpg"
       ]
     }
   ]
