@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-20T06:29:01Z",
+  "updated_at": "2026-09-20T06:36:04Z",
   "deals": [
+    {
+      "title": "Cello Glass Set Of 6 Pcs 300ml @649.",
+      "price": 649,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4LGL2MS?tag=2244005-21",
+      "posted_at": "2026-09-20T06:36:04Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H4LGL2MS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4LGL2MS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4LGL2MS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Black+Decker Galerus Plus Geyser 5.9 Litre at 3298",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07PSZ9TZ6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07PSZ9TZ6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : Mixed Dry Fruits 1KG Only ₹450 🤯 ✨Premium Dry Fruits Mix ✨Healthy Daily Snacking Option ✨Perfect for Family Consumption Buy Now 👇🏻 🛒 Premium Quality | Buy Maximum Quantity",
-      "price": 450,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GVNDZMLH?tag=2244005-21",
-      "posted_at": "2026-09-11T14:10:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495121.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GVNDZMLH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GVNDZMLH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
