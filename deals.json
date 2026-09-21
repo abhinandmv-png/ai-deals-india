@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T15:37:00Z",
+  "updated_at": "2026-09-21T17:07:00Z",
   "deals": [
+    {
+      "title": "180W LED Solar Street Light at 399 Apply 50% coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HKCRYRRD?tag=2244005-21",
+      "posted_at": "2026-09-21T17:06:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HKCRYRRD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HKCRYRRD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HKCRYRRD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "UCB 34L Laptop Backpack @699.",
       "price": 699,
@@ -7702,22 +7718,6 @@
       "url": "https://amzn.to/4y1UWyM",
       "posted_at": "2026-09-11T18:40:47Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "477",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H262DT9L?tag=2244005-21",
-      "posted_at": "2026-09-11T18:35:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495155.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H262DT9L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H262DT9L.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
