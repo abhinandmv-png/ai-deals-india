@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T12:51:14Z",
+  "updated_at": "2026-09-21T13:51:13Z",
   "deals": [
+    {
+      "title": "Havells REO Vaayu 1200 mm ES Ceiling Fan @ Rs.1516 **Apply ₹260 Off Coupon**",
+      "price": 1516,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS5TPYNP?tag=2244005-21",
+      "posted_at": "2026-09-21T13:51:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GS5TPYNP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS5TPYNP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS5TPYNP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon Cook & Grill 2000W Cooktop @2396.",
       "price": 2396,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C9MSMNG3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C9MSMNG3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 199₹ boAt Type C to C 65W Fast Charging Cable",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FMRLJ9LF?tag=2244005-21",
-      "posted_at": "2026-09-11T17:50:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FMRLJ9LF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FMRLJ9LF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FMRLJ9LF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
