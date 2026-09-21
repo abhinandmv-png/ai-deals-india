@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T04:43:40Z",
+  "updated_at": "2026-09-21T08:06:13Z",
   "deals": [
+    {
+      "title": "Royal Enfield Full Face Helmet @3659.",
+      "price": 3659,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1N5NLZJ?tag=2244005-21",
+      "posted_at": "2026-09-21T08:06:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F1N5NLZJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1N5NLZJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1N5NLZJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Boat** Airdopes 141 Pro Buds at **₹779**.",
       "price": 779,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKFLNJPT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKFLNJPT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". THE Indian Garage CO Men Shirt 553",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BNN758F8?tag=2244005-21",
-      "posted_at": "2026-09-11T16:54:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BNN758F8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BNN758F8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BNN758F8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
