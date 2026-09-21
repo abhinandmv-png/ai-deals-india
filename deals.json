@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T10:43:44Z",
+  "updated_at": "2026-09-21T12:51:14Z",
   "deals": [
+    {
+      "title": "Pigeon Cook & Grill 2000W Cooktop @2396.",
+      "price": 2396,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CV11XTCV?tag=2244005-21",
+      "posted_at": "2026-09-21T12:51:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CV11XTCV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CV11XTCV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CV11XTCV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "68% Off : Lakme 9to5 Cushion Foundation SPF 40 @301. Apply 5% Off Coupon :",
       "price": 301,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FMRLJ9LF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FMRLJ9LF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "4,724₹ Apply 38% Coupon More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXMP7ST4?tag=2244005-21",
-      "posted_at": "2026-09-11T17:50:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495149.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXMP7ST4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXMP7ST4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
