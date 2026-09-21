@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T08:36:14Z",
+  "updated_at": "2026-09-21T10:43:44Z",
   "deals": [
+    {
+      "title": "68% Off : Lakme 9to5 Cushion Foundation SPF 40 @301. Apply 5% Off Coupon :",
+      "price": 301,
+      "original_price": 941,
+      "category": "Beauty",
+      "badge": "68% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGBLLRDX?tag=2244005-21",
+      "posted_at": "2026-09-21T10:43:43Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GGBLLRDX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGBLLRDX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGBLLRDX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Asics Japan St Sneaker at 2,243.",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXMP7ST4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXMP7ST4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥 450₹ Puma Men's Cotton Printed Slim Fit T-Shirt",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FMY4G4GH?tag=2244005-21",
-      "posted_at": "2026-09-11T17:10:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495144.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FMY4G4GH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FMY4G4GH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
