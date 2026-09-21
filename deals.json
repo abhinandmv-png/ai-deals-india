@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T14:13:50Z",
+  "updated_at": "2026-09-21T15:13:47Z",
   "deals": [
+    {
+      "title": "Gear Wow 25L Medium Bagpack @399.",
+      "price": 399,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CYX36RBQ?tag=2244005-21",
+      "posted_at": "2026-09-21T15:13:46Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CYX36RBQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CYX36RBQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CYX36RBQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Laundry Basket 45L Large @189.",
       "price": 189,
@@ -7697,22 +7713,6 @@
       "url": "https://amzn.to/4yjA7iq",
       "posted_at": "2026-09-11T18:25:47Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": ". U.S. POLO ASSN. Mens Half Sleeve Solid Polo T-Shirts 680₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBHY9J4J?tag=2244005-21",
-      "posted_at": "2026-09-11T18:20:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DBHY9J4J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBHY9J4J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBHY9J4J.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
