@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T03:58:40Z",
+  "updated_at": "2026-09-21T04:43:40Z",
   "deals": [
+    {
+      "title": "**Boat** Airdopes 141 Pro Buds at **₹779**.",
+      "price": 779,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGTT1NGW?tag=2244005-21",
+      "posted_at": "2026-09-21T04:43:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DGTT1NGW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGTT1NGW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGTT1NGW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**HRX** Cabin Size Luggage @ Rs.**1299**",
       "price": null,
@@ -7691,22 +7707,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BNN758F8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BNN758F8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "59",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G2MPKNTV?tag=2244005-21",
-      "posted_at": "2026-09-11T16:09:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G2MPKNTV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G2MPKNTV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G2MPKNTV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
