@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T13:58:52Z",
+  "updated_at": "2026-09-22T14:28:51Z",
   "deals": [
+    {
+      "title": "GRAB MIX DRYFRUITS 250gm @199 only Buy max qty Get lucky chance to win cashback card offer inside the box",
+      "price": 199,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCCC1HCV?tag=2244005-21",
+      "posted_at": "2026-09-22T14:28:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HCCC1HCV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCCC1HCV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCCC1HCV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cadlec 2000W Induction Cooktop @1599.",
       "price": 1599,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DM85NSVP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DM85NSVP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹276 :",
-      "price": 276,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNSR7HVH?tag=2244005-21",
-      "posted_at": "2026-09-12T01:50:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495180.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNSR7HVH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNSR7HVH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
