@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T04:43:50Z",
+  "updated_at": "2026-09-22T04:43:56Z",
   "deals": [
+    {
+      "title": "Duracell Ultra Alkalline AA Battery, Pack of 6 @141",
+      "price": 141,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B012AU6PWY?tag=2244005-21",
+      "posted_at": "2026-09-22T04:43:55Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B012AU6PWY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B012AU6PWY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B012AU6PWY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "L'Oreal Paris Hyaluron 72H Shampoo, 650ml @474",
       "price": 474,
@@ -7722,17 +7738,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/L6EsmVX9Bj.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/L6EsmVX9Bj.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Min. 50% Off On Lakme Lumi Face Cream",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3V9fPtn",
-      "posted_at": "2026-09-11T18:55:48Z",
-      "source": "Premium Deals"
     }
   ]
 }
