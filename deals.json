@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T17:13:55Z",
+  "updated_at": "2026-09-22T17:28:53Z",
   "deals": [
+    {
+      "title": "229",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GLQHH2XR?tag=2244005-21",
+      "posted_at": "2026-09-22T17:28:52Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GLQHH2XR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GLQHH2XR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GLQHH2XR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pet Feeding Bowls Set Of 2 @189.",
       "price": 189,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DY1R524G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DY1R524G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹3,814 :",
-      "price": 3814,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3CPNH12?tag=2244005-21",
-      "posted_at": "2026-09-12T02:01:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495183.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3CPNH12.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3CPNH12.01.LZZZZZZZ.jpg"
       ]
     }
   ]
