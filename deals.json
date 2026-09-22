@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T02:28:54Z",
+  "updated_at": "2026-09-22T02:37:03Z",
   "deals": [
+    {
+      "title": "252",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DJBV4BCP?tag=2244005-21",
+      "posted_at": "2026-09-22T02:37:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DJBV4BCP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DJBV4BCP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DJBV4BCP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Everyuth Naturals Face Wash (150g x 2) @160",
       "price": 160,
@@ -7716,22 +7732,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CRYZT9XP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CRYZT9XP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1485 290 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS5M5GND?tag=2244005-21",
-      "posted_at": "2026-09-11T18:50:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495165.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS5M5GND.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS5M5GND.01.LZZZZZZZ.jpg"
       ]
     }
   ]
