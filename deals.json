@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-21T18:37:31Z",
+  "updated_at": "2026-09-22T02:28:49Z",
   "deals": [
+    {
+      "title": "Lakme Powerplay Priming Foundation 25ml @279",
+      "price": 279,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07YVHGYLB?tag=2244005-21",
+      "posted_at": "2026-09-22T02:28:48Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07YVHGYLB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07YVHGYLB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07YVHGYLB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple AirTag at 2999.",
       "price": null,
@@ -7717,17 +7733,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0FRFQGTPQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FRFQGTPQ.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": ". USHA Products 💥 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4cIeWy5",
-      "posted_at": "2026-09-11T18:50:06Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
