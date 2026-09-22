@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T07:43:50Z",
+  "updated_at": "2026-09-22T13:58:52Z",
   "deals": [
+    {
+      "title": "Cadlec 2000W Induction Cooktop @1599.",
+      "price": 1599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FHQB7HXR?tag=2244005-21",
+      "posted_at": "2026-09-22T13:58:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FHQB7HXR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FHQB7HXR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FHQB7HXR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple 40W Power Adapter @4490.",
       "price": 4490,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNSR7HVH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNSR7HVH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Zebronics Bluetooth Portable Speaker at Rs.499.",
-      "price": 499,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07YNV41FT?tag=2244005-21",
-      "posted_at": "2026-09-12T01:50:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07YNV41FT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07YNV41FT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07YNV41FT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
