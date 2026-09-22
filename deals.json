@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T04:43:56Z",
+  "updated_at": "2026-09-22T04:44:02Z",
   "deals": [
+    {
+      "title": "Aristocrat Duralite Set of 3 Trolley Bags @5800",
+      "price": 5800,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJ87TW26?tag=2244005-21",
+      "posted_at": "2026-09-22T04:44:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CJ87TW26.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJ87TW26.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJ87TW26.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Duracell Ultra Alkalline AA Battery, Pack of 6 @141",
       "price": 141,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWLXFLRF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWLXFLRF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Min. 70% Off On Fort Collins Winterwears. Men : Women : Girls : Boys : Surf All Pages",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/L6EsmVX9Bj?tag=2244005-21",
-      "posted_at": "2026-09-11T18:55:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/L6ESMVX9BJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/L6EsmVX9Bj.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/L6EsmVX9Bj.01.LZZZZZZZ.jpg"
       ]
     }
   ]
