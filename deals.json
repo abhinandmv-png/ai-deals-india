@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T14:28:51Z",
+  "updated_at": "2026-09-22T15:07:03Z",
   "deals": [
+    {
+      "title": "Cello Opalware Dinner Set Of 37 Pcs @1641.",
+      "price": 1641,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07F3DCST3?tag=2244005-21",
+      "posted_at": "2026-09-22T15:07:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07F3DCST3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07F3DCST3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07F3DCST3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB MIX DRYFRUITS 250gm @199 only Buy max qty Get lucky chance to win cashback card offer inside the box",
       "price": 199,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CCDS29KL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CCDS29KL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹632 : More:",
-      "price": 632,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DM85NSVP?tag=2244005-21",
-      "posted_at": "2026-09-12T02:01:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DM85NSVP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DM85NSVP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DM85NSVP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
