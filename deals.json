@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T14:57:37Z",
+  "updated_at": "2026-09-23T15:33:34Z",
   "deals": [
+    {
+      "title": "Loottt fasttt💥💥💥 Loot : Afghani Anjeer 500g – Only ₹249🤯 ✨Premium Dried Afghani Figs ✨Naturally Sweet & Perfect for Snacking ✨1KG Value Pack for Everyday Use Buy Now👇🏻 🛒 BUY MAX QUANTITY | PREMIUM QUALITY",
+      "price": 249,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFX9CLVQ?tag=2244005-21",
+      "posted_at": "2026-09-23T15:33:33Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_40.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFX9CLVQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFX9CLVQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[Apply 5% Coupon] WROGN Men's Pack of 2 Cotton Spandex Briefs ✅Deal Price: ₹284 ❌MRP: ₹599 Discount: -53% 👉",
       "price": 284,
@@ -7726,22 +7742,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBGKHWJN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBGKHWJN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "434",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDGLP2WK?tag=2244005-21",
-      "posted_at": "2026-09-12T03:31:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495202.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDGLP2WK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDGLP2WK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
