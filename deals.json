@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T13:35:48Z",
+  "updated_at": "2026-09-23T14:05:50Z",
   "deals": [
+    {
+      "title": "Upto 80% Off On Vector X Running & Football Shoes.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/rEQC3UI6Ev?tag=2244005-21",
+      "posted_at": "2026-09-23T14:05:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/REQC3UI6EV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/rEQC3UI6Ev.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/rEQC3UI6Ev.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Coffee Table Set Of 2 @1511.",
       "price": 1511,
@@ -7726,22 +7742,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G5NMM958.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G5NMM958.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ledvance Electric Kettle 1.8L at Rs.679.",
-      "price": 679,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FKTMTC9V?tag=2244005-21",
-      "posted_at": "2026-09-12T03:01:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495196.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FKTMTC9V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FKTMTC9V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
