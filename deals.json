@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T06:58:54Z",
+  "updated_at": "2026-09-23T06:58:59Z",
   "deals": [
+    {
+      "title": "Polycab 150mm Exhaust Fan @1,059.",
+      "price": 1059,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HKCWSZZX?tag=2244005-21",
+      "posted_at": "2026-09-23T06:58:58Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HKCWSZZX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HKCWSZZX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HKCWSZZX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Symbol Men Pullover Sweater @384.",
       "price": 384,
@@ -7726,22 +7742,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQVB8B91.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQVB8B91.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Presto 2 Ply Kitchen Tissue Rolls | 360 Pulls @₹294 Apply 5% off Coupon :",
-      "price": 294,
-      "original_price": 309,
-      "category": "Home",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07GVVCQY6?tag=2244005-21",
-      "posted_at": "2026-09-12T02:46:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07GVVCQY6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07GVVCQY6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07GVVCQY6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
