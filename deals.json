@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T17:17:19Z",
+  "updated_at": "2026-09-23T17:35:25Z",
   "deals": [
+    {
+      "title": ". Zebronics Foldable Laptop Stand, 360° Rotation 💰1199",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HF4ZQJGT?tag=2244005-21",
+      "posted_at": "2026-09-23T17:35:25Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_44.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HF4ZQJGT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HF4ZQJGT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Vega Crux Flip-Up Helmet at 929.",
       "price": null,
@@ -7732,17 +7748,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CYH8H4MM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CYH8H4MM.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Get Rs.100-300 Cashback On Fresh Orders. Collect Fresh Cashback Offers : Best Deal Suggestions Fresh Home Page (Buy) : Product Starts @1 :",
-      "price": 100,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3S2Q64u",
-      "posted_at": "2026-09-12T04:01:12Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
