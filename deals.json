@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T11:28:29Z",
+  "updated_at": "2026-09-23T13:35:48Z",
   "deals": [
+    {
+      "title": "Coffee Table Set Of 2 @1511.",
+      "price": 1511,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G66Z215D?tag=2244005-21",
+      "posted_at": "2026-09-23T13:35:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G66Z215D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G66Z215D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G66Z215D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". PHILIPS Audio TAS1400BL Wireless Bluetooth Speaker 1249",
       "price": null,
@@ -7726,22 +7742,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKTMTC9V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKTMTC9V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Saffola Cold Pressed Coconut Oil, 1L at Rs.393. Apply 25% coupon.",
-      "price": 393,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G1SKX4CM?tag=2244005-21",
-      "posted_at": "2026-09-12T03:01:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495197.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G1SKX4CM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G1SKX4CM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
