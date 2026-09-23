@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T15:33:34Z",
+  "updated_at": "2026-09-23T15:49:00Z",
   "deals": [
+    {
+      "title": "🔥🔥 2,399₹ Safari Genius Alley 75cm Large Check-in Trolley Bag",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLYDSTRX?tag=2244005-21",
+      "posted_at": "2026-09-23T15:48:59Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_41.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLYDSTRX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLYDSTRX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loottt fasttt💥💥💥 Loot : Afghani Anjeer 500g – Only ₹249🤯 ✨Premium Dried Afghani Figs ✨Naturally Sweet & Perfect for Snacking ✨1KG Value Pack for Everyday Use Buy Now👇🏻 🛒 BUY MAX QUANTITY | PREMIUM QUALITY",
       "price": 249,
@@ -7726,22 +7742,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7ZRLH5Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7ZRLH5Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹677 : Apply 30% coupon More:",
-      "price": 677,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBGKHWJN?tag=2244005-21",
-      "posted_at": "2026-09-12T03:31:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495201.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBGKHWJN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBGKHWJN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
