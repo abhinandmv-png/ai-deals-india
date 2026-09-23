@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T17:48:10Z",
+  "updated_at": "2026-09-23T19:58:42Z",
   "deals": [
+    {
+      "title": "Samsung 43 inch (108cm) FHD Smart LED 2026 TV at ₹22690. *Apply ₹2,500 Off Coupon + ₹1500 Off With Axis Credit Card EMI.",
+      "price": 22690,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HC3BTZDS?tag=2244005-21",
+      "posted_at": "2026-09-23T19:58:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HC3BTZDS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HC3BTZDS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HC3BTZDS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "American Tourister Trolley Bag Set Of 3 at ₹4,099.",
       "price": 4099,
@@ -7731,22 +7747,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTHQ7WCJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTHQ7WCJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Inner Steel Bottle, 540 ml @ Rs.263. 705 ml @ Rs.305 : **• Apply 23% Off Coupon** Larah Glassware Borosilicate Glass Lunchbox @ Rs.552. **Apply 15% Off Coupon** : CELLO Borosilicate Glass Lunch Box @ Rs.450. **Appl",
-      "price": 263,
-      "original_price": 342,
-      "category": "Shopping",
-      "badge": "23% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZ41CH9N?tag=2244005-21",
-      "posted_at": "2026-09-12T04:04:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CZ41CH9N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZ41CH9N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZ41CH9N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
