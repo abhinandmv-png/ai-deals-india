@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-22T17:28:53Z",
+  "updated_at": "2026-09-23T00:58:53Z",
   "deals": [
+    {
+      "title": "Studds Ninja Full Face Helmet @1053.",
+      "price": 1053,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01N4LB4R7?tag=2244005-21",
+      "posted_at": "2026-09-23T00:58:52Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B01N4LB4R7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01N4LB4R7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01N4LB4R7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "229",
       "price": null,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVSWZ6HY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVSWZ6HY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹336 : More:",
-      "price": 336,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DY1R524G?tag=2244005-21",
-      "posted_at": "2026-09-12T02:01:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495186.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DY1R524G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DY1R524G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
