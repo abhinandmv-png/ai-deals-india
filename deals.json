@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T02:52:04Z",
+  "updated_at": "2026-09-23T03:37:04Z",
   "deals": [
+    {
+      "title": "Cello Electric Kettle 1.5L + Water Bottle 1000 ml at 799.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H33H7SV7?tag=2244005-21",
+      "posted_at": "2026-09-23T03:37:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H33H7SV7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H33H7SV7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H33H7SV7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**₹243** :",
       "price": 243,
@@ -7721,22 +7737,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DG2TJ86D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DG2TJ86D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹400 : More:",
-      "price": 400,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRSMTB4G?tag=2244005-21",
-      "posted_at": "2026-09-12T02:16:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FRSMTB4G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRSMTB4G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRSMTB4G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
