@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-24T06:27:09Z",
+  "updated_at": "2026-09-24T06:27:16Z",
   "deals": [
+    {
+      "title": "Axe EDP Perfume 100ml at 348.",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQNVH37W?tag=2244005-21",
+      "posted_at": "2026-09-24T06:27:15Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FQNVH37W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQNVH37W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQNVH37W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Type A to C 65W Fast Charging at 199",
       "price": null,
@@ -7731,22 +7747,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGTT74ST.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGTT74ST.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "219 #amazon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGD5SK8L?tag=2244005-21",
-      "posted_at": "2026-09-12T05:10:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FGD5SK8L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGD5SK8L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGD5SK8L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
