@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-24T04:42:09Z",
+  "updated_at": "2026-09-24T05:03:13Z",
   "deals": [
+    {
+      "title": "72% Off : Axe Gold Deodorant 215ml, Pack Of 2 @198.",
+      "price": 198,
+      "original_price": 707,
+      "category": "Shopping",
+      "badge": "72% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVTB3TXP?tag=2244005-21",
+      "posted_at": "2026-09-24T05:03:12Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DVTB3TXP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVTB3TXP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVTB3TXP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kamiliant by American Tourister Printed Trolley Bag Set of 3 @4399",
       "price": 4399,
@@ -7731,22 +7747,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09YLXHXXZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09YLXHXXZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹799 : More:",
-      "price": 799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C23MGYWM?tag=2244005-21",
-      "posted_at": "2026-09-12T04:40:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495222.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C23MGYWM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C23MGYWM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
