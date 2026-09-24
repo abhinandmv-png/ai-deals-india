@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-23T19:58:42Z",
+  "updated_at": "2026-09-24T03:28:28Z",
   "deals": [
+    {
+      "title": "Crompton 1200mm BLDC Ceiling Fan @ Rs.2999",
+      "price": 2999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FYGXV9S7?tag=2244005-21",
+      "posted_at": "2026-09-24T03:28:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FYGXV9S7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FYGXV9S7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FYGXV9S7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 43 inch (108cm) FHD Smart LED 2026 TV at ₹22690. *Apply ₹2,500 Off Coupon + ₹1500 Off With Axis Credit Card EMI.",
       "price": 22690,
@@ -7731,22 +7747,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07F82SKWW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07F82SKWW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**₹551** : **Apply 15% coupon** **More:**",
-      "price": 551,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTHQ7WCJ?tag=2244005-21",
-      "posted_at": "2026-09-12T04:05:35Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DTHQ7WCJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTHQ7WCJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTHQ7WCJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
