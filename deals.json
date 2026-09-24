@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-24T18:42:35Z",
+  "updated_at": "2026-09-24T18:42:47Z",
   "deals": [
+    {
+      "title": "280",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H126NYPK?tag=2244005-21",
+      "posted_at": "2026-09-24T18:42:46Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H126NYPK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H126NYPK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H126NYPK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "797",
       "price": null,
@@ -7735,22 +7751,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTV3JDJQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTV3JDJQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "32% coupon off🔥 @978",
-      "price": 978,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H41P9XMT?tag=2244005-21",
-      "posted_at": "2026-09-12T06:02:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495239.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H41P9XMT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H41P9XMT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
