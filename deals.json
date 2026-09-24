@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-24T18:42:58Z",
+  "updated_at": "2026-09-24T18:57:13Z",
   "deals": [
+    {
+      "title": "₹1,499 : Bajaj Armour 15L Storage Water Heater @ 5928 Flat ₹659 Off With Axis CC **Regular price 10K**",
+      "price": 1499,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D49PXZ6M?tag=2244005-21",
+      "posted_at": "2026-09-24T18:57:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D49PXZ6M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D49PXZ6M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D49PXZ6M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "999",
       "price": null,
@@ -7741,17 +7757,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0FFGQT1J1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FFGQT1J1.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Master Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3UukGoW",
-      "posted_at": "2026-09-12T06:17:06Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
