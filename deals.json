@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-24T04:16:34Z",
+  "updated_at": "2026-09-24T04:42:09Z",
   "deals": [
+    {
+      "title": "Kamiliant by American Tourister Printed Trolley Bag Set of 3 @4399",
+      "price": 4399,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3L582GG?tag=2244005-21",
+      "posted_at": "2026-09-24T04:42:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H3L582GG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3L582GG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3L582GG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "45W GaN Type C Super Fast Charger with Type-C Cable @579",
       "price": 579,
@@ -7731,22 +7747,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C23MGYWM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C23MGYWM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹15,989 : - Apply ₹1000 coupon More:",
-      "price": 15989,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C33XXS56?tag=2244005-21",
-      "posted_at": "2026-09-12T04:40:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C33XXS56.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C33XXS56.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C33XXS56.01.LZZZZZZZ.jpg"
       ]
     }
   ]
