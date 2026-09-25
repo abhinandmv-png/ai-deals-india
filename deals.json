@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T05:53:28Z",
+  "updated_at": "2026-09-25T06:53:28Z",
   "deals": [
+    {
+      "title": "Bajaj Maxima 600 MM Ceiling Fan @1284.",
+      "price": 1284,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00KL56N8C?tag=2244005-21",
+      "posted_at": "2026-09-25T06:53:27Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00KL56N8C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00KL56N8C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00KL56N8C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot: Levi's Jeans Upto 55% Off Men's: Women's: Fire-Boltt Newly Launched Aero Lite TWS Earbuds @ Rs.699",
       "price": 699,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D4RBM6Q6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D4RBM6Q6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMQ16GT8?tag=2244005-21",
-      "posted_at": "2026-09-12T07:32:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GMQ16GT8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMQ16GT8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMQ16GT8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
