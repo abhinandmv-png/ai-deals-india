@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T03:15:54Z",
+  "updated_at": "2026-09-25T03:25:18Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D49S7C6B?tag=2244005-21",
+      "posted_at": "2026-09-25T03:25:17Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0D49S7C6B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D49S7C6B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D49S7C6B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@799 White colour costs more 🔥",
       "price": 799,
@@ -7745,22 +7761,6 @@
       "posted_at": "2026-09-12T06:47:10Z",
       "source": "TechFactsDeals",
       "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495255.jpg"
-    },
-    {
-      "title": "292 : Master Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQK51ZJG?tag=2244005-21",
-      "posted_at": "2026-09-12T06:47:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CQK51ZJG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQK51ZJG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQK51ZJG.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
