@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T08:53:29Z",
+  "updated_at": "2026-09-25T09:23:30Z",
   "deals": [
+    {
+      "title": "Loot : Brightning Glass Skin Face wash at Rs.399 Apply 300 Off Coupon",
+      "price": 399,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07K7CFTDJ?tag=2244005-21",
+      "posted_at": "2026-09-25T09:23:29Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144454.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07K7CFTDJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07K7CFTDJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple Macbook Neo @ Rs.67,990 Pay with SBI Credit/Debit Card",
       "price": 67990,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZTPS5G2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZTPS5G2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "10% coupon off🔥🔥 @476",
-      "price": 476,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXRNRX29?tag=2244005-21",
-      "posted_at": "2026-09-12T07:47:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495281.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXRNRX29.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXRNRX29.01.LZZZZZZZ.jpg"
       ]
     }
   ]
