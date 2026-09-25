@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T03:49:12Z",
+  "updated_at": "2026-09-25T04:16:17Z",
   "deals": [
+    {
+      "title": "Polycab LED 1200mm BLDC Ceiling Fan @ Rs.3099",
+      "price": 3099,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9YGZB68?tag=2244005-21",
+      "posted_at": "2026-09-25T04:16:16Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H9YGZB68.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9YGZB68.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9YGZB68.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@834",
       "price": 834,
@@ -7749,22 +7765,6 @@
       "url": "https://amzn.to/3T0diBe",
       "posted_at": "2026-09-12T07:02:10Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "₹224 : - Apply 25% coupon More:",
-      "price": 224,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09KV1R96H?tag=2244005-21",
-      "posted_at": "2026-09-12T07:02:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495259.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09KV1R96H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09KV1R96H.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
