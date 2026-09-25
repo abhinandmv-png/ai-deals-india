@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T05:38:40Z",
+  "updated_at": "2026-09-25T05:53:28Z",
   "deals": [
+    {
+      "title": "Loot: Levi's Jeans Upto 55% Off Men's: Women's: Fire-Boltt Newly Launched Aero Lite TWS Earbuds @ Rs.699",
+      "price": 699,
+      "original_price": 1553,
+      "category": "Electronics",
+      "badge": "55% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHQSD1PG?tag=2244005-21",
+      "posted_at": "2026-09-25T05:53:27Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GHQSD1PG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHQSD1PG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHQSD1PG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dermi Cool Soap 125 GM Each (Pack of 3) @ Rs.131",
       "price": 131,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMQ16GT8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMQ16GT8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AGARO Dual Port 51W Fast Car Charger @199.",
-      "price": 199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FVLMC8PB?tag=2244005-21",
-      "posted_at": "2026-09-12T07:32:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495271.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FVLMC8PB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FVLMC8PB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
