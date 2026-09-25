@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T04:31:16Z",
+  "updated_at": "2026-09-25T05:23:14Z",
   "deals": [
+    {
+      "title": "Lowest Amazon Brand Solimo Glass Lunch Box Set With Sliding Air Vents And Bag 2 Pieces 400ml Transparent ✅Deal Price: ₹467 ❌MRP: ₹1,060 Discount: -56% 👉",
+      "price": 467,
+      "original_price": 1060,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07P8KPQJ1?tag=2244005-21",
+      "posted_at": "2026-09-25T05:23:13Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B07P8KPQJ1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07P8KPQJ1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07P8KPQJ1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO Loot : Upto 85% Off On Luggage & Trolley Bags. AJIO Loot : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia : Prestige 1.5L Electric Kettle 1350 Watt @ Rs.592",
       "price": 592,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DP6FY6KJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DP6FY6KJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "51% Off : Fevikwik Precision Pro 8 GM (Pack of 3) @153",
-      "price": 153,
-      "original_price": 312,
-      "category": "Shopping",
-      "badge": "51% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLDWYBPD?tag=2244005-21",
-      "posted_at": "2026-09-12T07:04:38Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FLDWYBPD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLDWYBPD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLDWYBPD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
