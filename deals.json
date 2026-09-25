@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T17:05:34Z",
+  "updated_at": "2026-09-25T18:05:35Z",
   "deals": [
+    {
+      "title": "368",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFBTXSSM?tag=2244005-21",
+      "posted_at": "2026-09-25T18:05:34Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DFBTXSSM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFBTXSSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFBTXSSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi 43 inch LED 4K @ Rs.22,999 ₹2,000 off SBI Credit Card",
       "price": 22999,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWM3XXBL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWM3XXBL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@254",
-      "price": 254,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4RK1WCG?tag=2244005-21",
-      "posted_at": "2026-09-12T08:17:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495288.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4RK1WCG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4RK1WCG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
