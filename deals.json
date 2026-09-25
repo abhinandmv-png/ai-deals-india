@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T04:16:33Z",
+  "updated_at": "2026-09-25T04:31:16Z",
   "deals": [
+    {
+      "title": "AJIO Loot : Upto 85% Off On Luggage & Trolley Bags. AJIO Loot : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia : Prestige 1.5L Electric Kettle 1350 Watt @ Rs.592",
+      "price": 592,
+      "original_price": 3947,
+      "category": "Fashion",
+      "badge": "85% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01MQZ7J8K?tag=2244005-21",
+      "posted_at": "2026-09-25T04:31:15Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B01MQZ7J8K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01MQZ7J8K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01MQZ7J8K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat Hexa Active Set of 6 (3 Trolley Bags & 3 Duffle Bags) Luggage @ Rs.4540 Apply 15% OFF Coupon + SBI CC",
       "price": 4540,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLDWYBPD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLDWYBPD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹4,367 : - Apply 4% coupon More:",
-      "price": 4367,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5J8X16Z?tag=2244005-21",
-      "posted_at": "2026-09-12T07:02:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495260.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5J8X16Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5J8X16Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
