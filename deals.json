@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T02:38:09Z",
+  "updated_at": "2026-09-25T02:38:17Z",
   "deals": [
+    {
+      "title": "Presto Garbage Bags (180 Count) @ Rs.319 Apply 5% off coupon",
+      "price": 319,
+      "original_price": 336,
+      "category": "Fashion",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0821PN8L4?tag=2244005-21",
+      "posted_at": "2026-09-25T02:38:16Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0821PN8L4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0821PN8L4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0821PN8L4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Levi's Men's Straight Fit Mid Rise Jeans @801",
       "price": 801,
@@ -7744,22 +7760,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3WHF69X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3WHF69X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹38,149 : More:",
-      "price": 38149,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H71CW1SZ?tag=2244005-21",
-      "posted_at": "2026-09-12T06:47:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495253.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H71CW1SZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H71CW1SZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
