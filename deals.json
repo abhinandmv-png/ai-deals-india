@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T03:25:18Z",
+  "updated_at": "2026-09-25T03:33:56Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ8GYB2L?tag=2244005-21",
+      "posted_at": "2026-09-25T03:33:55Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_50.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ8GYB2L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ8GYB2L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Deal",
       "price": null,
@@ -7749,18 +7765,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MJQPZ4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MJQPZ4.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "GRAB 🔥🔥 70-83% Off On Spykar Clothing. Men : Women : Min. 70% Off On Jack & Jones Clothing.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "83% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/46mzyZ1",
-      "posted_at": "2026-09-12T06:47:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495255.jpg"
     }
   ]
 }
