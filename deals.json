@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T16:05:35Z",
+  "updated_at": "2026-09-25T16:35:34Z",
   "deals": [
+    {
+      "title": "Cello ColourUp Travel Kit at 312.",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09QMKDCQZ?tag=2244005-21",
+      "posted_at": "2026-09-25T16:35:33Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09QMKDCQZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09QMKDCQZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09QMKDCQZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Livon Professional Smoothening Serum at 173",
       "price": null,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCYGK2XM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCYGK2XM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@103",
-      "price": 103,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BT6ZYM1Q?tag=2244005-21",
-      "posted_at": "2026-09-12T08:17:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495294.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BT6ZYM1Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BT6ZYM1Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
