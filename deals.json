@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T15:30:42Z",
+  "updated_at": "2026-09-25T15:51:12Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07RBZJL5D?tag=2244005-21",
+      "posted_at": "2026-09-25T15:51:11Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_65.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07RBZJL5D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07RBZJL5D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🧺 *SNEAK PEEK | LARGE APPLIANCES* 🎉 *GREAT INDIAN FESTIVAL* | Sale starts 8th Oct 🔹 Up to 10% Extra, only for Prime members ⚡️ 10% Instant Discount on SBI Debit/Credit Card & Credit Card EMI | T&C apply 👉🏻 amzaff.to/kDBu",
       "price": 114,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07W7TZ6ZZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07W7TZ6ZZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹1,977 :",
-      "price": 1977,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GGYQ6G3P?tag=2244005-21",
-      "posted_at": "2026-09-12T08:02:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495284.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GGYQ6G3P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GGYQ6G3P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
