@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-25T04:16:17Z",
+  "updated_at": "2026-09-25T04:16:25Z",
   "deals": [
+    {
+      "title": "Puma Mens Dazzler Sneaker @ Rs.1149",
+      "price": 1149,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FMQBGQNG?tag=2244005-21",
+      "posted_at": "2026-09-25T04:16:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FMQBGQNG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FMQBGQNG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FMQBGQNG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Polycab LED 1200mm BLDC Ceiling Fan @ Rs.3099",
       "price": 3099,
@@ -7754,17 +7770,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0GC7J7SKN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GC7J7SKN.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Home Shopping Special Deal🔥 Home Shopping Products Deal Price: Min. Purchase of ₹500 💥 Offer: Get 10% Cashback Upto ₹200 (Collect Coupon) Collect Offer: Shop Here:",
-      "price": 500,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3T0diBe",
-      "posted_at": "2026-09-12T07:02:10Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
