@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T01:14:20Z",
+  "updated_at": "2026-09-26T01:59:20Z",
   "deals": [
+    {
+      "title": "Puma Men Snatch V2 Sneaker @1299",
+      "price": 1299,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09RFK5SWY?tag=2244005-21",
+      "posted_at": "2026-09-26T01:59:19Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09RFK5SWY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09RFK5SWY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09RFK5SWY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nivea Caring Pink Lip Balm @120.",
       "price": 120,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYX5TFJ5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYX5TFJ5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Prime Shopping Edition at ₹99 For 3 Months Link : NOTE : Offer Only Shows in App, So Open This Link in App. Special Offer For Specific Users. Check All Your Amazon Account & Grab if Available",
-      "price": 99,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/amazonprim?tag=2244005-21",
-      "posted_at": "2026-09-12T08:32:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/AMAZONPRIM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/amazonprim.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/amazonprim.01.LZZZZZZZ.jpg"
       ]
     }
   ]
