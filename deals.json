@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T02:44:20Z",
+  "updated_at": "2026-09-26T03:32:47Z",
   "deals": [
+    {
+      "title": "Loot 252",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQVC8MPD?tag=2244005-21",
+      "posted_at": "2026-09-26T03:32:46Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_66.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQVC8MPD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQVC8MPD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristo Plastic Garbage Waste Dustbins 45Ltr Combo @2679",
       "price": 2679,
@@ -7753,22 +7769,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BL1HW6QR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BL1HW6QR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹6,182 : - Apply 30% coupon More:",
-      "price": 6182,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FF5BXKFC?tag=2244005-21",
-      "posted_at": "2026-09-12T08:47:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495300.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FF5BXKFC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FF5BXKFC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
