@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T05:41:32Z",
+  "updated_at": "2026-09-27T05:46:36Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HF48ZGGC?tag=2244005-21",
+      "posted_at": "2026-09-27T05:46:35Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0HF48ZGGC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HF48ZGGC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HF48ZGGC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Vim Matic Dishwasher tablets All-In-One (Pack of 30) I Removes Tough Indian Grease I Designed By India's No.1 Dishwashing Brand ✅Deal Price: **₹375** ❌MRP: ₹750 Discount: **-50%** 👉",
       "price": null,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BL195TJQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BL195TJQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Havells 2200 Watt Infrared Induction Cooktop With Digital Display 4190",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GG4J4W7S?tag=2244005-21",
-      "posted_at": "2026-09-12T10:47:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GG4J4W7S.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GG4J4W7S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GG4J4W7S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
