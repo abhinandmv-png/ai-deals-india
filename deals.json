@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T06:19:29Z",
+  "updated_at": "2026-09-27T06:21:07Z",
   "deals": [
+    {
+      "title": "Airwill Cotton Plain White Designed Solid Pattern Table Runner Length 152cm (White ✅Deal Price: **₹166** ❌MRP: ₹599 Discount: **-72%** 👉",
+      "price": null,
+      "original_price": 599,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09SJ5HH4N?tag=2244005-21",
+      "posted_at": "2026-09-27T06:21:07Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B09SJ5HH4N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09SJ5HH4N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09SJ5HH4N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "88",
       "price": null,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FPF7M3RZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FPF7M3RZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : R3SET Apple Cider Vinegar Gummies – Only ₹194 🤯 ✨Apple Cider Vinegar Based Gummies ✨Convenient & Easy-to-Take Format ✨Handy Pack for Everyday Use Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 194,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCFZXX7K?tag=2244005-21",
-      "posted_at": "2026-09-12T11:02:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495327.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCFZXX7K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCFZXX7K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
