@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T05:46:36Z",
+  "updated_at": "2026-09-27T05:58:56Z",
   "deals": [
+    {
+      "title": "Wonderchef – 60004700 Granite Wok with Lid ✅Deal Price: **₹1,549** ❌MRP: ₹2,600 Discount: **-40%** 👉",
+      "price": null,
+      "original_price": 2600,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00UN0NRV6?tag=2244005-21",
+      "posted_at": "2026-09-27T05:58:56Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_78.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00UN0NRV6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00UN0NRV6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Deal",
       "price": null,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G14GZDD1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G14GZDD1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,284₹ Havells Ventil Air DX 200mm Exhaust Fan (White)",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BL195TJQ?tag=2244005-21",
-      "posted_at": "2026-09-12T10:47:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495323.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BL195TJQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BL195TJQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
