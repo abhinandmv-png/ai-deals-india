@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-26T08:35:22Z",
+  "updated_at": "2026-09-27T05:33:30Z",
   "deals": [
+    {
+      "title": "Mentos Grape Roll ✅Deal Price: ₹189 ❌MRP: ₹595 Discount: -68% 👉",
+      "price": 189,
+      "original_price": 595,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08HLYHXNT?tag=2244005-21",
+      "posted_at": "2026-09-27T05:33:30Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B08HLYHXNT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08HLYHXNT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08HLYHXNT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Whirlpool 1.5 Ton 5 Star Magicool Inverter Split AC at Rs.38990 Effective Flat 3000 Off Using SBI card",
       "price": 38990,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07YWS9SP9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07YWS9SP9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥💥💥 1,046₹ Coupon Logitech G102 Light Sync Gaming Mouse, White",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0895DY6F5?tag=2244005-21",
-      "posted_at": "2026-09-12T10:32:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495319.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0895DY6F5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0895DY6F5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
