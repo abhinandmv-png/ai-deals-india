@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T06:21:15Z",
+  "updated_at": "2026-09-27T06:21:19Z",
   "deals": [
+    {
+      "title": "Baby Sleeping Bag for New Born ✅Deal Price: **₹332** ❌MRP: ₹1,299 Discount: **-74%** 👉",
+      "price": null,
+      "original_price": 1299,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9TX5GYH?tag=2244005-21",
+      "posted_at": "2026-09-27T06:21:18Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0F9TX5GYH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9TX5GYH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9TX5GYH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Unisex Adult Max Slide ✅Deal Price: **₹799** ❌MRP: ₹2,499 Discount: **-68%** 👉",
       "price": null,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTTV15WP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTTV15WP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Del Monte Tomato Ketchup - 900g 90₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07F26ZS1K?tag=2244005-21",
-      "posted_at": "2026-09-12T11:32:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07F26ZS1K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07F26ZS1K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07F26ZS1K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
