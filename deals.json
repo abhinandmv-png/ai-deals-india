@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T06:21:07Z",
+  "updated_at": "2026-09-27T06:21:11Z",
   "deals": [
+    {
+      "title": "Sfane Gym Bags for Men with Separate Shoe Compartment Sports Gym Bags for Women Unisex Duffle Bags for Gym for Carry & Travel Adjustable Duffel Bags Sports Bag - Black & Orange ✅Deal Price: **₹399** ❌MRP: ₹1,395 Discount",
+      "price": null,
+      "original_price": 1395,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXKQBZCY?tag=2244005-21",
+      "posted_at": "2026-09-27T06:21:10Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_82.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXKQBZCY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXKQBZCY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Airwill Cotton Plain White Designed Solid Pattern Table Runner Length 152cm (White ✅Deal Price: **₹166** ❌MRP: ₹599 Discount: **-72%** 👉",
       "price": null,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQTCNSZR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQTCNSZR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "230",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FPF7M3RZ?tag=2244005-21",
-      "posted_at": "2026-09-12T11:17:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495328.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FPF7M3RZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FPF7M3RZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
