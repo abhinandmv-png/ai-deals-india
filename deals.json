@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T06:21:11Z",
+  "updated_at": "2026-09-27T06:21:15Z",
   "deals": [
+    {
+      "title": "Puma Unisex Adult Max Slide ✅Deal Price: **₹799** ❌MRP: ₹2,499 Discount: **-68%** 👉",
+      "price": null,
+      "original_price": 2499,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYSQ4H7J?tag=2244005-21",
+      "posted_at": "2026-09-27T06:21:15Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_84.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYSQ4H7J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYSQ4H7J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sfane Gym Bags for Men with Separate Shoe Compartment Sports Gym Bags for Women Unisex Duffle Bags for Gym for Carry & Travel Adjustable Duffel Bags Sports Bag - Black & Orange ✅Deal Price: **₹399** ❌MRP: ₹1,395 Discount",
       "price": null,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07F26ZS1K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07F26ZS1K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "531 More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQTCNSZR?tag=2244005-21",
-      "posted_at": "2026-09-12T11:17:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495329.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQTCNSZR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQTCNSZR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
