@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T10:00:18Z",
+  "updated_at": "2026-09-27T10:00:23Z",
   "deals": [
+    {
+      "title": "Liril Lime Bathing Bar (6 x 125g) @214.",
+      "price": 214,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B093TJD298?tag=2244005-21",
+      "posted_at": "2026-09-27T10:00:22Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B093TJD298.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B093TJD298.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B093TJD298.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "47% Off : Tata Coffee Gold Jar, 50g @225.",
       "price": 225,
@@ -7758,22 +7774,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZX4RSMK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZX4RSMK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". 272 Apply 30% coupon More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0721PZY9H?tag=2244005-21",
-      "posted_at": "2026-09-12T11:47:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0721PZY9H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0721PZY9H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0721PZY9H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
