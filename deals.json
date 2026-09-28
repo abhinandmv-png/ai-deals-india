@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T06:44:11Z",
+  "updated_at": "2026-09-28T08:41:21Z",
   "deals": [
+    {
+      "title": "**Indian Garage Men's Slim Fit Mid-Rise Trouser at 465 ****",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C13PQ6FN?tag=2244005-21",
+      "posted_at": "2026-09-28T08:41:21Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C13PQ6FN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C13PQ6FN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C13PQ6FN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "47% Off : Complan Nutrition Powder, 1.5 Kg @603.",
       "price": 603,
@@ -7763,22 +7779,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DRCFHWN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DRCFHWN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". ACTIVA Easy Mix Nutri Mixer Grinder 2 Jars 500W 1223",
-      "price": 500,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BDZWMGZ1?tag=2244005-21",
-      "posted_at": "2026-09-12T13:17:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BDZWMGZ1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BDZWMGZ1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BDZWMGZ1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
