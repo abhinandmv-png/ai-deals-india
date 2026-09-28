@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T11:26:23Z",
+  "updated_at": "2026-09-28T12:26:27Z",
   "deals": [
+    {
+      "title": "Lowest : BELLAVITA Perfume Bathing Soap Bar (Pack Of 3) @ Rs.149",
+      "price": 149,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVGS1F9Y?tag=2244005-21",
+      "posted_at": "2026-09-28T12:26:25Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144560.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVGS1F9Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVGS1F9Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Presto! Garbage Bags, Xl - 10 Bags/Roll (Pack Of 3) at ‎189.",
       "price": null,
@@ -7763,22 +7779,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXSS3MPV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXSS3MPV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 299₹ Toy Imagine 18-Inch 4-String Kids Guitar, Ukulele-Style Musical Toy",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CFR631LN?tag=2244005-21",
-      "posted_at": "2026-09-12T13:17:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495348.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CFR631LN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CFR631LN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
