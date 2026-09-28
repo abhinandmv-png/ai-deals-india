@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T17:26:33Z",
+  "updated_at": "2026-09-28T18:26:28Z",
   "deals": [
+    {
+      "title": "Realme Buds T200 at ₹1699",
+      "price": 1699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKTLK63R?tag=2244005-21",
+      "posted_at": "2026-09-28T18:26:28Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FKTLK63R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKTLK63R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKTLK63R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iFFALCON 139 cm (55 Inches) 4K UHD Smart LED Google TV for ₹28,999 **(Effectively) ** **Apply ₹7,000 off Coupon + Flat ₹4,000 off with SBI Credit Card **",
       "price": 28999,
@@ -7769,17 +7785,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CK5ML3HF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CK5ML3HF.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4yEUsih",
-      "posted_at": "2026-09-12T14:32:10Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
