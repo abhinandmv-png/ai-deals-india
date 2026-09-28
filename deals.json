@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T12:26:27Z",
+  "updated_at": "2026-09-28T13:44:10Z",
   "deals": [
+    {
+      "title": "Zebronics Monitor Desk Stand @ ₹1699",
+      "price": 1699,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GL2G5MD9?tag=2244005-21",
+      "posted_at": "2026-09-28T13:44:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GL2G5MD9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GL2G5MD9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GL2G5MD9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : BELLAVITA Perfume Bathing Soap Bar (Pack Of 3) @ Rs.149",
       "price": 149,
@@ -7763,22 +7779,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BSV42486.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BSV42486.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Clinic Plus Shampoo, 355ml 🔥 178₹",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXSS3MPV?tag=2244005-21",
-      "posted_at": "2026-09-12T14:02:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495356.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXSS3MPV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXSS3MPV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
