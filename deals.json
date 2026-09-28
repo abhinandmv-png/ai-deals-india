@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-28T13:44:10Z",
+  "updated_at": "2026-09-28T13:44:15Z",
   "deals": [
+    {
+      "title": "Drools Finsters Premium Fish Food 500g Pouch @ ₹162",
+      "price": 162,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G65QYCW5?tag=2244005-21",
+      "posted_at": "2026-09-28T13:44:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G65QYCW5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G65QYCW5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G65QYCW5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zebronics Monitor Desk Stand @ ₹1699",
       "price": 1699,
@@ -7763,22 +7779,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GGHJJXCB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GGHJJXCB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Philips HL7759/00 Mixer Grinder 🔥 4,499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BSV42486?tag=2244005-21",
-      "posted_at": "2026-09-12T14:02:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495357.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BSV42486.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BSV42486.01.LZZZZZZZ.jpg"
       ]
     }
   ]
