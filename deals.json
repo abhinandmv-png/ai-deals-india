@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-27T18:28:54Z",
+  "updated_at": "2026-09-28T02:11:18Z",
   "deals": [
+    {
+      "title": "OnePlus Pad 2 (12.1 Inch),12GB RAM, 256GB Storage @29,699 Flat ₹2,000 off with SBI Debit & Credit Card + ₹300 Cashback",
+      "price": 29699,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D7N23QKD?tag=2244005-21",
+      "posted_at": "2026-09-28T02:11:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D7N23QKD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D7N23QKD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D7N23QKD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Casserole Set Of 3 @879.",
       "price": 879,
@@ -7763,22 +7779,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FS8T35D8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FS8T35D8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab 💥 3303",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B59C2JPY?tag=2244005-21",
-      "posted_at": "2026-09-12T12:32:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495340.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B59C2JPY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B59C2JPY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
