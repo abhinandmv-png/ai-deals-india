@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T17:41:46Z",
+  "updated_at": "2026-09-29T19:11:48Z",
   "deals": [
+    {
+      "title": "OnePlus Watch - with 1.43\" AMOLED Display — ₹9,999. Pay with SBI Debit/Credit Card",
+      "price": 9999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D7MDJ9YZ?tag=2244005-21",
+      "posted_at": "2026-09-29T19:11:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D7MDJ9YZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D7MDJ9YZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D7MDJ9YZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "RAREISM Slim Fit Geometric Print T-Shirt — ₹287.",
       "price": 287,
@@ -7768,22 +7784,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FHPR9LYZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FHPR9LYZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "299",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CGRM44LW?tag=2244005-21",
-      "posted_at": "2026-09-12T16:47:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CGRM44LW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CGRM44LW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CGRM44LW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
