@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T04:29:25Z",
+  "updated_at": "2026-09-29T05:14:21Z",
   "deals": [
+    {
+      "title": "Wonderchef Non-stick Cookware 4 Pc Set @999.",
+      "price": 999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DF23RXX2?tag=2244005-21",
+      "posted_at": "2026-09-29T05:14:20Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DF23RXX2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DF23RXX2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DF23RXX2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FCUK Fit Pro Full Touch Smartwatch @1319.",
       "price": 1319,
@@ -7768,22 +7784,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/decorative.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/decorative.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,349₹ HP H250 Wireless Earbuds; Upto 80 Hours Playtime",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FM3MJCF3?tag=2244005-21",
-      "posted_at": "2026-09-12T15:32:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495372.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FM3MJCF3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FM3MJCF3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
