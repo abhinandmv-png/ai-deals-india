@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T05:14:24Z",
+  "updated_at": "2026-09-29T10:26:40Z",
   "deals": [
+    {
+      "title": "PHILIPS 3 Watt Concealed JB Ceiling Light at 74.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DV9RNNGW?tag=2244005-21",
+      "posted_at": "2026-09-29T10:26:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DV9RNNGW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DV9RNNGW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DV9RNNGW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "979",
       "price": null,
@@ -7768,22 +7784,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H7JL6ZH3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H7JL6ZH3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 525₹ Havells Ne6322 Nose&Ear Hair Trimmer",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07ZD6NKZZ?tag=2244005-21",
-      "posted_at": "2026-09-12T15:47:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495375.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07ZD6NKZZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07ZD6NKZZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
