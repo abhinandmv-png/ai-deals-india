@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T03:56:35Z",
+  "updated_at": "2026-09-29T04:26:36Z",
   "deals": [
+    {
+      "title": "boAt Rockerz 113, 40 Hours Battery, Dual Pair, Fast Charge @799",
+      "price": 799,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7Y54PJX?tag=2244005-21",
+      "posted_at": "2026-09-29T04:26:35Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F7Y54PJX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7Y54PJX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7Y54PJX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP M10 Wired USB Mouse @215",
       "price": 215,
@@ -7768,22 +7784,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/G9Lip4wsMX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/G9Lip4wsMX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Crompton Arno Neo 5 Litre Instant Water Heater 3899",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGXLWKC8?tag=2244005-21",
-      "posted_at": "2026-09-12T14:32:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495363.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGXLWKC8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGXLWKC8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
