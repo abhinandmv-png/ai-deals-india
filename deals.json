@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T04:26:36Z",
+  "updated_at": "2026-09-29T04:29:22Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Opalware Dinner Set Of 66 Pieces @3245.",
+      "price": 3245,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MH4BSJ?tag=2244005-21",
+      "posted_at": "2026-09-29T04:29:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C7MH4BSJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MH4BSJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MH4BSJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Rockerz 113, 40 Hours Battery, Dual Pair, Fast Charge @799",
       "price": 799,
@@ -7768,22 +7784,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXBG2MNF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXBG2MNF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Levi's Clothing 🔥 Men's : Women's : Jeans :",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/G9Lip4wsMX?tag=2244005-21",
-      "posted_at": "2026-09-12T15:17:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/G9LIP4WSMX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/G9Lip4wsMX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/G9Lip4wsMX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
