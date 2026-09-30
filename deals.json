@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-30T02:41:54Z",
+  "updated_at": "2026-09-30T04:11:55Z",
   "deals": [
+    {
+      "title": "RR Signature Raptor 1200mm BLDC Designer Ceiling Fan at 2799 Apply ₹400 Coupon :",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC2NLJTF?tag=2244005-21",
+      "posted_at": "2026-09-30T04:11:54Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC2NLJTF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Allen Solly Boys T-Shirt at 150",
       "price": null,
@@ -7772,22 +7788,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CVV5YKYN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CVV5YKYN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "iPhone 18 Pro Max (256 GB) - Silver 1,79,900₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJB6KG27?tag=2244005-21",
-      "posted_at": "2026-09-12T17:29:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJB6KG27.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJB6KG27.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJB6KG27.01.LZZZZZZZ.jpg"
       ]
     }
   ]
