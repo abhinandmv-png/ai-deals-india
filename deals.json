@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-30T15:13:25Z",
+  "updated_at": "2026-09-30T15:13:32Z",
   "deals": [
+    {
+      "title": "Upto 77% Off On Milton Products.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "77% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/0BGaKxMxBZ?tag=2244005-21",
+      "posted_at": "2026-09-30T15:13:31Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/0BGAKXMXBZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/0BGaKxMxBZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/0BGaKxMxBZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ant Keyboard & Mouse Combo @305.",
       "price": 305,
@@ -7778,17 +7794,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B07W8Y847L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07W8Y847L.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Grab 💥 Larah by Borosil Products Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4hmEaoi",
-      "posted_at": "2026-09-12T18:29:36Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
