@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-29T19:11:52Z",
+  "updated_at": "2026-09-30T02:29:38Z",
   "deals": [
+    {
+      "title": "Puma Unisex-Adult Running Shoe @2095",
+      "price": 2095,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNRQ91Q9?tag=2244005-21",
+      "posted_at": "2026-09-30T02:29:37Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FNRQ91Q9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNRQ91Q9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNRQ91Q9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "JBL Active Noise Cancelling Earbuds @2,999.",
       "price": 2999,
@@ -7773,18 +7789,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B07G7M7LSV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07G7M7LSV.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": ". Lenskart Blu Eyeglasses 🔥",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4pB5yBB",
-      "posted_at": "2026-09-12T17:02:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495386.jpg"
     }
   ]
 }
