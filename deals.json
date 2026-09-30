@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-30T05:11:56Z",
+  "updated_at": "2026-09-30T06:26:57Z",
   "deals": [
+    {
+      "title": "Park Avenue Harmony, Eau De Parfum 100 ml at 263.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07845CN2K?tag=2244005-21",
+      "posted_at": "2026-09-30T06:26:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07845CN2K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07845CN2K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07845CN2K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Logitech G102 Light Sync Gaming Mouse at ₹1195",
       "price": 1195,
@@ -7772,22 +7788,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08X4CMTXM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08X4CMTXM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sony PlayStation 5 Digital Edition (slim) Console Video Game 64,990₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CY5QW186?tag=2244005-21",
-      "posted_at": "2026-09-12T17:44:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CY5QW186.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CY5QW186.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CY5QW186.01.LZZZZZZZ.jpg"
       ]
     }
   ]
