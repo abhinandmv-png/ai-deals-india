@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-30T18:58:28Z",
+  "updated_at": "2026-09-30T18:58:32Z",
   "deals": [
+    {
+      "title": "Philips 0.5W LED Bulb Red, Pack Of 24 at 746.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH22NCX8?tag=2244005-21",
+      "posted_at": "2026-09-30T18:58:31Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FH22NCX8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH22NCX8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH22NCX8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nike Loot : 50% Off + Buy 2, Extra 15% Off / Buy 3 Extra 20% Off. *Add Any 3 Shoes, Automatic Discount at Checkout",
       "price": null,
@@ -7777,22 +7793,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7VHY924.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7VHY924.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply 35% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "35% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B016I7CVZU?tag=2244005-21",
-      "posted_at": "2026-09-12T18:37:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B016I7CVZU.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B016I7CVZU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B016I7CVZU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
