@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-09-30T02:29:38Z",
+  "updated_at": "2026-09-30T02:41:54Z",
   "deals": [
+    {
+      "title": "Allen Solly Boys T-Shirt at 150",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8HJ6V6H?tag=2244005-21",
+      "posted_at": "2026-09-30T02:41:53Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F8HJ6V6H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8HJ6V6H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8HJ6V6H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Unisex-Adult Running Shoe @2095",
       "price": 2095,
@@ -7772,22 +7788,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJB6KG27.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJB6KG27.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1190 More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07G7M7LSV?tag=2244005-21",
-      "posted_at": "2026-09-12T17:14:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07G7M7LSV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07G7M7LSV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07G7M7LSV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
