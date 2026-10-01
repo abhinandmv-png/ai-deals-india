@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-01T02:44:59Z",
+  "updated_at": "2026-10-01T03:44:57Z",
   "deals": [
+    {
+      "title": "Lavie Sport Duffle Wheeler Bag @684",
+      "price": 684,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09NNKCXJD?tag=2244005-21",
+      "posted_at": "2026-10-01T03:44:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09NNKCXJD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09NNKCXJD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09NNKCXJD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Crompton 1200mm BLDC Ceiling Fan @3011",
       "price": 3011,
@@ -7777,22 +7793,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G2Y6M6NW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G2Y6M6NW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Havells Prisma 750 W 4 Jar Mixer Grinder 3300 990 Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNMBG643?tag=2244005-21",
-      "posted_at": "2026-09-12T18:47:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FNMBG643.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNMBG643.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNMBG643.01.LZZZZZZZ.jpg"
       ]
     }
   ]
