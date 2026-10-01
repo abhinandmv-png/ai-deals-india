@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-01T12:45:04Z",
+  "updated_at": "2026-10-01T12:45:07Z",
   "deals": [
+    {
+      "title": "Cello Melamine Mug Set Of 4, 200ml @208.",
+      "price": 208,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07XY5LX2W?tag=2244005-21",
+      "posted_at": "2026-10-01T12:45:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07XY5LX2W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07XY5LX2W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07XY5LX2W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acerpure Cozy F3 Table Fan @2146.",
       "price": 2146,
@@ -7777,22 +7793,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B63HWLGL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B63HWLGL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lavie Sport Wheel Duffle Bag @899",
-      "price": 899,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BC988KH7?tag=2244005-21",
-      "posted_at": "2026-09-13T01:51:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BC988KH7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BC988KH7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BC988KH7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
