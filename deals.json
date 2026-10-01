@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-01T18:35:52Z",
+  "updated_at": "2026-10-01T18:35:56Z",
   "deals": [
+    {
+      "title": "Havells PVC Plastic 16A MCB at 148.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07BH3RKL4?tag=2244005-21",
+      "posted_at": "2026-10-01T18:35:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07BH3RKL4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07BH3RKL4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07BH3RKL4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Voltas 1.5 Ton 5 Star Inverter Window Air Conditioner — ₹39,500.",
       "price": 39500,
@@ -7782,22 +7798,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2Y4N1QY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2Y4N1QY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Oytra Foldable Shopping Bag Set of 6 Reusable Grocery Bags Strawberry Design Expandable Foldable Carry Bags for Women Portable Folding Vegetable Market Tote Pouch @474₹(With Cashback)",
-      "price": 474,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07T579GTV?tag=2244005-21",
-      "posted_at": "2026-09-13T03:28:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495437.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07T579GTV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07T579GTV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
