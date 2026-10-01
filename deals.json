@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-01T18:20:51Z",
+  "updated_at": "2026-10-01T18:20:57Z",
   "deals": [
+    {
+      "title": "Whirlpool 9 Kg Front Load Washing Machine @24,240. Apply ₹1500 Off Coupon + ₹11750 Off With SBI Credit Card.",
+      "price": 24240,
+      "original_price": 11750,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1X7JHZP?tag=2244005-21",
+      "posted_at": "2026-10-01T18:20:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1X7JHZP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab Deal!! Meta Ray-Ban (Gen 1), Wayfarer, Large Matte Black at 19,573 Effective Get 7500 Discount Using SBI CC Link :",
       "price": null,
@@ -7782,22 +7798,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B6RJSH2S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B6RJSH2S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "💥💥💥 CELLO Lunch On Tinker Bell Design Kids Combo Set Green | Inner Compartment Lunch Box with Insulated Water Bottle Leak Proof Airtight Lightweight 3D Print Tiffin Box Bottle Set for School Kids Boys @172₹(Casback +Coup",
-      "price": 172,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCC19GYZ?tag=2244005-21",
-      "posted_at": "2026-09-13T02:58:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495431.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCC19GYZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCC19GYZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
