@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-01T03:44:57Z",
+  "updated_at": "2026-10-01T03:45:00Z",
   "deals": [
+    {
+      "title": "Bata Men Casual Lace-Up Derby Shoes @816",
+      "price": 816,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMK4YMMM?tag=2244005-21",
+      "posted_at": "2026-10-01T03:45:00Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GMK4YMMM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMK4YMMM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMK4YMMM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lavie Sport Duffle Wheeler Bag @684",
       "price": 684,
@@ -7777,22 +7793,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GY131P4W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GY131P4W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Symphony 10 Litre Storage Water Heater 5191",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G2Y6M6NW?tag=2244005-21",
-      "posted_at": "2026-09-12T18:47:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495410.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G2Y6M6NW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G2Y6M6NW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
