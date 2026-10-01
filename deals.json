@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-01T06:45:04Z",
+  "updated_at": "2026-10-01T12:45:04Z",
   "deals": [
+    {
+      "title": "Acerpure Cozy F3 Table Fan @2146.",
+      "price": 2146,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D1BXS8XZ?tag=2244005-21",
+      "posted_at": "2026-10-01T12:45:03Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D1BXS8XZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D1BXS8XZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D1BXS8XZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "51% Off : TRESemme Hydra Matrix Hydrating Shampoo 580ml @460",
       "price": 460,
@@ -7777,22 +7793,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BC988KH7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BC988KH7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "96₹ More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01BXW1OV2?tag=2244005-21",
-      "posted_at": "2026-09-12T19:32:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495424.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01BXW1OV2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01BXW1OV2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
