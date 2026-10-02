@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-02T02:20:59Z",
+  "updated_at": "2026-10-02T02:45:16Z",
   "deals": [
+    {
+      "title": "58% Off : Mamaearth Ubtan Face Wash 100ml @112",
+      "price": 112,
+      "original_price": 267,
+      "category": "Beauty",
+      "badge": "58% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07FPV716J?tag=2244005-21",
+      "posted_at": "2026-10-02T02:45:16Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07FPV716J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07FPV716J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07FPV716J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Dinner Set, 66Pcs @ Rs.3186",
       "price": 3186,
@@ -7782,22 +7798,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDLCMP48.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDLCMP48.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "YETI 3-in-1 Bathroom Cleaning Brush with Wiper - Bathroom Cleaning Brush Long Handle 180° Rotate Toilet Brush Bathroom Tiles Cleaning, Wiper Floor Scrub for Kitchen Bathroom Cleaning @254₹(With Cashback)",
-      "price": 254,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGLBQ99T?tag=2244005-21",
-      "posted_at": "2026-09-13T03:43:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495440.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGLBQ99T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGLBQ99T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
