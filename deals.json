@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-02T07:06:01Z",
+  "updated_at": "2026-10-02T07:06:04Z",
   "deals": [
+    {
+      "title": "Parachute Advansed Amla Hair Oil, 500 ml @ Rs.98 Apply 17% Off Coupon :",
+      "price": 98,
+      "original_price": 118,
+      "category": "Grocery",
+      "badge": "17% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6D1D2XV?tag=2244005-21",
+      "posted_at": "2026-10-02T07:06:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F6D1D2XV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6D1D2XV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6D1D2XV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Sunfeast Dark Fantasy Vanilla Sandwich Crème Biscuits, 237g @ Rs.49**",
       "price": 49,
@@ -7782,22 +7798,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07DHP29F1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07DHP29F1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@255₹(With bank offer)",
-      "price": 255,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BJF3GV4D?tag=2244005-21",
-      "posted_at": "2026-09-13T04:28:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495445.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BJF3GV4D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BJF3GV4D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
