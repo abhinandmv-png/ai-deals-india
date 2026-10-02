@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-02T15:21:08Z",
+  "updated_at": "2026-10-02T15:30:25Z",
   "deals": [
+    {
+      "title": "67% Off : Bajaj Almond Body Lotion 400ml @141.",
+      "price": 141,
+      "original_price": 427,
+      "category": "Shopping",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CC9KFR26?tag=2244005-21",
+      "posted_at": "2026-10-02T15:30:24Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CC9KFR26.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CC9KFR26.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CC9KFR26.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric 1440W Steam Iron - with Non-stick Coating — ₹914.",
       "price": 914,
@@ -7792,22 +7808,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D1JT43BV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D1JT43BV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CG 60L Window Air Cooler for Home | Inverter Compatible | Deal :4762₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F5WQG7D5?tag=2244005-21",
-      "posted_at": "2026-09-13T05:28:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F5WQG7D5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F5WQG7D5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F5WQG7D5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
