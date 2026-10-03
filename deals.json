@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-02T18:51:15Z",
+  "updated_at": "2026-10-03T02:00:34Z",
   "deals": [
+    {
+      "title": "Vaseline Light Hydrate Serum In Lotion, 400ml @198",
+      "price": 198,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CDLT6GRD?tag=2244005-21",
+      "posted_at": "2026-10-03T02:00:34Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CDLT6GRD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CDLT6GRD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CDLT6GRD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple MacBook Neo 13″ Laptop at 70990 Flat ₹7000 Off With SBI Credit Cardm",
       "price": null,
@@ -7792,22 +7808,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DRGLX4M6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DRGLX4M6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Original 25W USB Type-C Travel Adaptor @533₹",
-      "price": 533,
-      "original_price": 25,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D2R26HFV?tag=2244005-21",
-      "posted_at": "2026-09-13T06:13:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D2R26HFV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
