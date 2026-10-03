@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T16:17:48Z",
+  "updated_at": "2026-10-03T17:17:49Z",
   "deals": [
+    {
+      "title": "**Samsung Single Door Refrigerator, 223L at Rs.16,740.** **Apply ₹750 Coupon** + **₹1,500 off SBI Credit/Debit Card**",
+      "price": 16740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G8JGJLKW?tag=2244005-21",
+      "posted_at": "2026-10-03T17:17:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G8JGJLKW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G8JGJLKW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G8JGJLKW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "L'Oreal Paris Revitalift HA Oil Control Cleansing Gel, 120ml @ Rs.219",
       "price": 219,
@@ -7818,17 +7834,6 @@
       "url": "https://amzn.to/4Aa0NDT",
       "posted_at": "2026-09-13T10:49:41Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "Smartwatches from 1099 boAt : Fire-Boltt : Noise :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/s?k=Noise&rh=n%3A976419031%2Cp_6%3AAJ6SIZC8YQDZX%2Cp_123%3A851753&s=price-asc-rank&i=electronics&sid=1gfYRj&tag=techfacts03-21",
-      "posted_at": "2026-09-13T09:13:36Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
