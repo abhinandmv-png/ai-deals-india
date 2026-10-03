@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T06:15:41Z",
+  "updated_at": "2026-10-03T08:35:57Z",
   "deals": [
+    {
+      "title": "TOSHIBA 65-Inch 4K Ultra HD Smart QLED TV - 24W — ₹48,990. Apply ₹10,000 Coupon + ₹4,000 off SBI Credit Card",
+      "price": 48990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDL2PRQQ?tag=2244005-21",
+      "posted_at": "2026-10-03T08:35:57Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FDL2PRQQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDL2PRQQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDL2PRQQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "50% Off : Dove Shampoo, 340 ml @228.",
       "price": 228,
@@ -7812,22 +7828,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7CX15K2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7CX15K2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "70% Off : Smart And Handsome Face Wash 150g @113.",
-      "price": 113,
-      "original_price": 377,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D5YRHFYN?tag=2244005-21",
-      "posted_at": "2026-09-13T08:06:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D5YRHFYN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D5YRHFYN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D5YRHFYN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
