@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T06:15:37Z",
+  "updated_at": "2026-10-03T06:15:41Z",
   "deals": [
+    {
+      "title": "50% Off : Dove Shampoo, 340 ml @228.",
+      "price": 228,
+      "original_price": 456,
+      "category": "Beauty",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8W8B975?tag=2244005-21",
+      "posted_at": "2026-10-03T06:15:40Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F8W8B975.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8W8B975.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8W8B975.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lakme 9to5 Hya Matte Foundation @314.",
       "price": 314,
@@ -7813,17 +7829,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0D5YRHFYN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5YRHFYN.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 80% off on Pepe Jeans clothing",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "80% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4h0TSUK",
-      "posted_at": "2026-09-13T08:04:41Z",
-      "source": "Premium Deals"
     }
   ]
 }
