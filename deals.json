@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T17:17:49Z",
+  "updated_at": "2026-10-03T18:32:50Z",
   "deals": [
+    {
+      "title": "Razer BlackShark V2 X Wired Gaming Headset with Mic at 3999.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B086PKMZ21?tag=2244005-21",
+      "posted_at": "2026-10-03T18:32:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B086PKMZ21.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B086PKMZ21.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B086PKMZ21.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Samsung Single Door Refrigerator, 223L at Rs.16,740.** **Apply ₹750 Coupon** + **₹1,500 off SBI Credit/Debit Card**",
       "price": 16740,
@@ -7823,17 +7839,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CHYWC624.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CHYWC624.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 85% Off On French Connection Watches.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4Aa0NDT",
-      "posted_at": "2026-09-13T10:49:41Z",
-      "source": "Premium Deals"
     }
   ]
 }
