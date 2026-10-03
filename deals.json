@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T18:32:50Z",
+  "updated_at": "2026-10-03T18:47:50Z",
   "deals": [
+    {
+      "title": "CELLO 2-piece 460ml, 400ml Lunch Box Set — ₹294. Apply 40% Off Coupon",
+      "price": 294,
+      "original_price": 490,
+      "category": "Shopping",
+      "badge": "40% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CCSDL5ZP?tag=2244005-21",
+      "posted_at": "2026-10-03T18:47:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CCSDL5ZP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CCSDL5ZP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CCSDL5ZP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Razer BlackShark V2 X Wired Gaming Headset with Mic at 3999.",
       "price": null,
@@ -7822,22 +7838,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBLWPTN3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBLWPTN3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "199 More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CHYWC624?tag=2244005-21",
-      "posted_at": "2026-09-13T10:58:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CHYWC624.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CHYWC624.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CHYWC624.01.LZZZZZZZ.jpg"
       ]
     }
   ]
