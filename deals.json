@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T10:50:59Z",
+  "updated_at": "2026-10-03T15:02:51Z",
   "deals": [
+    {
+      "title": "Grab ₹449 :",
+      "price": 449,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F38BD2JZ?tag=2244005-21",
+      "posted_at": "2026-10-03T15:02:50Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144699.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F38BD2JZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F38BD2JZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**iFFALCON 75-Inch 4K UHD Smart LED TV, 144Hz at ₹54,499.** **₹15,500 off SBI Credit Card**",
       "price": 54499,
@@ -7812,22 +7828,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FH2584YT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FH2584YT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Hometown Willy Plus Engineered Wood Two Door Wardrobe for Bedroom, Hanging Space, Shelves & Lockable Drawer | White Colour @9471₹(With offer)",
-      "price": 9471,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GLHGCT5X?tag=2244005-21",
-      "posted_at": "2026-09-13T08:13:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495472.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GLHGCT5X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GLHGCT5X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
