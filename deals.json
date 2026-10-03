@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T08:50:57Z",
+  "updated_at": "2026-10-03T10:50:59Z",
   "deals": [
+    {
+      "title": "**iFFALCON 75-Inch 4K UHD Smart LED TV, 144Hz at ₹54,499.** **₹15,500 off SBI Credit Card**",
+      "price": 54499,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYD6YC2N?tag=2244005-21",
+      "posted_at": "2026-10-03T10:50:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GYD6YC2N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYD6YC2N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYD6YC2N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Sale : Phone Prices Revealed.",
       "price": null,
@@ -7812,22 +7828,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GLHGCT5X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GLHGCT5X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Airpro 8-Wheel Medium Size Hard Case Trolley Bag at ₹1799",
-      "price": 1799,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4RCBZ6F?tag=2244005-21",
-      "posted_at": "2026-09-13T08:13:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D4RCBZ6F.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4RCBZ6F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4RCBZ6F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
