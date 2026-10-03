@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T03:00:35Z",
+  "updated_at": "2026-10-03T03:21:18Z",
   "deals": [
+    {
+      "title": "**Dove Daily Shine Conditioner, 335ml at Rs.252.**",
+      "price": 252,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08D16ZXZQ?tag=2244005-21",
+      "posted_at": "2026-10-03T03:21:17Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08D16ZXZQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08D16ZXZQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08D16ZXZQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Mens Tychonic Sneaker @999",
       "price": 999,
@@ -7792,22 +7808,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWMF3VCX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWMF3VCX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Brand - Presto! Spin Mop with Plastic Bucket Set, Blue @531₹(With Cashback)",
-      "price": 531,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B396SW89?tag=2244005-21",
-      "posted_at": "2026-09-13T06:58:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495462.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B396SW89.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B396SW89.01.LZZZZZZZ.jpg"
       ]
     }
   ]
