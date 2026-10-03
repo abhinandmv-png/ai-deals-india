@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T15:02:51Z",
+  "updated_at": "2026-10-03T15:17:47Z",
   "deals": [
+    {
+      "title": "Lakme Glycolic Illuminate Serum 15 ml at 267",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPDNFW3Z?tag=2244005-21",
+      "posted_at": "2026-10-03T15:17:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab ₹449 :",
       "price": 449,
@@ -7812,22 +7828,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0821DJT8M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0821DJT8M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Olay 7in1 Ultra-light Face Serum 30ml @271.",
-      "price": 271,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH2584YT?tag=2244005-21",
-      "posted_at": "2026-09-13T08:51:37Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FH2584YT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH2584YT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH2584YT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
