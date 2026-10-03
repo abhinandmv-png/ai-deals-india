@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T15:17:47Z",
+  "updated_at": "2026-10-03T16:17:48Z",
   "deals": [
+    {
+      "title": "L'Oreal Paris Revitalift HA Oil Control Cleansing Gel, 120ml @ Rs.219",
+      "price": 219,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D87K7XG2?tag=2244005-21",
+      "posted_at": "2026-10-03T16:17:48Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D87K7XG2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D87K7XG2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D87K7XG2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lakme Glycolic Illuminate Serum 15 ml at 267",
       "price": null,
@@ -7813,22 +7829,6 @@
       "url": "https://www.amazon.in/s?k=Noise&rh=n%3A976419031%2Cp_6%3AAJ6SIZC8YQDZX%2Cp_123%3A851753&s=price-asc-rank&i=electronics&sid=1gfYRj&tag=techfacts03-21",
       "posted_at": "2026-09-13T09:13:36Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "Grab 🔥 479 Reg; 899+ Genie Mosaic Daypack for Women & Girls (15L)",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0821DJT8M?tag=2244005-21",
-      "posted_at": "2026-09-13T08:58:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495479.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0821DJT8M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0821DJT8M.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
