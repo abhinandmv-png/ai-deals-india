@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T03:51:18Z",
+  "updated_at": "2026-10-03T04:21:19Z",
   "deals": [
+    {
+      "title": "Polycab 1200mm BLDC Ceiling Fan @3299",
+      "price": 3299,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9Y8SVKW?tag=2244005-21",
+      "posted_at": "2026-10-03T04:21:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H9Y8SVKW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9Y8SVKW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9Y8SVKW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosil Nostalgia Union Lunchbox | 4pc Round (240ml x 2 + 400ml x 2) Container Set at 687",
       "price": null,
@@ -7803,17 +7819,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CW9MJ9VJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CW9MJ9VJ.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 80% Off On The Indian Garage Co. Clothing. T-Shirt : Jeans : Trouser : Winterwear :",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "80% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3TnQIma",
-      "posted_at": "2026-09-13T07:28:37Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
