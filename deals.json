@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-03T05:35:55Z",
+  "updated_at": "2026-10-03T06:15:37Z",
   "deals": [
+    {
+      "title": "Lakme 9to5 Hya Matte Foundation @314.",
+      "price": 314,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGBPN5VP?tag=2244005-21",
+      "posted_at": "2026-10-03T06:15:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GGBPN5VP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGBPN5VP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGBPN5VP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Rapid Digital Air Fryer 4.2L @3199.",
       "price": 3199,
@@ -7808,17 +7824,6 @@
       "url": "https://amzn.to/4h0TSUK",
       "posted_at": "2026-09-13T08:04:41Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "Upto 70% off on Cookies. Unibic : Sunfeast : Kwality : Dukes Waffy Rolls : Bikano : Bikaji :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/40G9QNJ",
-      "posted_at": "2026-09-13T07:28:39Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
