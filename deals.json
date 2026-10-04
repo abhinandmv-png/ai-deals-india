@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T04:45:58Z",
+  "updated_at": "2026-10-04T04:46:01Z",
   "deals": [
+    {
+      "title": "Pepe Jeans Men Jeans @990",
+      "price": 990,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CYT2QLZ1?tag=2244005-21",
+      "posted_at": "2026-10-04T04:46:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CYT2QLZ1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CYT2QLZ1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CYT2QLZ1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skybags Laptop Backpack 16L @629",
       "price": 629,
@@ -7822,22 +7838,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGYBZ6JQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGYBZ6JQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥💥💥 680₹ More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBHYJ7T9?tag=2244005-21",
-      "posted_at": "2026-09-13T11:13:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495524.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBHYJ7T9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBHYJ7T9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
