@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T04:45:55Z",
+  "updated_at": "2026-10-04T04:45:58Z",
   "deals": [
+    {
+      "title": "Skybags Laptop Backpack 16L @629",
+      "price": 629,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJ3TCKYD?tag=2244005-21",
+      "posted_at": "2026-10-04T04:45:58Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CJ3TCKYD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJ3TCKYD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJ3TCKYD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Unisex Adult Urus Sneaker @1081",
       "price": 1081,
@@ -7822,22 +7838,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBHYJ7T9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBHYJ7T9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sparx Men's SS 453 Sandals 🔥 546₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B072JGSP4V?tag=2244005-21",
-      "posted_at": "2026-09-13T11:13:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495525.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B072JGSP4V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B072JGSP4V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
