@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T09:01:04Z",
+  "updated_at": "2026-10-04T09:32:15Z",
   "deals": [
+    {
+      "title": "Loottt fasttt💥💥💥 Loot : Kitchen Cleaner Spray Oil & Grease Stain Remover 500ml – Only ₹189🤯 ✨500ml Spray for Kitchen Cleaning ✨Suitable for Gas Stove, Chimney & Exhaust Fan ✨Designed to Remove Oil & Grease Stains Buy Now",
+      "price": 189,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H33NCHW2?tag=2244005-21",
+      "posted_at": "2026-10-04T09:32:15Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_97.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H33NCHW2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H33NCHW2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Colgate Sensitive Toothpaste (80g X 2) at 103. Min.3 Qty :",
       "price": null,
@@ -7827,17 +7843,6 @@
       "note": "Check Amazon for the latest price, availability and delivery details.",
       "url": "https://amzn.to/4l9nRuL",
       "posted_at": "2026-09-13T12:43:36Z",
-      "source": "TechFactsDeals"
-    },
-    {
-      "title": ". Pepe Jeans Clothing 🔥",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/3UTPHCM",
-      "posted_at": "2026-09-13T12:28:36Z",
       "source": "TechFactsDeals"
     }
   ]
