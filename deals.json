@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T14:52:58Z",
+  "updated_at": "2026-10-04T15:01:50Z",
   "deals": [
+    {
+      "title": "Acer Wired Keyboard & Mouse Combo @488",
+      "price": 488,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCS5V5V1?tag=2244005-21",
+      "posted_at": "2026-10-04T15:01:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FCS5V5V1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCS5V5V1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCS5V5V1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% Off : Secret Perfume Body Spray 120ml @100.",
       "price": 100,
@@ -7837,22 +7853,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRV123VH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRV123VH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Park Avenue Allure Women EDP 100ml @263",
-      "price": 263,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLY9B57H?tag=2244005-21",
-      "posted_at": "2026-09-13T13:19:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLY9B57H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
