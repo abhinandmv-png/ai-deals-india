@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T10:31:00Z",
+  "updated_at": "2026-10-04T11:26:44Z",
   "deals": [
+    {
+      "title": "Axe Apollo 3 In 1 Body, Face & Hair Wash 400ml @152",
+      "price": 152,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHTSGT5N?tag=2244005-21",
+      "posted_at": "2026-10-04T11:26:43Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0BHTSGT5N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHTSGT5N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHTSGT5N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "L'Oreal Paris You're Worth it Gift Box @519.",
       "price": 519,
@@ -7838,17 +7854,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0DK7CJT2G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DK7CJT2G.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 73% Off On Parachute Beauty Products.",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "73% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4d449i6",
-      "posted_at": "2026-09-13T12:51:36Z",
-      "source": "Looterhub"
     }
   ]
 }
