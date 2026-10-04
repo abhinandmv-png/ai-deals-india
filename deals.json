@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T07:56:18Z",
+  "updated_at": "2026-10-04T09:00:58Z",
   "deals": [
+    {
+      "title": "EcoLink BLDC 1200mm Ceiling Fan @2199.",
+      "price": 2199,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2B649QB?tag=2244005-21",
+      "posted_at": "2026-10-04T09:00:58Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H2B649QB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2B649QB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2B649QB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Redgear A-10 Wired Gaming Mouse - with RGB LED @169₹",
       "price": 169,
@@ -7822,22 +7838,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09C3GX3H9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09C3GX3H9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FV32YDK4?tag=2244005-21",
-      "posted_at": "2026-09-13T11:58:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495533.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FV32YDK4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FV32YDK4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
