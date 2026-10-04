@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T09:00:58Z",
+  "updated_at": "2026-10-04T09:01:04Z",
   "deals": [
+    {
+      "title": "Colgate Sensitive Toothpaste (80g X 2) at 103. Min.3 Qty :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07QL37M78?tag=2244005-21",
+      "posted_at": "2026-10-04T09:01:03Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07QL37M78.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07QL37M78.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07QL37M78.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "EcoLink BLDC 1200mm Ceiling Fan @2199.",
       "price": 2199,
@@ -7823,22 +7839,6 @@
       "url": "https://amzn.to/3UTPHCM",
       "posted_at": "2026-09-13T12:28:36Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "Grab 💥 397₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09C3GX3H9?tag=2244005-21",
-      "posted_at": "2026-09-13T11:58:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09C3GX3H9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09C3GX3H9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09C3GX3H9.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
