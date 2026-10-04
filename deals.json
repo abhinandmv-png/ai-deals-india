@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T11:26:44Z",
+  "updated_at": "2026-10-04T14:52:58Z",
   "deals": [
+    {
+      "title": "60% Off : Secret Perfume Body Spray 120ml @100.",
+      "price": 100,
+      "original_price": 250,
+      "category": "Beauty",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0765YP2DT?tag=2244005-21",
+      "posted_at": "2026-10-04T14:52:58Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0765YP2DT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0765YP2DT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0765YP2DT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Axe Apollo 3 In 1 Body, Face & Hair Wash 400ml @152",
       "price": 152,
@@ -7837,22 +7853,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLY9B57H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 529₹ Ant Esports GM333 Smartchoice Wired Gaming Mouse",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DK7CJT2G?tag=2244005-21",
-      "posted_at": "2026-09-13T13:13:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495551.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DK7CJT2G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DK7CJT2G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
