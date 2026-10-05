@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-05T07:23:18Z",
+  "updated_at": "2026-10-05T08:23:15Z",
   "deals": [
+    {
+      "title": "Woodland Men's Leather Sandal @1108.",
+      "price": 1108,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07DQT4VGT?tag=2244005-21",
+      "posted_at": "2026-10-05T08:23:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07DQT4VGT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07DQT4VGT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07DQT4VGT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Being Human Men's Jacket @1409.",
       "price": 1409,
@@ -7837,22 +7853,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2LLHLGP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2LLHLGP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab 🔥 180₹ POND'S Bright Beauty Spot Less Fairness Face Wash | 200G",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08NYD1GGK?tag=2244005-21",
-      "posted_at": "2026-09-13T15:38:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495578.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08NYD1GGK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08NYD1GGK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
