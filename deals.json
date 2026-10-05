@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-05T05:08:17Z",
+  "updated_at": "2026-10-05T07:23:14Z",
   "deals": [
+    {
+      "title": "Adidas Mens Casual Shoes @1051.",
+      "price": 1051,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7VK63K?tag=2244005-21",
+      "posted_at": "2026-10-05T07:23:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FN7VK63K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7VK63K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7VK63K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Symbol Men Neck Sweatshirt @379.",
       "price": 379,
@@ -7837,22 +7853,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMD2WNGX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMD2WNGX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAAAASSSTTTT 🔥 749₹ 2550 Coupon More :",
-      "price": 2550,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3F56PWN?tag=2244005-21",
-      "posted_at": "2026-09-13T15:08:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495573.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3F56PWN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3F56PWN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
