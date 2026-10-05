@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-05T18:46:58Z",
+  "updated_at": "2026-10-05T18:47:02Z",
   "deals": [
+    {
+      "title": "Flat 70% Off On Van Heusen Clothing.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/zHRgz188Cs?tag=2244005-21",
+      "posted_at": "2026-10-05T18:47:01Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/ZHRGZ188CS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/zHRgz188Cs.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/zHRgz188Cs.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Reebok Men Sweatshirt at 899",
       "price": null,
@@ -7842,22 +7858,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSVWCS5D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSVWCS5D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". DSC Fire Kashmir Willow Cricket Bat 1,224₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00JLE2LNU?tag=2244005-21",
-      "posted_at": "2026-09-13T17:23:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00JLE2LNU.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00JLE2LNU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00JLE2LNU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
