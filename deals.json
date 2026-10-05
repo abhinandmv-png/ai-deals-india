@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-04T15:01:50Z",
+  "updated_at": "2026-10-05T02:38:10Z",
   "deals": [
+    {
+      "title": "Reebok Mens Sneaker @1140",
+      "price": 1140,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CYT8JKL3?tag=2244005-21",
+      "posted_at": "2026-10-05T02:38:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CYT8JKL3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CYT8JKL3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CYT8JKL3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer Wired Keyboard & Mouse Combo @488",
       "price": 488,
@@ -7837,22 +7853,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09N2TK64V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AmazonBasics Wireless Keyboard + Mouse @579.",
-      "price": 579,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GRV123VH?tag=2244005-21",
-      "posted_at": "2026-09-13T13:34:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GRV123VH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GRV123VH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GRV123VH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
