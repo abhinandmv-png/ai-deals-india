@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-05T05:08:10Z",
+  "updated_at": "2026-10-05T05:08:13Z",
   "deals": [
+    {
+      "title": "PUMA Men Unleash Sneaker @1289",
+      "price": 1289,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BLNSDK3W?tag=2244005-21",
+      "posted_at": "2026-10-05T05:08:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BLNSDK3W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BLNSDK3W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BLNSDK3W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat Polyester Duffle Bag @565",
       "price": 565,
@@ -7837,22 +7853,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0869VX72W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0869VX72W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lootttt Fastttt💥💥😱😱 Urgent Loot⚡️⚡️ Privacy Window Curtains (5 Feet 2 Piece) @499 :",
-      "price": 499,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HDHXT3MH?tag=2244005-21",
-      "posted_at": "2026-09-13T14:08:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495562.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HDHXT3MH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HDHXT3MH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
