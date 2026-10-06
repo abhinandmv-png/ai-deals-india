@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-06T16:08:47Z",
+  "updated_at": "2026-10-06T16:23:47Z",
   "deals": [
+    {
+      "title": "5999",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ2FNTCB?tag=2244005-21",
+      "posted_at": "2026-10-06T16:23:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FJ2FNTCB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ2FNTCB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ2FNTCB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "92",
       "price": null,
@@ -7857,17 +7873,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B096B2G6GJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B096B2G6GJ.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Grab 💥💥💥 from: 112₹ Footwears",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/470l15q",
-      "posted_at": "2026-09-13T18:39:57Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
