@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-06T04:38:32Z",
+  "updated_at": "2026-10-06T05:23:37Z",
   "deals": [
+    {
+      "title": "77% Off : Axe Strong Perfume, 100ml @348. Regular Price 700+",
+      "price": 348,
+      "original_price": 1513,
+      "category": "Beauty",
+      "badge": "77% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQP1N4TL?tag=2244005-21",
+      "posted_at": "2026-10-06T05:23:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQP1N4TL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Maybelline New York Eyeshadow Palette at 279",
       "price": null,
@@ -7843,22 +7859,6 @@
       "posted_at": "2026-09-13T18:23:57Z",
       "source": "TechFactsDeals",
       "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495596.jpg"
-    },
-    {
-      "title": "Apple iPhone 18 Pro Pro Max :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJB3HXRB?tag=2244005-21",
-      "posted_at": "2026-09-13T18:23:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJB3HXRB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJB3HXRB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJB3HXRB.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
