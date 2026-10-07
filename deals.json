@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:57:12Z",
+  "updated_at": "2026-10-07T18:57:49Z",
   "deals": [
+    {
+      "title": "Noise Twist Smartwatch Heart Rate + Sleep Tracking @1199.",
+      "price": 1199,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BJ72WZQ7?tag=2244005-21",
+      "posted_at": "2026-10-07T18:57:48Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BJ72WZQ7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BJ72WZQ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BJ72WZQ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**ASUS Vivobook 15 Laptop, 15.6\" FHD, 8GB RAM, 512GB 1.7 Kg — ₹51,390.** - **₹9,600 off SBI Credit Card**",
       "price": 51390,
@@ -7881,22 +7897,6 @@
       "posted_at": "2026-09-14T05:02:37Z",
       "source": "TechFactsDeals",
       "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495675.jpg"
-    },
-    {
-      "title": "₹849 : More:",
-      "price": 849,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07S4S69T3?tag=2244005-21",
-      "posted_at": "2026-09-14T04:47:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07S4S69T3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07S4S69T3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07S4S69T3.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
