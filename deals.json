@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:46:27Z",
+  "updated_at": "2026-10-07T18:54:14Z",
   "deals": [
+    {
+      "title": "@23400 10k Coupon + bank discount",
+      "price": 23400,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWK3C5YQ?tag=2244005-21",
+      "posted_at": "2026-10-07T18:54:14Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DWK3C5YQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWK3C5YQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWK3C5YQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ORACURA Electric Toothbrush with 3 Modes at Rs.679 Regular ₹980+",
       "price": 679,
@@ -7875,22 +7891,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G63XYCYQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G63XYCYQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @6690 Reg : 7400+",
-      "price": 6690,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4732Z7B?tag=2244005-21",
-      "posted_at": "2026-09-14T04:02:42Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D4732Z7B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4732Z7B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4732Z7B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
