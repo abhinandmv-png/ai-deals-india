@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T13:54:07Z",
+  "updated_at": "2026-10-07T15:39:09Z",
   "deals": [
+    {
+      "title": "73% Off : Dove Body Wash, 1 L @257. Buy Max Qty :",
+      "price": 257,
+      "original_price": 952,
+      "category": "Shopping",
+      "badge": "73% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHV82T31?tag=2244005-21",
+      "posted_at": "2026-10-07T15:39:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHV82T31.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "139",
       "price": null,
@@ -7866,22 +7882,6 @@
       "url": "https://amzn.to/4h9XZOl",
       "posted_at": "2026-09-14T03:34:44Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "₹294 : More:",
-      "price": 294,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFN2RV6G?tag=2244005-21",
-      "posted_at": "2026-09-14T03:25:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495635.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFN2RV6G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFN2RV6G.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
