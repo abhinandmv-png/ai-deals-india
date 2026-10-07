@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:24:14Z",
+  "updated_at": "2026-10-07T19:24:18Z",
   "deals": [
+    {
+      "title": "Bata Comfit Women's Sandal @180.",
+      "price": 180,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09WDL37JF?tag=2244005-21",
+      "posted_at": "2026-10-07T19:24:17Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09WDL37JF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09WDL37JF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09WDL37JF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 157 :",
       "price": null,
@@ -7904,22 +7920,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CFDYVW59.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CFDYVW59.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "47",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07H4J4NKX?tag=2244005-21",
-      "posted_at": "2026-09-14T06:32:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495702.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07H4J4NKX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07H4J4NKX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
