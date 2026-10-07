@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T20:57:41Z",
+  "updated_at": "2026-10-07T20:57:44Z",
   "deals": [
+    {
+      "title": "Whoop Peak 5.0 Fitness Band with 12 Month Membership at 21,490. *** ₹2,800 Off With SBI Credit Cards.**",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DY2SWV16?tag=2244005-21",
+      "posted_at": "2026-10-07T20:57:44Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DY2SWV16.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DY2SWV16.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DY2SWV16.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony 330W Soundbar at Rs.12491 Effective **Apply 1000 Coupon + ₹2498 Off Using SBI Credit Card**",
       "price": 12491,
@@ -7929,22 +7945,6 @@
       "url": "https://amzn.to/4j0IVoG",
       "posted_at": "2026-09-14T09:21:44Z",
       "source": "Looterhub"
-    },
-    {
-      "title": "₹264 :",
-      "price": 264,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C4XZV8K4?tag=2244005-21",
-      "posted_at": "2026-09-14T09:02:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495738.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C4XZV8K4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C4XZV8K4.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
