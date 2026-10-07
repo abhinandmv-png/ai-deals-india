@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:55:27Z",
+  "updated_at": "2026-10-07T18:56:37Z",
   "deals": [
+    {
+      "title": "**DJI Osmo Pocket 3 Creator Combo Camera - 1'' 4K/120fps — ₹45,990.**",
+      "price": 45990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CG19FGQ5?tag=2244005-21",
+      "posted_at": "2026-10-07T18:56:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CG19FGQ5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CG19FGQ5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CG19FGQ5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "95",
       "price": null,
@@ -7880,22 +7896,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4F51KKG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4F51KKG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹171 : More:",
-      "price": 171,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWFQ3TK4?tag=2244005-21",
-      "posted_at": "2026-09-14T04:47:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DWFQ3TK4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWFQ3TK4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWFQ3TK4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
