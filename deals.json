@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T20:57:44Z",
+  "updated_at": "2026-10-07T20:57:48Z",
   "deals": [
+    {
+      "title": "Acer Aspire One Thin and Light Laptop, 1.48KG 256GB 8GB @33,740. Apply ₹1,000 Coupon + ₹4,250 off SBI Credit Card",
+      "price": 33740,
+      "original_price": 4250,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H45YFPJT?tag=2244005-21",
+      "posted_at": "2026-10-07T20:57:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H45YFPJT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Whoop Peak 5.0 Fitness Band with 12 Month Membership at 21,490. *** ₹2,800 Off With SBI Credit Cards.**",
       "price": null,
@@ -7934,17 +7950,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CXXWQ71V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CXXWQ71V.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Apply Coupon On Havells Products.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4j0IVoG",
-      "posted_at": "2026-09-14T09:21:44Z",
-      "source": "Looterhub"
     }
   ]
 }
