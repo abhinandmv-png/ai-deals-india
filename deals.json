@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T16:13:32Z",
+  "updated_at": "2026-10-07T16:28:32Z",
   "deals": [
+    {
+      "title": "**Rupa Jon Sleeveless Vest for Men, 100% Cotton, Pack of 7 White @ Rs.274**",
+      "price": 274,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BD7VDS9Q?tag=2244005-21",
+      "posted_at": "2026-10-07T16:28:31Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BD7VDS9Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BD7VDS9Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BD7VDS9Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "P.N.Gadgil Jewellers 1 gm Vedhani Gold Ring 24 kt (995) @ Rs.14794 Get 1500 discount using SBI CC",
       "price": 14794,
@@ -7870,22 +7886,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09BNTCZ9N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09BNTCZ9N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Dabur Vatika Shampoo 1L 224 : 439 :",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09V36YJZW?tag=2244005-21",
-      "posted_at": "2026-09-14T03:40:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09V36YJZW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09V36YJZW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09V36YJZW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
