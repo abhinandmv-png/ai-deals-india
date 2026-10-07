@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:10:17Z",
+  "updated_at": "2026-10-07T19:10:22Z",
   "deals": [
+    {
+      "title": "IFB 1.5 Ton 3 Star Split AC @29740. Apply ₹2000 off Coupon + ₹4750 off With SBI Credit Card",
+      "price": 29740,
+      "original_price": 4750,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVJ3WB54?tag=2244005-21",
+      "posted_at": "2026-10-07T19:10:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GVJ3WB54.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVJ3WB54.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVJ3WB54.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 199 :",
       "price": null,
@@ -7895,17 +7911,6 @@
       "url": "https://amzn.to/40Iwvbc",
       "posted_at": "2026-09-14T05:36:44Z",
       "source": "Looterhub"
-    },
-    {
-      "title": "Upto 90% Off On Marks & Spencer Clothing. Women : Men :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "90% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4dgRk37",
-      "posted_at": "2026-09-14T05:34:45Z",
-      "source": "Premium Deals"
     }
   ]
 }
