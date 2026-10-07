@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:24:45Z",
+  "updated_at": "2026-10-07T19:24:49Z",
   "deals": [
+    {
+      "title": "Lenovo IdeaPad Slim 5 OLED Intel Core Ultra 9 (16 GB/512 GB SSD) Laptop @91,990 ₹28000 off with Flipkart Axis Credit Card Lenovo IdeaPad Slim 3 ADP Snapdragon X (16 GB/1 TB SSD) Laptop @72990 ₹12,513 off with Flipkart Ax",
+      "price": 91990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=2244005-21",
+      "posted_at": "2026-10-07T19:24:49Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fast 149 :",
       "price": null,
@@ -7905,22 +7921,6 @@
       "url": "https://amzn.to/4AgfBkw",
       "posted_at": "2026-09-14T07:17:36Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "₹153 :",
-      "price": 153,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH559QW3?tag=2244005-21",
-      "posted_at": "2026-09-14T07:02:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495706.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH559QW3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH559QW3.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
