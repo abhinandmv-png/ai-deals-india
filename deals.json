@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T12:13:29Z",
+  "updated_at": "2026-10-07T12:39:07Z",
   "deals": [
+    {
+      "title": "60% Off : Lakme Blush & Glow Sheet Mask 25 ml @40.",
+      "price": 40,
+      "original_price": 100,
+      "category": "Shopping",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B084S2J2HG?tag=2244005-21",
+      "posted_at": "2026-10-07T12:39:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B084S2J2HG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "599 :",
       "price": null,
@@ -7865,22 +7881,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07HLVK7J7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07HLVK7J7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹439 :",
-      "price": 439,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DX79LZ19?tag=2244005-21",
-      "posted_at": "2026-09-14T02:55:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495630.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DX79LZ19.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DX79LZ19.01.LZZZZZZZ.jpg"
       ]
     }
   ]
