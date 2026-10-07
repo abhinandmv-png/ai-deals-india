@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T09:28:27Z",
+  "updated_at": "2026-10-07T09:43:27Z",
   "deals": [
+    {
+      "title": "Borosil 6 Pcs Tea n Coffee Glass 190 ml at Rs.349.",
+      "price": 349,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00E96GRDK?tag=2244005-21",
+      "posted_at": "2026-10-07T09:43:27Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00E96GRDK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00E96GRDK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00E96GRDK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**ASUS Rog Strix B760-I Gaming Mini ITX Motherboard at Rs.12,791.**",
       "price": 12791,
@@ -7865,22 +7881,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7HK7ZP7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7HK7ZP7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 83% Off On American Tourister Backpack & Luggage. Backpack : Luggage :",
-      "price": null,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "83% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/t1mudQoB4y?tag=2244005-21",
-      "posted_at": "2026-09-14T02:25:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/T1MUDQOB4Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/t1mudQoB4y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/t1mudQoB4y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
