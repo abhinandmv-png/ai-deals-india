@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T11:13:29Z",
+  "updated_at": "2026-10-07T12:13:29Z",
   "deals": [
+    {
+      "title": "599 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DY4JCZ46?tag=2244005-21",
+      "posted_at": "2026-10-07T12:13:28Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DY4JCZ46.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DY4JCZ46.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DY4JCZ46.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PS5 in Stock @69,990",
       "price": 69990,
@@ -7865,22 +7881,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DX79LZ19.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DX79LZ19.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pre Order : iPhone 18 Pro 256 GB at Rs.1,64,900",
-      "price": 164900,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJBCGNFM?tag=2244005-21",
-      "posted_at": "2026-09-14T02:55:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJBCGNFM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJBCGNFM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJBCGNFM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
