@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:57:49Z",
+  "updated_at": "2026-10-07T18:57:53Z",
   "deals": [
+    {
+      "title": "**LG 9Kg 5 Star Front Load Washing Machine at ₹29,739.** **Apply ₹250 Coupon** + **with SBI Credit Card**",
+      "price": 29739,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C3LHV43S?tag=2244005-21",
+      "posted_at": "2026-10-07T18:57:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C3LHV43S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C3LHV43S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C3LHV43S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Noise Twist Smartwatch Heart Rate + Sleep Tracking @1199.",
       "price": 1199,
@@ -7885,18 +7901,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CZ98W5NJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZ98W5NJ.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 85% Off On French Connection Watch",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4u5z979",
-      "posted_at": "2026-09-14T05:02:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495675.jpg"
     }
   ]
 }
