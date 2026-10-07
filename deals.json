@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:54:49Z",
+  "updated_at": "2026-10-07T18:55:15Z",
   "deals": [
+    {
+      "title": "Tata Tea Gold All-in-1 Instant Premix Cardamom Tea @83",
+      "price": 83,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQYBF7N8?tag=2244005-21",
+      "posted_at": "2026-10-07T18:55:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DQYBF7N8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQYBF7N8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQYBF7N8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 469 :",
       "price": null,
@@ -7875,22 +7891,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G64DQST9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G64DQST9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ant Wired Optical Mouse @99.",
-      "price": 99,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCSD2BKM?tag=2244005-21",
-      "posted_at": "2026-09-14T04:17:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495657.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCSD2BKM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCSD2BKM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
