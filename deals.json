@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-06T19:26:12Z",
+  "updated_at": "2026-10-07T02:08:57Z",
   "deals": [
+    {
+      "title": "Axe Alaska Face & Hair Wash 250ml @95",
+      "price": 95,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHTSDY7S?tag=2244005-21",
+      "posted_at": "2026-10-07T02:08:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BHTSDY7S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHTSDY7S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHTSDY7S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra Loot : Upto 80% Off On MANGO Clothing (Premium Brand). Women : Men : Boys : Girls : GANT Clothing : Myntra Loot : Upto 90% Off On Branded Footwears. Master Link : | Men’s : Women’s : Suggestions👇. HERE&NOW : Highl",
       "price": 399,
@@ -7856,22 +7872,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CXL5KTBD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CXL5KTBD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "10",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F28YLQQV?tag=2244005-21",
-      "posted_at": "2026-09-13T19:24:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F28YLQQV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F28YLQQV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F28YLQQV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
