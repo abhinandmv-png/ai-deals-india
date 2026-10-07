@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:55:15Z",
+  "updated_at": "2026-10-07T18:55:19Z",
   "deals": [
+    {
+      "title": "Loot 239 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HL4QJ5J7?tag=2244005-21",
+      "posted_at": "2026-10-07T18:55:19Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HL4QJ5J7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HL4QJ5J7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HL4QJ5J7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tata Tea Gold All-in-1 Instant Premix Cardamom Tea @83",
       "price": 83,
@@ -7876,22 +7892,6 @@
       "url": "https://amzn.to/462njkd",
       "posted_at": "2026-09-14T04:32:36Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "XYXX Men's Super Combed Cotton Briefs (Pack Of 2) @278. Check All Colours : #amazon",
-      "price": 278,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G64DQST9?tag=2244005-21",
-      "posted_at": "2026-09-14T04:32:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G64DQST9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G64DQST9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G64DQST9.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
