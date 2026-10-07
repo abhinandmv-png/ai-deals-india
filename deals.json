@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:56:37Z",
+  "updated_at": "2026-10-07T18:57:08Z",
   "deals": [
+    {
+      "title": "4499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4117YSM?tag=2244005-21",
+      "posted_at": "2026-10-07T18:57:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H4117YSM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4117YSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4117YSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**DJI Osmo Pocket 3 Creator Combo Camera - 1'' 4K/120fps — ₹45,990.**",
       "price": 45990,
@@ -7880,22 +7896,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBLVLSV2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBLVLSV2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Faaaast 🔥 ₹145 : More: Other colour 400+",
-      "price": 145,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4F51KKG?tag=2244005-21",
-      "posted_at": "2026-09-14T04:47:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495669.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4F51KKG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4F51KKG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
