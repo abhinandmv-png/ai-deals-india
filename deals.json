@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T20:12:39Z",
+  "updated_at": "2026-10-07T20:12:47Z",
   "deals": [
+    {
+      "title": "Xiaomi (108 cm) 43 inch FX 4K QD-Mini LED Smart , Fire Tv at at 24,412 Effective Apply 1000 Coupon + Get 3087 Discount Using SBI CC Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2BYVZWM?tag=2244005-21",
+      "posted_at": "2026-10-07T20:12:46Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H2BYVZWM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2BYVZWM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2BYVZWM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skechers Men T-Shirt @₹299",
       "price": 299,
@@ -7928,22 +7944,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GS99B2LR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GS99B2LR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply ₹790 Off Coupon",
-      "price": 790,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1GXX6SQ?tag=2244005-21",
-      "posted_at": "2026-09-14T09:02:35Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H1GXX6SQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1GXX6SQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1GXX6SQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
