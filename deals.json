@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T02:09:05Z",
+  "updated_at": "2026-10-07T02:53:56Z",
   "deals": [
+    {
+      "title": "62% Off : Biotique Bio Sandalwood Sunscreen, 50ml @143",
+      "price": 143,
+      "original_price": 376,
+      "category": "Fashion",
+      "badge": "62% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B013UWBJUE?tag=2244005-21",
+      "posted_at": "2026-10-07T02:53:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B013UWBJUE.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B013UWBJUE.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B013UWBJUE.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PUMA Womens Graphics Sneaker @660",
       "price": 660,
@@ -7862,17 +7878,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B09YV753WH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09YV753WH.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": ". REEBOK Clothing 🔥",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4AipTk7",
-      "posted_at": "2026-09-13T19:39:58Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
