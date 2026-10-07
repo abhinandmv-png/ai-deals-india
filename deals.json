@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T13:13:30Z",
+  "updated_at": "2026-10-07T13:43:30Z",
   "deals": [
+    {
+      "title": "**GIF Sale :** Samsung Galaxy S25 Ultra (12GB, 256GB) at Rs.84,999. *Price Live at 8th Oct, 12 Am.",
+      "price": 84999,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSKNKCYX?tag=2244005-21",
+      "posted_at": "2026-10-07T13:43:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DSKNKCYX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSKNKCYX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSKNKCYX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Mivi DuoPods Wireless Ear Buds - with 50H Playtime @ Rs.599",
       "price": 599,
@@ -7865,22 +7881,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097GK4N6J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097GK4N6J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot🔥 ₹1,800 : Other colour costs more 🔥 More:",
-      "price": 1800,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CKJ812P9?tag=2244005-21",
-      "posted_at": "2026-09-14T03:25:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495633.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CKJ812P9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CKJ812P9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
