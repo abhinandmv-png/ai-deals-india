@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:49:43Z",
+  "updated_at": "2026-10-07T19:57:38Z",
   "deals": [
+    {
+      "title": "**Lenovo 27\" FHD Gaming Monitor, 0.5ms, 200Hz at ₹8,000.** **₹1,999 off SBI Credit/Debit Card**",
+      "price": 8000,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H698MM7K?tag=2244005-21",
+      "posted_at": "2026-10-07T19:57:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H698MM7K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H698MM7K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H698MM7K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 12 kg Fully-Automatic Front Load Washing Machine @34490 Apply ₹2000 off Coupon + ₹10000 off with SBI Credit Card",
       "price": 34490,
@@ -7928,22 +7944,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07G4D13L7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07G4D13L7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Insulated Casserole Hot Pot, 2000ml @380 Apply Coupon :",
-      "price": 380,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08RDB22MW?tag=2244005-21",
-      "posted_at": "2026-09-14T08:02:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08RDB22MW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08RDB22MW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08RDB22MW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
