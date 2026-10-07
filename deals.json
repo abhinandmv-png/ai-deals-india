@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T15:39:09Z",
+  "updated_at": "2026-10-07T16:13:32Z",
   "deals": [
+    {
+      "title": "P.N.Gadgil Jewellers 1 gm Vedhani Gold Ring 24 kt (995) @ Rs.14794 Get 1500 discount using SBI CC",
+      "price": 14794,
+      "original_price": 14794,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYLK9PZC?tag=2244005-21",
+      "posted_at": "2026-10-07T16:13:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BYLK9PZC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYLK9PZC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYLK9PZC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "73% Off : Dove Body Wash, 1 L @257. Buy Max Qty :",
       "price": 257,
@@ -7871,17 +7887,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B09V36YJZW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09V36YJZW.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 85% Off On Wipro Electrical Switch.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4h9XZOl",
-      "posted_at": "2026-09-14T03:34:44Z",
-      "source": "Premium Deals"
     }
   ]
 }
