@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:45:55Z",
+  "updated_at": "2026-10-07T18:46:19Z",
   "deals": [
+    {
+      "title": "LG 655 L, 3 Star, Smart Inverter Double Door Side-By-Side Refrigerator @53740 Apply ₹2000 off Coupon + ₹17250 Off With SBI Credit Card",
+      "price": 53740,
+      "original_price": 17250,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BX4FBVQB?tag=2244005-21",
+      "posted_at": "2026-10-07T18:46:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BX4FBVQB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BX4FBVQB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BX4FBVQB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi (164 cm) 65 inch X Pro 4K QLED TV @43003 Flat ₹11987 Off With SBI Credit Card.",
       "price": 43003,
@@ -7875,22 +7891,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G5PN6HHY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G5PN6HHY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹2,343 :",
-      "price": 2343,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07MWCDZRX?tag=2244005-21",
-      "posted_at": "2026-09-14T04:02:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07MWCDZRX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07MWCDZRX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07MWCDZRX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
