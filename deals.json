@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:10:27Z",
+  "updated_at": "2026-10-07T19:10:47Z",
   "deals": [
+    {
+      "title": "2700 Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4RB95LC?tag=2244005-21",
+      "posted_at": "2026-10-07T19:10:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H4RB95LC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4RB95LC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4RB95LC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD) Laptop @47659 Flat ₹7250 Off With SBI Credit Card",
       "price": 47659,
@@ -7899,22 +7915,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G7ZSXC61.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G7ZSXC61.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@393",
-      "price": 393,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BN9YX2LF?tag=2244005-21",
-      "posted_at": "2026-09-14T05:47:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495687.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BN9YX2LF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BN9YX2LF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
