@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:49:35Z",
+  "updated_at": "2026-10-07T19:49:39Z",
   "deals": [
+    {
+      "title": "ASUS Vivobook 15 i5-14th Gen (8GB RAM,512GB SSD) @56,640* Flat ₹10,350 Off With SBI CC",
+      "price": 56640,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H8P895HL?tag=2244005-21",
+      "posted_at": "2026-10-07T19:49:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H8P895HL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H8P895HL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H8P895HL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Sony LinkBuds Open WF-L910 Bluetooth Earbuds at Rs.5,391** **Flat ₹598 off with SBI Cc + ₹2000 off coupon**",
       "price": 5391,
@@ -7928,22 +7944,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4VG32KC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4VG32KC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "sample at rs 1 prime users only",
-      "price": 1,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHDFZZZ3?tag=2244005-21",
-      "posted_at": "2026-09-14T08:02:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FHDFZZZ3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHDFZZZ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHDFZZZ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
