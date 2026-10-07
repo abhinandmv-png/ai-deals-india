@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T20:57:48Z",
+  "updated_at": "2026-10-07T21:12:42Z",
   "deals": [
+    {
+      "title": "**Newly Launched : Xiaomi MI Power Bank 20000 165W Fast Charging at Rs.4,393 ** ** **Apply ₹149 Off Coupon + ₹484 Off On SBI Credit Card**",
+      "price": 4393,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFMTCQ76?tag=2244005-21",
+      "posted_at": "2026-10-07T21:12:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HFMTCQ76.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFMTCQ76.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFMTCQ76.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer Aspire One Thin and Light Laptop, 1.48KG 256GB 8GB @33,740. Apply ₹1,000 Coupon + ₹4,250 off SBI Credit Card",
       "price": 33740,
@@ -7933,22 +7949,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G63YH4ZQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G63YH4ZQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Halonix B22 0.5-Watt Led Night Bulb (Pack of 10) @178.",
-      "price": 178,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CXXWQ71V?tag=2244005-21",
-      "posted_at": "2026-09-14T09:21:45Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CXXWQ71V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CXXWQ71V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CXXWQ71V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
