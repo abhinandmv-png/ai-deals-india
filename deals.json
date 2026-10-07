@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T16:28:32Z",
+  "updated_at": "2026-10-07T16:28:36Z",
   "deals": [
+    {
+      "title": "Royal Enfield Ds Escapade ISI & DOT Helmet at 2,334.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B467DGZV?tag=2244005-21",
+      "posted_at": "2026-10-07T16:28:35Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B467DGZV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B467DGZV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B467DGZV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Rupa Jon Sleeveless Vest for Men, 100% Cotton, Pack of 7 White @ Rs.274**",
       "price": 274,
@@ -7871,22 +7887,6 @@
       "url": "https://amzn.to/4xTnLO3",
       "posted_at": "2026-09-14T03:40:01Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "Grab faaaast 🔥 @98,940 1050 off with axis bank cc ASUS Vivobook 15 (2026),Intel Core 5 320 (Series 3-Latest Gen)",
-      "price": 98940,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09BNTCZ9N?tag=2244005-21",
-      "posted_at": "2026-09-14T03:40:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495640.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09BNTCZ9N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09BNTCZ9N.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
