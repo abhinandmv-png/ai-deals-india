@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:12:38Z",
+  "updated_at": "2026-10-07T19:12:47Z",
   "deals": [
+    {
+      "title": "**Loot **: IFB 241L 10 in 1 Convertible Double Door Refrigerator @19,650* • Apply ₹2000 Coupon • Apply ₹2000 Off Code at Checkout ➡️ `GIF2000` • ₹4250 Off With HDFC CC",
+      "price": 19650,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXJWFR48?tag=2244005-21",
+      "posted_at": "2026-10-07T19:12:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GXJWFR48.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXJWFR48.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXJWFR48.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab Now ₹349",
       "price": 349,
@@ -7899,22 +7915,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08LSWZS7M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08LSWZS7M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Back in Stock 🔥 iPhone 18 Pro (512 GB) Glacier : Silver : Burgundy : Black : iPhone 18 Pro (1 TB) Burgundy : Black : Silver : Glacier : iPhone 18 Pro Max (256 GB) Black :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJB78346?tag=2244005-21",
-      "posted_at": "2026-09-14T06:02:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJB78346.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJB78346.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJB78346.01.LZZZZZZZ.jpg"
       ]
     }
   ]
