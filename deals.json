@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:10:22Z",
+  "updated_at": "2026-10-07T19:10:27Z",
   "deals": [
+    {
+      "title": "HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD) Laptop @47659 Flat ₹7250 Off With SBI Credit Card",
+      "price": 47659,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2642MBF?tag=2244005-21",
+      "posted_at": "2026-10-07T19:10:27Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D2642MBF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2642MBF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2642MBF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "IFB 1.5 Ton 3 Star Split AC @29740. Apply ₹2000 off Coupon + ₹4750 off With SBI Credit Card",
       "price": 29740,
@@ -7900,17 +7916,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0BN9YX2LF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BN9YX2LF.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 90% Off On Marks & Spencer Clothing. Women : Men :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "90% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/40Iwvbc",
-      "posted_at": "2026-09-14T05:36:44Z",
-      "source": "Looterhub"
     }
   ]
 }
