@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T09:43:27Z",
+  "updated_at": "2026-10-07T10:24:04Z",
   "deals": [
+    {
+      "title": "Redmi Pad Pro Cover @450.",
+      "price": 450,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D9YVTQH5?tag=2244005-21",
+      "posted_at": "2026-10-07T10:24:04Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D9YVTQH5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D9YVTQH5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D9YVTQH5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosil 6 Pcs Tea n Coffee Glass 190 ml at Rs.349.",
       "price": 349,
@@ -7865,22 +7881,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08HSSZV44.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08HSSZV44.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil Dinner Set 41Pcs @ Rs.1620",
-      "price": 1620,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7HK7ZP7?tag=2244005-21",
-      "posted_at": "2026-09-14T02:32:32Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F7HK7ZP7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7HK7ZP7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7HK7ZP7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
