@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:58:11Z",
+  "updated_at": "2026-10-07T19:09:12Z",
   "deals": [
+    {
+      "title": "159",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DR2JGBLY?tag=2244005-21",
+      "posted_at": "2026-10-07T19:09:12Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DR2JGBLY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DR2JGBLY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DR2JGBLY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skechers Women Joggers @₹869",
       "price": 869,
@@ -7890,17 +7906,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0FMP8TCP3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FMP8TCP3.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 85% Off On French Connection Watch.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4vURJ3y",
-      "posted_at": "2026-09-14T05:06:43Z",
-      "source": "Looterhub"
     }
   ]
 }
