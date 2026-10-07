@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T16:28:36Z",
+  "updated_at": "2026-10-07T18:13:36Z",
   "deals": [
+    {
+      "title": "Grab : Costop Professional 500ml Glass Oil Sprayer - 3-in-1 Kitchen Tool @ Rs.989",
+      "price": 989,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DB5NGRCM?tag=2244005-21",
+      "posted_at": "2026-10-07T18:13:35Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144873.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DB5NGRCM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DB5NGRCM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Royal Enfield Ds Escapade ISI & DOT Helmet at 2,334.",
       "price": null,
@@ -7876,17 +7892,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0DFMNC5P7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFMNC5P7.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 85% Off On Wipro Electrical Switch.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4xTnLO3",
-      "posted_at": "2026-09-14T03:40:01Z",
-      "source": "TechFactsDeals"
     }
   ]
 }
