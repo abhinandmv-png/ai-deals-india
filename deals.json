@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T02:09:01Z",
+  "updated_at": "2026-10-07T02:09:05Z",
   "deals": [
+    {
+      "title": "PUMA Womens Graphics Sneaker @660",
+      "price": 660,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01HOIT2EU?tag=2244005-21",
+      "posted_at": "2026-10-07T02:09:05Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B01HOIT2EU.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01HOIT2EU.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01HOIT2EU.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LUX Lavender & Vitamin C Body Wash, 400ml @124",
       "price": 124,
@@ -7857,22 +7873,6 @@
       "url": "https://amzn.to/4AipTk7",
       "posted_at": "2026-09-13T19:39:58Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "iPad 11\" A16 43,999 Pay with SBI/ICICI/AXIS Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZ7B7HT9?tag=2244005-21",
-      "posted_at": "2026-09-13T19:39:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DZ7B7HT9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZ7B7HT9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZ7B7HT9.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
