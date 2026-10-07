@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:13:12Z",
+  "updated_at": "2026-10-07T19:13:42Z",
   "deals": [
+    {
+      "title": "Glen 2200W Infrared Cooktop Stove with Steel Grill Rack Touch Control @ Rs.2699",
+      "price": 2699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNDJRTXP?tag=2244005-21",
+      "posted_at": "2026-10-07T19:13:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNDJRTXP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNDJRTXP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNDJRTXP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Beard & Hair 7 in 1 Trimmer at Rs.599",
       "price": 599,
@@ -7900,22 +7916,6 @@
       "url": "https://amzn.to/4hqHm29",
       "posted_at": "2026-09-14T06:32:36Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "₹400 : More:",
-      "price": 400,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GX79GK44?tag=2244005-21",
-      "posted_at": "2026-09-14T06:17:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GX79GK44.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GX79GK44.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GX79GK44.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
