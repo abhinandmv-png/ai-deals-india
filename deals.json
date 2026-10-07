@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:13:36Z",
+  "updated_at": "2026-10-07T18:44:46Z",
   "deals": [
+    {
+      "title": "Loot 1199 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D1PCWLJK?tag=2244005-21",
+      "posted_at": "2026-10-07T18:44:46Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D1PCWLJK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D1PCWLJK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D1PCWLJK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Costop Professional 500ml Glass Oil Sprayer - 3-in-1 Kitchen Tool @ Rs.989",
       "price": 989,
@@ -7875,22 +7891,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6Q7KHR7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6Q7KHR7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifelong skipping for men @199",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFMNC5P7?tag=2244005-21",
-      "posted_at": "2026-09-14T03:40:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495642.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFMNC5P7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFMNC5P7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
