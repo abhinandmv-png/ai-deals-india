@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:09:20Z",
+  "updated_at": "2026-10-07T19:09:24Z",
   "deals": [
+    {
+      "title": "Michael Kors Panorama Gold Automatic Stainless Steel Watch @9748. Apply ₹1463 Off Coupon",
+      "price": 9748,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F358W7KW?tag=2244005-21",
+      "posted_at": "2026-10-07T19:09:23Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F358W7KW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F358W7KW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F358W7KW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 169 :",
       "price": null,
@@ -7889,22 +7905,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01LWYD7NO.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01LWYD7NO.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Funskool Chu Parade Game @166.",
-      "price": 166,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09CCXGJ6C?tag=2244005-21",
-      "posted_at": "2026-09-14T05:17:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09CCXGJ6C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09CCXGJ6C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09CCXGJ6C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
