@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T20:42:40Z",
+  "updated_at": "2026-10-07T20:57:41Z",
   "deals": [
+    {
+      "title": "Sony 330W Soundbar at Rs.12491 Effective **Apply 1000 Coupon + ₹2498 Off Using SBI Credit Card**",
+      "price": 12491,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09SQWQ4TC?tag=2244005-21",
+      "posted_at": "2026-10-07T20:57:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09SQWQ4TC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony Headphones XM5 at 19989",
       "price": null,
@@ -7928,22 +7944,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C4XZV8K4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C4XZV8K4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply ₹490 Off Coupon 🔥",
-      "price": 490,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZX4LWW5?tag=2244005-21",
-      "posted_at": "2026-09-14T09:02:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DZX4LWW5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZX4LWW5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZX4LWW5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
