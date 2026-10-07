@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T19:42:41Z",
+  "updated_at": "2026-10-07T19:42:49Z",
   "deals": [
+    {
+      "title": "Garbage Bags (Pack of 3, 90pcs) @ Rs.99 Regular Price 199+",
+      "price": 99,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D1KRG6BY?tag=2244005-21",
+      "posted_at": "2026-10-07T19:42:48Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145015.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D1KRG6BY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D1KRG6BY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "IFB 6 Kg 5 Star Fully Automatic Front Load Washing Machine Flat 5000 Off With SBI CC",
       "price": null,
@@ -7924,22 +7940,6 @@
       "url": "https://amzn.to/4gg8Vrk",
       "posted_at": "2026-09-14T07:51:53Z",
       "source": "Looterhub"
-    },
-    {
-      "title": "300 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00V0B095E?tag=2244005-21",
-      "posted_at": "2026-09-14T07:47:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00V0B095E.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00V0B095E.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00V0B095E.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
