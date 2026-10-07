@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-07T18:54:14Z",
+  "updated_at": "2026-10-07T18:54:21Z",
   "deals": [
+    {
+      "title": "Loot With Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F35P9JWD?tag=2244005-21",
+      "posted_at": "2026-10-07T18:54:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F35P9JWD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F35P9JWD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F35P9JWD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@23400 10k Coupon + bank discount",
       "price": 23400,
@@ -7875,22 +7891,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYD6GJQF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYD6GJQF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹292 : More: Mens briefs",
-      "price": 292,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G63XYCYQ?tag=2244005-21",
-      "posted_at": "2026-09-14T04:17:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G63XYCYQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G63XYCYQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G63XYCYQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
