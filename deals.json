@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T04:39:21Z",
+  "updated_at": "2026-10-08T04:39:25Z",
   "deals": [
+    {
+      "title": "Dove Eventone Deodorant (150ml) @108",
+      "price": 108,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08ZZW5HDJ?tag=2244005-21",
+      "posted_at": "2026-10-08T04:39:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08ZZW5HDJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08ZZW5HDJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08ZZW5HDJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "VW 7.5 kg Automatic Top Load Washing Machine @6,999",
       "price": 6999,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRVQPTFR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRVQPTFR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥 509₹ SPARX Men's Sandal More :",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08FTXVHNN?tag=2244005-21",
-      "posted_at": "2026-09-14T11:47:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495774.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08FTXVHNN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08FTXVHNN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
