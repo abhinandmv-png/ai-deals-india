@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T04:27:46Z",
+  "updated_at": "2026-10-08T04:28:17Z",
   "deals": [
+    {
+      "title": "Mix Dry Fruits 1Kg at Rs.369. *Buy Maximum Quantity",
+      "price": 369,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHDX2WHX?tag=2244005-21",
+      "posted_at": "2026-10-08T04:28:17Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HHDX2WHX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHDX2WHX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHDX2WHX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Crompton 1200mm BLDC Ceiling Fan @2,399 Apply ₹311 Off Coupon :",
       "price": 2399,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCVJ92ZN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCVJ92ZN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fresh Loot : Chicken Winglets, 500g @49. More : Bengaluru Available | Buy Max Qty",
-      "price": 49,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09ZF3SXRM?tag=2244005-21",
-      "posted_at": "2026-09-14T11:47:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09ZF3SXRM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09ZF3SXRM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09ZF3SXRM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
