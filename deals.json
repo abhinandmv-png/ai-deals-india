@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T03:54:23Z",
+  "updated_at": "2026-10-08T03:54:26Z",
   "deals": [
+    {
+      "title": "Dettol Original Bathing Soap Bar 125gm Pack of 5 @₹178",
+      "price": 178,
+      "original_price": 178,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B086T4WGRY?tag=2244005-21",
+      "posted_at": "2026-10-08T03:54:26Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B086T4WGRY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B086T4WGRY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B086T4WGRY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wonderchef Electric Kettle 1.5L @412.",
       "price": 412,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C8RNTN6J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C8RNTN6J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥 1,800₹ SANDISK Ultra Dual Drive Go Type-C 128GB, OTG, Upto 400MB/s, Pendrive, Navagio Bay, 5Y Warranty (SDDDC3-128G-146NPD)",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DNFR8JRG?tag=2244005-21",
-      "posted_at": "2026-09-14T11:02:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495758.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DNFR8JRG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DNFR8JRG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
