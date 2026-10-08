@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T03:54:26Z",
+  "updated_at": "2026-10-08T03:54:52Z",
   "deals": [
+    {
+      "title": "67% Off : Sunsilk Shampoo 1L @393.",
+      "price": 393,
+      "original_price": 1191,
+      "category": "Beauty",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B093STTTYZ?tag=2244005-21",
+      "posted_at": "2026-10-08T03:54:52Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B093STTTYZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dettol Original Bathing Soap Bar 125gm Pack of 5 @₹178",
       "price": 178,
@@ -7939,22 +7955,6 @@
       "url": "https://amzn.to/3ULeCsh",
       "posted_at": "2026-09-14T11:17:35Z",
       "source": "TechFactsDeals"
-    },
-    {
-      "title": "11,799₹ More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C8RNTN6J?tag=2244005-21",
-      "posted_at": "2026-09-14T11:02:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C8RNTN6J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C8RNTN6J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C8RNTN6J.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
