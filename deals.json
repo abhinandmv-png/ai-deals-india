@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T20:16:18Z",
+  "updated_at": "2026-10-08T20:31:19Z",
   "deals": [
+    {
+      "title": "boAt Energyshroom PB401 Power Bank, 20000mAh, 22.5W at Rs.**1,139**. **Apply 5% coupon**",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4R5LT84?tag=2244005-21",
+      "posted_at": "2026-10-08T20:31:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H4R5LT84.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4R5LT84.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4R5LT84.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple AirTag 4 Pack ​​​​​​​at 9450* ₹1,049 off with SBI Debit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07KG6SXTR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07KG6SXTR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Pedal Garbage Dustbin 60Ltr (Set of 2) @1173",
-      "price": 1173,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D63HJTMF?tag=2244005-21",
-      "posted_at": "2026-09-19T02:20:53Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D63HJTMF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D63HJTMF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D63HJTMF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
