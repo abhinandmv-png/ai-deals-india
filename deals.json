@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T02:39:19Z",
+  "updated_at": "2026-10-08T02:39:23Z",
   "deals": [
+    {
+      "title": "Pure Epsom Salt 1KG @98.",
+      "price": 98,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HK8RFPVD?tag=2244005-21",
+      "posted_at": "2026-10-08T02:39:22Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HK8RFPVD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HK8RFPVD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HK8RFPVD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "389",
       "price": null,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZ4DKJ6Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZ4DKJ6Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "100 More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07YWM9WMG?tag=2244005-21",
-      "posted_at": "2026-09-14T10:17:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07YWM9WMG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07YWM9WMG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07YWM9WMG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
