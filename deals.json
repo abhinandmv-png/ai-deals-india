@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T04:28:17Z",
+  "updated_at": "2026-10-08T04:39:21Z",
   "deals": [
+    {
+      "title": "VW 7.5 kg Automatic Top Load Washing Machine @6,999",
+      "price": 6999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DV43D663?tag=2244005-21",
+      "posted_at": "2026-10-08T04:39:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DV43D663.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DV43D663.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DV43D663.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Mix Dry Fruits 1Kg at Rs.369. *Buy Maximum Quantity",
       "price": 369,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08FTXVHNN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08FTXVHNN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 2,499₹ 300₹ Coupon Polycab Wizzy Vibe 1200mm 5-Star BLDC Ceiling fan for Home with Remote",
-      "price": 300,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCVJ92ZN?tag=2244005-21",
-      "posted_at": "2026-09-14T11:47:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HCVJ92ZN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCVJ92ZN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCVJ92ZN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
