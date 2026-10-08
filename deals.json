@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T02:39:29Z",
+  "updated_at": "2026-10-08T02:39:50Z",
   "deals": [
+    {
+      "title": "Sony LinkBuds Open WF-L910 Bluetooth Earbuds @5391. Apply ₹2000 Coupon + ₹598 Off Using SBI CC This Same product Flipkart Selling at 17k+",
+      "price": 5391,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGVQXZPZ?tag=2244005-21",
+      "posted_at": "2026-10-08T02:39:50Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DGVQXZPZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGVQXZPZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGVQXZPZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "255",
       "price": null,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C18M62J6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C18M62J6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "88",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DHD7PKJH?tag=2244005-21",
-      "posted_at": "2026-09-14T10:47:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DHD7PKJH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DHD7PKJH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DHD7PKJH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
