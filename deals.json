@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T07:39:27Z",
+  "updated_at": "2026-10-08T08:10:24Z",
   "deals": [
+    {
+      "title": "**atomberg Renesa Smart Elite 600mm BLDC Ceiling Fan at ₹3,023.** ₹**336 off with SBI Credit Card**",
+      "price": 3023,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7XZH9P4?tag=2244005-21",
+      "posted_at": "2026-10-08T08:10:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7XZH9P4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat Cabin Size Luggage @999.",
       "price": 999,
@@ -7963,22 +7979,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07T9Y47HG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07T9Y47HG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Huggies Baby Diaper (L, 64 Count) (Pack Of 2) @740.",
-      "price": 740,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DX7BJ6WH?tag=2244005-21",
-      "posted_at": "2026-09-16T06:21:30Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DX7BJ6WH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DX7BJ6WH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DX7BJ6WH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
