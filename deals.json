@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T06:54:58Z",
+  "updated_at": "2026-10-08T06:55:01Z",
   "deals": [
+    {
+      "title": "HP Victus 15 Intel Core i5 Laptop @88,240. Flat ₹11750 Off With SBI Credit Card.",
+      "price": 88240,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HK7QBFYM?tag=2244005-21",
+      "posted_at": "2026-10-08T06:55:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HK7QBFYM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HK7QBFYM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HK7QBFYM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299 Apply ₹15 Off Coupon",
       "price": null,
@@ -7958,22 +7974,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHTR93TV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHTR93TV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Puma Mens Comfortrise Lite Running Shoe @1950",
-      "price": 1950,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBRZ7MRG?tag=2244005-21",
-      "posted_at": "2026-09-16T02:06:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FBRZ7MRG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBRZ7MRG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBRZ7MRG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
