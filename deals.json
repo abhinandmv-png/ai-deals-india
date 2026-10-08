@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T04:54:22Z",
+  "updated_at": "2026-10-08T04:54:25Z",
   "deals": [
+    {
+      "title": "253",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQYWFN88?tag=2244005-21",
+      "posted_at": "2026-10-08T04:54:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CQYWFN88.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQYWFN88.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQYWFN88.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "71% Off : Park Avenue Eau De Parfum Men, 100ml @229.",
       "price": 229,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CW3DJYNX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CW3DJYNX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "86",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CVXDCRZ5?tag=2244005-21",
-      "posted_at": "2026-09-14T12:17:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CVXDCRZ5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CVXDCRZ5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CVXDCRZ5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
