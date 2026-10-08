@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T08:55:21Z",
+  "updated_at": "2026-10-08T08:55:24Z",
   "deals": [
+    {
+      "title": "Cult Deep Tissue Massage Gun at Rs.749",
+      "price": 749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCNDK8G2?tag=2244005-21",
+      "posted_at": "2026-10-08T08:55:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HCNDK8G2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCNDK8G2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCNDK8G2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Agaro Electric ToothBrush With 5 Modes at Rs.399.",
       "price": 399,
@@ -7969,17 +7985,6 @@
       "url": "https://amzn.to/476Rirz",
       "posted_at": "2026-09-16T09:51:30Z",
       "source": "Looterhub"
-    },
-    {
-      "title": "**[ New Stock ]** Upto 50% Off On CASIO Watches.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4yGWv5n",
-      "posted_at": "2026-09-16T09:51:28Z",
-      "source": "Premium Deals"
     }
   ]
 }
