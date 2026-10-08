@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T07:09:34Z",
+  "updated_at": "2026-10-08T07:24:23Z",
   "deals": [
+    {
+      "title": "62% Off : Pond's Super Light Gel 300 g @247.",
+      "price": 247,
+      "original_price": 650,
+      "category": "Shopping",
+      "badge": "62% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFWPG1RM?tag=2244005-21",
+      "posted_at": "2026-10-08T07:24:23Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DFWPG1RM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFWPG1RM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFWPG1RM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cetaphil Gentle Skin Hydrating Face Wash 118ml @297 Apply 7% Off Coupon :",
       "price": 297,
@@ -7959,22 +7975,6 @@
       "url": "https://amzn.to/4y0eML2",
       "posted_at": "2026-09-16T05:36:28Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "Guess 42mm Black Dial Analog Men Watch @5,990.",
-      "price": 5990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCGMTCRS?tag=2244005-21",
-      "posted_at": "2026-09-16T04:51:29Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DCGMTCRS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCGMTCRS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCGMTCRS.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
