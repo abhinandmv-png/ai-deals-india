@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T08:10:24Z",
+  "updated_at": "2026-10-08T08:55:21Z",
   "deals": [
+    {
+      "title": "Agaro Electric ToothBrush With 5 Modes at Rs.399.",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTF6JY8R?tag=2244005-21",
+      "posted_at": "2026-10-08T08:55:20Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DTF6JY8R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTF6JY8R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTF6JY8R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**atomberg Renesa Smart Elite 600mm BLDC Ceiling Fan at ₹3,023.** ₹**336 off with SBI Credit Card**",
       "price": 3023,
@@ -7964,22 +7980,6 @@
       "url": "https://amzn.to/4yGWv5n",
       "posted_at": "2026-09-16T09:51:28Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "ONE8 Men Brief (Pack Of 2) @199.",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07T9Y47HG?tag=2244005-21",
-      "posted_at": "2026-09-16T09:36:30Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07T9Y47HG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07T9Y47HG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07T9Y47HG.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
