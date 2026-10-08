@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T09:10:28Z",
+  "updated_at": "2026-10-08T09:25:21Z",
   "deals": [
+    {
+      "title": "Laptop 83990 12k Off With Bank Cards",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDKS93JV?tag=2244005-21",
+      "posted_at": "2026-10-08T09:25:21Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FDKS93JV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDKS93JV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDKS93JV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Razer Game On Bundle Gaming Combo at Rs.2600** 300 Off with SBI Credit Card",
       "price": 2600,
@@ -7973,22 +7989,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B4DJYXG6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B4DJYXG6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "426",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FN4W6HX3?tag=2244005-21",
-      "posted_at": "2026-09-16T13:21:31Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FN4W6HX3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FN4W6HX3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FN4W6HX3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
