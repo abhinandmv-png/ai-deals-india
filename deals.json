@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T12:10:07Z",
+  "updated_at": "2026-10-08T12:25:23Z",
   "deals": [
+    {
+      "title": "**Bosch 9 kg Front Load Washing Machine at ₹26,639.** Apply 1000 Off Coupon + 10250 Off With SBI Card",
+      "price": 26639,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D22WV22C?tag=2244005-21",
+      "posted_at": "2026-10-08T12:25:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D22WV22C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D22WV22C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D22WV22C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "62% off : Dove Men+care Hydration Boost facewash for men, 100ml @₹132",
       "price": 132,
@@ -7973,22 +7989,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FPMHZV5P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FPMHZV5P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 553₹ Treo by Milton Opalware Aurelia Lunis Dinner Set of 6",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G7ZN1868?tag=2244005-21",
-      "posted_at": "2026-09-16T16:42:53Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_19.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G7ZN1868.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G7ZN1868.01.LZZZZZZZ.jpg"
       ]
     }
   ]
