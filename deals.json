@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T05:39:32Z",
+  "updated_at": "2026-10-08T05:39:53Z",
   "deals": [
+    {
+      "title": "Apply 25% Off Coupon | Parachute Advansed Protein Shampoo 1.2L @300.",
+      "price": 300,
+      "original_price": 400,
+      "category": "Beauty",
+      "badge": "25% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQVGHRYB?tag=2244005-21",
+      "posted_at": "2026-10-08T05:39:53Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GQVGHRYB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQVGHRYB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQVGHRYB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo by Milton Mug 200 ml Set Of 6 @399.",
       "price": 399,
@@ -7949,17 +7965,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0DD3Y1RFN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DD3Y1RFN.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Larah by Borosil Dinner Set Apply Coupon :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/46uIawP",
-      "posted_at": "2026-09-15T16:36:50Z",
-      "source": "Premium Deals"
     }
   ]
 }
