@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T18:40:12Z",
+  "updated_at": "2026-10-08T18:40:50Z",
   "deals": [
+    {
+      "title": "Upto 85% Off On Branded Shoes Puma : Reebok : Adidas : FILA : Duke : Wrogn : Hush Puppies : Clarks : TVS Racing Titan Series Full Face Helmet for Men — **₹1,680**.",
+      "price": 1680,
+      "original_price": 11200,
+      "category": "Electronics",
+      "badge": "85% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DKK24NDW?tag=2244005-21",
+      "posted_at": "2026-10-08T18:40:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DKK24NDW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DKK24NDW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DKK24NDW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kitchen Timer at Rs.175.",
       "price": 175,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7VF87F4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7VF87F4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wonderchef Cookware Set Of 3 + 1 @999. **Regular Price 1500+**",
-      "price": 999,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B094JCM5X3?tag=2244005-21",
-      "posted_at": "2026-09-18T13:35:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B094JCM5X3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B094JCM5X3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B094JCM5X3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
