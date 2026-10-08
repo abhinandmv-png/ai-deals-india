@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T06:54:24Z",
+  "updated_at": "2026-10-08T06:54:29Z",
   "deals": [
+    {
+      "title": "51% Off : Himalaya Neem Facial Kit @99.",
+      "price": 99,
+      "original_price": 202,
+      "category": "Shopping",
+      "badge": "51% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00RV73XDG?tag=2244005-21",
+      "posted_at": "2026-10-08T06:54:29Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B00RV73XDG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00RV73XDG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00RV73XDG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dabur Fem Handwash 1.5L @109.",
       "price": 109,
@@ -7954,22 +7970,6 @@
       "url": "https://amzn.to/4rgWH95",
       "posted_at": "2026-09-15T19:51:50Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "Grab 💥 3,899₹ Aristocrat Liberty Set of 3 Trolley Bag | 8 Wheels",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FMF1GJ5V?tag=2244005-21",
-      "posted_at": "2026-09-15T19:07:36Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0FMF1GJ5V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FMF1GJ5V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FMF1GJ5V.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
