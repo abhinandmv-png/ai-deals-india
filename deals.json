@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T18:46:17Z",
+  "updated_at": "2026-10-08T19:01:18Z",
   "deals": [
+    {
+      "title": "Godrej 185L 5 Star Single Door Refrigerator at 12911. Apply ₹1000 off Coupon + ₹3379 Off With SBI Credit Card",
+      "price": null,
+      "original_price": 3379,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSG24816?tag=2244005-21",
+      "posted_at": "2026-10-08T19:01:17Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSG24816.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Foldable 1200W Hair Dryer at Rs.749",
       "price": 749,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09ZPQ91LF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09ZPQ91LF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Premium Mix Dry Fruits 1000 gms at 469 *Buy Maximum Quantity",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFX5PMCN?tag=2244005-21",
-      "posted_at": "2026-09-18T15:05:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HFX5PMCN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFX5PMCN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFX5PMCN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
