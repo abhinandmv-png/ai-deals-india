@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T05:39:53Z",
+  "updated_at": "2026-10-08T06:09:22Z",
   "deals": [
+    {
+      "title": "Adidas Mens Casual Shoes @968.",
+      "price": 968,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7VLY9B?tag=2244005-21",
+      "posted_at": "2026-10-08T06:09:22Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FN7VLY9B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7VLY9B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7VLY9B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply 25% Off Coupon | Parachute Advansed Protein Shampoo 1.2L @300.",
       "price": 300,
@@ -7948,22 +7964,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHBBCTQD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHBBCTQD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 399₹ Gear 22 Litre Water Resistant Backpack",
-      "price": null,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DD3Y1RFN?tag=2244005-21",
-      "posted_at": "2026-09-15T18:18:31Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_5.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DD3Y1RFN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DD3Y1RFN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
