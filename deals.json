@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T04:39:25Z",
+  "updated_at": "2026-10-08T04:54:22Z",
   "deals": [
+    {
+      "title": "71% Off : Park Avenue Eau De Parfum Men, 100ml @229.",
+      "price": 229,
+      "original_price": 790,
+      "category": "Shopping",
+      "badge": "71% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B077P7K9VR?tag=2244005-21",
+      "posted_at": "2026-10-08T04:54:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B077P7K9VR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B077P7K9VR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B077P7K9VR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dove Eventone Deodorant (150ml) @108",
       "price": 108,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CVXDCRZ5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CVXDCRZ5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "196",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GRVQPTFR?tag=2244005-21",
-      "posted_at": "2026-09-14T12:10:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GRVQPTFR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GRVQPTFR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GRVQPTFR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
