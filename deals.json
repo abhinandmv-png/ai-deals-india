@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T10:55:23Z",
+  "updated_at": "2026-10-08T12:10:07Z",
   "deals": [
+    {
+      "title": "62% off : Dove Men+care Hydration Boost facewash for men, 100ml @₹132",
+      "price": 132,
+      "original_price": 347,
+      "category": "Shopping",
+      "badge": "62% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFBTR17S?tag=2244005-21",
+      "posted_at": "2026-10-08T12:10:06Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DFBTR17S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFBTR17S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFBTR17S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Origami Non-Woven Kitchen Towel (25 Pulls) @ Rs.99",
       "price": 99,
@@ -7973,22 +7989,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G7ZN1868.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G7ZN1868.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Fujifilm Instax Camera Pal Buddy Pack with 20 Shots-Pink 11,017",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D5B13S97?tag=2244005-21",
-      "posted_at": "2026-09-16T16:42:43Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0D5B13S97.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D5B13S97.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D5B13S97.01.LZZZZZZZ.jpg"
       ]
     }
   ]
