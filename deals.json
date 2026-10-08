@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T14:41:51Z",
+  "updated_at": "2026-10-08T14:54:33Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Tab S10 Lite @25,999 Flat ₹3000 Off With SBI Cards.",
+      "price": 25999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNWQWY2G?tag=2244005-21",
+      "posted_at": "2026-10-08T14:54:33Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FNWQWY2G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNWQWY2G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNWQWY2G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Springtek Supernova Premium Hybrid Latex Mattress King Size 75x72 Medium Firm 6 Inches 100 Natural Gols Certified Pincore Dunlop Latex Mattresses 3 Layer Hd Foam Orthopedic Bed Gadda75x72 Inch Bank Of ✅Deal Price: **₹11,",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C81GB6H1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C81GB6H1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Odomos Universal Liquid Vaporiser 45ml X Pack Of 6 @259.",
-      "price": 259,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0982DRKF9?tag=2244005-21",
-      "posted_at": "2026-09-17T23:20:32Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0982DRKF9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0982DRKF9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0982DRKF9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
