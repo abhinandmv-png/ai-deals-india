@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T15:25:26Z",
+  "updated_at": "2026-10-08T15:56:00Z",
   "deals": [
+    {
+      "title": "Apple iPad 11: A16 Chip @ Rs.50,690 Apply ₹300 Off Coupon+ Flat ₹8000 Off With SBI Credit Card",
+      "price": 50690,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZ7PD3VH?tag=2244005-21",
+      "posted_at": "2026-10-08T15:55:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DZ7PD3VH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZ7PD3VH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZ7PD3VH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fossil Women's Watch Gold Dial at Rs.5,789* Apply ₹714 Coupon + ₹643 Off Via SBI CC",
       "price": 5789,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FH1WPYMX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Daikin 1.5 Ton 3 Star, New Star rated, Inverter Split AC at ₹37,490",
-      "price": 37490,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GRV2DWP3?tag=2244005-21",
-      "posted_at": "2026-09-18T11:50:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GRV2DWP3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GRV2DWP3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GRV2DWP3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
