@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T06:55:01Z",
+  "updated_at": "2026-10-08T07:09:27Z",
   "deals": [
+    {
+      "title": "145 Buy Max Qnty",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4R4BG5G?tag=2244005-21",
+      "posted_at": "2026-10-08T07:09:26Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F4R4BG5G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4R4BG5G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4R4BG5G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP Victus 15 Intel Core i5 Laptop @88,240. Flat ₹11750 Off With SBI Credit Card.",
       "price": 88240,
@@ -7958,22 +7974,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B5V5VHB6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B5V5VHB6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Axe Dark Temptation 3 In 1, Body Wash 250ml @90",
-      "price": 90,
-      "original_price": 225,
-      "category": "Shopping",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHTR93TV?tag=2244005-21",
-      "posted_at": "2026-09-16T02:21:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BHTR93TV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHTR93TV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHTR93TV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
