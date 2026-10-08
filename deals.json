@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T02:39:23Z",
+  "updated_at": "2026-10-08T02:39:26Z",
   "deals": [
+    {
+      "title": "Woodland Men's Leather Fashion Boot @871.",
+      "price": 871,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BR5VB1Q2?tag=2244005-21",
+      "posted_at": "2026-10-08T02:39:26Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BR5VB1Q2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BR5VB1Q2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BR5VB1Q2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pure Epsom Salt 1KG @98.",
       "price": 98,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09HR1LQ42.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09HR1LQ42.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 2,249₹ ZEBRONICS Mercury Premium Gaming Chassis with Support for mATX",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZ4DKJ6Z?tag=2244005-21",
-      "posted_at": "2026-09-14T10:32:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495754.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZ4DKJ6Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZ4DKJ6Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
