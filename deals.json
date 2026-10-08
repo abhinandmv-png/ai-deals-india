@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T03:57:50Z",
+  "updated_at": "2026-10-08T04:12:52Z",
   "deals": [
+    {
+      "title": "Crucial E100 1TB M.2 NVMe PCIe Gen4 Internal SSD @ 12905 Flat ₹2545 Off With SBI Credit Card",
+      "price": 12905,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQSJYD12?tag=2244005-21",
+      "posted_at": "2026-10-08T04:12:51Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DQSJYD12.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQSJYD12.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQSJYD12.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Story@Home Cotton Curtains @ Rs.299 Regular Price at Rs.799",
       "price": 299,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDKKWD9K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDKKWD9K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 666₹ FUR JADEN Anti Theft Backpack 15.6 Inch Laptop Bag with USB Charging Port For Men Women Boys Girls",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B078GLXMDY?tag=2244005-21",
-      "posted_at": "2026-09-14T11:17:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B078GLXMDY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B078GLXMDY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B078GLXMDY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
