@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T12:25:29Z",
+  "updated_at": "2026-10-08T12:40:26Z",
   "deals": [
+    {
+      "title": "Native M1 Water Purifier by Urban Company at 10,849 Get 3149 Discount Using SBI Card EMI Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D79G62J3?tag=2244005-21",
+      "posted_at": "2026-10-08T12:40:25Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D79G62J3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D79G62J3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D79G62J3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Women’s High-Waist Korean Trousers with Wide Baggy Fit @494.**",
       "price": 494,
@@ -7979,17 +7995,6 @@
       "url": "https://amzn.to/4xyoW4D",
       "posted_at": "2026-09-16T17:33:53Z",
       "source": "Premium Deals"
-    },
-    {
-      "title": "Min. 70% Off On Fort Collins Winterwears. Men's : Women's : Girls : Boys :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4h9ds1b",
-      "posted_at": "2026-09-16T17:28:19Z",
-      "source": "Looterhub"
     }
   ]
 }
