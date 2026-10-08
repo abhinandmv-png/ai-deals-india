@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T05:24:29Z",
+  "updated_at": "2026-10-08T05:25:15Z",
   "deals": [
+    {
+      "title": "Preethi Zion 750W Mixer Grinder at 3855 Apply 10% Off Coupon + 1094 Off with SBI/ICICI/Axis Bank",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "10% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07B4ZNMRC?tag=2244005-21",
+      "posted_at": "2026-10-08T05:25:14Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07B4ZNMRC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07B4ZNMRC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07B4ZNMRC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "259",
       "price": null,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FB3SZJN9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FB3SZJN9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "895",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B078G9SY4H?tag=2244005-21",
-      "posted_at": "2026-09-14T13:32:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B078G9SY4H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B078G9SY4H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B078G9SY4H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
