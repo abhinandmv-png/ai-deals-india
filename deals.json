@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T19:16:53Z",
+  "updated_at": "2026-10-08T19:31:56Z",
   "deals": [
+    {
+      "title": "**HP** Omnibook 5 **OLED** Laptop with **16GB** RAM and **1TB** SSD for **₹63,740**. • **₹15,250 Off** on **SBI Credit Card EMI Txn**.",
+      "price": 63740,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FRM3G9JF?tag=2244005-21",
+      "posted_at": "2026-10-08T19:31:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FRM3G9JF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FRM3G9JF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FRM3G9JF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Loot **: Elica BLDC Filterless Chimney @8390* Apply ₹500 Coupon + ₹2119 Off With SBI CC + Apply **₹399 Off Code** at Checkout : `UPGRADECHI`",
       "price": 8390,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/JJenKh5pBV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/JJenKh5pBV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Opalware Dinner Set 57 Pcs @2,843.",
-      "price": 2843,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C74JSF37?tag=2244005-21",
-      "posted_at": "2026-09-18T18:20:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C74JSF37.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C74JSF37.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C74JSF37.01.LZZZZZZZ.jpg"
       ]
     }
   ]
