@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T03:12:49Z",
+  "updated_at": "2026-10-08T03:42:50Z",
   "deals": [
+    {
+      "title": "Kesh King Shampoo 1000ml & Conditioner 200ml @349.",
+      "price": 349,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CTKN2TFK?tag=2244005-21",
+      "posted_at": "2026-10-08T03:42:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CTKN2TFK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CTKN2TFK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CTKN2TFK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Presto Active Wash Detergent Powder 8 Kg @ 359",
       "price": 359,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GX9RQN78.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GX9RQN78.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Amazon Basics 1700W Heat Gun 🔥 756₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4DMFBHD?tag=2244005-21",
-      "posted_at": "2026-09-14T11:02:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495761.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4DMFBHD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4DMFBHD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
