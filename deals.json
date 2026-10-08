@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T15:56:00Z",
+  "updated_at": "2026-10-08T16:10:27Z",
   "deals": [
+    {
+      "title": "Xiaomi 32 inch Smart LED Fire TV @ Rs.10,300 *₹2199 Off With SBI Debit/Credit Cards",
+      "price": 10300,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3JM1YP5?tag=2244005-21",
+      "posted_at": "2026-10-08T16:10:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F3JM1YP5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3JM1YP5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3JM1YP5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple iPad 11: A16 Chip @ Rs.50,690 Apply ₹300 Off Coupon+ Flat ₹8000 Off With SBI Credit Card",
       "price": 50690,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CR79RSND.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CR79RSND.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Prolife Air Fryer 4.2 L @3699.",
-      "price": 3699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH1WPYMX?tag=2244005-21",
-      "posted_at": "2026-09-18T12:05:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH1WPYMX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
