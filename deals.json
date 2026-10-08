@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T05:39:25Z",
+  "updated_at": "2026-10-08T05:39:28Z",
   "deals": [
+    {
+      "title": "70% Off : Axe Dark Deodorant Pack Of 3 @310.",
+      "price": 310,
+      "original_price": 1033,
+      "category": "Shopping",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVTB7JQ9?tag=2244005-21",
+      "posted_at": "2026-10-08T05:39:28Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DVTB7JQ9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVTB7JQ9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVTB7JQ9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Mens Princeps Sneaker @902.",
       "price": 902,
@@ -7943,22 +7959,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07R7TWTLC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07R7TWTLC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "34,730 More :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GVHCT4GD?tag=2244005-21",
-      "posted_at": "2026-09-14T14:47:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495801.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GVHCT4GD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GVHCT4GD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
