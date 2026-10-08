@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T06:54:54Z",
+  "updated_at": "2026-10-08T06:54:58Z",
   "deals": [
+    {
+      "title": "299 Apply ₹15 Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07HS3WP4D?tag=2244005-21",
+      "posted_at": "2026-10-08T06:54:57Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07HS3WP4D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07HS3WP4D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07HS3WP4D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "40% Off : Navratna Cool Mint Fresh Talc @145.",
       "price": 145,
@@ -7958,22 +7974,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBRZ7MRG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBRZ7MRG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "62% Off : Santoor Shower Gel, 500ml @133.",
-      "price": 133,
-      "original_price": 350,
-      "category": "Shopping",
-      "badge": "62% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQYG22TN?tag=2244005-21",
-      "posted_at": "2026-09-16T00:21:52Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CQYG22TN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQYG22TN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQYG22TN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
