@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T15:24:43Z",
+  "updated_at": "2026-10-08T15:25:26Z",
   "deals": [
+    {
+      "title": "Fossil Women's Watch Gold Dial at Rs.5,789* Apply ₹714 Coupon + ₹643 Off Via SBI CC",
+      "price": 5789,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B086K654H9?tag=2244005-21",
+      "posted_at": "2026-10-08T15:25:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B086K654H9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B086K654H9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B086K654H9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "399 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRV2DWP3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRV2DWP3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "R3SET Japanese Marine Collagen Type-1 for Anti-Ageing, Wrinkle - 10 Sachets at 294",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1CNPL86?tag=2244005-21",
-      "posted_at": "2026-09-18T11:20:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H1CNPL86.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1CNPL86.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1CNPL86.01.LZZZZZZZ.jpg"
       ]
     }
   ]
