@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T09:25:24Z",
+  "updated_at": "2026-10-08T10:40:22Z",
   "deals": [
+    {
+      "title": "Mini Heat Sealer for Bags, 6 Modes, LED Timer, USB Rechargeable at Rs.427. Apply 25% Off Coupon :",
+      "price": 427,
+      "original_price": 569,
+      "category": "Fashion",
+      "badge": "25% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HDJWBW7L?tag=2244005-21",
+      "posted_at": "2026-10-08T10:40:22Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HDJWBW7L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HDJWBW7L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HDJWBW7L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP AMD Ryzen 7 Gaming Laptop @ Rs.129990 Flat ₹30000 Off With SBI Credit Card",
       "price": 129990,
@@ -7973,22 +7989,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bajaj Infrared Induction Cooktop for ₹3,754.",
-      "price": 3754,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZTSWMZZ?tag=2244005-21",
-      "posted_at": "2026-09-16T14:36:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CZTSWMZZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZTSWMZZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZTSWMZZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
