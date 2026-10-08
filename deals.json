@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T13:39:29Z",
+  "updated_at": "2026-10-08T13:40:25Z",
   "deals": [
+    {
+      "title": "**GRAB : **Apple Watch Series 11 GPS 46mm Jet Black Aluminium @ Rs.34,999 **(Effectively)** ***Apply ₹500 Coupon + Flat ₹2000 Off With SBI Credit Card**",
+      "price": 34999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQG8MSVT?tag=2244005-21",
+      "posted_at": "2026-10-08T13:40:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQG8MSVT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "64% Off : Secret Temptation Glam Perfume (100ml) @249.",
       "price": 249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09W2DKTW4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09W2DKTW4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Midea** 20 L Solo Microwave Oven at **₹5,490**.",
-      "price": 5490,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8S543CC?tag=2244005-21",
-      "posted_at": "2026-09-17T16:05:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H8S543CC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8S543CC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8S543CC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
