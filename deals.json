@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T12:25:23Z",
+  "updated_at": "2026-10-08T12:25:29Z",
   "deals": [
+    {
+      "title": "**Women’s High-Waist Korean Trousers with Wide Baggy Fit @494.**",
+      "price": 494,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H28ZBCSX?tag=2244005-21",
+      "posted_at": "2026-10-08T12:25:28Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145140.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H28ZBCSX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H28ZBCSX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Bosch 9 kg Front Load Washing Machine at ₹26,639.** Apply 1000 Off Coupon + 10250 Off With SBI Card",
       "price": 26639,
@@ -7974,22 +7990,6 @@
       "url": "https://amzn.to/4h9ds1b",
       "posted_at": "2026-09-16T17:28:19Z",
       "source": "Looterhub"
-    },
-    {
-      "title": "FAAASSTT 💥 196₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FPMHZV5P?tag=2244005-21",
-      "posted_at": "2026-09-16T17:27:48Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_20.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FPMHZV5P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FPMHZV5P.01.LZZZZZZZ.jpg"
-      ]
     }
   ]
 }
