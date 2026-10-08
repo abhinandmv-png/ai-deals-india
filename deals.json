@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T02:24:23Z",
+  "updated_at": "2026-10-08T02:39:19Z",
   "deals": [
+    {
+      "title": "389",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXFPT24Q?tag=2244005-21",
+      "posted_at": "2026-10-08T02:39:19Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DXFPT24Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXFPT24Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXFPT24Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "107",
       "price": null,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07YWM9WMG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07YWM9WMG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 2,199₹ Safari Roma Hard Luggage Trolley Bag with 8 Wheels Cabin Size Carry on Suitcase - Fog Grey",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJNKZQF3?tag=2244005-21",
-      "posted_at": "2026-09-14T10:17:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJNKZQF3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJNKZQF3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJNKZQF3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
