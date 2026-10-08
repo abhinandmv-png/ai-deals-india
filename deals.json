@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T14:25:08Z",
+  "updated_at": "2026-10-08T14:40:26Z",
   "deals": [
+    {
+      "title": "Lowest : Origami 3 Ply Toilet Tissue Paper (1680 Pulls) @ Rs.199",
+      "price": 199,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C595MMWG?tag=2244005-21",
+      "posted_at": "2026-10-08T14:40:25Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C595MMWG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C595MMWG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C595MMWG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "489 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTL8F1D6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTL8F1D6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Amazon** Basics 16-Inch Pedestal Fan at **₹1,982**.",
-      "price": 1982,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GN8T8812?tag=2244005-21",
-      "posted_at": "2026-09-17T18:20:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GN8T8812.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GN8T8812.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GN8T8812.01.LZZZZZZZ.jpg"
       ]
     }
   ]
