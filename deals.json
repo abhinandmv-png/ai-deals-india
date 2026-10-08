@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T10:40:26Z",
+  "updated_at": "2026-10-08T10:55:23Z",
   "deals": [
+    {
+      "title": "Grab : Origami Non-Woven Kitchen Towel (25 Pulls) @ Rs.99",
+      "price": 99,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3D5F32H?tag=2244005-21",
+      "posted_at": "2026-10-08T10:55:22Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F3D5F32H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3D5F32H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3D5F32H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "85% Off : Digital Weighing Scale LCD Display at Rs.299.",
       "price": 299,
@@ -7973,22 +7989,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5B13S97.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5B13S97.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Wired Mouse + Keyboard Combo @536.",
-      "price": 536,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXPQ8PSX?tag=2244005-21",
-      "posted_at": "2026-09-16T15:51:32Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DXPQ8PSX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXPQ8PSX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXPQ8PSX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
