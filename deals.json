@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T03:42:50Z",
+  "updated_at": "2026-10-08T03:54:23Z",
   "deals": [
+    {
+      "title": "Wonderchef Electric Kettle 1.5L @412.",
+      "price": 412,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BM9VP9J5?tag=2244005-21",
+      "posted_at": "2026-10-08T03:54:23Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BM9VP9J5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BM9VP9J5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BM9VP9J5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kesh King Shampoo 1000ml & Conditioner 200ml @349.",
       "price": 349,
@@ -7938,22 +7954,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DNFR8JRG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DNFR8JRG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "152",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GX9RQN78?tag=2244005-21",
-      "posted_at": "2026-09-14T11:02:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_495760.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GX9RQN78.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GX9RQN78.01.LZZZZZZZ.jpg"
       ]
     }
   ]
