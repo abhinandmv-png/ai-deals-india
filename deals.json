@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T07:24:23Z",
+  "updated_at": "2026-10-08T07:25:19Z",
   "deals": [
+    {
+      "title": "Acer Aspire One Ryzen 5 40 / 8GB / 512GB at Rs.35,740 **Apply 1,000 Off Coupon + Flat 5,250 Off With SBI Cc**",
+      "price": 35740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H465RX6P?tag=2244005-21",
+      "posted_at": "2026-10-08T07:25:19Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H465RX6P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H465RX6P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H465RX6P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "62% Off : Pond's Super Light Gel 300 g @247.",
       "price": 247,
@@ -7964,17 +7980,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0FNDHTZGX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNDHTZGX.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 92% Off On High Star Women's Jeans & Jeggings.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "92% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4y0eML2",
-      "posted_at": "2026-09-16T05:36:28Z",
-      "source": "Premium Deals"
     }
   ]
 }
