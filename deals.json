@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T06:54:29Z",
+  "updated_at": "2026-10-08T06:54:54Z",
   "deals": [
+    {
+      "title": "40% Off : Navratna Cool Mint Fresh Talc @145.",
+      "price": 145,
+      "original_price": 242,
+      "category": "Shopping",
+      "badge": "40% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01412WVSG?tag=2244005-21",
+      "posted_at": "2026-10-08T06:54:54Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B01412WVSG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01412WVSG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01412WVSG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "51% Off : Himalaya Neem Facial Kit @99.",
       "price": 99,
@@ -7959,17 +7975,6 @@
         "https://images-na.ssl-images-amazon.com/images/P/B0CQYG22TN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CQYG22TN.01.LZZZZZZZ.jpg"
       ]
-    },
-    {
-      "title": "Upto 75% Off On Bata Footwear. Women's : Men's :",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://amzn.to/4rgWH95",
-      "posted_at": "2026-09-15T19:51:50Z",
-      "source": "Premium Deals"
     }
   ]
 }
