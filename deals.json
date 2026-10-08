@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T19:16:29Z",
+  "updated_at": "2026-10-08T19:16:53Z",
   "deals": [
+    {
+      "title": "**Loot **: Elica BLDC Filterless Chimney @8390* Apply ₹500 Coupon + ₹2119 Off With SBI CC + Apply **₹399 Off Code** at Checkout : `UPGRADECHI`",
+      "price": 8390,
+      "original_price": 2119,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D7M89P7H?tag=2244005-21",
+      "posted_at": "2026-10-08T19:16:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D7M89P7H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D7M89P7H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D7M89P7H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells 8 in 1 Grooming Trimmer Kit at Rs.799",
       "price": 799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C74JSF37.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C74JSF37.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Earth Rhythm Murumuru Butter Shampoo Bar for Dry, Frizzy and Curly Hair @ Rs.224",
-      "price": 224,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08VN4W917?tag=2244005-21",
-      "posted_at": "2026-09-18T17:50:54Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144188.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08VN4W917.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08VN4W917.01.LZZZZZZZ.jpg"
       ]
     }
   ]
