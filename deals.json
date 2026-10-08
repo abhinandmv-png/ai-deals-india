@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T12:40:30Z",
+  "updated_at": "2026-10-08T12:55:24Z",
   "deals": [
+    {
+      "title": "Waxpol Ecosaver Premium Car, Bike Cleaning & Shine Kit @ Rs.393",
+      "price": 393,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08VMX3RQF?tag=2244005-21",
+      "posted_at": "2026-10-08T12:55:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08VMX3RQF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08VMX3RQF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08VMX3RQF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Origami So Soft Facial Tissues (4 Packs, 100 Pulls Each) @ Rs.142 Apply Coupon :",
       "price": 142,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". FAAASSTT 💥 1,038₹ ACEPACK by Verage Megatron Hard Side Polypropylene Luggage Small Cabin 41L",
-      "price": null,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6G9LFC9?tag=2244005-21",
-      "posted_at": "2026-09-16T18:11:15Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_22.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6G9LFC9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6G9LFC9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
