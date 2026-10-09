@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T12:54:53Z",
+  "updated_at": "2026-10-09T12:54:57Z",
   "deals": [
+    {
+      "title": "Safari Set of 3 Trolley Bags @3599.",
+      "price": 3599,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7BCL576?tag=2244005-21",
+      "posted_at": "2026-10-09T12:54:57Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F7BCL576.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7BCL576.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7BCL576.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "67% Off : Biotique Coconut Brightening Instant Glow Cream| 50gm @118",
       "price": 118,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01N4LB4R7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01N4LB4R7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "229",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GLQHH2XR?tag=2244005-21",
-      "posted_at": "2026-09-22T17:28:52Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GLQHH2XR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GLQHH2XR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GLQHH2XR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
