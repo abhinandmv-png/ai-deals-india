@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T04:54:46Z",
+  "updated_at": "2026-10-09T05:01:28Z",
   "deals": [
+    {
+      "title": "Lenovo IdeaPad Slim 3 13th Gen Laptop @64,990 Apply ₹500 Off Coupon + ₹7500 Off With SBI Credit Card.",
+      "price": 64990,
+      "original_price": 7500,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6WHHSHR?tag=2244005-21",
+      "posted_at": "2026-10-09T05:01:27Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H6WHHSHR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6WHHSHR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6WHHSHR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1210",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGPSR9VZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGPSR9VZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bombay Shaving Trimmer 120 Min Battery + 38 Style Settings at ₹699.",
-      "price": 699,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B098P8NRRW?tag=2244005-21",
-      "posted_at": "2026-09-20T06:44:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B098P8NRRW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B098P8NRRW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B098P8NRRW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
