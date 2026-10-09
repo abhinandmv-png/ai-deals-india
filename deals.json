@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T18:53:34Z",
+  "updated_at": "2026-10-09T19:08:39Z",
   "deals": [
+    {
+      "title": "Fossil Blue Analog Dial Men's Watch at 7,837.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BX69H1KK?tag=2244005-21",
+      "posted_at": "2026-10-09T19:08:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BX69H1KK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BX69H1KK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BX69H1KK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 43-inch Crystal UHD 4K Vision AI Smart TV, 30W — **₹25,099**. **Apply ₹1,000 Coupon** + **₹2,900 off SBI Credit/Debit Card**",
       "price": 25099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00B504NHK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00B504NHK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Bosch 300W Hand Blender @899.",
-      "price": 899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CCNNPJMY?tag=2244005-21",
-      "posted_at": "2026-09-24T16:57:10Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CCNNPJMY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CCNNPJMY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CCNNPJMY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
