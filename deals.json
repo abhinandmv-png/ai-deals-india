@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T12:30:03Z",
+  "updated_at": "2026-10-09T12:44:56Z",
   "deals": [
+    {
+      "title": "GRAB : Waxpol Auto Polish (200 gm) @ Rs.199",
+      "price": 199,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00RLK8M98?tag=2244005-21",
+      "posted_at": "2026-10-09T12:44:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00RLK8M98.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00RLK8M98.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00RLK8M98.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DJI Osmo Pocket 4 Creator Combo 3-Axis Gimbal Camera @ Rs.60,990 **(Effective Price)** Rs.4000 Instant Discount On SBI Credit Card",
       "price": 60990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07F3DCST3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07F3DCST3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB MIX DRYFRUITS 250gm @199 only Buy max qty Get lucky chance to win cashback card offer inside the box",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCCC1HCV?tag=2244005-21",
-      "posted_at": "2026-09-22T14:28:51Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HCCC1HCV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCCC1HCV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCCC1HCV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
