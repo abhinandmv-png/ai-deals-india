@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T03:54:45Z",
+  "updated_at": "2026-10-09T03:54:49Z",
   "deals": [
+    {
+      "title": "Orient BLDC Ceiling Fan for ₹1649. Apply ₹550 Off Coupon : 77% Off : Lakme Liquid Lipstick Pack Of 3 @311.",
+      "price": 311,
+      "original_price": 1352,
+      "category": "Beauty",
+      "badge": "77% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5K8V38D?tag=2244005-21",
+      "posted_at": "2026-10-09T03:54:48Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H5K8V38D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5K8V38D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5K8V38D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1247 Apply 22% Off Coupon + ₹60 Cashback",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DRJWW8CW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DRJWW8CW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "52% Off : Wild Stone Soaps (100g x 6) @191",
-      "price": 191,
-      "original_price": 398,
-      "category": "Shopping",
-      "badge": "52% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08HDT835B?tag=2244005-21",
-      "posted_at": "2026-09-20T01:51:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08HDT835B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
