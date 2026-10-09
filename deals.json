@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T01:54:50Z",
+  "updated_at": "2026-10-09T01:54:54Z",
   "deals": [
+    {
+      "title": "Skechers Men Joggers @1219",
+      "price": 1219,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F2HMB1VV?tag=2244005-21",
+      "posted_at": "2026-10-09T01:54:53Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F2HMB1VV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F2HMB1VV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F2HMB1VV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Marks & Spencer Women Fashion Vest @529",
       "price": 529,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GS5FV153.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GS5FV153.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Premium Mix Dry Fruits 500 gms at 279 *Buy Maximum Quantity",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFX7RHL2?tag=2244005-21",
-      "posted_at": "2026-09-19T09:21:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HFX7RHL2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFX7RHL2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFX7RHL2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
