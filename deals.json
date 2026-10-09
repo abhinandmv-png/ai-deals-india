@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T13:15:01Z",
+  "updated_at": "2026-10-09T13:15:05Z",
   "deals": [
+    {
+      "title": "**Loot For Needy** | Lenovo Idea Tab With Pen (6GB + 128GB, WiFi + 5G) @20,749*. *Flat ₹3250 Off With SBI Cards.",
+      "price": 20749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HBBGL6C2?tag=2244005-21",
+      "posted_at": "2026-10-09T13:15:05Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HBBGL6C2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HBBGL6C2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HBBGL6C2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fire TV Stick HD (newest model) @ Rs.2999",
       "price": 2999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CB34XCN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CB34XCN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Reebok Mens Orbit Move Walk Sneaker at 1224",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRKBGSH1?tag=2244005-21",
-      "posted_at": "2026-09-23T03:52:03Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BRKBGSH1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRKBGSH1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRKBGSH1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
