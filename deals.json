@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T07:24:48Z",
+  "updated_at": "2026-10-09T07:24:52Z",
   "deals": [
+    {
+      "title": "63% Off : Clean & Clear Foaming Facewash 240ml @199.",
+      "price": 199,
+      "original_price": 538,
+      "category": "Shopping",
+      "badge": "63% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08QF21VD9?tag=2244005-21",
+      "posted_at": "2026-10-09T07:24:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08QF21VD9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08QF21VD9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08QF21VD9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Butterfly Mixer Grinder 500W & Vegetable Chopper @1,535.",
       "price": 1535,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07C2TQKH5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07C2TQKH5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells REO Vaayu 1200 mm ES Ceiling Fan @ Rs.1516 **Apply ₹260 Off Coupon**",
-      "price": 1516,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS5TPYNP?tag=2244005-21",
-      "posted_at": "2026-09-21T13:51:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GS5TPYNP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS5TPYNP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS5TPYNP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
