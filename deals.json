@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T02:16:23Z",
+  "updated_at": "2026-10-09T02:24:43Z",
   "deals": [
+    {
+      "title": "PUMA Mens Dwane Men’s Running Shoe @995",
+      "price": 995,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07V6N4TWB?tag=2244005-21",
+      "posted_at": "2026-10-09T02:24:43Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07V6N4TWB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07V6N4TWB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07V6N4TWB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DJI Osmo Pocket 3 Vlogging Camera @ Rs.31,490 **(Effective Price)** Rs.2500 Instant Discount SBI Credit Card",
       "price": 31490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HG1G3SM7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HG1G3SM7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Puma Women Gina Sneaker @1,247.",
-      "price": 1247,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BG88FS1G?tag=2244005-21",
-      "posted_at": "2026-09-19T13:36:02Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BG88FS1G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BG88FS1G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BG88FS1G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
