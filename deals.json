@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T12:29:55Z",
+  "updated_at": "2026-10-09T12:29:59Z",
   "deals": [
+    {
+      "title": "Samsung 189 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator @ Rs.14,591 **(Effective)** **Apply 1000 coupon + Get 1899 Discount using SBI CC **",
+      "price": 14591,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G8J23WGV?tag=2244005-21",
+      "posted_at": "2026-10-09T12:29:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G8J23WGV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G8J23WGV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G8J23WGV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cotton&Linen Curtains Starting @ Rs.299 Brother Ink Tank DCP-T730DW** (New Launch)** WIFI Auto Duplex Color Multifunction Printer @ Rs.16,949 **(Effective Price)** Rs.1500 Instant Discount On SBI Credit Card ***Good Prod",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FHQB7HXR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FHQB7HXR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apple 40W Power Adapter @4490.",
-      "price": 4490,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJBCJK3W?tag=2244005-21",
-      "posted_at": "2026-09-22T07:43:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HJBCJK3W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJBCJK3W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJBCJK3W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
