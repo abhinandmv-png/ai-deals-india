@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T18:08:24Z",
+  "updated_at": "2026-10-09T18:08:33Z",
   "deals": [
+    {
+      "title": "Loot Deal : IFB 206L 5 Star Advanced Inverter Refrigerator @ Rs.13,791 • Apply ₹1500 Coupon • Apply ₹1500 Off Code at Checkout ➡️ `IFBDC1500` • ₹3199 Off With SBI CC",
+      "price": 13791,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GW345QCM?tag=2244005-21",
+      "posted_at": "2026-10-09T18:08:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GW345QCM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GW345QCM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GW345QCM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "63% Off : Parachute Coconut & Rosemary Hair Growth Oil @140. **Apply 5% Off Coupon :**",
       "price": 140,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVTB3TXP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVTB3TXP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kamiliant by American Tourister Printed Trolley Bag Set of 3 @4399",
-      "price": 4399,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3L582GG?tag=2244005-21",
-      "posted_at": "2026-09-24T04:42:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H3L582GG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3L582GG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3L582GG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
