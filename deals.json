@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T00:46:28Z",
+  "updated_at": "2026-10-09T01:01:22Z",
   "deals": [
+    {
+      "title": "HP Omnibook 3, Snapdragon X (8GB + 512GB SSD) @ Rs.41,990 Flat ₹8000 Off With SBI Credit Card.",
+      "price": 41990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HK3BFFKM?tag=2244005-21",
+      "posted_at": "2026-10-09T01:01:21Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HK3BFFKM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HK3BFFKM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HK3BFFKM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ferro Siena Analog Watch - starts at rs 4500 + Bank Offer boAt Wave Call 3 Smartwatch - with 1.83\" HD Display @ Rs.999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXWJZKT4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXWJZKT4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "52% Off : Himalaya Turmeric Serum Cleanser 180ml @288.",
-      "price": 288,
-      "original_price": 600,
-      "category": "Beauty",
-      "badge": "52% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GF81BZ65?tag=2244005-21",
-      "posted_at": "2026-09-19T06:06:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GF81BZ65.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GF81BZ65.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GF81BZ65.01.LZZZZZZZ.jpg"
       ]
     }
   ]
