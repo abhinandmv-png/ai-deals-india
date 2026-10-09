@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T12:44:56Z",
+  "updated_at": "2026-10-09T12:45:02Z",
   "deals": [
+    {
+      "title": "Upto 82% Off On Lavie Handbags. Lowest : Origami Non-Woven Kitchen Towel (160 Sheets) @ Rs.179",
+      "price": 179,
+      "original_price": 994,
+      "category": "Fashion",
+      "badge": "82% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00W1SO1A4?tag=2244005-21",
+      "posted_at": "2026-10-09T12:45:01Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00W1SO1A4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00W1SO1A4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00W1SO1A4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Waxpol Auto Polish (200 gm) @ Rs.199",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BT1QYYXL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BT1QYYXL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Opalware Dinner Set Of 37 Pcs @1641.",
-      "price": 1641,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07F3DCST3?tag=2244005-21",
-      "posted_at": "2026-09-22T15:07:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07F3DCST3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07F3DCST3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07F3DCST3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
