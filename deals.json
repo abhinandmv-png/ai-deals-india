@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T03:54:49Z",
+  "updated_at": "2026-10-09T03:54:53Z",
   "deals": [
+    {
+      "title": "RR Signature 1200mm BLDC Ceiling Fan @2,149.",
+      "price": 2149,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSW6S3GN?tag=2244005-21",
+      "posted_at": "2026-10-09T03:54:52Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DSW6S3GN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSW6S3GN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSW6S3GN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient BLDC Ceiling Fan for ₹1649. Apply ₹550 Off Coupon : 77% Off : Lakme Liquid Lipstick Pack Of 3 @311.",
       "price": 311,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3SZLP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C2Q3SZLP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Lakme Glossy Glass Shine Lip @140",
-      "price": 140,
-      "original_price": 350,
-      "category": "Shopping",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DRJWW8CW?tag=2244005-21",
-      "posted_at": "2026-09-20T03:06:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DRJWW8CW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRJWW8CW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRJWW8CW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
