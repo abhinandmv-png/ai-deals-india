@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T06:31:30Z",
+  "updated_at": "2026-10-09T06:46:27Z",
   "deals": [
+    {
+      "title": "Samsung 32\" Monitor with Smart TV @15,999 Flat ₹2000 Off With SBI Credit Card.",
+      "price": 15999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FK5KRQNR?tag=2244005-21",
+      "posted_at": "2026-10-09T06:46:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FK5KRQNR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FK5KRQNR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FK5KRQNR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hero MotoCorp GLAMOUR X Drum Brake at 76764 Flat ₹12,250 Off With SBI Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GGBLLRDX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GGBLLRDX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Asics Japan St Sneaker at 2,243.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVH5T7DB?tag=2244005-21",
-      "posted_at": "2026-09-21T08:36:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DVH5T7DB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVH5T7DB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVH5T7DB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
