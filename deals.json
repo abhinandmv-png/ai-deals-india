@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T05:24:46Z",
+  "updated_at": "2026-10-09T06:09:48Z",
   "deals": [
+    {
+      "title": "Women's Cotton Short Length Jacket @ 249",
+      "price": 249,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B073ZG6LLX?tag=2244005-21",
+      "posted_at": "2026-10-09T06:09:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B073ZG6LLX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B073ZG6LLX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B073ZG6LLX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Timex Black Round Men's Watch at 2829.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCRPQYXY?tag=2244005-21",
-      "posted_at": "2026-09-20T18:13:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FCRPQYXY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCRPQYXY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCRPQYXY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
