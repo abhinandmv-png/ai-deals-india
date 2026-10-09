@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T12:45:02Z",
+  "updated_at": "2026-10-09T12:54:53Z",
   "deals": [
+    {
+      "title": "67% Off : Biotique Coconut Brightening Instant Glow Cream| 50gm @118",
+      "price": 118,
+      "original_price": 358,
+      "category": "Beauty",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0054MS8SU?tag=2244005-21",
+      "posted_at": "2026-10-09T12:54:53Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0054MS8SU.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0054MS8SU.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0054MS8SU.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 82% Off On Lavie Handbags. Lowest : Origami Non-Woven Kitchen Towel (160 Sheets) @ Rs.179",
       "price": 179,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GLQHH2XR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GLQHH2XR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pet Feeding Bowls Set Of 2 @189.",
-      "price": 189,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BT1QYYXL?tag=2244005-21",
-      "posted_at": "2026-09-22T17:13:54Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BT1QYYXL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BT1QYYXL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BT1QYYXL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
