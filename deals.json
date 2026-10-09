@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T15:09:57Z",
+  "updated_at": "2026-10-09T15:24:56Z",
   "deals": [
+    {
+      "title": "Puma Unisex Adult Sneaker @998 Apply Coupon",
+      "price": 998,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B573Y6WD?tag=2244005-21",
+      "posted_at": "2026-10-09T15:24:55Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B573Y6WD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B573Y6WD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B573Y6WD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Longway Super Dlx Juicer Mixer Grinder @1377",
       "price": 1377,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGQFBXQ4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGQFBXQ4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Zebronics Foldable Laptop Stand, 360° Rotation 💰1199",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HF4ZQJGT?tag=2244005-21",
-      "posted_at": "2026-09-23T17:35:25Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_44.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HF4ZQJGT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HF4ZQJGT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
