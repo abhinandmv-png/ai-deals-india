@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T06:31:26Z",
+  "updated_at": "2026-10-09T06:31:30Z",
   "deals": [
+    {
+      "title": "Hero MotoCorp GLAMOUR X Drum Brake at 76764 Flat ₹12,250 Off With SBI Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FRK1536Z?tag=2244005-21",
+      "posted_at": "2026-10-09T06:31:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FRK1536Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FRK1536Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FRK1536Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Galaxy Tab A11+ 6GB RAM, 128GB ROM, Wi-Fi at ₹18,999 Flat ₹2500 Off with SBI Credit Card",
       "price": 18999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVH5T7DB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVH5T7DB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Royal Enfield Full Face Helmet @3659.",
-      "price": 3659,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F1N5NLZJ?tag=2244005-21",
-      "posted_at": "2026-09-21T08:06:12Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F1N5NLZJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F1N5NLZJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F1N5NLZJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
