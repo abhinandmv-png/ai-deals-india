@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T06:46:27Z",
+  "updated_at": "2026-10-09T06:46:31Z",
   "deals": [
+    {
+      "title": "Gold Loot : PNG 2.5 g Vedhani Gold Ring 24 kt (995) @37,009* ₹2000 Off with SBI DEBIT/CREDIT Card + ₹1000 AmazonPay Cashback",
+      "price": 37009,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH6V1C5S?tag=2244005-21",
+      "posted_at": "2026-10-09T06:46:31Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FH6V1C5S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH6V1C5S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH6V1C5S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 32\" Monitor with Smart TV @15,999 Flat ₹2000 Off With SBI Credit Card.",
       "price": 15999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CV11XTCV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CV11XTCV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "68% Off : Lakme 9to5 Cushion Foundation SPF 40 @301. Apply 5% Off Coupon :",
-      "price": 301,
-      "original_price": 941,
-      "category": "Beauty",
-      "badge": "68% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GGBLLRDX?tag=2244005-21",
-      "posted_at": "2026-09-21T10:43:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GGBLLRDX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GGBLLRDX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GGBLLRDX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
