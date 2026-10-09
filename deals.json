@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T13:39:58Z",
+  "updated_at": "2026-10-09T13:40:02Z",
   "deals": [
+    {
+      "title": "99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07RDP4KCK?tag=2244005-21",
+      "posted_at": "2026-10-09T13:40:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07RDP4KCK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07RDP4KCK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07RDP4KCK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Basics A3 Laminating Machine @1998",
       "price": 1998,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/rEQC3UI6Ev.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/rEQC3UI6Ev.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Coffee Table Set Of 2 @1511.",
-      "price": 1511,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G66Z215D?tag=2244005-21",
-      "posted_at": "2026-09-23T13:35:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G66Z215D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G66Z215D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G66Z215D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
