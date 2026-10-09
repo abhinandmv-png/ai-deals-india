@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T14:24:55Z",
+  "updated_at": "2026-10-09T14:39:55Z",
   "deals": [
+    {
+      "title": "Loot 999 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FK4SXGB1?tag=2244005-21",
+      "posted_at": "2026-10-09T14:39:54Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FK4SXGB1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FK4SXGB1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FK4SXGB1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "155",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFX9CLVQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFX9CLVQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[Apply 5% Coupon] WROGN Men's Pack of 2 Cotton Spandex Briefs ✅Deal Price: ₹284 ❌MRP: ₹599 Discount: -53% 👉",
-      "price": 284,
-      "original_price": 599,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GY88DQ3C?tag=2244005-21",
-      "posted_at": "2026-09-23T14:57:37Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0GY88DQ3C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GY88DQ3C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GY88DQ3C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
