@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T14:39:55Z",
+  "updated_at": "2026-10-09T14:45:04Z",
   "deals": [
+    {
+      "title": "GRAB : Waxpol Rubbing Compound (500gm) @ Rs.247",
+      "price": 247,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07GSB5R4J?tag=2244005-21",
+      "posted_at": "2026-10-09T14:45:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07GSB5R4J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07GSB5R4J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07GSB5R4J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 999 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLYDSTRX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLYDSTRX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : Afghani Anjeer 500g – Only ₹249🤯 ✨Premium Dried Afghani Figs ✨Naturally Sweet & Perfect for Snacking ✨1KG Value Pack for Everyday Use Buy Now👇🏻 🛒 BUY MAX QUANTITY | PREMIUM QUALITY",
-      "price": 249,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFX9CLVQ?tag=2244005-21",
-      "posted_at": "2026-09-23T15:33:33Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_40.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFX9CLVQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFX9CLVQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
