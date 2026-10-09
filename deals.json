@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T18:53:25Z",
+  "updated_at": "2026-10-09T18:53:29Z",
   "deals": [
+    {
+      "title": "Upto 80% Off On Bear House Clothing. **Prestige** 750 Watt Mixer Grinder with 5 Jars for **₹2,309**. • **₹589 Off** on **SBI Credit Card**.",
+      "price": 2309,
+      "original_price": 11545,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDKKLYWV?tag=2244005-21",
+      "posted_at": "2026-10-09T18:53:29Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FDKKLYWV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDKKLYWV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDKKLYWV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 80% Off On Bear House Clothing. IFB 6.5 Kg 5 STAR Fully-automatic Front Loading Washing Machine @22440 Flat ₹1750 Off With SBI Credit Card",
       "price": 22440,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G1SLP4H5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G1SLP4H5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon GIF Sale Early Deals Start from Today Midnight at 12 AM",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/greatindia?tag=2244005-21",
-      "posted_at": "2026-09-24T07:27:08Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/GREATINDIA.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/greatindia.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/greatindia.01.LZZZZZZZ.jpg"
       ]
     }
   ]
