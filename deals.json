@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T07:39:51Z",
+  "updated_at": "2026-10-09T07:39:55Z",
   "deals": [
+    {
+      "title": "859",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CX8ZTM7H?tag=2244005-21",
+      "posted_at": "2026-10-09T07:39:54Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CX8ZTM7H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CX8ZTM7H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CX8ZTM7H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tvs Silk Route Open Face Helmet @1,621.",
       "price": 1621,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNX1MJ94.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNX1MJ94.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Gear Wow 25L Medium Bagpack @399.",
-      "price": 399,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CYX36RBQ?tag=2244005-21",
-      "posted_at": "2026-09-21T15:13:46Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CYX36RBQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CYX36RBQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CYX36RBQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
