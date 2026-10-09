@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T15:24:56Z",
+  "updated_at": "2026-10-09T15:30:03Z",
   "deals": [
+    {
+      "title": "Loot 258 : Hisense 1.0 Ton 3 star Inverter Split AC at ₹24,740 Link : Flat ₹2,250 off with SBI EMI",
+      "price": 24740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPYL5C21?tag=2244005-21",
+      "posted_at": "2026-10-09T15:30:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GPYL5C21.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPYL5C21.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPYL5C21.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Unisex Adult Sneaker @998 Apply Coupon",
       "price": 998,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HC3BTZDS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HC3BTZDS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "American Tourister Trolley Bag Set Of 3 at ₹4,099.",
-      "price": 4099,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGQFBXQ4?tag=2244005-21",
-      "posted_at": "2026-09-23T17:48:09Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FGQFBXQ4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGQFBXQ4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGQFBXQ4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
