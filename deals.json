@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T12:55:01Z",
+  "updated_at": "2026-10-09T12:55:06Z",
   "deals": [
+    {
+      "title": "Samsung 1TB Portable SSD @14,199 Apply ₹1,000 Coupon + ₹1,800 Off SBI Credit/Debit Card.",
+      "price": 14199,
+      "original_price": 1800,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HD7JY8T5?tag=2244005-21",
+      "posted_at": "2026-10-09T12:55:05Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HD7JY8T5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HD7JY8T5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HD7JY8T5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "61% Off : Nivea Body Lotion 600ml @297.",
       "price": 297,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H33H7SV7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H33H7SV7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**₹243** :",
-      "price": 243,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07VKM2HR5?tag=2244005-21",
-      "posted_at": "2026-09-23T02:52:03Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07VKM2HR5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07VKM2HR5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07VKM2HR5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
