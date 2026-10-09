@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T01:54:54Z",
+  "updated_at": "2026-10-09T02:09:43Z",
   "deals": [
+    {
+      "title": "Livon Keratin Shampoo for Women & Men 1L @299",
+      "price": 299,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFKCYBQV?tag=2244005-21",
+      "posted_at": "2026-10-09T02:09:43Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HFKCYBQV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFKCYBQV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFKCYBQV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skechers Men Joggers @1219",
       "price": 1219,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXVKG6KP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXVKG6KP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Induction Cooktop at ₹2,793. → Apply ₹740 Off Coupon :",
-      "price": 2793,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS5FV153?tag=2244005-21",
-      "posted_at": "2026-09-19T10:50:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GS5FV153.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS5FV153.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS5FV153.01.LZZZZZZZ.jpg"
       ]
     }
   ]
