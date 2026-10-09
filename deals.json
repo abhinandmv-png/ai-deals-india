@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T10:47:02Z",
+  "updated_at": "2026-10-09T11:01:30Z",
   "deals": [
+    {
+      "title": "MamyPoko Baby Diapers (M size) 148 Count at 1081. Apply ₹120 Off Coupon :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07Y8SJFG1?tag=2244005-21",
+      "posted_at": "2026-10-09T11:01:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07Y8SJFG1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07Y8SJFG1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07Y8SJFG1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Origami Plain Paper Napkins (Pack Of 8, 100 Each) at Rs.149",
       "price": 149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPF1SPM9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPF1SPM9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Duralite Set of 3 Trolley Bags @5800",
-      "price": 5800,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJ87TW26?tag=2244005-21",
-      "posted_at": "2026-09-22T04:44:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CJ87TW26.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJ87TW26.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJ87TW26.01.LZZZZZZZ.jpg"
       ]
     }
   ]
