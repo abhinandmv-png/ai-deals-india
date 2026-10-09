@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T07:39:48Z",
+  "updated_at": "2026-10-09T07:39:51Z",
   "deals": [
+    {
+      "title": "Tvs Silk Route Open Face Helmet @1,621.",
+      "price": 1621,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3PC8R69?tag=2244005-21",
+      "posted_at": "2026-10-09T07:39:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H3PC8R69.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3PC8R69.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3PC8R69.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1090",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CYX36RBQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CYX36RBQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Laundry Basket 45L Large @189.",
-      "price": 189,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HH9K17XG?tag=2244005-21",
-      "posted_at": "2026-09-21T14:13:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HH9K17XG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HH9K17XG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HH9K17XG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
