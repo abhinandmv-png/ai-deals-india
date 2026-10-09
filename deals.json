@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T02:09:43Z",
+  "updated_at": "2026-10-09T02:16:23Z",
   "deals": [
+    {
+      "title": "DJI Osmo Pocket 3 Vlogging Camera @ Rs.31,490 **(Effective Price)** Rs.2500 Instant Discount SBI Credit Card",
+      "price": 31490,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CG19QXWD?tag=2244005-21",
+      "posted_at": "2026-10-09T02:16:22Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CG19QXWD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CG19QXWD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CG19QXWD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Livon Keratin Shampoo for Women & Men 1L @299",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BG88FS1G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BG88FS1G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**397** :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXVKG6KP?tag=2244005-21",
-      "posted_at": "2026-09-19T12:35:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FXVKG6KP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXVKG6KP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXVKG6KP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
