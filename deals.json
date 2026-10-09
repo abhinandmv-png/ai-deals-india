@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T03:39:48Z",
+  "updated_at": "2026-10-09T03:54:45Z",
   "deals": [
+    {
+      "title": "1247 Apply 22% Off Coupon + ₹60 Cashback",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "22% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B085G6LTTT?tag=2244005-21",
+      "posted_at": "2026-10-09T03:54:44Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B085G6LTTT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B085G6LTTT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B085G6LTTT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "323",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08HDT835B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kid's Tricycle (2-5 Years) at ₹1199 Multiple Colors Available",
-      "price": 1199,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DG8QSS9R?tag=2244005-21",
-      "posted_at": "2026-09-19T23:36:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DG8QSS9R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DG8QSS9R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DG8QSS9R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
