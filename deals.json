@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T11:31:35Z",
+  "updated_at": "2026-10-09T12:16:32Z",
   "deals": [
+    {
+      "title": "Lifelong Royal Electric Ride On Motor Bike For Kids at Rs.2996 Apply 5% Off Coupon + Flat ₹300 Off With SBI Credit Card.",
+      "price": 2996,
+      "original_price": 3154,
+      "category": "Toys",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FWCNW12L?tag=2244005-21",
+      "posted_at": "2026-10-09T12:16:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FWCNW12L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FWCNW12L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FWCNW12L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "R3SET Japanese Marine Collagen Type-1 for Anti-Ageing, Wrinkle - 10 Sachets at 289",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07S1V7FP9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07S1V7FP9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells 1200mm Ambrose High Speed Ceiling Fan @1674. Apply 320₹ Off Coupon :",
-      "price": 1674,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BSWJ7GD9?tag=2244005-21",
-      "posted_at": "2026-09-22T06:22:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BSWJ7GD9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BSWJ7GD9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BSWJ7GD9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
