@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T07:24:52Z",
+  "updated_at": "2026-10-09T07:39:48Z",
   "deals": [
+    {
+      "title": "1090",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HM3Q5K5J?tag=2244005-21",
+      "posted_at": "2026-10-09T07:39:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HM3Q5K5J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HM3Q5K5J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HM3Q5K5J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "63% Off : Clean & Clear Foaming Facewash 240ml @199.",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HH9K17XG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HH9K17XG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2595",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07C2TQKH5?tag=2244005-21",
-      "posted_at": "2026-09-21T13:51:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07C2TQKH5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07C2TQKH5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07C2TQKH5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
