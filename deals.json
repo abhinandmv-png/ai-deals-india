@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T05:10:20Z",
+  "updated_at": "2026-10-09T05:24:46Z",
   "deals": [
+    {
+      "title": "1999",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8PYLN2T?tag=2244005-21",
+      "posted_at": "2026-10-09T05:24:45Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D8PYLN2T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8PYLN2T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8PYLN2T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "80% off : Reebok Women Sports Bra @₹509",
       "price": 509,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCRPQYXY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCRPQYXY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Girls Flared Leggings Pack of 5 @236.",
-      "price": 236,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPF8TKN1?tag=2244005-21",
-      "posted_at": "2026-09-20T18:03:35Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0GPF8TKN1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPF8TKN1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPF8TKN1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
