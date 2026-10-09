@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T13:15:05Z",
+  "updated_at": "2026-10-09T13:15:09Z",
   "deals": [
+    {
+      "title": "Prestige 2 Litre + 3 Litre + 5 Litre Pressure Cooker @2,379.",
+      "price": 2379,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B095S9KLY8?tag=2244005-21",
+      "posted_at": "2026-10-09T13:15:09Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B095S9KLY8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B095S9KLY8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B095S9KLY8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Loot For Needy** | Lenovo Idea Tab With Pen (6GB + 128GB, WiFi + 5G) @20,749*. *Flat ₹3250 Off With SBI Cards.",
       "price": 20749,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKCWSZZX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKCWSZZX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Symbol Men Pullover Sweater @384.",
-      "price": 384,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CB34XCN8?tag=2244005-21",
-      "posted_at": "2026-09-23T06:58:54Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CB34XCN8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CB34XCN8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CB34XCN8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
