@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T04:24:45Z",
+  "updated_at": "2026-10-09T04:46:25Z",
   "deals": [
+    {
+      "title": "Bosch 7 kg 5 Star Front Load Fully-Automatic Washing Machine @ Rs.25,169 **(Effective Price)** **Rs.2750 Instant Discount On SBI Credit Card**",
+      "price": 25169,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CFFPLZXJ?tag=2244005-21",
+      "posted_at": "2026-10-09T04:46:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CFFPLZXJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CFFPLZXJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CFFPLZXJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "40% Off : Sensodyne Toothpaste Rapid Relief (80gm x 2) @252",
       "price": 252,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4LGL2MS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4LGL2MS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Black+Decker Galerus Plus Geyser 5.9 Litre at 3298",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FPD2TB13?tag=2244005-21",
-      "posted_at": "2026-09-20T06:29:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FPD2TB13.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FPD2TB13.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FPD2TB13.01.LZZZZZZZ.jpg"
       ]
     }
   ]
