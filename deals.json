@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T13:15:09Z",
+  "updated_at": "2026-10-09T13:39:54Z",
   "deals": [
+    {
+      "title": "Fossil Black Quartz Stainless Steel Watch @7919. Apply 20% Off Coupon + ₹879 Off With SBI Card.",
+      "price": 7919,
+      "original_price": 9899,
+      "category": "Electronics",
+      "badge": "20% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DT8NM1F8?tag=2244005-21",
+      "posted_at": "2026-10-09T13:39:53Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DT8NM1F8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DT8NM1F8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DT8NM1F8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Prestige 2 Litre + 3 Litre + 5 Litre Pressure Cooker @2,379.",
       "price": 2379,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F8W3VKDZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F8W3VKDZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Polycab 150mm Exhaust Fan @1,059.",
-      "price": 1059,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKCWSZZX?tag=2244005-21",
-      "posted_at": "2026-09-23T06:58:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HKCWSZZX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKCWSZZX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKCWSZZX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
