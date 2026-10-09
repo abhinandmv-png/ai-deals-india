@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T03:01:24Z",
+  "updated_at": "2026-10-09T03:31:24Z",
   "deals": [
+    {
+      "title": "Cello Induction Cooktop 1600 Watts at 1772. Apply ₹93 Off Coupon:",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7RC5GHW?tag=2244005-21",
+      "posted_at": "2026-10-09T03:31:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F7RC5GHW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7RC5GHW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7RC5GHW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter at 56,140 Effective Apply 3000 Coupon + Get 20,850 off with SBI card Link :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GY1DSX42.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GY1DSX42.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wonderchef Non-Stick Kadhai, 2.7L at 649.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01NBF0FZ0?tag=2244005-21",
-      "posted_at": "2026-09-19T17:50:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B01NBF0FZ0.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01NBF0FZ0.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01NBF0FZ0.01.LZZZZZZZ.jpg"
       ]
     }
   ]
