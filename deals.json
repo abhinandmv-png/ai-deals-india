@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-08T23:24:48Z",
+  "updated_at": "2026-10-09T00:46:25Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Z Fold7 (12GB RAM, 256GB) @ Rs.1,29,999 ₹6500 EXTRA CASHBACK WITH AMAZON PAY ICICI",
+      "price": 129999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDL3VZR8?tag=2244005-21",
+      "posted_at": "2026-10-09T00:46:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FDL3VZR8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDL3VZR8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDL3VZR8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "149",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNM7XWFD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Levi's Men Jeans @930",
-      "price": 930,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GC7V65WJ?tag=2244005-21",
-      "posted_at": "2026-09-19T03:36:04Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GC7V65WJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GC7V65WJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GC7V65WJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
