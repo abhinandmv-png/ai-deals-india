@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-09T18:08:37Z",
+  "updated_at": "2026-10-09T18:23:24Z",
   "deals": [
+    {
+      "title": "**BEST **: Bosch 368L, 6-in-1 Convertible Double Door Refrigerator @35,240* Flat ₹6750 Off With SBI Credit Card",
+      "price": 35240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJCZGYBZ?tag=2244005-21",
+      "posted_at": "2026-10-09T18:23:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HJCZGYBZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJCZGYBZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJCZGYBZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**BEST** : IFB 241L 7-in-1 Multi Mode, Double Door Refrigerator @ Rs.20,040 Apply ₹2000 Coupon + ₹3250 Off With SBI CC",
       "price": 20040,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQNVH37W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQNVH37W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Type A to C 65W Fast Charging at 199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FMR16CSW?tag=2244005-21",
-      "posted_at": "2026-09-24T06:27:08Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FMR16CSW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FMR16CSW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FMR16CSW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
