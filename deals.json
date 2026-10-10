@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T03:23:32Z",
+  "updated_at": "2026-10-10T03:23:35Z",
   "deals": [
+    {
+      "title": "LG 7 Kg Front Load Washing Machine @ Rs.29,990 **Apply ₹1000 Off Coupon + ₹4250 Off With ICICI Credit Card**",
+      "price": 29990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DG8RPQNS?tag=2244005-21",
+      "posted_at": "2026-10-10T03:23:35Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DG8RPQNS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DG8RPQNS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DG8RPQNS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Elica 90cm 1600 m3/hr Vertical Filterless Autoclean Kitchen Chimney at 16196 Get 1749 discount using SBI card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D49S7C6B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D49S7C6B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@799 White colour costs more 🔥",
-      "price": 799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8BVSK21?tag=2244005-21",
-      "posted_at": "2026-09-25T03:15:53Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_48.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8BVSK21.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8BVSK21.01.LZZZZZZZ.jpg"
       ]
     }
   ]
