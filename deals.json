@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T08:40:08Z",
+  "updated_at": "2026-10-10T08:55:08Z",
   "deals": [
+    {
+      "title": "340",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMVTBYBJ?tag=2244005-21",
+      "posted_at": "2026-10-10T08:55:08Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DMVTBYBJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMVTBYBJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMVTBYBJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Van Heusen Men Innerwears Starts @92.",
       "price": 92,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFBTXSSM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFBTXSSM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi 43 inch LED 4K @ Rs.22,999 ₹2,000 off SBI Credit Card",
-      "price": 22999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F6ZLFNVT?tag=2244005-21",
-      "posted_at": "2026-09-25T17:05:33Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F6ZLFNVT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F6ZLFNVT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F6ZLFNVT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
