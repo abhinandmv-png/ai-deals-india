@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T16:53:42Z",
+  "updated_at": "2026-10-10T16:53:47Z",
   "deals": [
+    {
+      "title": "Grab : Ceramic Pot for Plants @ 99",
+      "price": 99,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTTVR5L3?tag=2244005-21",
+      "posted_at": "2026-10-10T16:53:47Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145535.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTTVR5L3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTTVR5L3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 80 cm Full HD Curved PC Monitor @ Rs.10,800 Flat ₹1199 Off With SBI Credit Card + Apply ₹500 Off Coupon",
       "price": 10800,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CD5QSDXM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CD5QSDXM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "59% Off : Lakme Powerplay Priming Matte Lipstick @224",
-      "price": 224,
-      "original_price": 546,
-      "category": "Beauty",
-      "badge": "59% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08N7Z2ZLH?tag=2244005-21",
-      "posted_at": "2026-09-28T06:44:04Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08N7Z2ZLH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08N7Z2ZLH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08N7Z2ZLH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
