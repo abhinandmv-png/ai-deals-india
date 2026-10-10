@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T15:40:17Z",
+  "updated_at": "2026-10-10T15:40:20Z",
   "deals": [
+    {
+      "title": "986",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GNG3B1D3?tag=2244005-21",
+      "posted_at": "2026-10-10T15:40:20Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GNG3B1D3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GNG3B1D3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GNG3B1D3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hubberholme Women's Black Jeans, 28 — ₹109.",
       "price": 109,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G64W2PS6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G64W2PS6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Jack & Jones Men's Cotton Baseball Cap at 479",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BV2Y31XS?tag=2244005-21",
-      "posted_at": "2026-09-27T15:56:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BV2Y31XS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BV2Y31XS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BV2Y31XS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
