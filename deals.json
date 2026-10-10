@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T15:55:19Z",
+  "updated_at": "2026-10-10T16:08:43Z",
   "deals": [
+    {
+      "title": "35% Off On Greenchef Stainless Steel Induction Bottom Pressure Cooker 2liter at Rs.729 Grab : GreenUV Protection Shade Net (6.5FT x 5FT) @ Rs.75",
+      "price": 75,
+      "original_price": 115,
+      "category": "Home",
+      "badge": "35% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B089B619P3?tag=2244005-21",
+      "posted_at": "2026-10-10T16:08:43Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145529.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B089B619P3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B089B619P3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple iPad 11 A16 Chip 128GB, Wi-Fi 6 @42,240 Flat ₹3750 Off With SBI Credit Card",
       "price": 42240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H2CZMRPP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H2CZMRPP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "OnePlus Pad 2 (12.1 Inch),12GB RAM, 256GB Storage @29,699 Flat ₹2,000 off with SBI Debit & Credit Card + ₹300 Cashback",
-      "price": 29699,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D7N23QKD?tag=2244005-21",
-      "posted_at": "2026-09-28T02:11:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D7N23QKD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D7N23QKD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D7N23QKD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
