@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T14:38:41Z",
+  "updated_at": "2026-10-10T14:53:41Z",
   "deals": [
+    {
+      "title": "GRAB : Origami Toilet Tissue, Pack Of 12 at Rs.209 Apply Coupon :",
+      "price": 209,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00W1G5KQU?tag=2244005-21",
+      "posted_at": "2026-10-10T14:53:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00W1G5KQU.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00W1G5KQU.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00W1G5KQU.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Waxpol Engine Degreaser & Cleaner (1000ml) @ Rs.399.",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKZNYPW9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKZNYPW9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Liril Lime Bathing Bar (6 x 125g) @214.",
-      "price": 214,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B093TJD298?tag=2244005-21",
-      "posted_at": "2026-09-27T10:00:22Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B093TJD298.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B093TJD298.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B093TJD298.01.LZZZZZZZ.jpg"
       ]
     }
   ]
