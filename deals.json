@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T03:23:35Z",
+  "updated_at": "2026-10-10T03:23:39Z",
   "deals": [
+    {
+      "title": "Voltas Smart Choice 1.5 ton 3 Star AC @ Rs.28,990 ₹2000 Off with SBI Debit/Credit Card",
+      "price": 28990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSZRBDND?tag=2244005-21",
+      "posted_at": "2026-10-10T03:23:39Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GSZRBDND.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSZRBDND.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSZRBDND.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 7 Kg Front Load Washing Machine @ Rs.29,990 **Apply ₹1000 Off Coupon + ₹4250 Off With ICICI Credit Card**",
       "price": 29990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJ8GYB2L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJ8GYB2L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D49S7C6B?tag=2244005-21",
-      "posted_at": "2026-09-25T03:25:17Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0D49S7C6B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D49S7C6B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D49S7C6B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
