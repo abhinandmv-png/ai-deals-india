@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T13:40:13Z",
+  "updated_at": "2026-10-10T13:40:16Z",
   "deals": [
+    {
+      "title": "1099",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FS23TZ4N?tag=2244005-21",
+      "posted_at": "2026-10-10T13:40:16Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FS23TZ4N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1380",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9TX5GYH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9TX5GYH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Puma Unisex Adult Max Slide ✅Deal Price: **₹799** ❌MRP: ₹2,499 Discount: **-68%** 👉",
-      "price": null,
-      "original_price": 2499,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BYSQ4H7J?tag=2244005-21",
-      "posted_at": "2026-09-27T06:21:15Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_84.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BYSQ4H7J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BYSQ4H7J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
