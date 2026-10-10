@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T08:55:08Z",
+  "updated_at": "2026-10-10T09:10:11Z",
   "deals": [
+    {
+      "title": "Lenovo LOQ Intel Core i5 NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD) AI Gaming Laptop @89,500 Flat ₹34,500 Off With SBI Credit Card.",
+      "price": 89500,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H25ZX29Y?tag=2244005-21",
+      "posted_at": "2026-10-10T09:10:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H25ZX29Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H25ZX29Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H25ZX29Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "340",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DKXZY9MT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DKXZY9MT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "368",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFBTXSSM?tag=2244005-21",
-      "posted_at": "2026-09-25T18:05:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DFBTXSSM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFBTXSSM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFBTXSSM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
