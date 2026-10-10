@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T17:08:47Z",
+  "updated_at": "2026-10-10T17:23:42Z",
   "deals": [
+    {
+      "title": "Portronics Power Shutter Home 3 x 10000mAh Fast Charging Wireless Powerbank with Charging Station, 22.5W Wired Output @ Rs.4439",
+      "price": 4439,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F43BP8ZJ?tag=2244005-21",
+      "posted_at": "2026-10-10T17:23:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F43BP8ZJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F43BP8ZJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F43BP8ZJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Eureka Forbes Air Purifier 150 For Bedroom at Rs.3,600 Flat ₹399 off with SBI Credit Card + ₹1000 coupon",
       "price": 3600,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08TD6BXG4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08TD6BXG4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GUESS Jet Analog Watch for Men ay 7247",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D9QCDV57?tag=2244005-21",
-      "posted_at": "2026-09-28T11:11:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D9QCDV57.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D9QCDV57.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D9QCDV57.01.LZZZZZZZ.jpg"
       ]
     }
   ]
