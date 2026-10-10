@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T03:55:05Z",
+  "updated_at": "2026-10-10T04:23:33Z",
   "deals": [
+    {
+      "title": "**Bike Loot** : Hero Xtreme 160R Bike @89,829* Apply ₹10,000 Coupon + ₹14,000 Off With SBI Debit/Credit Card.",
+      "price": 89829,
+      "original_price": 14000,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7XHGTPK?tag=2244005-21",
+      "posted_at": "2026-10-10T04:23:32Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145432.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7XHGTPK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7XHGTPK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong LED Scooter @806 Apply Coupon",
       "price": 806,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FMQBGQNG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FMQBGQNG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Polycab LED 1200mm BLDC Ceiling Fan @ Rs.3099",
-      "price": 3099,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9YGZB68?tag=2244005-21",
-      "posted_at": "2026-09-25T04:16:16Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9YGZB68.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9YGZB68.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9YGZB68.01.LZZZZZZZ.jpg"
       ]
     }
   ]
