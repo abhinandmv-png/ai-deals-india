@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T07:25:07Z",
+  "updated_at": "2026-10-10T07:25:12Z",
   "deals": [
+    {
+      "title": "Liril Body Wash 250ml @77 + Coupon.",
+      "price": 77,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07NDS9Z83?tag=2244005-21",
+      "posted_at": "2026-10-10T07:25:11Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07NDS9Z83.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07NDS9Z83.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07NDS9Z83.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "UCB Insulated Coffee Tumbler 400ml @674. Apply 10% Off Coupon :",
       "price": 674,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FPD153TS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FPD153TS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BR5J92KX?tag=2244005-21",
-      "posted_at": "2026-09-25T12:37:10Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0BR5J92KX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BR5J92KX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BR5J92KX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
