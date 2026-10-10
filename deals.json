@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T06:40:14Z",
+  "updated_at": "2026-10-10T06:53:33Z",
   "deals": [
+    {
+      "title": "LG 251L Smart Inverter Double Door Refrigerator - with Smart — **₹21,148**. Apply** ₹1000 Off Code at Checkout** : LGFEST1000 Flat ₹3750 Off With SBI CC",
+      "price": 21148,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPCZBHPH?tag=2244005-21",
+      "posted_at": "2026-10-10T06:53:33Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GPCZBHPH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPCZBHPH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPCZBHPH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PINACOLADA Women's Cotton Hooded Neck Sweatshirt — ₹153.",
       "price": 153,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00KL56N8C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00KL56N8C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot: Levi's Jeans Upto 55% Off Men's: Women's: Fire-Boltt Newly Launched Aero Lite TWS Earbuds @ Rs.699",
-      "price": 699,
-      "original_price": 1553,
-      "category": "Electronics",
-      "badge": "55% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHQSD1PG?tag=2244005-21",
-      "posted_at": "2026-09-25T05:53:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GHQSD1PG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHQSD1PG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHQSD1PG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
