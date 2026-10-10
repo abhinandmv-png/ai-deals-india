@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T17:23:42Z",
+  "updated_at": "2026-10-10T17:53:44Z",
   "deals": [
+    {
+      "title": "Floral Printed Carpet Rug Floor Mat ( Pack of 2) @ 129",
+      "price": 129,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4193ZL1?tag=2244005-21",
+      "posted_at": "2026-10-10T17:53:43Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145544.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4193ZL1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4193ZL1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Portronics Power Shutter Home 3 x 10000mAh Fast Charging Wireless Powerbank with Charging Station, 22.5W Wired Output @ Rs.4439",
       "price": 4439,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVGS1F9Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVGS1F9Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Presto! Garbage Bags, Xl - 10 Bags/Roll (Pack Of 3) at ‎189.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08TD6BXG4?tag=2244005-21",
-      "posted_at": "2026-09-28T11:26:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08TD6BXG4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08TD6BXG4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08TD6BXG4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
