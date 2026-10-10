@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T00:25:12Z",
+  "updated_at": "2026-10-10T01:53:30Z",
   "deals": [
+    {
+      "title": "126",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B591M2JK?tag=2244005-21",
+      "posted_at": "2026-10-10T01:53:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B591M2JK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B591M2JK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B591M2JK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cello Melamine Plate for Kids @340.",
       "price": 340,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4213Z31.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4213Z31.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "280",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H126NYPK?tag=2244005-21",
-      "posted_at": "2026-09-24T18:42:46Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H126NYPK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H126NYPK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H126NYPK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
