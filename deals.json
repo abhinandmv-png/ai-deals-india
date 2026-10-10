@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T13:55:15Z",
+  "updated_at": "2026-10-10T14:38:41Z",
   "deals": [
+    {
+      "title": "Lowest : Waxpol Engine Degreaser & Cleaner (1000ml) @ Rs.399.",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00RLKAA1Q?tag=2244005-21",
+      "posted_at": "2026-10-10T14:38:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00RLKAA1Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00RLKAA1Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00RLKAA1Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "43 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B093TJD298.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B093TJD298.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "47% Off : Tata Coffee Gold Jar, 50g @225.",
-      "price": 225,
-      "original_price": 425,
-      "category": "Grocery",
-      "badge": "47% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09P8VB1QC?tag=2244005-21",
-      "posted_at": "2026-09-27T10:00:17Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09P8VB1QC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09P8VB1QC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09P8VB1QC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
