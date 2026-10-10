@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T16:08:43Z",
+  "updated_at": "2026-10-10T16:53:42Z",
   "deals": [
+    {
+      "title": "LG 80 cm Full HD Curved PC Monitor @ Rs.10,800 Flat ₹1199 Off With SBI Credit Card + Apply ₹500 Off Coupon",
+      "price": 10800,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DKFTZCJ2?tag=2244005-21",
+      "posted_at": "2026-10-10T16:53:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DKFTZCJ2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DKFTZCJ2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DKFTZCJ2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "35% Off On Greenchef Stainless Steel Induction Bottom Pressure Cooker 2liter at Rs.729 Grab : GreenUV Protection Shade Net (6.5FT x 5FT) @ Rs.75",
       "price": 75,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08N7Z2ZLH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08N7Z2ZLH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bajaj Classico 1200MM BLDC Ceiling Fan @3099",
-      "price": 3099,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H2CZMRPP?tag=2244005-21",
-      "posted_at": "2026-09-28T03:56:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H2CZMRPP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H2CZMRPP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H2CZMRPP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
