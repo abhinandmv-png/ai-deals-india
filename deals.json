@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T13:23:43Z",
+  "updated_at": "2026-10-10T13:40:13Z",
   "deals": [
+    {
+      "title": "1380",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBLN9VFS?tag=2244005-21",
+      "posted_at": "2026-10-10T13:40:12Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FBLN9VFS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBLN9VFS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBLN9VFS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TCL 164 cm (65 Inches) Smartchoice 4K UHD Smart QD-Mini LED Google TV @ Rs.64,190 **(Effective Price)** **Apply Rs.2,300 Off Coupon + Rs.10,500 Instant Discount On SBI Credit Card**",
       "price": 64190,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BYSQ4H7J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BYSQ4H7J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sfane Gym Bags for Men with Separate Shoe Compartment Sports Gym Bags for Women Unisex Duffle Bags for Gym for Carry & Travel Adjustable Duffel Bags Sports Bag - Black & Orange ✅Deal Price: **₹399** ❌MRP: ₹1,395 Discount",
-      "price": null,
-      "original_price": 1395,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXKQBZCY?tag=2244005-21",
-      "posted_at": "2026-09-27T06:21:10Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_82.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXKQBZCY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXKQBZCY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
