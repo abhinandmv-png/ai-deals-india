@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T15:40:20Z",
+  "updated_at": "2026-10-10T15:55:15Z",
   "deals": [
+    {
+      "title": "70% Off : Yogabar Multigrain Energy Bars, 20 Bars @269. Buy Max Qty :",
+      "price": 269,
+      "original_price": 897,
+      "category": "Shopping",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07DVRGPG2?tag=2244005-21",
+      "posted_at": "2026-10-10T15:55:14Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07DVRGPG2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07DVRGPG2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07DVRGPG2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "986",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B6RH5JRL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B6RH5JRL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Smart And Handsome Shower Gel 250ml @103.",
-      "price": 103,
-      "original_price": 258,
-      "category": "Shopping",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G64W2PS6?tag=2244005-21",
-      "posted_at": "2026-09-27T16:15:22Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G64W2PS6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G64W2PS6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G64W2PS6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
