@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T02:40:07Z",
+  "updated_at": "2026-10-10T02:40:10Z",
   "deals": [
+    {
+      "title": "933",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09CH8X3TT?tag=2244005-21",
+      "posted_at": "2026-10-10T02:40:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09CH8X3TT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09CH8X3TT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09CH8X3TT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "71",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6G4CVJ5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6G4CVJ5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "151",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRJK4QSS?tag=2244005-21",
-      "posted_at": "2026-09-24T19:13:10Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BRJK4QSS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRJK4QSS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRJK4QSS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
