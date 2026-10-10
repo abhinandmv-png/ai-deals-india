@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T17:08:42Z",
+  "updated_at": "2026-10-10T17:08:47Z",
   "deals": [
+    {
+      "title": "Eureka Forbes Air Purifier 150 For Bedroom at Rs.3,600 Flat ₹399 off with SBI Credit Card + ₹1000 coupon",
+      "price": 3600,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMJ6X9BV?tag=2244005-21",
+      "posted_at": "2026-10-10T17:08:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CMJ6X9BV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMJ6X9BV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMJ6X9BV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CALLMATE 80000mAh 23W Fast Charging Power Bank @ Rs.3419 **Rs.379 Instant Discount On SBI Credit Card**",
       "price": 3419,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D9QCDV57.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D9QCDV57.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Indian Garage Men's Slim Fit Mid-Rise Trouser at 465 ****",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C13PQ6FN?tag=2244005-21",
-      "posted_at": "2026-09-28T08:41:21Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C13PQ6FN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C13PQ6FN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C13PQ6FN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
