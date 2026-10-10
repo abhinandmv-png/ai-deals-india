@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T06:40:08Z",
+  "updated_at": "2026-10-10T06:40:11Z",
   "deals": [
+    {
+      "title": "iQOO Wireless in-Ear Earphones @999.",
+      "price": 999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07WDKLV3F?tag=2244005-21",
+      "posted_at": "2026-10-10T06:40:11Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07WDKLV3F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07WDKLV3F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07WDKLV3F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tokyo Talkies Women Tops @99.",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D4V1P735.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D4V1P735.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Axor Apex Solid 4948",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CGS2DV59?tag=2244005-21",
-      "posted_at": "2026-09-25T05:36:00Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_144445.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CGS2DV59.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CGS2DV59.01.LZZZZZZZ.jpg"
       ]
     }
   ]
