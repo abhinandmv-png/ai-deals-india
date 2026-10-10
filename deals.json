@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T07:10:07Z",
+  "updated_at": "2026-10-10T07:23:36Z",
   "deals": [
+    {
+      "title": "Tajmahal Tea, 1 Kg @489. **• Buy Max Qnty**",
+      "price": 489,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B074F231SW?tag=2244005-21",
+      "posted_at": "2026-10-10T07:23:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B074F231SW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B074F231SW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B074F231SW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kuber Industries Water Resistant 3-Compartment Gym Bag for Men — ₹609.",
       "price": 609,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4M39WVS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4M39WVS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DQPT85TB?tag=2244005-21",
-      "posted_at": "2026-09-25T12:18:03Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_56.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DQPT85TB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DQPT85TB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
