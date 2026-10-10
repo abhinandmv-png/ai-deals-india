@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T14:53:41Z",
+  "updated_at": "2026-10-10T15:08:48Z",
   "deals": [
+    {
+      "title": "Grab : Garbage Bags (Pack of 3, 90pcs) at Rs.99 Regular Price 199+",
+      "price": 99,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9SG9PXS?tag=2244005-21",
+      "posted_at": "2026-10-10T15:08:48Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145515.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9SG9PXS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9SG9PXS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Origami Toilet Tissue, Pack Of 12 at Rs.209 Apply Coupon :",
       "price": 209,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/A22N38RGIV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/A22N38RGIV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mixed Dry Fruits 500gm at 249 *Buy Maximum Quantity",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKZNYPW9?tag=2244005-21",
-      "posted_at": "2026-09-27T10:30:17Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HKZNYPW9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKZNYPW9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKZNYPW9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
