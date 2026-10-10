@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T06:08:33Z",
+  "updated_at": "2026-10-10T06:23:33Z",
   "deals": [
+    {
+      "title": "Titan Analogue Men's Watch @3402* Apply 11% Off Coupon :",
+      "price": 3402,
+      "original_price": 3822,
+      "category": "Electronics",
+      "badge": "11% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07MXKMWT5?tag=2244005-21",
+      "posted_at": "2026-10-10T06:23:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07MXKMWT5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07MXKMWT5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07MXKMWT5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Upto 76% Off On Branded Men's Blazers Park Avenue: Arrow: Raymond: Van Heusen: Cantabil: Allen Solly: Peter England: Colorplus: Louis Philippe: La Opala Opalware Dinner Set Of 10 Pcs at 359* Apply 10% Off Coupon :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07P8KPQJ1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07P8KPQJ1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AJIO Loot : Upto 85% Off On Luggage & Trolley Bags. AJIO Loot : Upto 80% Off On Louis Philippe Clothing. Under Armour : Clarks : ASOS : Zivame & Clovia : Prestige 1.5L Electric Kettle 1350 Watt @ Rs.592",
-      "price": 592,
-      "original_price": 3947,
-      "category": "Fashion",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01MQZ7J8K?tag=2244005-21",
-      "posted_at": "2026-09-25T04:31:15Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B01MQZ7J8K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01MQZ7J8K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01MQZ7J8K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
