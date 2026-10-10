@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T03:23:42Z",
+  "updated_at": "2026-10-10T03:55:05Z",
   "deals": [
+    {
+      "title": "Lifelong LED Scooter @806 Apply Coupon",
+      "price": 806,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CV5MR8BH?tag=2244005-21",
+      "posted_at": "2026-10-10T03:55:05Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CV5MR8BH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CV5MR8BH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CV5MR8BH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "JBL Cinema 440W Dolby Atmos Soundbar @ Rs.17,999 **•** Apply ₹250 Coupon + ₹1750 Off with SBI Debit/Credit Card *** Regular Price 24,999**",
       "price": 17999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9YGZB68.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9YGZB68.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@834",
-      "price": 834,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJ1QP3RD?tag=2244005-21",
-      "posted_at": "2026-09-25T03:49:12Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_51.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJ1QP3RD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJ1QP3RD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
