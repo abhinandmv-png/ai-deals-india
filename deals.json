@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T13:10:44Z",
+  "updated_at": "2026-10-10T13:23:39Z",
   "deals": [
+    {
+      "title": "ASUS TUF F16 (2026) Intel Core 5 (16GB RAM (Upgradeable),512GB SSD) @ Rs.92,590 **(Effective Price)** **Rs.7,400 Instant Discount On SBI Credit Card**",
+      "price": 92590,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCP5YK91?tag=2244005-21",
+      "posted_at": "2026-10-10T13:23:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HCP5YK91.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCP5YK91.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCP5YK91.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SANDISK 2TB Portable SSD @22749 Flat ₹5250 off with SBI Credit Card",
       "price": 22749,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09SJ5HH4N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09SJ5HH4N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "88",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08G8RC2GW?tag=2244005-21",
-      "posted_at": "2026-09-27T06:19:29Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_80.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08G8RC2GW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08G8RC2GW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
