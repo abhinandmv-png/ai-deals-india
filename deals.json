@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T09:10:11Z",
+  "updated_at": "2026-10-10T09:40:09Z",
   "deals": [
+    {
+      "title": "78% Off : VASELINE SPF 50 PA ++++ Light Moisturiser, 200 ml @165. Buy Max Qty :",
+      "price": 165,
+      "original_price": 750,
+      "category": "Shopping",
+      "badge": "78% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GM13VDLG?tag=2244005-21",
+      "posted_at": "2026-10-10T09:40:08Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GM13VDLG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GM13VDLG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GM13VDLG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo LOQ Intel Core i5 NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD) AI Gaming Laptop @89,500 Flat ₹34,500 Off With SBI Credit Card.",
       "price": 89500,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09RFK5SWY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09RFK5SWY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nivea Caring Pink Lip Balm @120.",
-      "price": 120,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKXZY9MT?tag=2244005-21",
-      "posted_at": "2026-09-26T01:14:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DKXZY9MT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKXZY9MT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKXZY9MT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
