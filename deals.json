@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T02:38:30Z",
+  "updated_at": "2026-10-10T02:40:04Z",
   "deals": [
+    {
+      "title": "229",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQNP1R1F?tag=2244005-21",
+      "posted_at": "2026-10-10T02:40:03Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FQNP1R1F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQNP1R1F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQNP1R1F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**GRAB : **Presto! Dishwash Gel, 5L at 419 **+ Coupon.**",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09L7ZXKKF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09L7ZXKKF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "329",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBDTG3TW?tag=2244005-21",
-      "posted_at": "2026-09-24T19:12:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DBDTG3TW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBDTG3TW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBDTG3TW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
