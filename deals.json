@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T18:53:45Z",
+  "updated_at": "2026-10-10T23:40:20Z",
   "deals": [
+    {
+      "title": "78% Off : Lakme 9to5 Hya Matte Foundation @215.",
+      "price": 215,
+      "original_price": 977,
+      "category": "Beauty",
+      "badge": "78% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGBPHCQF?tag=2244005-21",
+      "posted_at": "2026-10-10T23:40:20Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GGBPHCQF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGBPHCQF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGBPHCQF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Black Ceramic Modern Flower Vase @ Rs.99",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GK6T6N56.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GK6T6N56.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Rockerz 235 Pro Wireless Bluetooth Neckband @699.",
-      "price": 699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRL8FP2T?tag=2244005-21",
-      "posted_at": "2026-09-28T14:14:09Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CRL8FP2T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRL8FP2T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRL8FP2T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
