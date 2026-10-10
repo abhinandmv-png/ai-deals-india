@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T15:55:15Z",
+  "updated_at": "2026-10-10T15:55:19Z",
   "deals": [
+    {
+      "title": "Apple iPad 11 A16 Chip 128GB, Wi-Fi 6 @42,240 Flat ₹3750 Off With SBI Credit Card",
+      "price": 42240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZ79Q1DB?tag=2244005-21",
+      "posted_at": "2026-10-10T15:55:18Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DZ79Q1DB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZ79Q1DB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZ79Q1DB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70% Off : Yogabar Multigrain Energy Bars, 20 Bars @269. Buy Max Qty :",
       "price": 269,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7N23QKD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7N23QKD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton Casserole Set Of 3 @879.",
-      "price": 879,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B6RH5JRL?tag=2244005-21",
-      "posted_at": "2026-09-27T18:28:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B6RH5JRL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B6RH5JRL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B6RH5JRL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
