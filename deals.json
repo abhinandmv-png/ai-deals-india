@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T05:23:32Z",
+  "updated_at": "2026-10-10T06:08:33Z",
   "deals": [
+    {
+      "title": "Loot : Upto 76% Off On Branded Men's Blazers Park Avenue: Arrow: Raymond: Van Heusen: Cantabil: Allen Solly: Peter England: Colorplus: Louis Philippe: La Opala Opalware Dinner Set Of 10 Pcs at 359* Apply 10% Off Coupon :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "76% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5VQXDJY?tag=2244005-21",
+      "posted_at": "2026-10-10T06:08:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H5VQXDJY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5VQXDJY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5VQXDJY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP Smart Tank 580 All-in-One WiFi Colour Printer @11303 Flat ₹2366 Off With SBI Credit Card",
       "price": 11303,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01MQZ7J8K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01MQZ7J8K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Hexa Active Set of 6 (3 Trolley Bags & 3 Duffle Bags) Luggage @ Rs.4540 Apply 15% OFF Coupon + SBI CC",
-      "price": 4540,
-      "original_price": 5341,
-      "category": "Fashion",
-      "badge": "15% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HC7NM7S7?tag=2244005-21",
-      "posted_at": "2026-09-25T04:16:32Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HC7NM7S7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HC7NM7S7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HC7NM7S7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
