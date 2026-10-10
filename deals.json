@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T02:06:18Z",
+  "updated_at": "2026-10-10T02:06:21Z",
   "deals": [
+    {
+      "title": "Lowest : XIAOMI 17 (12GB/512GB) at 65,999* Flat ₹3000 Off With SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMQWZ6ZM?tag=2244005-21",
+      "posted_at": "2026-10-10T02:06:21Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GMQWZ6ZM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMQWZ6ZM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMQWZ6ZM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi (139 cm) 55 Inch 4K QLED Smart TV at 29,987*\" *Apply ₹500 Coupon + ₹5012 Off with SBI Debit/Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GD4T3FZG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GD4T3FZG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "44",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07438SX12?tag=2244005-21",
-      "posted_at": "2026-09-24T19:12:11Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07438SX12.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07438SX12.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07438SX12.01.LZZZZZZZ.jpg"
       ]
     }
   ]
