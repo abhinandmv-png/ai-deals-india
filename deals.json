@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T06:53:33Z",
+  "updated_at": "2026-10-10T06:55:08Z",
   "deals": [
+    {
+      "title": "61% off : Glen 12L Air Fryer Oven 1800W with Rotisserie @7798",
+      "price": 7798,
+      "original_price": 19995,
+      "category": "Shopping",
+      "badge": "61% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DH8413VK?tag=2244005-21",
+      "posted_at": "2026-10-10T06:55:08Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DH8413VK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DH8413VK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DH8413VK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 251L Smart Inverter Double Door Refrigerator - with Smart — **₹21,148**. Apply** ₹1000 Off Code at Checkout** : LGFEST1000 Flat ₹3750 Off With SBI CC",
       "price": 21148,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GR6HXPB9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GR6HXPB9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bajaj Maxima 600 MM Ceiling Fan @1284.",
-      "price": 1284,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00KL56N8C?tag=2244005-21",
-      "posted_at": "2026-09-25T06:53:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00KL56N8C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00KL56N8C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00KL56N8C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
