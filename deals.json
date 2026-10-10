@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T10:53:43Z",
+  "updated_at": "2026-10-10T11:08:42Z",
   "deals": [
+    {
+      "title": "ASUS Vivobook 15 Laptop @ Rs.37,740 Flat ₹8000 Off With SBI Credit Card",
+      "price": 37740,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09BB8DQKN?tag=2244005-21",
+      "posted_at": "2026-10-10T11:08:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09BB8DQKN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09BB8DQKN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09BB8DQKN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : ₹2999 Regular ₹5k+",
       "price": 2999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWS9YF91.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWS9YF91.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Samsung 215L Digital Inverter Single Door Refrigerator — ₹18,390.** Apply ₹750 coupon + Flat ₹1,750 off with SBI EMI",
-      "price": 18390,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8JVRTGK?tag=2244005-21",
-      "posted_at": "2026-09-26T06:00:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G8JVRTGK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8JVRTGK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8JVRTGK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
