@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T18:36:06Z",
+  "updated_at": "2026-10-11T18:51:05Z",
   "deals": [
+    {
+      "title": "Myntra : Flat 64% Off On Calvin Klein Watches + Bank Offer. Nilkamal Sierra Velvet Fabric Manual Recliner | 3 Year Warranty at 10,612 Effective Get 4578 Discount Using SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "64% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BVRGMDPQ?tag=2244005-21",
+      "posted_at": "2026-10-11T18:51:05Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra : Flat 64% Off On Calvin Klein Watches + Bank Offer. La Opala Opalware Dinner Set, 10-Piece, 10 Pieces — **₹360**. • **Apply 10% Coupon** on page.",
       "price": 360,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08B1NRP5R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08B1NRP5R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67% Off : Bajaj Almond Body Lotion 400ml @141.",
-      "price": 141,
-      "original_price": 427,
-      "category": "Shopping",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CC9KFR26?tag=2244005-21",
-      "posted_at": "2026-10-02T15:30:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CC9KFR26.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CC9KFR26.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CC9KFR26.01.LZZZZZZZ.jpg"
       ]
     }
   ]
