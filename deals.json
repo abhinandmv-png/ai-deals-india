@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T07:32:07Z",
+  "updated_at": "2026-10-11T07:35:56Z",
   "deals": [
+    {
+      "title": "CELLO Aqua Pro Stainless Steel Water Bottle 1000 ml @ Rs.224 Apply 30% Off Coupon",
+      "price": 224,
+      "original_price": 320,
+      "category": "Shopping",
+      "badge": "30% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B391DNSY?tag=2244005-21",
+      "posted_at": "2026-10-11T07:35:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B391DNSY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B391DNSY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B391DNSY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Butterfly 750 Watts Mixer Grinder with 4 Jars @2351* Apply 5% Off Coupon + Pay With SBI CC",
       "price": 2351,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08D88ZHLD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08D88ZHLD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton Kool Water Bottle at 113.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F6MY4T2S?tag=2244005-21",
-      "posted_at": "2026-09-30T18:28:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F6MY4T2S.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F6MY4T2S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F6MY4T2S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
