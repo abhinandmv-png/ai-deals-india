@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T13:06:02Z",
+  "updated_at": "2026-10-11T13:25:32Z",
   "deals": [
+    {
+      "title": "XIAOMI Pad 8, (12GB + 256GB) @36,240 Apply ₹2000 Off Coupon + ₹5750 off with SBI Credit Card",
+      "price": 36240,
+      "original_price": 5750,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPVVYKTQ?tag=2244005-21",
+      "posted_at": "2026-10-11T13:25:31Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GPVVYKTQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPVVYKTQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPVVYKTQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Grab :** Naphthalene Balls (200g ) @ Rs.59",
       "price": 59,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCG349PK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCG349PK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Melamine Mug Set Of 4, 200ml @208.",
-      "price": 208,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07XY5LX2W?tag=2244005-21",
-      "posted_at": "2026-10-01T12:45:07Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07XY5LX2W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07XY5LX2W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07XY5LX2W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
