@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T04:25:24Z",
+  "updated_at": "2026-10-11T04:50:42Z",
   "deals": [
+    {
+      "title": "ASUS i5-14th Gen, 16GB/512GB, All in One PC @66,040* Flat ₹10,950 Off With SBI CC",
+      "price": 66040,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY12MBB9?tag=2244005-21",
+      "posted_at": "2026-10-11T04:50:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GY12MBB9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY12MBB9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY12MBB9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lakme Perfect Radiance Serum 30ml @233",
       "price": 233,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08LT9BMPP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08LT9BMPP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "RR Signature Raptor 1200mm BLDC Designer Ceiling Fan at 2799 Apply ₹400 Coupon :",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC2NLJTF?tag=2244005-21",
-      "posted_at": "2026-09-30T04:11:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC2NLJTF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
