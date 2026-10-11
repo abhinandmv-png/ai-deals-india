@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-10T23:40:23Z",
+  "updated_at": "2026-10-11T01:50:36Z",
   "deals": [
+    {
+      "title": "1284",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRB5NWHW?tag=2244005-21",
+      "posted_at": "2026-10-11T01:50:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CRB5NWHW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRB5NWHW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRB5NWHW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric 1200mm Ceiling Fan @1149 Apply ₹250 Off Coupon",
       "price": 1149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYDH3642.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYDH3642.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3-in-1 Insulated Lunch Box Set for Kids at 299",
-      "price": null,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CYLP5YDD?tag=2244005-21",
-      "posted_at": "2026-09-28T17:26:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CYLP5YDD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CYLP5YDD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CYLP5YDD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
