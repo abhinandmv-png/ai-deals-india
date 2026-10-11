@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T12:51:00Z",
+  "updated_at": "2026-10-11T12:55:31Z",
   "deals": [
+    {
+      "title": "71% Off : Biotique Face Wash 200ml @106.",
+      "price": 106,
+      "original_price": 366,
+      "category": "Beauty",
+      "badge": "71% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07PRVXDGV?tag=2244005-21",
+      "posted_at": "2026-10-11T12:55:31Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07PRVXDGV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07PRVXDGV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07PRVXDGV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO Loot : Upto 86% Off On Levi's Clothing. Men's : Women's : Upto 86% Off On UCB Clothing. Men's : Women’s : Boy's : Girl's : Upto 85% Off Vero Moda & ONLY Women's Clothing. Dresses : Tops : T-shirts : Sweatshirts : Je",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D1BXS8XZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D1BXS8XZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "51% Off : TRESemme Hydra Matrix Hydrating Shampoo 580ml @460",
-      "price": 460,
-      "original_price": 939,
-      "category": "Beauty",
-      "badge": "51% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXSRTTFB?tag=2244005-21",
-      "posted_at": "2026-10-01T06:45:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FXSRTTFB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXSRTTFB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXSRTTFB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
