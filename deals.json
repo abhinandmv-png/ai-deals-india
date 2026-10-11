@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T10:05:58Z",
+  "updated_at": "2026-10-11T11:20:58Z",
   "deals": [
+    {
+      "title": "Surf Excel Matic Liquid Detergent 3 kg for Front Load (Pack of 2) @ Rs.799",
+      "price": 799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CBKJVDMF?tag=2244005-21",
+      "posted_at": "2026-10-11T11:20:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CBKJVDMF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CBKJVDMF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CBKJVDMF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer Aspire AMD Ryzen Laptop at 31,740. Apply ₹3000 Off Coupon + ₹5000 Off With SBI Credit Card.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CWCWWJF8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CWCWWJF8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Men Casual Lace-Up Derby Shoes @816",
-      "price": 816,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMK4YMMM?tag=2244005-21",
-      "posted_at": "2026-10-01T03:45:00Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GMK4YMMM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMK4YMMM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMK4YMMM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
