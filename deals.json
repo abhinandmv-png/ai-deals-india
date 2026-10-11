@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T07:10:30Z",
+  "updated_at": "2026-10-11T07:32:07Z",
   "deals": [
+    {
+      "title": "Lowest : Butterfly 750 Watts Mixer Grinder with 4 Jars @2351* Apply 5% Off Coupon + Pay With SBI CC",
+      "price": 2351,
+      "original_price": 2475,
+      "category": "Shopping",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07DGD4Z4C?tag=2244005-21",
+      "posted_at": "2026-10-11T07:32:06Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_133.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07DGD4Z4C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07DGD4Z4C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "489 Pack Of 2",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6MY4T2S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6MY4T2S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Armani Exchange Blue Watch @5748.",
-      "price": 5748,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSBSPJV3?tag=2244005-21",
-      "posted_at": "2026-09-30T16:13:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DSBSPJV3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSBSPJV3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSBSPJV3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
