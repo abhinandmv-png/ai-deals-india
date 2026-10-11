@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T16:55:38Z",
+  "updated_at": "2026-10-11T17:06:05Z",
   "deals": [
+    {
+      "title": "OnePlus Nord Buds 4 Pro at **₹3,152**. **Apply 4% Coupon on page.** + **₹400 Off on SBI Credit Card.**",
+      "price": 3152,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQTSHLLR?tag=2244005-21",
+      "posted_at": "2026-10-11T17:06:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GQTSHLLR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQTSHLLR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQTSHLLR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zebronics 90W Compact soundbar at 2999.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G8K9MTHV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G8K9MTHV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Keya Penne Pasta 1kg @113.",
-      "price": 113,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B7NKDVV4?tag=2244005-21",
-      "posted_at": "2026-10-02T07:30:18Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B7NKDVV4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B7NKDVV4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B7NKDVV4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
