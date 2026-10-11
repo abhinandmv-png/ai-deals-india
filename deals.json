@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T03:10:23Z",
+  "updated_at": "2026-10-11T03:25:23Z",
   "deals": [
+    {
+      "title": "ASICS Unisex-Adult Classic Running Shoe @3200",
+      "price": 3200,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4HP1B43?tag=2244005-21",
+      "posted_at": "2026-10-11T03:25:23Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G4HP1B43.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4HP1B43.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4HP1B43.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "102 Apply 3% Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GP6SN1J5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GP6SN1J5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bajaj Pulsar Rs200 Motorcycle @ Rs.1,68,034 **(Effectively) ** **Flat ₹12,500 off with SBI Credit Card**",
-      "price": 168034,
-      "original_price": 168034,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D842QBMB?tag=2244005-21",
-      "posted_at": "2026-09-29T12:41:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D842QBMB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D842QBMB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D842QBMB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
