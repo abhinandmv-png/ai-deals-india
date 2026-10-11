@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T06:10:26Z",
+  "updated_at": "2026-10-11T06:20:54Z",
   "deals": [
+    {
+      "title": "FUR JADEN Anti-Theft Laptop Backpack @₹854 **Apply 5% off Coupon** :",
+      "price": 854,
+      "original_price": 899,
+      "category": "Electronics",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM8B3QBT?tag=2244005-21",
+      "posted_at": "2026-10-11T06:20:54Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FM8B3QBT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM8B3QBT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM8B3QBT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "174",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/0BGaKxMxBZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/0BGaKxMxBZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ant Keyboard & Mouse Combo @305.",
-      "price": 305,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GK19D1X2?tag=2244005-21",
-      "posted_at": "2026-09-30T15:13:25Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GK19D1X2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GK19D1X2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GK19D1X2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
