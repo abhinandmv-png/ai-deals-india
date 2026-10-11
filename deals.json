@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T11:25:30Z",
+  "updated_at": "2026-10-11T11:35:58Z",
   "deals": [
+    {
+      "title": "Grab : Hot Wheels 5 Car Pack at ₹599. Apply Coupon",
+      "price": 599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00004YRPE?tag=2244005-21",
+      "posted_at": "2026-10-11T11:35:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00004YRPE.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00004YRPE.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00004YRPE.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Never Before Prices: Teddyy Baby Diaper Pants at Flat 50% Off Pack of 3 @ ₹1399 S 234 Pants: M 222 Pants: L 186 Pants: XL 162 Pants: XXL 126 Pants: MasterLink : Check deals on all diaper sizes from Teddyy: Dragon Keychai",
       "price": 1399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B093ZZ4613.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B093ZZ4613.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Adidas Mens Running Shoes @1351",
-      "price": 1351,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZCVTLS8?tag=2244005-21",
-      "posted_at": "2026-10-01T04:14:57Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DZCVTLS8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZCVTLS8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZCVTLS8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
