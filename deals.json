@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T02:50:38Z",
+  "updated_at": "2026-10-11T03:05:38Z",
   "deals": [
+    {
+      "title": "HP Victus Smartchoice, AMD Ryzen 7 7445HS, 6GB RTX 4050, 16GB DDR5 at 75,490 **(Effective)** Get Flat 32,500 Discount Using SBI CC EMI Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVRZD89W?tag=2244005-21",
+      "posted_at": "2026-10-11T03:05:37Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GVRZD89W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVRZD89W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVRZD89W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Horlicks Nutrition Drink Container - 1 Kg @ Rs.333",
       "price": 333,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DV9RNNGW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DV9RNNGW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "979",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DRK4QKJQ?tag=2244005-21",
-      "posted_at": "2026-09-29T05:14:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DRK4QKJQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRK4QKJQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRK4QKJQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
