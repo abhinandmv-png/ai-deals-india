@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T12:06:01Z",
+  "updated_at": "2026-10-11T12:36:01Z",
   "deals": [
+    {
+      "title": "Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones at 5291 Get 1688 discount using SBI card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BXXPG6FP?tag=2244005-21",
+      "posted_at": "2026-10-11T12:36:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BXXPG6FP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BXXPG6FP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BXXPG6FP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Aquaguard (RO+UV+Copper) Smart Water Purifier at Rs.11,050 (Effectively). *₹3500 Off With SBI/HDFC Credit Cards + Cashback. + 2 Year Unconditional Warranty.",
       "price": 11050,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09VGRNCJ7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09VGRNCJ7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Belkin 15W 10000mAh Power Bank - with Super Fast Charging — ₹1,199.**",
-      "price": 1199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B092TN8FWV?tag=2244005-21",
-      "posted_at": "2026-10-01T06:35:44Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B092TN8FWV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B092TN8FWV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B092TN8FWV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
