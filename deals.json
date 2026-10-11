@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T15:25:38Z",
+  "updated_at": "2026-10-11T16:10:34Z",
   "deals": [
+    {
+      "title": "Ariel Power Liquid Detergent 4kg @480.",
+      "price": 480,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CSPG8D76?tag=2244005-21",
+      "posted_at": "2026-10-11T16:10:34Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CSPG8D76.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CSPG8D76.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CSPG8D76.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1239",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07FPV716J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07FPV716J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil Dinner Set, 66Pcs @ Rs.3186",
-      "price": 3186,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MHYVZR?tag=2244005-21",
-      "posted_at": "2026-10-02T02:20:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C7MHYVZR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MHYVZR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MHYVZR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
