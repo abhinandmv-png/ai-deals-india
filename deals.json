@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T14:36:02Z",
+  "updated_at": "2026-10-11T15:10:33Z",
   "deals": [
+    {
+      "title": "Pigeon 1.5L Electric Kettle 1.5 L @474.",
+      "price": 474,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07WMS7TWB?tag=2244005-21",
+      "posted_at": "2026-10-11T15:10:32Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07WMS7TWB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07WMS7TWB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07WMS7TWB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Clean Yeast Protein Isolate (1kg) @ Rs.1399 Apply Rs.41 Off Coupon",
       "price": 1399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DV9W54KD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DV9W54KD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Whirlpool 9 Kg Front Load Washing Machine @24,240. Apply ₹1500 Off Coupon + ₹11750 Off With SBI Credit Card.",
-      "price": 24240,
-      "original_price": 11750,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1X7JHZP?tag=2244005-21",
-      "posted_at": "2026-10-01T18:20:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1X7JHZP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1X7JHZP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
