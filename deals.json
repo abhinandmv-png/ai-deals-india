@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T12:55:31Z",
+  "updated_at": "2026-10-11T13:06:02Z",
   "deals": [
+    {
+      "title": "**Grab :** Naphthalene Balls (200g ) @ Rs.59",
+      "price": 59,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FHDPZ31N?tag=2244005-21",
+      "posted_at": "2026-10-11T13:06:01Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145642.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FHDPZ31N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FHDPZ31N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "71% Off : Biotique Face Wash 200ml @106.",
       "price": 106,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07XY5LX2W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07XY5LX2W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acerpure Cozy F3 Table Fan @2146.",
-      "price": 2146,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D1BXS8XZ?tag=2244005-21",
-      "posted_at": "2026-10-01T12:45:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D1BXS8XZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D1BXS8XZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D1BXS8XZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
