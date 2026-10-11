@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T02:10:25Z",
+  "updated_at": "2026-10-11T02:21:50Z",
   "deals": [
+    {
+      "title": "Dell 15 Laptop, 14th Gen Intel Core i3/Core 3 100U Processor (8GB DDR4, 512 SSD) @ Rs.49,900 **Rs.6500 Instant Discount On SBI Credit Card**",
+      "price": 49900,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FZKZTXSN?tag=2244005-21",
+      "posted_at": "2026-10-11T02:21:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FZKZTXSN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FZKZTXSN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FZKZTXSN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "537",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7Y54PJX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7Y54PJX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP M10 Wired USB Mouse @215",
-      "price": 215,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B083GLD16Q?tag=2244005-21",
-      "posted_at": "2026-09-29T03:56:35Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B083GLD16Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B083GLD16Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B083GLD16Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
