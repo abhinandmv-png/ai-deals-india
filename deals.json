@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T16:36:05Z",
+  "updated_at": "2026-10-11T16:40:34Z",
   "deals": [
+    {
+      "title": "Zandu Fast Relief Spray 100ml @165.",
+      "price": 165,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FB3NC9HP?tag=2244005-21",
+      "posted_at": "2026-10-11T16:40:34Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FB3NC9HP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FB3NC9HP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FB3NC9HP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo LOQ i5 13th Gen (16 GB/512 GB SSD/6 GB Graphics/RTX 3050) Gaming Laptop @ Rs.84480 ₹25,510 off with Flipkart Axis Credit Card Lenovo IdeaPad Slim 3 i5 13th Gen (16 GB/512 GB SSD) Laptop @ Rs.62206 ₹7,784 off with ",
       "price": 84480,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08PK853TL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08PK853TL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Himalaya Baby Pants Diaper, Pack of 2 @1090",
-      "price": 1090,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6BVNKLF?tag=2244005-21",
-      "posted_at": "2026-10-02T04:15:16Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H6BVNKLF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6BVNKLF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6BVNKLF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
