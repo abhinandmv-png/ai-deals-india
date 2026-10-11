@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T13:25:32Z",
+  "updated_at": "2026-10-11T14:25:32Z",
   "deals": [
+    {
+      "title": "MAXOSHINE Hair Towel Wrap for Women (Pack of 2) @168.",
+      "price": 168,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQTKPVZ2?tag=2244005-21",
+      "posted_at": "2026-10-11T14:25:31Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CQTKPVZ2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQTKPVZ2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQTKPVZ2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "XIAOMI Pad 8, (12GB + 256GB) @36,240 Apply ₹2000 Off Coupon + ₹5750 off with SBI Credit Card",
       "price": 36240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCSGSSSB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCSGSSSB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Timex Analog Women's Watch @2209.",
-      "price": 2209,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCG349PK?tag=2244005-21",
-      "posted_at": "2026-10-01T14:15:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FCG349PK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCG349PK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCG349PK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
