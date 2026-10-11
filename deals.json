@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T18:06:04Z",
+  "updated_at": "2026-10-11T18:36:06Z",
   "deals": [
+    {
+      "title": "Myntra : Flat 64% Off On Calvin Klein Watches + Bank Offer. La Opala Opalware Dinner Set, 10-Piece, 10 Pieces — **₹360**. • **Apply 10% Coupon** on page.",
+      "price": 360,
+      "original_price": 1000,
+      "category": "Electronics",
+      "badge": "64% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5VRR17J?tag=2244005-21",
+      "posted_at": "2026-10-11T18:36:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H5VRR17J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5VRR17J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5VRR17J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skechers Mens Max Cushioning Endeavour - Sp Sneaker at 5566",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CC9KFR26.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CC9KFR26.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient Electric 1440W Steam Iron - with Non-stick Coating — ₹914.",
-      "price": 914,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DR2NLDCT?tag=2244005-21",
-      "posted_at": "2026-10-02T15:21:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DR2NLDCT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DR2NLDCT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DR2NLDCT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
