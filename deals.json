@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T18:51:05Z",
+  "updated_at": "2026-10-11T18:51:13Z",
   "deals": [
+    {
+      "title": "Acer 23.8 Inch Full HD IPS Monitor - with 100Hz 1ms — **₹5,129**. • **₹569 Off** on **SBI Credit Card**.",
+      "price": 5129,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08B3L75WX?tag=2244005-21",
+      "posted_at": "2026-10-11T18:51:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08B3L75WX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08B3L75WX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08B3L75WX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra : Flat 64% Off On Calvin Klein Watches + Bank Offer. Nilkamal Sierra Velvet Fabric Manual Recliner | 3 Year Warranty at 10,612 Effective Get 4578 Discount Using SBI CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GFNYJBZW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GFNYJBZW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "56% Off : Wild Stone Ultra Sensual Perfume, 30ml @110. Min.2 Qty :",
-      "price": 110,
-      "original_price": 250,
-      "category": "Beauty",
-      "badge": "56% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08B1NRP5R?tag=2244005-21",
-      "posted_at": "2026-10-02T16:00:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08B1NRP5R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08B1NRP5R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08B1NRP5R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
