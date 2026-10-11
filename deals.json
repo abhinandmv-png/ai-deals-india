@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T04:50:49Z",
+  "updated_at": "2026-10-11T04:55:25Z",
   "deals": [
+    {
+      "title": "259",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07YWMQHYJ?tag=2244005-21",
+      "posted_at": "2026-10-11T04:55:24Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07YWMQHYJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07YWMQHYJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07YWMQHYJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "OnePlus Bullets Wireless Z3 Neckband at 1335* Apply 4% Coupon + ₹200 Off With SBI CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GF7YZB2Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GF7YZB2Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Treo by Milton Coffee Mugs, 6 Pieces @399.",
-      "price": 399,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F942P7KG?tag=2244005-21",
-      "posted_at": "2026-09-30T10:29:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F942P7KG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F942P7KG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F942P7KG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
