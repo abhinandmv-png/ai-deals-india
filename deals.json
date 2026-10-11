@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-11T04:50:45Z",
+  "updated_at": "2026-10-11T04:50:49Z",
   "deals": [
+    {
+      "title": "OnePlus Bullets Wireless Z3 Neckband at 1335* Apply 4% Coupon + ₹200 Off With SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBRGQ7PM?tag=2244005-21",
+      "posted_at": "2026-10-11T04:50:48Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FBRGQ7PM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBRGQ7PM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBRGQ7PM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Little Angel Baby Diaper Pants @ Rs.383 M, 72 Pants : L, 62 Pants : XL, 54 Pants : Upto 65% Off On All Diaper Sizes From Little Angel : Loot For Needy | Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispen",
       "price": 383,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F942P7KG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F942P7KG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Park Avenue Harmony, Eau De Parfum 100 ml at 263.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07845CN2K?tag=2244005-21",
-      "posted_at": "2026-09-30T06:26:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07845CN2K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07845CN2K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07845CN2K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
