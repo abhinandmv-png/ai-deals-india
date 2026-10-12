@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T05:31:04Z",
+  "updated_at": "2026-10-12T05:46:04Z",
   "deals": [
+    {
+      "title": "52% Off : Whisper Choice Nights, 40 XXL Pads @190.",
+      "price": 190,
+      "original_price": 396,
+      "category": "Shopping",
+      "badge": "52% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D3QYP2V1?tag=2244005-21",
+      "posted_at": "2026-10-12T05:46:03Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D3QYP2V1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D3QYP2V1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D3QYP2V1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Highlander Men's Cargo Jogger Trousers @283",
       "price": 283,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F8W8B975.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F8W8B975.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lakme 9to5 Hya Matte Foundation @314.",
-      "price": 314,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GGBPN5VP?tag=2244005-21",
-      "posted_at": "2026-10-03T06:15:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GGBPN5VP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GGBPN5VP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GGBPN5VP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
