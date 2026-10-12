@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T18:51:25Z",
+  "updated_at": "2026-10-12T19:06:25Z",
   "deals": [
+    {
+      "title": "Apple AirPods 5 Wireless Earbuds — **₹12,510**. • **₹1,390 Off** on **SBI Credit Card EMI Txn**. **Non‑EMI Offer:** **₹1,250 Off** on **SBI Credit Card**.",
+      "price": 12510,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJ9SC113?tag=2244005-21",
+      "posted_at": "2026-10-12T19:06:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HJ9SC113.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJ9SC113.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJ9SC113.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tommy Hilfiger Quartz Multifunction Steel Strap Men Watch at 7628 Apply₹650 Off Coupon + ₹747 Off With SBI Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CNTDQWCK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CNTDQWCK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mens Slim Fit Single Breasted Blazer @999.",
-      "price": 999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B081LGPXQB?tag=2244005-21",
-      "posted_at": "2026-10-05T11:23:18Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B081LGPXQB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B081LGPXQB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B081LGPXQB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
