@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T02:31:02Z",
+  "updated_at": "2026-10-12T03:06:11Z",
   "deals": [
+    {
+      "title": "Crompton Amica Pro 10L Storage Water Geyser @ Rs.5553 (Effective Price) Rs.616 Instant Discount On SBI CC",
+      "price": 5553,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D62KSKV2?tag=2244005-21",
+      "posted_at": "2026-10-12T03:06:11Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D62KSKV2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D62KSKV2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D62KSKV2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "899",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPT3M6Z3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPT3M6Z3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil Dinner Set, 27Pcs @1320",
-      "price": 1320,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TJWVHNP?tag=2244005-21",
-      "posted_at": "2026-10-03T02:30:34Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07TJWVHNP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TJWVHNP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TJWVHNP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
