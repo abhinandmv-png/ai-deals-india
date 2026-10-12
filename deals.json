@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T08:46:07Z",
+  "updated_at": "2026-10-12T09:46:10Z",
   "deals": [
+    {
+      "title": "Lenovo Idea Tab (6GB RAM + 128GB ROM) @14,748 Apply ₹2000 Off Coupon + ₹3250 Off with SBI CC",
+      "price": 14748,
+      "original_price": 3250,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HBBN6LHR?tag=2244005-21",
+      "posted_at": "2026-10-12T09:46:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HBBN6LHR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HBBN6LHR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HBBN6LHR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kamiliant 3 Pc Trolley Set at Rs.3399 +Extra ₹359 Off With SBI Cards",
       "price": 3399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CYT2QLZ1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CYT2QLZ1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Skybags Laptop Backpack 16L @629",
-      "price": 629,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJ3TCKYD?tag=2244005-21",
-      "posted_at": "2026-10-04T04:45:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CJ3TCKYD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJ3TCKYD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJ3TCKYD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
