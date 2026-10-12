@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T13:16:11Z",
+  "updated_at": "2026-10-12T14:36:21Z",
   "deals": [
+    {
+      "title": "**Loot** : LG 8 Kg 5 Star Fully Automatic Top Load Washing Machine @ Rs.17538 Apply ₹500 Off Coupon + ₹3250 Off With SBI Credit Card",
+      "price": 17538,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DPHTSTYJ?tag=2244005-21",
+      "posted_at": "2026-10-12T14:36:20Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DPHTSTYJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DPHTSTYJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DPHTSTYJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "French Connection Women's Amour Analog Watch @1,179",
       "price": 1179,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CB2VTBXG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CB2VTBXG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PUMA Men Unleash Sneaker @1289",
-      "price": 1289,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BLNSDK3W?tag=2244005-21",
-      "posted_at": "2026-10-05T05:08:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BLNSDK3W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BLNSDK3W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BLNSDK3W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
