@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T12:36:19Z",
+  "updated_at": "2026-10-12T12:46:10Z",
   "deals": [
+    {
+      "title": "71% Off : L'Oréal Paris Hyaluronic Acid Serum 30ml @291.",
+      "price": 291,
+      "original_price": 1003,
+      "category": "Beauty",
+      "badge": "71% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08QSRRYGL?tag=2244005-21",
+      "posted_at": "2026-10-12T12:46:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08QSRRYGL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08QSRRYGL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08QSRRYGL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "BABY CARE FESTIVE SALE UP TO 55% OFF on Baby Care",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0765YP2DT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0765YP2DT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Axe Apollo 3 In 1 Body, Face & Hair Wash 400ml @152",
-      "price": 152,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHTSGT5N?tag=2244005-21",
-      "posted_at": "2026-10-04T11:26:43Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0BHTSGT5N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHTSGT5N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHTSGT5N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
