@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T17:21:23Z",
+  "updated_at": "2026-10-12T17:51:24Z",
   "deals": [
+    {
+      "title": "Nilkamal Massif Neo 2-Door Wardrobe Without Mirror at **₹5,573**. **Apply ₹1000 Off Coupon** + **₹1857 Off With SBI Credit Card**",
+      "price": 5573,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F38HW3FJ?tag=2244005-21",
+      "posted_at": "2026-10-12T17:51:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F38HW3FJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F38HW3FJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F38HW3FJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**BEST** : Haier 165 L Single Door Refrigerator at Rs.11,490* Apply ₹500 Off Code : HAIER500",
       "price": 11490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC1SFX45.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC1SFX45.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Woodland Men's Leather Sandal @1108.",
-      "price": 1108,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07DQT4VGT?tag=2244005-21",
-      "posted_at": "2026-10-05T08:23:15Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07DQT4VGT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07DQT4VGT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07DQT4VGT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
