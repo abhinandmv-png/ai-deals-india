@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T07:36:15Z",
+  "updated_at": "2026-10-12T07:36:19Z",
   "deals": [
+    {
+      "title": "Bose New Quietcomfort Wireless Noise Cancelling Earbuds at 9000 Get 999 Discount Using SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8BWD76H?tag=2244005-21",
+      "posted_at": "2026-10-12T07:36:19Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D8BWD76H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8BWD76H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8BWD76H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TIMEX Round 44mm Black Dial Automatic Men's Watch — **₹4,263**. Apply ₹526 Off Coupon + ₹473 Off With SBI CC.",
       "price": 4263,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B086PKMZ21.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B086PKMZ21.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Samsung Single Door Refrigerator, 223L at Rs.16,740.** **Apply ₹750 Coupon** + **₹1,500 off SBI Credit/Debit Card**",
-      "price": 16740,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8JGJLKW?tag=2244005-21",
-      "posted_at": "2026-10-03T17:17:49Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G8JGJLKW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8JGJLKW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8JGJLKW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
