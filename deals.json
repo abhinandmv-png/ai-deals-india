@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T06:01:06Z",
+  "updated_at": "2026-10-12T06:01:10Z",
   "deals": [
+    {
+      "title": "MILTON Decker Lunch Box with Insulated Fabric Jacket @399",
+      "price": 399,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZ9JYSV4?tag=2244005-21",
+      "posted_at": "2026-10-12T06:01:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CZ9JYSV4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZ9JYSV4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZ9JYSV4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gear 14 Blue Casual Backpack 14cms — ₹264.",
       "price": 264,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/2219928140.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/2219928140.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TOSHIBA 65-Inch 4K Ultra HD Smart QLED TV - 24W — ₹48,990. Apply ₹10,000 Coupon + ₹4,000 off SBI Credit Card",
-      "price": 48990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDL2PRQQ?tag=2244005-21",
-      "posted_at": "2026-10-03T08:35:57Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FDL2PRQQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDL2PRQQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDL2PRQQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
