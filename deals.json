@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T07:01:05Z",
+  "updated_at": "2026-10-12T07:36:15Z",
   "deals": [
+    {
+      "title": "TIMEX Round 44mm Black Dial Automatic Men's Watch — **₹4,263**. Apply ₹526 Off Coupon + ₹473 Off With SBI CC.",
+      "price": 4263,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B083JXG8G9?tag=2244005-21",
+      "posted_at": "2026-10-12T07:36:15Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B083JXG8G9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B083JXG8G9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B083JXG8G9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "281",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G8JGJLKW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G8JGJLKW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "L'Oreal Paris Revitalift HA Oil Control Cleansing Gel, 120ml @ Rs.219",
-      "price": 219,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D87K7XG2?tag=2244005-21",
-      "posted_at": "2026-10-03T16:17:48Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D87K7XG2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D87K7XG2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D87K7XG2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
