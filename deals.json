@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T07:51:15Z",
+  "updated_at": "2026-10-12T08:36:16Z",
   "deals": [
+    {
+      "title": "Sony WH-1000XM6 Headphones at 27490 Apply ₹1249 off Coupon + ₹7250 off with SBI Credit Card",
+      "price": null,
+      "original_price": 7250,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3QJLD3B?tag=2244005-21",
+      "posted_at": "2026-10-12T08:36:16Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F3QJLD3B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3QJLD3B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3QJLD3B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "American Tourister 33L Laptop Backpack at 799.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B56ZSMDW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B56ZSMDW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "JioTag (2nd Generation) (Grey) @1099",
-      "price": 1099,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5VWCNWN?tag=2244005-21",
-      "posted_at": "2026-10-04T00:15:51Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H5VWCNWN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5VWCNWN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5VWCNWN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
