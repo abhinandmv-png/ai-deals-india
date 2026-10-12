@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T17:51:24Z",
+  "updated_at": "2026-10-12T18:51:25Z",
   "deals": [
+    {
+      "title": "Tommy Hilfiger Quartz Multifunction Steel Strap Men Watch at 7628 Apply₹650 Off Coupon + ₹747 Off With SBI Card",
+      "price": null,
+      "original_price": 747,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BB2XFYB5?tag=2244005-21",
+      "posted_at": "2026-10-12T18:51:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BB2XFYB5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BB2XFYB5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BB2XFYB5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nilkamal Massif Neo 2-Door Wardrobe Without Mirror at **₹5,573**. **Apply ₹1000 Off Coupon** + **₹1857 Off With SBI Credit Card**",
       "price": 5573,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B081LGPXQB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B081LGPXQB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**realme** 45ms Wireless Earbuds with 12.4mm Dynamic Bass Boost Driver for **₹999**.",
-      "price": 999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC1SFX45?tag=2244005-21",
-      "posted_at": "2026-10-05T08:53:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FC1SFX45.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC1SFX45.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC1SFX45.01.LZZZZZZZ.jpg"
       ]
     }
   ]
