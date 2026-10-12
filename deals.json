@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T10:36:23Z",
+  "updated_at": "2026-10-12T11:01:09Z",
   "deals": [
+    {
+      "title": "Reebok Women Sports Bra @479.",
+      "price": 479,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F38JK4N3?tag=2244005-21",
+      "posted_at": "2026-10-12T11:01:08Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F38JK4N3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F38JK4N3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F38JK4N3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Belkin 20000 mAh Power Bank at 1299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07QL37M78.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07QL37M78.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "EcoLink BLDC 1200mm Ceiling Fan @2199.",
-      "price": 2199,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H2B649QB?tag=2244005-21",
-      "posted_at": "2026-10-04T09:00:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H2B649QB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H2B649QB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H2B649QB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
