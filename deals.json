@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T07:36:19Z",
+  "updated_at": "2026-10-12T07:46:06Z",
   "deals": [
+    {
+      "title": "2000 : Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GK66BNN2?tag=2244005-21",
+      "posted_at": "2026-10-12T07:46:05Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GK66BNN2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GK66BNN2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GK66BNN2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bose New Quietcomfort Wireless Noise Cancelling Earbuds at 9000 Get 999 Discount Using SBI CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CCSDL5ZP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CCSDL5ZP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Razer BlackShark V2 X Wired Gaming Headset with Mic at 3999.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B086PKMZ21?tag=2244005-21",
-      "posted_at": "2026-10-03T18:32:49Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B086PKMZ21.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B086PKMZ21.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B086PKMZ21.01.LZZZZZZZ.jpg"
       ]
     }
   ]
