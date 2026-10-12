@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T15:46:13Z",
+  "updated_at": "2026-10-12T17:06:23Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Whey Protein with Fibre [Rich Chocolate, 1kg] at Rs.1299",
+      "price": 1299,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H8LPNBFQ?tag=2244005-21",
+      "posted_at": "2026-10-12T17:06:22Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H8LPNBFQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H8LPNBFQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H8LPNBFQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "50% Off : Haldiram's Besan Burfi 400g @175.",
       "price": 175,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGLY7R8R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGLY7R8R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Adidas Mens Casual Shoes @1051.",
-      "price": 1051,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FN7VK63K?tag=2244005-21",
-      "posted_at": "2026-10-05T07:23:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FN7VK63K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FN7VK63K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FN7VK63K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
