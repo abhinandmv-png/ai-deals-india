@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T06:46:10Z",
+  "updated_at": "2026-10-12T07:01:05Z",
   "deals": [
+    {
+      "title": "281",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00SUYF42M?tag=2244005-21",
+      "posted_at": "2026-10-12T07:01:04Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B00SUYF42M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00SUYF42M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00SUYF42M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifebuoy Lemon Soap Bar 4 x 125 g @99.",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D87K7XG2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D87K7XG2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lakme Glycolic Illuminate Serum 15 ml at 267",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPDNFW3Z?tag=2244005-21",
-      "posted_at": "2026-10-03T15:17:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
