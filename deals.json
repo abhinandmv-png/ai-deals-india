@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T12:51:19Z",
+  "updated_at": "2026-10-12T13:01:11Z",
   "deals": [
+    {
+      "title": "Body Part Puzzle Kids Wooden Toys @189 + Coupon.",
+      "price": 189,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY8ZPNF4?tag=2244005-21",
+      "posted_at": "2026-10-12T13:01:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GY8ZPNF4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY8ZPNF4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY8ZPNF4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Malabar Gold & Diamonds 24K Gold Coin Pendant, 2 grams @ **29,559**. ₹1750 Off with SBI Debit/Credit Card + ₹1250 Cashback",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CYT8JKL3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CYT8JKL3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acer Wired Keyboard & Mouse Combo @488",
-      "price": 488,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCS5V5V1?tag=2244005-21",
-      "posted_at": "2026-10-04T15:01:50Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FCS5V5V1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCS5V5V1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCS5V5V1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
