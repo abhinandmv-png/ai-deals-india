@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T10:36:19Z",
+  "updated_at": "2026-10-12T10:36:23Z",
   "deals": [
+    {
+      "title": "Belkin 20000 mAh Power Bank at 1299",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CV8HPXPC?tag=2244005-21",
+      "posted_at": "2026-10-12T10:36:22Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CV8HPXPC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CV8HPXPC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CV8HPXPC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells REO BLDC Ceiling Fan, 1200mm, 33W — **₹1,859**. • **Apply ₹590 Coupon** on page.",
       "price": 1859,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H2B649QB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H2B649QB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Redgear A-10 Wired Gaming Mouse - with RGB LED @169₹",
-      "price": 169,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08372ZPVS?tag=2244005-21",
-      "posted_at": "2026-10-04T07:56:18Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_96.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08372ZPVS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08372ZPVS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
