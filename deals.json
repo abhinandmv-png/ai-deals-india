@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T03:46:34Z",
+  "updated_at": "2026-10-12T04:06:13Z",
   "deals": [
+    {
+      "title": "Armani Exchange Men's Analog Black Dial Watch at **₹11,106**.",
+      "price": 11106,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00LO7WHM2?tag=2244005-21",
+      "posted_at": "2026-10-12T04:06:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00LO7WHM2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00LO7WHM2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00LO7WHM2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "115",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DNQYFJMQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DNQYFJMQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Polycab 1200mm BLDC Ceiling Fan @3299",
-      "price": 3299,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9Y8SVKW?tag=2244005-21",
-      "posted_at": "2026-10-03T04:21:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9Y8SVKW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9Y8SVKW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9Y8SVKW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
