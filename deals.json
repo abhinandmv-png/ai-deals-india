@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T12:06:19Z",
+  "updated_at": "2026-10-12T12:36:19Z",
   "deals": [
+    {
+      "title": "BABY CARE FESTIVE SALE UP TO 55% OFF on Baby Care",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "55% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/AlwaysOnBa?tag=2244005-21",
+      "posted_at": "2026-10-12T12:36:19Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/ALWAYSONBA.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/AlwaysOnBa.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/AlwaysOnBa.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Safari 35L Formal Laptop Backpack @ Rs.1299",
       "price": 1299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHTSGT5N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHTSGT5N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "L'Oreal Paris You're Worth it Gift Box @519.",
-      "price": 519,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FT3MWBYN?tag=2244005-21",
-      "posted_at": "2026-10-04T10:30:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FT3MWBYN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FT3MWBYN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FT3MWBYN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
