@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-12T01:45:59Z",
+  "updated_at": "2026-10-12T01:46:02Z",
   "deals": [
+    {
+      "title": "95",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHTP2GVQ?tag=2244005-21",
+      "posted_at": "2026-10-12T01:46:02Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BHTP2GVQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHTP2GVQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHTP2GVQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "4990",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CK52CBVY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CK52CBVY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Vaseline Light Hydrate Serum In Lotion, 400ml @198",
-      "price": 198,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CDLT6GRD?tag=2244005-21",
-      "posted_at": "2026-10-03T02:00:34Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CDLT6GRD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CDLT6GRD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CDLT6GRD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
