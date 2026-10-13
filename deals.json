@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T06:46:25Z",
+  "updated_at": "2026-10-13T06:58:58Z",
   "deals": [
+    {
+      "title": "iPhone 16 128GB at 69397 Apply Code 4000 : GIF26FLAT4K (Account Specific) Apply 750 coupon Flat 3250 sbi card discount",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGJHBX5Y?tag=2244005-21",
+      "posted_at": "2026-10-13T06:58:58Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_135.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGJHBX5Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGJHBX5Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "10 Meter Stainless Steel Clothesline Rope with Carabiner Hooks for ₹199.",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07RH199GJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07RH199GJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "49",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G6KSR5T5?tag=2244005-21",
-      "posted_at": "2026-10-06T10:08:44Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G6KSR5T5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G6KSR5T5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G6KSR5T5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
