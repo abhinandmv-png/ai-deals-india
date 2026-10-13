@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T14:46:32Z",
+  "updated_at": "2026-10-13T15:01:36Z",
   "deals": [
+    {
+      "title": "2999 : Other color 6k+ pTron Bassbuds Astra in-Ear TWS Earbuds @498 Apply Coupon",
+      "price": 498,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D78YCR1K?tag=2244005-21",
+      "posted_at": "2026-10-13T15:01:35Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D78YCR1K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D78YCR1K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D78YCR1K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 70% Off On La Opala Dinner Sets.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BY5TS8X1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BY5TS8X1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Polycab Intenso 5 litre, 3 KW Electric Geyser @ Rs.3005",
-      "price": 3005,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F79QGG2D?tag=2244005-21",
-      "posted_at": "2026-10-07T03:20:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F79QGG2D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F79QGG2D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F79QGG2D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
