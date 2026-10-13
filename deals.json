@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T19:06:44Z",
+  "updated_at": "2026-10-13T19:16:36Z",
   "deals": [
+    {
+      "title": "HP Wired Gaming Optical Mouse @199.",
+      "price": 199,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CCJMBQSM?tag=2244005-21",
+      "posted_at": "2026-10-13T19:16:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CCJMBQSM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CCJMBQSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CCJMBQSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung S26 Ultra 5g For ₹1,19,749 Effective Link : Apply ₹15,000 off Coupon + ₹5,250 off with SBI Credit Card EMI",
       "price": 119749,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H7RG4W5S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H7RG4W5S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "62% Off : Olay Foaming Cleanser 100g @151.",
-      "price": 151,
-      "original_price": 397,
-      "category": "Shopping",
-      "badge": "62% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08CWMN7NF?tag=2244005-21",
-      "posted_at": "2026-10-07T12:39:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08CWMN7NF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08CWMN7NF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08CWMN7NF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
