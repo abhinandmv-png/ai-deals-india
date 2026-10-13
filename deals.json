@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T14:06:45Z",
+  "updated_at": "2026-10-13T14:36:39Z",
   "deals": [
+    {
+      "title": "GRAB : Wall Hanger Hook Without Drilling 20Pcs at 99.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLXJBYSM?tag=2244005-21",
+      "posted_at": "2026-10-13T14:36:39Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HLXJBYSM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLXJBYSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLXJBYSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Agaro Galaxy Massager Machine at Rs.1399 + Coupon Regular at Rs.1800",
       "price": 1399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01HOIT2EU.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01HOIT2EU.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LUX Lavender & Vitamin C Body Wash, 400ml @124",
-      "price": 124,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRN6VQB4?tag=2244005-21",
-      "posted_at": "2026-10-07T02:09:00Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BRN6VQB4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRN6VQB4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRN6VQB4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
