@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T06:58:58Z",
+  "updated_at": "2026-10-13T07:36:34Z",
   "deals": [
+    {
+      "title": "OnePlus Bullets Wireless Z3 Neckband Earbuds at **₹1,282**. Apply ₹67 Coupon + ₹350 Off On SBI CC",
+      "price": 1282,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBRGKXHG?tag=2244005-21",
+      "posted_at": "2026-10-13T07:36:33Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FBRGKXHG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBRGKXHG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBRGKXHG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iPhone 16 128GB at 69397 Apply Code 4000 : GIF26FLAT4K (Account Specific) Apply 750 coupon Flat 3250 sbi card discount",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F38DPJZ8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F38DPJZ8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ariel Detergent Powder 4kg @536.",
-      "price": 536,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07RH199GJ?tag=2244005-21",
-      "posted_at": "2026-10-06T12:23:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07RH199GJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07RH199GJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07RH199GJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
