@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T12:32:37Z",
+  "updated_at": "2026-10-13T14:06:41Z",
   "deals": [
+    {
+      "title": "Cloud Cotton King Size Bedsheet at Rs.699 Apply 3% Off Coupon",
+      "price": 699,
+      "original_price": 721,
+      "category": "Home",
+      "badge": "3% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DJQRC77M?tag=2244005-21",
+      "posted_at": "2026-10-13T14:06:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DJQRC77M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DJQRC77M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DJQRC77M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj Frore Table Fan 400 MM @1999.",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHTSDY7S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHTSDY7S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra Loot : Upto 80% Off On MANGO Clothing (Premium Brand). Women : Men : Boys : Girls : GANT Clothing : Myntra Loot : Upto 90% Off On Branded Footwears. Master Link : | Men’s : Women’s : Suggestions👇. HERE&NOW : Highl",
-      "price": 399,
-      "original_price": 1995,
-      "category": "Electronics",
-      "badge": "80% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CFF2K7C8?tag=2244005-21",
-      "posted_at": "2026-10-06T19:26:12Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CFF2K7C8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CFF2K7C8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CFF2K7C8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
