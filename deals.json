@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T05:51:32Z",
+  "updated_at": "2026-10-13T06:06:32Z",
   "deals": [
+    {
+      "title": "**Ambrane 20000mAh Powerbank with in-Build Type C Cable, 22.5W Fast Charging at Rs.1299 **Link :",
+      "price": 1299,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZHJT3JB?tag=2244005-21",
+      "posted_at": "2026-10-13T06:06:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZHJT3JB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi Pad 8 Creator's Edition, 11.2-inch LCD 3.2K, 12GB 256GB at **₹40,499**. ₹7500 Off with SBI Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097LC1DJ6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097LC1DJ6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "77% Off : Axe Strong Perfume, 100ml @348. Regular Price 700+",
-      "price": 348,
-      "original_price": 1513,
-      "category": "Beauty",
-      "badge": "77% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQP1N4TL?tag=2244005-21",
-      "posted_at": "2026-10-06T05:23:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQP1N4TL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
