@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T14:36:48Z",
+  "updated_at": "2026-10-13T14:46:32Z",
   "deals": [
+    {
+      "title": "Upto 70% Off On La Opala Dinner Sets.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/80qO0vojAI?tag=2244005-21",
+      "posted_at": "2026-10-13T14:46:31Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/80QO0VOJAI.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/80qO0vojAI.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/80qO0vojAI.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 8 Kg 5 Star AI Wash Ecobubble Top Load Washing Machine at 17640/- Effective Apply ₹1000 Coupon + Get ₹2350 Discount Using SBI CC Link :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F79QGG2D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F79QGG2D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Levi's Men's Dark Indigo Slim Fit Jeans @899",
-      "price": 899,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GC8DB5GN?tag=2244005-21",
-      "posted_at": "2026-10-07T03:05:53Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GC8DB5GN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GC8DB5GN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GC8DB5GN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
