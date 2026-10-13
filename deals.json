@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T02:31:23Z",
+  "updated_at": "2026-10-13T02:31:27Z",
   "deals": [
+    {
+      "title": "349",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08M4T5FJG?tag=2244005-21",
+      "posted_at": "2026-10-13T02:31:26Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08M4T5FJG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08M4T5FJG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08M4T5FJG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFXBTCMN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFXBTCMN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : Washing Machine Descaler Powder 100g – Only ₹99🤯 ✨Suitable for Front & Top Load Washing Machines ✨100g Pack for Convenient Use ✨80% OFF Deal Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 99,
-      "original_price": 495,
-      "category": "Grocery",
-      "badge": "80% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FTGBF6RS?tag=2244005-21",
-      "posted_at": "2026-10-05T15:03:28Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_127.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FTGBF6RS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FTGBF6RS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
