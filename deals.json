@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T18:46:43Z",
+  "updated_at": "2026-10-13T18:52:15Z",
   "deals": [
+    {
+      "title": "Mivi DuoPods Sync in Ear Earbuds @799",
+      "price": 799,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2GH2BP7?tag=2244005-21",
+      "posted_at": "2026-10-13T18:52:15Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G2GH2BP7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2GH2BP7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2GH2BP7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tokyo Talkies Women Tops @85.",
       "price": 85,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DY4JCZ46.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DY4JCZ46.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PS5 in Stock @69,990",
-      "price": 69990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNMKL3VP?tag=2244005-21",
-      "posted_at": "2026-10-07T11:13:28Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNMKL3VP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
