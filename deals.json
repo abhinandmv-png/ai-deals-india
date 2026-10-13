@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T18:36:43Z",
+  "updated_at": "2026-10-13T18:36:48Z",
   "deals": [
+    {
+      "title": "CELLO Opalware Dazzle Series Lush Fiesta Dinner Set, 49Pcs at 1799 Apply ₹1,500 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C74LTJ2Q?tag=2244005-21",
+      "posted_at": "2026-10-13T18:36:48Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C74LTJ2Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C74LTJ2Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C74LTJ2Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Allen Solly Women's Casual Tops — ₹290. Apply 6% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D9YVTQH5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D9YVTQH5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosil 6 Pcs Tea n Coffee Glass 190 ml at Rs.349.",
-      "price": 349,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00E96GRDK?tag=2244005-21",
-      "posted_at": "2026-10-07T09:43:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00E96GRDK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00E96GRDK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00E96GRDK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
