@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T07:46:26Z",
+  "updated_at": "2026-10-13T09:39:04Z",
   "deals": [
+    {
+      "title": "Looot🔥 ZEBRONICS Zeb-Comfort Wired USB Mouse, 3-Button, 1000 DPI Optical Sensor, Plug & Play, for Windows/Mac M.R.P.: ₹299 ₹99 67% off",
+      "price": null,
+      "original_price": 299,
+      "category": "Electronics",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079Y6JZC8?tag=2244005-21",
+      "posted_at": "2026-10-13T09:39:03Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_137.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079Y6JZC8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079Y6JZC8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply ₹390 Coupon | Havells Electric Kettle @600.",
       "price": 600,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJ2FNTCB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJ2FNTCB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "92",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CKL31L7Z?tag=2244005-21",
-      "posted_at": "2026-10-06T16:08:46Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CKL31L7Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CKL31L7Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CKL31L7Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
