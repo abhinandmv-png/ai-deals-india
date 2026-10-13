@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T14:06:41Z",
+  "updated_at": "2026-10-13T14:06:45Z",
   "deals": [
+    {
+      "title": "Grab : Agaro Galaxy Massager Machine at Rs.1399 + Coupon Regular at Rs.1800",
+      "price": 1399,
+      "original_price": 1800,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7WB69KN?tag=2244005-21",
+      "posted_at": "2026-10-13T14:06:45Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C7WB69KN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7WB69KN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7WB69KN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cloud Cotton King Size Bedsheet at Rs.699 Apply 3% Off Coupon",
       "price": 699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BRN6VQB4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BRN6VQB4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Axe Alaska Face & Hair Wash 250ml @95",
-      "price": 95,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHTSDY7S?tag=2244005-21",
-      "posted_at": "2026-10-07T02:08:56Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BHTSDY7S.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHTSDY7S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHTSDY7S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
