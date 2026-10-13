@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T12:21:40Z",
+  "updated_at": "2026-10-13T12:32:07Z",
   "deals": [
+    {
+      "title": "Royal Enfield Full FACE Helmet @3,570.",
+      "price": 3570,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9WZ19SK?tag=2244005-21",
+      "posted_at": "2026-10-13T12:32:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F9WZ19SK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9WZ19SK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9WZ19SK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Loot** : Harley-Davidson X440 T Motorcycle 440 CC @2,52,700* Apply Rs.15,000 Off Coupon + Rs.5000 Instant Discount + Rs.13,300 Cashback With Amazon Pay ICICI CC **Another Offer** : Rs.15,000 Off Coupon + Rs.11,250 Off ",
       "price": 252700,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07NC4VM27.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07NC4VM27.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mixed Dry Fruits 1000gm @ 499 : *Buy Maximum Quantity",
-      "price": 499,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKZMBC56?tag=2244005-21",
-      "posted_at": "2026-10-06T16:38:47Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HKZMBC56.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKZMBC56.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKZMBC56.01.LZZZZZZZ.jpg"
       ]
     }
   ]
