@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T18:46:39Z",
+  "updated_at": "2026-10-13T18:46:43Z",
   "deals": [
+    {
+      "title": "Tokyo Talkies Women Tops @85.",
+      "price": 85,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7LBHSRF?tag=2244005-21",
+      "posted_at": "2026-10-13T18:46:42Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F7LBHSRF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7LBHSRF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7LBHSRF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "212 30 W LED Bulb",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNMKL3VP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Lakme Eyeconic Regime Kit @379.",
-      "price": 379,
-      "original_price": 948,
-      "category": "Shopping",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G59SJJ5M?tag=2244005-21",
-      "posted_at": "2026-10-07T10:24:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G59SJJ5M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G59SJJ5M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G59SJJ5M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
