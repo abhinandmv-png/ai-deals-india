@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T18:16:35Z",
+  "updated_at": "2026-10-13T18:36:43Z",
   "deals": [
+    {
+      "title": "Allen Solly Women's Casual Tops — ₹290. Apply 6% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "6% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H71248GN?tag=2244005-21",
+      "posted_at": "2026-10-13T18:36:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H71248GN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H71248GN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H71248GN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple iPad Air (M4) 128 GB @67,249 Flat ₹7750 Off With SBI Credit Card",
       "price": 67249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00E96GRDK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00E96GRDK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**ASUS Rog Strix B760-I Gaming Mini ITX Motherboard at Rs.12,791.**",
-      "price": 12791,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BR8TVLPL?tag=2244005-21",
-      "posted_at": "2026-10-07T09:28:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BR8TVLPL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BR8TVLPL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BR8TVLPL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
