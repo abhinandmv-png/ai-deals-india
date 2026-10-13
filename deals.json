@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T17:06:42Z",
+  "updated_at": "2026-10-13T18:16:35Z",
   "deals": [
+    {
+      "title": "Apple iPad Air (M4) 128 GB @67,249 Flat ₹7750 Off With SBI Credit Card",
+      "price": 67249,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQVHBK9M?tag=2244005-21",
+      "posted_at": "2026-10-13T18:16:34Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GQVHBK9M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQVHBK9M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQVHBK9M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bose SoundLink Flex Portable Speaker (2nd Gen) at Rs.9000 Get ₹999 Discount Using SBI CC Link :",
       "price": 9000,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BR8TVLPL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BR8TVLPL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2201",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GKNHF3MW?tag=2244005-21",
-      "posted_at": "2026-10-07T05:08:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GKNHF3MW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GKNHF3MW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GKNHF3MW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
