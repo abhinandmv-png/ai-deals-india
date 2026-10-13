@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T14:36:39Z",
+  "updated_at": "2026-10-13T14:36:44Z",
   "deals": [
+    {
+      "title": "Uri and MacKenzie Men's Silk Blend Kurta Pajama @ Rs.1699 *Check Other Colors and Sizes*",
+      "price": 1699,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7PJCGFG?tag=2244005-21",
+      "posted_at": "2026-10-13T14:36:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C7PJCGFG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7PJCGFG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7PJCGFG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Wall Hanger Hook Without Drilling 20Pcs at 99.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B013UWBJUE.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B013UWBJUE.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PUMA Womens Graphics Sneaker @660",
-      "price": 660,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01HOIT2EU?tag=2244005-21",
-      "posted_at": "2026-10-07T02:09:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B01HOIT2EU.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01HOIT2EU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01HOIT2EU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
