@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T12:32:07Z",
+  "updated_at": "2026-10-13T12:32:37Z",
   "deals": [
+    {
+      "title": "Bajaj Frore Table Fan 400 MM @1999.",
+      "price": 1999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C85NT5L3?tag=2244005-21",
+      "posted_at": "2026-10-13T12:32:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C85NT5L3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C85NT5L3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C85NT5L3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Royal Enfield Full FACE Helmet @3,570.",
       "price": 3570,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CFF2K7C8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CFF2K7C8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "999",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07NC4VM27?tag=2244005-21",
-      "posted_at": "2026-10-06T18:08:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07NC4VM27.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07NC4VM27.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07NC4VM27.01.LZZZZZZZ.jpg"
       ]
     }
   ]
