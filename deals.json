@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T14:36:44Z",
+  "updated_at": "2026-10-13T14:36:48Z",
   "deals": [
+    {
+      "title": "Samsung 8 Kg 5 Star AI Wash Ecobubble Top Load Washing Machine at 17640/- Effective Apply ₹1000 Coupon + Get ₹2350 Discount Using SBI CC Link :",
+      "price": null,
+      "original_price": 2350,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F2SLWGJW?tag=2244005-21",
+      "posted_at": "2026-10-13T14:36:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F2SLWGJW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F2SLWGJW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F2SLWGJW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Uri and MacKenzie Men's Silk Blend Kurta Pajama @ Rs.1699 *Check Other Colors and Sizes*",
       "price": 1699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GC8DB5GN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GC8DB5GN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "62% Off : Biotique Bio Sandalwood Sunscreen, 50ml @143",
-      "price": 143,
-      "original_price": 376,
-      "category": "Fashion",
-      "badge": "62% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B013UWBJUE?tag=2244005-21",
-      "posted_at": "2026-10-07T02:53:56Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B013UWBJUE.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B013UWBJUE.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B013UWBJUE.01.LZZZZZZZ.jpg"
       ]
     }
   ]
