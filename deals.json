@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-13T19:01:36Z",
+  "updated_at": "2026-10-13T19:06:44Z",
   "deals": [
+    {
+      "title": "Samsung S26 Ultra 5g For ₹1,19,749 Effective Link : Apply ₹15,000 off Coupon + ₹5,250 off with SBI Credit Card EMI",
+      "price": 119749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GL8G49LV?tag=2244005-21",
+      "posted_at": "2026-10-13T19:06:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GL8G49LV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GL8G49LV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GL8G49LV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply ₹5091 Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08CWMN7NF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08CWMN7NF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Lakme Blush & Glow Sheet Mask 25 ml @40.",
-      "price": 40,
-      "original_price": 100,
-      "category": "Shopping",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B084S2J2HG?tag=2244005-21",
-      "posted_at": "2026-10-07T12:39:07Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B084S2J2HG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
