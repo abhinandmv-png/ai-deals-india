@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T08:46:51Z",
+  "updated_at": "2026-10-14T09:16:51Z",
   "deals": [
+    {
+      "title": "Tata Tea Premium Tea 1kg @394",
+      "price": 394,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FGDNXVJ8?tag=2244005-21",
+      "posted_at": "2026-10-14T09:16:50Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FGDNXVJ8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FGDNXVJ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FGDNXVJ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLBELL Ergonomic Electric Height Adjustable Desk - with Digital Display — **₹7,972**. Flat ₹2347 Off With SBI CC",
       "price": 7972,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F35P9JWD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F35P9JWD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@23400 10k Coupon + bank discount",
-      "price": 23400,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWK3C5YQ?tag=2244005-21",
-      "posted_at": "2026-10-07T18:54:14Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DWK3C5YQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWK3C5YQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWK3C5YQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
