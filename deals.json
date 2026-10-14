@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T15:31:56Z",
+  "updated_at": "2026-10-14T15:32:02Z",
   "deals": [
+    {
+      "title": "Rockwell 15Litres Portable Car Fridge Cooler Freezer @ Rs.15,421(Effective Price) Apply Rs.300 Off Coupon + Rs.2000 Instant Discount On SBI CC",
+      "price": 15421,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRZ27474?tag=2244005-21",
+      "posted_at": "2026-10-14T15:32:01Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CRZ27474.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRZ27474.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRZ27474.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Studds Captain America Open Face Helmet (Blue, L) @739.",
       "price": 739,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F358W7KW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F358W7KW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 169 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHFLWT39?tag=2244005-21",
-      "posted_at": "2026-10-07T19:09:20Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GHFLWT39.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHFLWT39.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHFLWT39.01.LZZZZZZZ.jpg"
       ]
     }
   ]
