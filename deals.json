@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T08:16:42Z",
+  "updated_at": "2026-10-14T08:16:49Z",
   "deals": [
+    {
+      "title": "REFULGIX ChillVault 1200ML Stainless Steel Tumbler Rs.699",
+      "price": 699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DYDZ8GBW?tag=2244005-21",
+      "posted_at": "2026-10-14T08:16:48Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DYDZ8GBW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DYDZ8GBW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DYDZ8GBW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Voltas Beko, 563 L Side by Side Refrigerator @38,000 Flat 17,000 Off With SBI CC",
       "price": 38000,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BX4FBVQB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BX4FBVQB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi (164 cm) 65 inch X Pro 4K QLED TV @43003 Flat ₹11987 Off With SBI Credit Card.",
-      "price": 43003,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXFG8QL4?tag=2244005-21",
-      "posted_at": "2026-10-07T18:45:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FXFG8QL4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXFG8QL4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXFG8QL4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
