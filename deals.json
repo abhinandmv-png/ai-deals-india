@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T13:32:05Z",
+  "updated_at": "2026-10-14T13:32:09Z",
   "deals": [
+    {
+      "title": "Lifelong electric heating belt for pain relief @649",
+      "price": 649,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FRMZJF9Z?tag=2244005-21",
+      "posted_at": "2026-10-14T13:32:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FRMZJF9Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FRMZJF9Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FRMZJF9Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70% off : Zebronics Groot Wireless Mouse, Dual Mode (2.4GHz + BT) @₹299",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BJ72WZQ7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BJ72WZQ7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**ASUS Vivobook 15 Laptop, 15.6\" FHD, 8GB RAM, 512GB 1.7 Kg — ₹51,390.** - **₹9,600 off SBI Credit Card**",
-      "price": 51390,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H75PMPZM?tag=2244005-21",
-      "posted_at": "2026-10-07T18:57:11Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H75PMPZM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H75PMPZM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H75PMPZM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
