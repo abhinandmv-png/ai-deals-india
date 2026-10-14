@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T11:31:54Z",
+  "updated_at": "2026-10-14T12:46:56Z",
   "deals": [
+    {
+      "title": "**Lowest : **Samsung Galaxy S25 Ultra (12GB, 256GB) at 84,999. ***Apply ₹10,000 Coupon + Bank Offer.**",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSKNKCYX?tag=2244005-21",
+      "posted_at": "2026-10-14T12:46:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DSKNKCYX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSKNKCYX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSKNKCYX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric Apex-FX 1200mm Ceiling Fan, Pack of 1 at **₹1,149**. Apply ₹250 Off Coupon",
       "price": 1149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5VRNJN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5VRNJN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 239 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HL4QJ5J7?tag=2244005-21",
-      "posted_at": "2026-10-07T18:55:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HL4QJ5J7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HL4QJ5J7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HL4QJ5J7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
