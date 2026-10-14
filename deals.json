@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T02:51:50Z",
+  "updated_at": "2026-10-14T02:51:56Z",
   "deals": [
+    {
+      "title": "Haier 7 Kg Fully Automatic Front Load Washing Machine at 18640 Apply ₹1000 off Coupon + ₹8350 off with SBI Credit Card",
+      "price": null,
+      "original_price": 8350,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSDWGH8F?tag=2244005-21",
+      "posted_at": "2026-10-14T02:51:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GSDWGH8F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSDWGH8F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSDWGH8F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 45W Travel Adaptor — **₹959**.",
       "price": 959,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G1S7GPY5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G1S7GPY5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**GIF Sale :** Samsung Galaxy S25 Ultra (12GB, 256GB) at Rs.84,999. *Price Live at 8th Oct, 12 Am.",
-      "price": 84999,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSKNKCYX?tag=2244005-21",
-      "posted_at": "2026-10-07T13:43:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DSKNKCYX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSKNKCYX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSKNKCYX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
