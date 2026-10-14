@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T15:02:00Z",
+  "updated_at": "2026-10-14T15:31:56Z",
   "deals": [
+    {
+      "title": "Studds Captain America Open Face Helmet (Blue, L) @739.",
+      "price": 739,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01N4P9MN8?tag=2244005-21",
+      "posted_at": "2026-10-14T15:31:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B01N4P9MN8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01N4P9MN8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01N4P9MN8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Royal Enfield Full Face Helmet @1169.",
       "price": 1169,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHFLWT39.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHFLWT39.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "799 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F48KGMT5?tag=2244005-21",
-      "posted_at": "2026-10-07T19:09:16Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F48KGMT5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F48KGMT5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F48KGMT5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
