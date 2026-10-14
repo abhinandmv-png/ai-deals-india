@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T18:39:37Z",
+  "updated_at": "2026-10-14T19:09:36Z",
   "deals": [
+    {
+      "title": "Sony Headphones XM5 at 19489 Price increased for other colours",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGL6R3SX?tag=2244005-21",
+      "posted_at": "2026-10-14T19:09:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DGL6R3SX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGL6R3SX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGL6R3SX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Philips 12W LED Bulb (Pack Of 2) at 133.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4RB95LC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4RB95LC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP 15, (i3 14th Gen) Intel Core 3 100U (8GB DDR5, 512GB SSD) Laptop @47659 Flat ₹7250 Off With SBI Credit Card",
-      "price": 47659,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D2642MBF?tag=2244005-21",
-      "posted_at": "2026-10-07T19:10:27Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D2642MBF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D2642MBF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D2642MBF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
