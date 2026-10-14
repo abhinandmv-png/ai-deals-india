@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T16:23:23Z",
+  "updated_at": "2026-10-14T16:31:57Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Tab S10 FE (8GB RAM, 128GB ROM) S Pen @₹39,249 Flat ₹4750 Off With SBI Credit Card",
+      "price": 39249,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F29L7HJP?tag=2244005-21",
+      "posted_at": "2026-10-14T16:31:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F29L7HJP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F29L7HJP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F29L7HJP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loott 🔥🔥🔥 pTron 20000mAh Powerbank w/ 22.5W Fast Charging, USB & Type C Output, Built-in Cables, Compatible w/Power Delivery, Quick Charge for iPhone, Android Mobile & Tablets ~~M.R.P.: ₹3,999~~ 💰999",
       "price": 3999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DH4KFYGY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DH4KFYGY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "109",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CNKLKKSX?tag=2244005-21",
-      "posted_at": "2026-10-07T19:09:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CNKLKKSX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CNKLKKSX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CNKLKKSX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
