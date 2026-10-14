@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-14T08:31:53Z",
+  "updated_at": "2026-10-14T08:46:51Z",
   "deals": [
+    {
+      "title": "CELLBELL Ergonomic Electric Height Adjustable Desk - with Digital Display — **₹7,972**. Flat ₹2347 Off With SBI CC",
+      "price": 7972,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FZKXHKH2?tag=2244005-21",
+      "posted_at": "2026-10-14T08:46:51Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FZKXHKH2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FZKXHKH2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FZKXHKH2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Sipstar 750 Stainless Steel Sipper Water Bottle 690 ml, Rs. 215",
       "price": 215,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWK3C5YQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWK3C5YQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ORACURA Electric Toothbrush with 3 Modes at Rs.679 Regular ₹980+",
-      "price": 679,
-      "original_price": 980,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C89YP4QK?tag=2244005-21",
-      "posted_at": "2026-10-07T18:46:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C89YP4QK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C89YP4QK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C89YP4QK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
