@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T18:50:26Z",
+  "updated_at": "2026-10-15T18:50:31Z",
   "deals": [
+    {
+      "title": "Aristocrat 8 Wheels Luggage, Set of 3 at 3114 ₹360 Off With SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H7JL6ZH3?tag=2244005-21",
+      "posted_at": "2026-10-15T18:50:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H7JL6ZH3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H7JL6ZH3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H7JL6ZH3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ajio : Min. 70% Off On USPA Clothing. Men's : Womens : Boys : Girls : Upto 80% Off On Spykar Clothing. Men's : Women's : Xiaomi (164 cm) 65 Inch X Pro 4K QLED TV @47999 Apply ₹2000 Off Coupon + ₹7000 Off With SBI Credit ",
       "price": 47999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGVH7FJV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGVH7FJV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Garbage Bags (Pack of 3, 90pcs) @ Rs.99 Regular Price 199+",
-      "price": 99,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D1KRG6BY?tag=2244005-21",
-      "posted_at": "2026-10-07T19:42:48Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145015.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D1KRG6BY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D1KRG6BY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
