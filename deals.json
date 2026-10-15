@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T11:54:50Z",
+  "updated_at": "2026-10-15T13:02:14Z",
   "deals": [
+    {
+      "title": "boAt BassHeads 210 Wired Earphones with 10mm Drivers at ₹229",
+      "price": 229,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G48KWP3C?tag=2244005-21",
+      "posted_at": "2026-10-15T13:02:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G48KWP3C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G48KWP3C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G48KWP3C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi 43 inch 4K Ultra HD Smart TV — **₹20,661**. Pay Using 6M No Cost EMI With SBI CC.",
       "price": 20661,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fast 149 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08WRJ3B7Y?tag=2244005-21",
-      "posted_at": "2026-10-07T19:24:44Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08WRJ3B7Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08WRJ3B7Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08WRJ3B7Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
