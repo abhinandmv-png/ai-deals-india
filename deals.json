@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T06:17:08Z",
+  "updated_at": "2026-10-15T07:47:09Z",
   "deals": [
+    {
+      "title": "Aristocrat 8 Wheels Luggage, Set of 2 @2099.",
+      "price": 2099,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1MSLL73?tag=2244005-21",
+      "posted_at": "2026-10-15T07:47:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H1MSLL73.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1MSLL73.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1MSLL73.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply 50% Off Coupon | TE-A-ME Chamomile Loose Tin 50gm @170.",
       "price": 170,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F895F3G5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F895F3G5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Comfit Women's Sandal @180.",
-      "price": 180,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09WDL37JF?tag=2244005-21",
-      "posted_at": "2026-10-07T19:24:17Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09WDL37JF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09WDL37JF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09WDL37JF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
