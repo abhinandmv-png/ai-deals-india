@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T04:32:07Z",
+  "updated_at": "2026-10-15T05:39:44Z",
   "deals": [
+    {
+      "title": "DR. FIXIT Roofseal Waterproofing at Rs.2707 Apply ₹112 Off Coupon",
+      "price": 2707,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSKHRTXP?tag=2244005-21",
+      "posted_at": "2026-10-15T05:39:44Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DSKHRTXP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSKHRTXP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSKHRTXP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "T2F Women Track Pants @179.",
       "price": 179,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C3ZWPL8Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C3ZWPL8Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Glen 2200W Infrared Cooktop Stove with Steel Grill Rack Touch Control @ Rs.2699",
-      "price": 2699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNDJRTXP?tag=2244005-21",
-      "posted_at": "2026-10-07T19:13:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FNDJRTXP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNDJRTXP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNDJRTXP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
