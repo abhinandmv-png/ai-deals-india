@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T05:39:44Z",
+  "updated_at": "2026-10-15T06:17:08Z",
   "deals": [
+    {
+      "title": "Apply 50% Off Coupon | TE-A-ME Chamomile Loose Tin 50gm @170.",
+      "price": 170,
+      "original_price": 340,
+      "category": "Shopping",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBQ6H52T?tag=2244005-21",
+      "posted_at": "2026-10-15T06:17:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DBQ6H52T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBQ6H52T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBQ6H52T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DR. FIXIT Roofseal Waterproofing at Rs.2707 Apply ₹112 Off Coupon",
       "price": 2707,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09WDL37JF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09WDL37JF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 157 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C3ZWPL8Z?tag=2244005-21",
-      "posted_at": "2026-10-07T19:24:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C3ZWPL8Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C3ZWPL8Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C3ZWPL8Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
