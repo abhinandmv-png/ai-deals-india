@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-15T13:02:14Z",
+  "updated_at": "2026-10-15T13:56:54Z",
   "deals": [
+    {
+      "title": "[SBI CC] PHILIPS 190 cm (75 inch) 8100 Series 4K Ultra HD Smart QLED Google TV 75PQT8100/94 ✅Deal Price: **₹65,249** ❌MRP: ₹1,19,990 Discount: **-46%** 👉",
+      "price": null,
+      "original_price": 119990,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNR5JJSS?tag=2244005-21",
+      "posted_at": "2026-10-15T13:56:54Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_139.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNR5JJSS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNR5JJSS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt BassHeads 210 Wired Earphones with 10mm Drivers at ₹229",
       "price": 229,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GSWRKRG4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GSWRKRG4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo IdeaPad Slim 5 OLED Intel Core Ultra 9 (16 GB/512 GB SSD) Laptop @91,990 ₹28000 off with Flipkart Axis Credit Card Lenovo IdeaPad Slim 3 ADP Snapdragon X (16 GB/1 TB SSD) Laptop @72990 ₹12,513 off with Flipkart Ax",
-      "price": 91990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=2244005-21",
-      "posted_at": "2026-10-07T19:24:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
