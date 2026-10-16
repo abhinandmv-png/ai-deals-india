@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T02:32:23Z",
+  "updated_at": "2026-10-16T04:02:24Z",
   "deals": [
+    {
+      "title": "Symbol Men Long Kurta @349.",
+      "price": 349,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9DTLZX7?tag=2244005-21",
+      "posted_at": "2026-10-16T04:02:24Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F9DTLZX7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9DTLZX7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9DTLZX7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H2BR2F24.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H2BR2F24.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Lenovo 27\" FHD Gaming Monitor, 0.5ms, 200Hz at ₹8,000.** **₹1,999 off SBI Credit/Debit Card**",
-      "price": 8000,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H698MM7K?tag=2244005-21",
-      "posted_at": "2026-10-07T19:57:38Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H698MM7K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H698MM7K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H698MM7K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
