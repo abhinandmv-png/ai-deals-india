@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T17:05:44Z",
+  "updated_at": "2026-10-16T19:05:45Z",
   "deals": [
+    {
+      "title": "67% Off : Tresemme Shampoo 1 Ltr at 449.",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07L3ZCJ53?tag=2244005-21",
+      "posted_at": "2026-10-16T19:05:45Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07L3ZCJ53.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07L3ZCJ53.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07L3ZCJ53.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigbasket GV at 50% Off Apply Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BM9VP9J5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BM9VP9J5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kesh King Shampoo 1000ml & Conditioner 200ml @349.",
-      "price": 349,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CTKN2TFK?tag=2244005-21",
-      "posted_at": "2026-10-08T03:42:49Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CTKN2TFK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CTKN2TFK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CTKN2TFK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
