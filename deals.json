@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T15:05:43Z",
+  "updated_at": "2026-10-16T15:20:46Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Creatine Monohydrate at Rs.725",
+      "price": 725,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPM1V9C5?tag=2244005-21",
+      "posted_at": "2026-10-16T15:20:46Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GPM1V9C5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPM1V9C5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPM1V9C5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gesto Diya Curtain Fairy Lights at Rs.349.",
       "price": 349,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07845BYSZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07845BYSZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Woodland Men's Leather Fashion Boot @871.",
-      "price": 871,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BR5VB1Q2?tag=2244005-21",
-      "posted_at": "2026-10-08T02:39:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BR5VB1Q2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BR5VB1Q2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BR5VB1Q2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
