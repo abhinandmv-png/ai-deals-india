@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T13:35:42Z",
+  "updated_at": "2026-10-16T15:05:43Z",
   "deals": [
+    {
+      "title": "Gesto Diya Curtain Fairy Lights at Rs.349.",
+      "price": 349,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBLTCGMR?tag=2244005-21",
+      "posted_at": "2026-10-16T15:05:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DBLTCGMR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBLTCGMR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBLTCGMR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "9W LED Bulb (Pack of 2) @ Rs.89",
       "price": 89,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BR5VB1Q2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BR5VB1Q2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pure Epsom Salt 1KG @98.",
-      "price": 98,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK8RFPVD?tag=2244005-21",
-      "posted_at": "2026-10-08T02:39:22Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK8RFPVD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK8RFPVD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK8RFPVD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
