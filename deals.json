@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T13:05:41Z",
+  "updated_at": "2026-10-16T13:21:14Z",
   "deals": [
+    {
+      "title": "**Amazon GIF Festive Beauty Sale.** Brand Heroes at Less on Beauty Haul Store Premium Beauty & Many More Discover Your Favourite Brands & Shop the Deals Now",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/BeautyHaul?tag=2244005-21",
+      "posted_at": "2026-10-16T13:21:14Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/BEAUTYHAUL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/BeautyHaul.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/BeautyHaul.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 57% Off Activa Geyser 10 L Instant Water Geyser at Rs.2,798 25L Storage Water Geyser at Rs.3,798 R3SET Natural Pain Relief Spray at 199",
       "price": 2798,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXFPT24Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXFPT24Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "107",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07QF7M56Y?tag=2244005-21",
-      "posted_at": "2026-10-08T02:24:22Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07QF7M56Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07QF7M56Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07QF7M56Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
