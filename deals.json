@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T13:21:14Z",
+  "updated_at": "2026-10-16T13:35:42Z",
   "deals": [
+    {
+      "title": "9W LED Bulb (Pack of 2) @ Rs.89",
+      "price": 89,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM4169BN?tag=2244005-21",
+      "posted_at": "2026-10-16T13:35:42Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145960.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM4169BN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM4169BN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Amazon GIF Festive Beauty Sale.** Brand Heroes at Less on Beauty Haul Store Premium Beauty & Many More Discover Your Favourite Brands & Shop the Deals Now",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HK8RFPVD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HK8RFPVD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "389",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXFPT24Q?tag=2244005-21",
-      "posted_at": "2026-10-08T02:39:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DXFPT24Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXFPT24Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXFPT24Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
