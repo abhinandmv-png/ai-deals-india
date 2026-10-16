@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T04:35:37Z",
+  "updated_at": "2026-10-16T04:47:25Z",
   "deals": [
+    {
+      "title": "Flat 70-77% Off On Axe Deodorants/Perfume. Buy Max Qty :",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "77% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/MsPGh1yjsb?tag=2244005-21",
+      "posted_at": "2026-10-16T04:47:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/MSPGH1YJSB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/MsPGh1yjsb.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/MsPGh1yjsb.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Opalware Dinner Set Of 6 @371. **Apply 21% Off Coupon** :",
       "price": 371,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTHQ5NYF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTHQ5NYF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**JBL** Cinema SB560 Soundbar with Wireless Subwoofer, 3.1 Channel for **₹9,899**. • **₹1,099 Off** on **SBI Credit Card**.",
-      "price": 9899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D45ZCN3Y?tag=2244005-21",
-      "posted_at": "2026-10-07T19:59:14Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D45ZCN3Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D45ZCN3Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D45ZCN3Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
