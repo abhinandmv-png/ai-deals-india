@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T11:47:32Z",
+  "updated_at": "2026-10-16T13:05:41Z",
   "deals": [
+    {
+      "title": "Upto 57% Off Activa Geyser 10 L Instant Water Geyser at Rs.2,798 25L Storage Water Geyser at Rs.3,798 R3SET Natural Pain Relief Spray at 199",
+      "price": 2798,
+      "original_price": 3798,
+      "category": "Home",
+      "badge": "57% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSKHG8F9?tag=2244005-21",
+      "posted_at": "2026-10-16T13:05:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DSKHG8F9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSKHG8F9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSKHG8F9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer Aspire One 8GB RAM + 512GB SSD Laptop @39240 Apply ₹1000 off Coupon + ₹6750 off with SBI Credit Card",
       "price": 39240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07QF7M56Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07QF7M56Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Woodland Men's Sandal @871",
-      "price": 871,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F5HPN653?tag=2244005-21",
-      "posted_at": "2026-10-08T02:24:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F5HPN653.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F5HPN653.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F5HPN653.01.LZZZZZZZ.jpg"
       ]
     }
   ]
