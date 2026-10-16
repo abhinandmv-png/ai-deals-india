@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T06:17:31Z",
+  "updated_at": "2026-10-16T07:47:27Z",
   "deals": [
+    {
+      "title": "Lenovo AIO Intel Core i3 (8GB RAM/512GB SSD/Keyboard & Mouse) @57,490 Apply ₹2000 off Coupon + ₹7500 off with SBI Credit Card",
+      "price": 57490,
+      "original_price": 7500,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2GVGFNQ?tag=2244005-21",
+      "posted_at": "2026-10-16T07:47:27Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H2GVGFNQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2GVGFNQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2GVGFNQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LAKME 9-5 Eyeconic Kajal @99.",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6PWG1H6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6PWG1H6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Newly Launched : Xiaomi MI Power Bank 20000 165W Fast Charging at Rs.4,393 ** ** **Apply ₹149 Off Coupon + ₹484 Off On SBI Credit Card**",
-      "price": 4393,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFMTCQ76?tag=2244005-21",
-      "posted_at": "2026-10-07T21:12:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HFMTCQ76.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFMTCQ76.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFMTCQ76.01.LZZZZZZZ.jpg"
       ]
     }
   ]
