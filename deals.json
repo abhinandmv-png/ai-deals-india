@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T04:02:24Z",
+  "updated_at": "2026-10-16T04:35:37Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Opalware Dinner Set Of 6 @371. **Apply 21% Off Coupon** :",
+      "price": 371,
+      "original_price": 470,
+      "category": "Shopping",
+      "badge": "21% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C551916S?tag=2244005-21",
+      "posted_at": "2026-10-16T04:35:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C551916S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C551916S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C551916S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Symbol Men Long Kurta @349.",
       "price": 349,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D45ZCN3Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D45ZCN3Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi 65-inch 4K QD-Mini LED Smart TV with 120Hz DLG for ₹46,012. • ₹8,987 Off on SBI Credit Card EMI Txn.",
-      "price": 46012,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H2BR2F24?tag=2244005-21",
-      "posted_at": "2026-10-07T19:58:10Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H2BR2F24.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H2BR2F24.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H2BR2F24.01.LZZZZZZZ.jpg"
       ]
     }
   ]
