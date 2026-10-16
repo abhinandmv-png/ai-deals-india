@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T11:35:39Z",
+  "updated_at": "2026-10-16T11:47:32Z",
   "deals": [
+    {
+      "title": "Acer Aspire One 8GB RAM + 512GB SSD Laptop @39240 Apply ₹1000 off Coupon + ₹6750 off with SBI Credit Card",
+      "price": 39240,
+      "original_price": 6750,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H46H6JK8?tag=2244005-21",
+      "posted_at": "2026-10-16T11:47:32Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H46H6JK8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Dell Alienware Gaming Laptop @101990*. *Upto ₹27750 Off Using Bank Offers. Axe Dark Deodorant Bodyspray for Men 150 ml — **₹75**.",
       "price": 101990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F5HPN653.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F5HPN653.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "107",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09PSRMSV2?tag=2244005-21",
-      "posted_at": "2026-10-08T02:09:23Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09PSRMSV2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09PSRMSV2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09PSRMSV2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
