@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T06:17:27Z",
+  "updated_at": "2026-10-16T06:17:31Z",
   "deals": [
+    {
+      "title": "LAKME 9-5 Eyeconic Kajal @99.",
+      "price": 99,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0744QZY9B?tag=2244005-21",
+      "posted_at": "2026-10-16T06:17:30Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0744QZY9B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0744QZY9B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0744QZY9B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fiama Gel Bathing Bar, 125g x 8 Packs @509.",
       "price": 509,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFMTCQ76.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFMTCQ76.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acer Aspire One Thin and Light Laptop, 1.48KG 256GB 8GB @33,740. Apply ₹1,000 Coupon + ₹4,250 off SBI Credit Card",
-      "price": 33740,
-      "original_price": 4250,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H45YFPJT?tag=2244005-21",
-      "posted_at": "2026-10-07T20:57:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H45YFPJT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
