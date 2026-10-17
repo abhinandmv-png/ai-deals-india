@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T15:32:56Z",
+  "updated_at": "2026-10-17T15:33:00Z",
   "deals": [
+    {
+      "title": "Amazon Great Indian Festival-Embox Extension board at 449",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B163TQJB?tag=2244005-21",
+      "posted_at": "2026-10-17T15:32:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B163TQJB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B163TQJB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B163TQJB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Mega Festival Deal-Maxoshine Fan duster at 440",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FN7VLY9B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FN7VLY9B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply 25% Off Coupon | Parachute Advansed Protein Shampoo 1.2L @300.",
-      "price": 300,
-      "original_price": 400,
-      "category": "Beauty",
-      "badge": "25% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQVGHRYB?tag=2244005-21",
-      "posted_at": "2026-10-08T05:39:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GQVGHRYB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQVGHRYB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQVGHRYB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
