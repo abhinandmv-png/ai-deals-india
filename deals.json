@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T08:05:55Z",
+  "updated_at": "2026-10-17T08:20:55Z",
   "deals": [
+    {
+      "title": "Larah by BOROSIL 35-Piece Kora Opalware Dinner Set, 35 Pieces — **₹1,699**. Apply 300 Off Coupon On Dinner Set",
+      "price": 1699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8J7LB75?tag=2244005-21",
+      "posted_at": "2026-10-17T08:20:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D8J7LB75.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8J7LB75.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8J7LB75.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Vilvah Milk Drops at Rs.506",
       "price": 506,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08ZZW5HDJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08ZZW5HDJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "VW 7.5 kg Automatic Top Load Washing Machine @6,999",
-      "price": 6999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DV43D663?tag=2244005-21",
-      "posted_at": "2026-10-08T04:39:21Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DV43D663.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DV43D663.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DV43D663.01.LZZZZZZZ.jpg"
       ]
     }
   ]
