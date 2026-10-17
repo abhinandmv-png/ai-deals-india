@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-16T19:05:50Z",
+  "updated_at": "2026-10-17T01:17:41Z",
   "deals": [
+    {
+      "title": "322 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FP5CQDHX?tag=2244005-21",
+      "posted_at": "2026-10-17T01:17:41Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FP5CQDHX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FP5CQDHX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FP5CQDHX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah By Borosil Dinner Set, 10N @ Rs.628",
       "price": 628,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B093STTTYZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Dettol Original Bathing Soap Bar 125gm Pack of 5 @₹178",
-      "price": 178,
-      "original_price": 178,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B086T4WGRY?tag=2244005-21",
-      "posted_at": "2026-10-08T03:54:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B086T4WGRY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B086T4WGRY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B086T4WGRY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
