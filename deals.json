@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T07:32:45Z",
+  "updated_at": "2026-10-17T08:05:55Z",
   "deals": [
+    {
+      "title": "Lowest : Vilvah Milk Drops at Rs.506",
+      "price": 506,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BLCM1BQD?tag=2244005-21",
+      "posted_at": "2026-10-17T08:05:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BLCM1BQD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BLCM1BQD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BLCM1BQD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Midea 1.36 Ton 3 Star Split AC @25490 Apply ₹1500 off Coupon + ₹4500 off with SBI Credit Card",
       "price": 25490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DV43D663.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DV43D663.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mix Dry Fruits 1Kg at Rs.369. *Buy Maximum Quantity",
-      "price": 369,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHDX2WHX?tag=2244005-21",
-      "posted_at": "2026-10-08T04:28:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HHDX2WHX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHDX2WHX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHDX2WHX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
