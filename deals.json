@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T15:33:25Z",
+  "updated_at": "2026-10-17T15:33:29Z",
   "deals": [
+    {
+      "title": "315",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GD12X2JY?tag=2244005-21",
+      "posted_at": "2026-10-17T15:33:28Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GD12X2JY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GD12X2JY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GD12X2JY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 12 Kg, 5 Star Fully-Automatic Front Load Washing Machine @37489 Apply ₹2500 off Coupon + ₹9000 off with SBI Credit Card",
       "price": 37489,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01KNMEVDG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01KNMEVDG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Samsung Galaxy Buds Core Earbuds - with ANC, 35hrs Battery at Rs**.**2,949.**",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDGSYR17?tag=2244005-21",
-      "posted_at": "2026-10-08T06:10:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDGSYR17.01.LZZZZZZZ.jpg"
       ]
     }
   ]
