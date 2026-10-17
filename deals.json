@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T01:17:41Z",
+  "updated_at": "2026-10-17T02:05:56Z",
   "deals": [
+    {
+      "title": "1250",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07G4FJL1R?tag=2244005-21",
+      "posted_at": "2026-10-17T02:05:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07G4FJL1R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07G4FJL1R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07G4FJL1R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "322 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H875KBDT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H875KBDT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67% Off : Sunsilk Shampoo 1L @393.",
-      "price": 393,
-      "original_price": 1191,
-      "category": "Beauty",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B093STTTYZ?tag=2244005-21",
-      "posted_at": "2026-10-08T03:54:52Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B093STTTYZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
