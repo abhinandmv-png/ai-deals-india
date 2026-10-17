@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T08:35:56Z",
+  "updated_at": "2026-10-17T08:35:59Z",
   "deals": [
+    {
+      "title": "Grab : 5999 + Coupon Regular Rs.8500+",
+      "price": 8500,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5KSMTHC?tag=2244005-21",
+      "posted_at": "2026-10-17T08:35:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H5KSMTHC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5KSMTHC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5KSMTHC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dell Alienware 15 Gaming Laptop @ 116990 Flat ₹25000 Off with SBI Credit Card",
       "price": 116990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CQYWFN88.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CQYWFN88.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "71% Off : Park Avenue Eau De Parfum Men, 100ml @229.",
-      "price": 229,
-      "original_price": 790,
-      "category": "Shopping",
-      "badge": "71% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B077P7K9VR?tag=2244005-21",
-      "posted_at": "2026-10-08T04:54:21Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B077P7K9VR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B077P7K9VR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B077P7K9VR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
