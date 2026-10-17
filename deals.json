@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-17T15:06:01Z",
+  "updated_at": "2026-10-17T15:06:05Z",
   "deals": [
+    {
+      "title": "Gesto 20 Meter LED String Lights @ Rs.149.",
+      "price": 149,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09FZ4KTFN?tag=2244005-21",
+      "posted_at": "2026-10-17T15:06:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09FZ4KTFN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09FZ4KTFN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09FZ4KTFN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Prestige 160W Induction Cooktop ₹1,749 One94Store Touch Control LED Table Lamp @ Rs.199",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FL7GNGQP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FL7GNGQP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "70% Off : Axe Dark Deodorant Pack Of 3 @310.",
-      "price": 310,
-      "original_price": 1033,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVTB7JQ9?tag=2244005-21",
-      "posted_at": "2026-10-08T05:39:28Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DVTB7JQ9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVTB7JQ9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVTB7JQ9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
