@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T15:12:05Z",
+  "updated_at": "2026-10-18T15:42:05Z",
   "deals": [
+    {
+      "title": "Samsung 236L Digital Inverter Frost Free Double Door Refrigerator at Rs.**22,239**. • Apply ₹500 Coupon • Apply ₹1001 Off Code at Checkout SALE1001 • Flat ₹4250 Off With SBI CC",
+      "price": null,
+      "original_price": 1001,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G8JYQ9GY?tag=2244005-21",
+      "posted_at": "2026-10-18T15:42:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G8JYQ9GY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G8JYQ9GY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G8JYQ9GY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Apple Watch Series 11 at 35,499 + Bank Offer. Grab at ₹199",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08VMX3RQF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08VMX3RQF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Origami So Soft Facial Tissues (4 Packs, 100 Pulls Each) @ Rs.142 Apply Coupon :",
-      "price": 142,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00W1SO13G?tag=2244005-21",
-      "posted_at": "2026-10-08T12:40:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00W1SO13G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00W1SO13G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00W1SO13G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
