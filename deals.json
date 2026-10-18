@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T16:42:07Z",
+  "updated_at": "2026-10-18T16:57:06Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Tab S10 FE 10.9 inch Wi-Fi Tablet, 8 GB, 128 GB — **₹39,249**. Flat ₹4750 Off With SBI Credit Card",
+      "price": 39249,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F29P9CKJ?tag=2244005-21",
+      "posted_at": "2026-10-18T16:57:05Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F29P9CKJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Waterproof Baby Playmat @ Rs.699",
       "price": 699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQG8MSVT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "64% Off : Secret Temptation Glam Perfume (100ml) @249.",
-      "price": 249,
-      "original_price": 692,
-      "category": "Beauty",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F83VKFJB?tag=2244005-21",
-      "posted_at": "2026-10-08T13:39:28Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F83VKFJB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F83VKFJB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F83VKFJB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
