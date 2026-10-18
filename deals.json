@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T15:42:05Z",
+  "updated_at": "2026-10-18T15:57:06Z",
   "deals": [
+    {
+      "title": "Loot : Newborn Piano Play Mat @ 499",
+      "price": 499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9TC9FM1?tag=2244005-21",
+      "posted_at": "2026-10-18T15:57:06Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146104.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9TC9FM1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9TC9FM1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 236L Digital Inverter Frost Free Double Door Refrigerator at Rs.**22,239**. • Apply ₹500 Coupon • Apply ₹1001 Off Code at Checkout SALE1001 • Flat ₹4250 Off With SBI CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GV4FTGLW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GV4FTGLW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Waxpol Ecosaver Premium Car, Bike Cleaning & Shine Kit @ Rs.393",
-      "price": 393,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08VMX3RQF?tag=2244005-21",
-      "posted_at": "2026-10-08T12:55:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08VMX3RQF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08VMX3RQF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08VMX3RQF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
