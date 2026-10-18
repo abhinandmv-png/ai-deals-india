@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T12:18:06Z",
+  "updated_at": "2026-10-18T12:18:12Z",
   "deals": [
+    {
+      "title": "ASUS V440 (2026) i3-14th Gen @44990 Flat ₹11000 Off With SBI Credit Card",
+      "price": 44990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXZWL94H?tag=2244005-21",
+      "posted_at": "2026-10-18T12:18:11Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXZWL94H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Oral-B Vitality Rechargeable Electric Toothbrush at Rs.1099. *Regular Rs.1600+",
       "price": 1099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDKS93JV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDKS93JV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Razer Game On Bundle Gaming Combo at Rs.2600** 300 Off with SBI Credit Card",
-      "price": 2600,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FX9R121C?tag=2244005-21",
-      "posted_at": "2026-10-08T09:10:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FX9R121C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FX9R121C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FX9R121C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
