@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T10:48:06Z",
+  "updated_at": "2026-10-18T11:03:05Z",
   "deals": [
+    {
+      "title": "Horlicks Chocolate Nutrition Drink || 1 kg Refill Pack at 241 Apply Coupon + Subscribe & Save.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00E3AP5KS?tag=2244005-21",
+      "posted_at": "2026-10-18T11:03:05Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00E3AP5KS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00E3AP5KS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00E3AP5KS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Min. 60% Off On BACCA BUCCI Shoes",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7XZH9P4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Aristocrat Cabin Size Luggage @999.",
-      "price": 999,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4RFFV4Z?tag=2244005-21",
-      "posted_at": "2026-10-08T07:39:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D4RFFV4Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4RFFV4Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4RFFV4Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
