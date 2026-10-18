@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T17:27:06Z",
+  "updated_at": "2026-10-18T18:03:11Z",
   "deals": [
+    {
+      "title": "67% Off : Sunsilk Shampoo, 1L @395",
+      "price": 395,
+      "original_price": 1197,
+      "category": "Beauty",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B093STTTYZ?tag=2244005-21",
+      "posted_at": "2026-10-18T18:03:11Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B093STTTYZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B093STTTYZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 163cm (65) 4K AI TV at 48,290* Apply 750 Coupon + 6,950 off with SBI CC & DC.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CSK7YP3H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CSK7YP3H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Logitech G733 Lightspeed Wireless Gaming Headset at ₹6995. **₹699 off with SBI Card.**",
-      "price": 6995,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08VDSHXG1?tag=2244005-21",
-      "posted_at": "2026-10-08T13:40:28Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08VDSHXG1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08VDSHXG1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08VDSHXG1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
