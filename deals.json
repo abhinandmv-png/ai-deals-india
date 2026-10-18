@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T14:21:22Z",
+  "updated_at": "2026-10-18T14:27:03Z",
   "deals": [
+    {
+      "title": "Havells REO BLDC 1200MM 5 Star Rated Ceiling Fan @ Rs.2194 [Effective Price] Apply Rs.305 Coupon ASUS AiO VM441 (2026) 16GB/512GB SSD PC @ Rs.69,890 **[Effective Price]** **Rs.14,100 Instant Discount On SBI CC**",
+      "price": 2194,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY12GB1P?tag=2244005-21",
+      "posted_at": "2026-10-18T14:27:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GY12GB1P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY12GB1P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY12GB1P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Leaf Curtain Fairy 180 Lights at Rs.325.",
       "price": 325,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H28ZBCSX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H28ZBCSX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Bosch 9 kg Front Load Washing Machine at ₹26,639.** Apply 1000 Off Coupon + 10250 Off With SBI Card",
-      "price": 26639,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D22WV22C?tag=2244005-21",
-      "posted_at": "2026-10-08T12:25:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D22WV22C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D22WV22C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D22WV22C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
