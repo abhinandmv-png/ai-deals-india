@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T13:51:22Z",
+  "updated_at": "2026-10-18T14:21:22Z",
   "deals": [
+    {
+      "title": "Leaf Curtain Fairy 180 Lights at Rs.325.",
+      "price": 325,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5QCYM82?tag=2244005-21",
+      "posted_at": "2026-10-18T14:21:22Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146089.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5QCYM82.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5QCYM82.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Flipkart Big Billion Days | Last Day Fashion Deals. Trending Sneakers Under for ₹299. Stylish Flats & Bellies Under for ₹129. Men's Wallets Under for ₹199. Classic Sunglasses Under for ₹199. Premium Look Watches Under fo",
       "price": 144,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D22WV22C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D22WV22C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "62% off : Dove Men+care Hydration Boost facewash for men, 100ml @₹132",
-      "price": 132,
-      "original_price": 347,
-      "category": "Shopping",
-      "badge": "62% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFBTR17S?tag=2244005-21",
-      "posted_at": "2026-10-08T12:10:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DFBTR17S.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFBTR17S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFBTR17S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
