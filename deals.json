@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T16:57:06Z",
+  "updated_at": "2026-10-18T17:27:06Z",
   "deals": [
+    {
+      "title": "Samsung 163cm (65) 4K AI TV at 48,290* Apply 750 Coupon + 6,950 off with SBI CC & DC.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZKCC5TZ?tag=2244005-21",
+      "posted_at": "2026-10-18T17:27:05Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Galaxy Tab S10 FE 10.9 inch Wi-Fi Tablet, 8 GB, 128 GB — **₹39,249**. Flat ₹4750 Off With SBI Credit Card",
       "price": 39249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08VDSHXG1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08VDSHXG1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**GRAB : **Apple Watch Series 11 GPS 46mm Jet Black Aluminium @ Rs.34,999 **(Effectively)** ***Apply ₹500 Coupon + Flat ₹2000 Off With SBI Credit Card**",
-      "price": 34999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQG8MSVT?tag=2244005-21",
-      "posted_at": "2026-10-08T13:40:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQG8MSVT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
