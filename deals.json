@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T03:21:11Z",
+  "updated_at": "2026-10-18T03:36:10Z",
   "deals": [
+    {
+      "title": "DJI Osmo 360 Standard Combo, 360 Action Camera @ Rs.32,740 **[Effective Price]** **Rs.4250 Instant Discount On SBI CC**",
+      "price": 32740,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTTZZ6Q3?tag=2244005-21",
+      "posted_at": "2026-10-18T03:36:10Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DTTZZ6Q3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTTZZ6Q3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTTZZ6Q3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Foldable Hair Dryer at 582 Apply Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4R4BG5G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4R4BG5G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Victus 15 Intel Core i5 Laptop @88,240. Flat ₹11750 Off With SBI Credit Card.",
-      "price": 88240,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK7QBFYM?tag=2244005-21",
-      "posted_at": "2026-10-08T06:55:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK7QBFYM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK7QBFYM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK7QBFYM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
