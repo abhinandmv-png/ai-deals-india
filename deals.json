@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T11:48:07Z",
+  "updated_at": "2026-10-18T11:48:10Z",
   "deals": [
+    {
+      "title": "Wonderchef Valencia Non-Stick Fry Pan @499.",
+      "price": 499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B7CCNK22?tag=2244005-21",
+      "posted_at": "2026-10-18T11:48:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B7CCNK22.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B7CCNK22.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B7CCNK22.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Maybelline New York Kajal @89.",
       "price": 89,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCNDK8G2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCNDK8G2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Agaro Electric ToothBrush With 5 Modes at Rs.399.",
-      "price": 399,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTF6JY8R?tag=2244005-21",
-      "posted_at": "2026-10-08T08:55:20Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DTF6JY8R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTF6JY8R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTF6JY8R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
