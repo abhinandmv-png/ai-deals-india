@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T07:48:06Z",
+  "updated_at": "2026-10-18T10:48:06Z",
   "deals": [
+    {
+      "title": "Min. 60% Off On BACCA BUCCI Shoes",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/BACCABUCCI?tag=2244005-21",
+      "posted_at": "2026-10-18T10:48:06Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146071.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/BACCABUCCI.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/BACCABUCCI.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Allen Solly Men's Regular T-Shirt Green @ Rs.309",
       "price": 309,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D4RFFV4Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D4RFFV4Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "809",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DG8M74Z8?tag=2244005-21",
-      "posted_at": "2026-10-08T07:39:23Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DG8M74Z8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DG8M74Z8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DG8M74Z8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
