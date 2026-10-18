@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T12:18:37Z",
+  "updated_at": "2026-10-18T12:33:06Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Buds Core Earbuds - with ANC, 35hrs Battery @ Rs.3199",
+      "price": 3199,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDGSYR17?tag=2244005-21",
+      "posted_at": "2026-10-18T12:33:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDGSYR17.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "71% Off : Parachute Body Lotion 600ml @172.",
       "price": 172,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDJWBW7L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDJWBW7L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP AMD Ryzen 7 Gaming Laptop @ Rs.129990 Flat ₹30000 Off With SBI Credit Card",
-      "price": 129990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSZW682H?tag=2244005-21",
-      "posted_at": "2026-10-08T09:25:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GSZW682H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSZW682H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSZW682H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
