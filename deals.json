@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T12:33:06Z",
+  "updated_at": "2026-10-18T13:33:12Z",
   "deals": [
+    {
+      "title": "Grab : Purrfeto Kitten Dry Cat Food (1.2 Kg) @ Rs.247 Apply ₹61 Coupon : Regular price 440",
+      "price": 247,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DT6YX3TN?tag=2244005-21",
+      "posted_at": "2026-10-18T13:33:12Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146083.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DT6YX3TN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DT6YX3TN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Galaxy Buds Core Earbuds - with ANC, 35hrs Battery @ Rs.3199",
       "price": 3199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BXDNWJN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BXDNWJN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mini Heat Sealer for Bags, 6 Modes, LED Timer, USB Rechargeable at Rs.427. Apply 25% Off Coupon :",
-      "price": 427,
-      "original_price": 569,
-      "category": "Fashion",
-      "badge": "25% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HDJWBW7L?tag=2244005-21",
-      "posted_at": "2026-10-08T10:40:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HDJWBW7L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HDJWBW7L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HDJWBW7L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
