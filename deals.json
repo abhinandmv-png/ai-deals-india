@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T04:36:10Z",
+  "updated_at": "2026-10-18T04:48:01Z",
   "deals": [
+    {
+      "title": "50% Off : L'Oreal Paris Conditioner 175ml @172.",
+      "price": 172,
+      "original_price": 344,
+      "category": "Shopping",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSLNKJR1?tag=2244005-21",
+      "posted_at": "2026-10-18T04:48:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DSLNKJR1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSLNKJR1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSLNKJR1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "260 TC Pure cotton KING size bedsheet @ Rs.799 Other designs at 1100++",
       "price": 799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFWPG1RM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFWPG1RM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cetaphil Gentle Skin Hydrating Face Wash 118ml @297 Apply 7% Off Coupon :",
-      "price": 297,
-      "original_price": 319,
-      "category": "Beauty",
-      "badge": "7% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01CCGW4OE?tag=2244005-21",
-      "posted_at": "2026-10-08T07:09:34Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B01CCGW4OE.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01CCGW4OE.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01CCGW4OE.01.LZZZZZZZ.jpg"
       ]
     }
   ]
