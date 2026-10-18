@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T02:18:07Z",
+  "updated_at": "2026-10-18T03:21:11Z",
   "deals": [
+    {
+      "title": "Havells Foldable Hair Dryer at 582 Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS5BHX4N?tag=2244005-21",
+      "posted_at": "2026-10-18T03:21:10Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GS5BHX4N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS5BHX4N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS5BHX4N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2294",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HK7QBFYM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HK7QBFYM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "299 Apply ₹15 Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07HS3WP4D?tag=2244005-21",
-      "posted_at": "2026-10-08T06:54:57Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07HS3WP4D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07HS3WP4D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07HS3WP4D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
