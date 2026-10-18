@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T14:42:04Z",
+  "updated_at": "2026-10-18T15:12:05Z",
   "deals": [
+    {
+      "title": "Lowest : Apple Watch Series 11 at 35,499 + Bank Offer. Grab at ₹199",
+      "price": 199,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F42XKR94?tag=2244005-21",
+      "posted_at": "2026-10-18T15:12:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F42XKR94.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F42XKR94.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F42XKR94.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Upto 70% Off On boAt Audio Products Starts at 799. Airdopes 161 at 799 : Rockerz Trinity Gen 2 at 999 : Rockerz 480 at 1399 : Storio Octopus Plushie Reversible Soft Toys at Rs.99",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00W1SO13G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00W1SO13G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Native M1 Water Purifier by Urban Company at 10,849 Get 3149 Discount Using SBI Card EMI Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D79G62J3?tag=2244005-21",
-      "posted_at": "2026-10-08T12:40:25Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D79G62J3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D79G62J3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D79G62J3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
