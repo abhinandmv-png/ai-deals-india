@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T15:18:03Z",
+  "updated_at": "2026-10-19T15:48:00Z",
   "deals": [
+    {
+      "title": "Kids Sweatshirt @ Rs.99",
+      "price": 99,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HMY5GPKY?tag=2244005-21",
+      "posted_at": "2026-10-19T15:47:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HMY5GPKY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HMY5GPKY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HMY5GPKY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Karnage Pre workout at Rs.1080",
       "price": 1080,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FZSWZZW2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FZSWZZW2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**HP** Omnibook 5 **OLED** Laptop with **16GB** RAM and **1TB** SSD for **₹63,740**. • **₹15,250 Off** on **SBI Credit Card EMI Txn**.",
-      "price": 63740,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRM3G9JF?tag=2244005-21",
-      "posted_at": "2026-10-08T19:31:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FRM3G9JF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRM3G9JF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRM3G9JF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
