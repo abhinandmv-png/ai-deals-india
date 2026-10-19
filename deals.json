@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T16:18:00Z",
+  "updated_at": "2026-10-19T16:33:02Z",
   "deals": [
+    {
+      "title": "**Loot Deal **: IFB 241L 10-in-1 Convertible, Double Door Refrigerator @21,326* Apply ₹2000 Coupon + ₹2964 Off With SBI CC",
+      "price": 21326,
+      "original_price": 2964,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWQ3NDLK?tag=2244005-21",
+      "posted_at": "2026-10-19T16:33:01Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GWQ3NDLK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWQ3NDLK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWQ3NDLK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "3 Layer Egg Holder @ Rs.185",
       "price": 185,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GJTGBZ74.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GJTGBZ74.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "64% Off Greenchef Rio 250 mm Induction Bottom Tawa at Rs.339 Upto 80% Off On Titan Sunglasses. Cosmic Byte Ares Pro Wireless Controller for PC, 1000Hz — **₹1,799**.",
-      "price": 339,
-      "original_price": 1799,
-      "category": "Fashion",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8QW9RWY?tag=2244005-21",
-      "posted_at": "2026-10-08T20:01:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F8QW9RWY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8QW9RWY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8QW9RWY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
