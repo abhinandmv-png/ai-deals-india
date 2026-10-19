@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T15:17:59Z",
+  "updated_at": "2026-10-19T15:18:03Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Karnage Pre workout at Rs.1080",
+      "price": 1080,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY1ZZXTB?tag=2244005-21",
+      "posted_at": "2026-10-19T15:18:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Jade + Ice Roller @ Rs.95",
       "price": 95,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FRM3G9JF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FRM3G9JF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Loot **: Elica BLDC Filterless Chimney @8390* Apply ₹500 Coupon + ₹2119 Off With SBI CC + Apply **₹399 Off Code** at Checkout : `UPGRADECHI`",
-      "price": 8390,
-      "original_price": 2119,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D7M89P7H?tag=2244005-21",
-      "posted_at": "2026-10-08T19:16:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D7M89P7H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D7M89P7H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D7M89P7H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
