@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T15:02:59Z",
+  "updated_at": "2026-10-19T15:03:03Z",
   "deals": [
+    {
+      "title": "Pigeon 1.5 L Kettle - with 1000 ml Stark Flask Pack of 2 at Rs.**949**.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DJP8VX5M?tag=2244005-21",
+      "posted_at": "2026-10-19T15:03:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DJP8VX5M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DJP8VX5M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DJP8VX5M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bata Leather Sandal at Rs.713",
       "price": 713,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNRF626K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNRF626K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Godrej 185L 5 Star Single Door Refrigerator at 12911. Apply ₹1000 off Coupon + ₹3379 Off With SBI Credit Card",
-      "price": null,
-      "original_price": 3379,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSG24816?tag=2244005-21",
-      "posted_at": "2026-10-08T19:01:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSG24816.01.LZZZZZZZ.jpg"
       ]
     }
   ]
