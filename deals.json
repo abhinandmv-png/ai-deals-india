@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-18T20:12:08Z",
+  "updated_at": "2026-10-19T02:27:13Z",
   "deals": [
+    {
+      "title": "Butterfly 750W Mixer Grinder at 2308 Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B075JJ5NQC?tag=2244005-21",
+      "posted_at": "2026-10-19T02:27:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B075JJ5NQC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro Wi-Fi LED Bulb @159.",
       "price": 159,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNWQWY2G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNWQWY2G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Springtek Supernova Premium Hybrid Latex Mattress King Size 75x72 Medium Firm 6 Inches 100 Natural Gols Certified Pincore Dunlop Latex Mattresses 3 Layer Hd Foam Orthopedic Bed Gadda75x72 Inch Bank Of ✅Deal Price: **₹11,",
-      "price": null,
-      "original_price": 43559,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HG18M722?tag=2244005-21",
-      "posted_at": "2026-10-08T14:41:51Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_129.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HG18M722.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HG18M722.01.LZZZZZZZ.jpg"
       ]
     }
   ]
