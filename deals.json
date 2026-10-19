@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T16:33:02Z",
+  "updated_at": "2026-10-19T17:18:01Z",
   "deals": [
+    {
+      "title": "Samsung 32\" (80cm) M5 Smart Monitor with Smart TV @13099 Flat ₹3000 off with SBI Credit Card",
+      "price": 13099,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FK5JR8ZR?tag=2244005-21",
+      "posted_at": "2026-10-19T17:18:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Loot Deal **: IFB 241L 10-in-1 Convertible, Double Door Refrigerator @21,326* Apply ₹2000 Coupon + ₹2964 Off With SBI CC",
       "price": 21326,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4R5LT84.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4R5LT84.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apple AirTag 4 Pack ​​​​​​​at 9450* ₹1,049 off with SBI Debit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GJTGBZ74?tag=2244005-21",
-      "posted_at": "2026-10-08T20:16:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GJTGBZ74.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GJTGBZ74.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GJTGBZ74.01.LZZZZZZZ.jpg"
       ]
     }
   ]
