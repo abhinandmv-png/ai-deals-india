@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T17:48:01Z",
+  "updated_at": "2026-10-19T17:58:07Z",
   "deals": [
+    {
+      "title": "Lowest TVS Cruisetown Open Face Helmet 🏷️ **Lowest price in 30 days** ✅Deal Price: **₹999** ❌MRP: ₹1,899 Discount: **-47%** 👉",
+      "price": null,
+      "original_price": 1899,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FSZW2QZV?tag=2244005-21",
+      "posted_at": "2026-10-19T17:58:06Z",
+      "source": "Telegram Test",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_141.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FSZW2QZV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FSZW2QZV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Panasonic 20W LED Batten Pack of 10 at Rs.899",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HK4BVD71.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HK4BVD71.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "73% Off : Livon Keratin Shampoo 650ml @210.",
-      "price": 210,
-      "original_price": 778,
-      "category": "Beauty",
-      "badge": "73% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNN4954M?tag=2244005-21",
-      "posted_at": "2026-10-08T23:09:40Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNN4954M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
