@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T14:17:58Z",
+  "updated_at": "2026-10-19T14:32:58Z",
   "deals": [
+    {
+      "title": "Tommy Hilfiger Joshua 21L Laptop Backpack @ Rs.1,399",
+      "price": 1399,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6L7X4VC?tag=2244005-21",
+      "posted_at": "2026-10-19T14:32:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H6L7X4VC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6L7X4VC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6L7X4VC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dinning Table Cover @ Rs.99",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTGJC5DQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTGJC5DQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi 32 inch Smart LED Fire TV @ Rs.10,300 *₹2199 Off With SBI Debit/Credit Cards",
-      "price": 10300,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F3JM1YP5?tag=2244005-21",
-      "posted_at": "2026-10-08T16:10:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F3JM1YP5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F3JM1YP5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F3JM1YP5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
