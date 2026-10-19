@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T17:18:01Z",
+  "updated_at": "2026-10-19T17:48:01Z",
   "deals": [
+    {
+      "title": "Panasonic 20W LED Batten Pack of 10 at Rs.899",
+      "price": 899,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRCD16GN?tag=2244005-21",
+      "posted_at": "2026-10-19T17:48:01Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DRCD16GN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRCD16GN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRCD16GN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 32\" (80cm) M5 Smart Monitor with Smart TV @13099 Flat ₹3000 off with SBI Credit Card",
       "price": 13099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNN4954M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Energyshroom PB401 Power Bank, 20000mAh, 22.5W at Rs.**1,139**. **Apply 5% coupon**",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4R5LT84?tag=2244005-21",
-      "posted_at": "2026-10-08T20:31:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H4R5LT84.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4R5LT84.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4R5LT84.01.LZZZZZZZ.jpg"
       ]
     }
   ]
