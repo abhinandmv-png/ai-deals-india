@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T19:01:35Z",
+  "updated_at": "2026-10-19T19:33:03Z",
   "deals": [
+    {
+      "title": "Upto 68% Off On Lacoste Watches.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "68% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/afvWK49Dem?tag=2244005-21",
+      "posted_at": "2026-10-19T19:33:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/AFVWK49DEM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/afvWK49Dem.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/afvWK49Dem.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest Milton Pro Cook Induction Cookware Gas Stove Friendly Kitchen Jewel Set 5 Pc Non Stick Cookware Set Kadhai With Lid Fry Pan Tawa Laddle Spatula Durable 5 Layer Non Stick Coating Peach 🏷️ Lowest price in 30 days ✅D",
       "price": 1574,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C82ZBN6F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C82ZBN6F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Omnibook 3, Snapdragon X (8GB + 512GB SSD) @ Rs.41,990 Flat ₹8000 Off With SBI Credit Card.",
-      "price": 41990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK3BFFKM?tag=2244005-21",
-      "posted_at": "2026-10-09T01:01:21Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HK3BFFKM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK3BFFKM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK3BFFKM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
