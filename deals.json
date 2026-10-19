@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T13:32:58Z",
+  "updated_at": "2026-10-19T13:33:04Z",
   "deals": [
+    {
+      "title": "74% off : Safari Solace 30L Laptop Backpack @ Rs.1,049",
+      "price": 1049,
+      "original_price": 4035,
+      "category": "Electronics",
+      "badge": "74% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQJ5MK3L?tag=2244005-21",
+      "posted_at": "2026-10-19T13:33:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FQJ5MK3L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQJ5MK3L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQJ5MK3L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer 55-inch 4K Ultra HD Smart LED Google TV at Rs.**28,499**. Flat ₹2500 Off With SBI CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZ7PD3VH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZ7PD3VH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fossil Women's Watch Gold Dial at Rs.5,789* Apply ₹714 Coupon + ₹643 Off Via SBI CC",
-      "price": 5789,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B086K654H9?tag=2244005-21",
-      "posted_at": "2026-10-08T15:25:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B086K654H9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B086K654H9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B086K654H9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
