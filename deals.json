@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T17:58:07Z",
+  "updated_at": "2026-10-19T18:48:02Z",
   "deals": [
+    {
+      "title": "TVS Open Face Helmet at 999.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1MNBVR9?tag=2244005-21",
+      "posted_at": "2026-10-19T18:48:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F1MNBVR9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1MNBVR9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1MNBVR9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest TVS Cruisetown Open Face Helmet 🏷️ **Lowest price in 30 days** ✅Deal Price: **₹999** ❌MRP: ₹1,899 Discount: **-47%** 👉",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDL3VZR8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDL3VZR8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "149",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK4BVD71?tag=2244005-21",
-      "posted_at": "2026-10-08T23:24:47Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK4BVD71.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK4BVD71.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK4BVD71.01.LZZZZZZZ.jpg"
       ]
     }
   ]
