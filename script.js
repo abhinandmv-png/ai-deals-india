@@ -53,10 +53,10 @@ function escapeHtml(s = "") {
   return String(s).replace(
     /[&<>"']/g,
     c => ({
-      "&": "&amp;",
-      "<": "&lt;",
-      ">": "&gt;",
-      '"': "&quot;",
+      "&": "&",
+      "<": "<",
+      ">": ">",
+      '"': """,
       "'": "&#039;"
     }[c])
   );
@@ -224,13 +224,29 @@ function priceFromTitle(title) {
 
 function normalizedDeal(deal) {
   const out = {...deal};
+  const bare = String(out.title || "").trim().match(/^(?:₹|rs\.?)?\s*([0-9][0-9,]*)\s*:?$/i);
+  if (bare) {
+    const barePrice = Number(bare[1].replace(/,/g, ""));
+    const existingBare = Number(out.price);
+    if (!Number.isFinite(existingBare) || existingBare <= 0) out.price = barePrice;
+    out.title = "Amazon deal";
+  }
+  if (/^upto$/i.test(String(out.title || "").trim())) out.title = "Amazon offer";
   const titlePrice = priceFromTitle(out.title);
   const existing = (out.price === null || out.price === undefined || out.price === "") ? NaN : Number(out.price);
   if (titlePrice !== null && (!Number.isFinite(existing) || existing <= 10 || Math.abs(existing-titlePrice) > Math.max(50,titlePrice*0.85))) out.price = titlePrice;
-  const text = String(out.title || "") + " " + String(out.badge || "");
+  const text = String(deal.title || "") + " " + String(out.badge || "");
   const dm = text.match(/(\d{1,3})\s*%\s*(?:off|discount)/i) || text.match(/upto\s*(\d{1,3})\s*%/i) || text.match(/(?:^|\s)(\d{1,3})\s*%\s*:/i);
   if (dm && !Number.isFinite(Number(out.discount))) out.discount = Number(dm[1]);
   return out;
+}
+
+function ratingLine(deal) {
+  const rating = Number(deal.rating);
+  if (!Number.isFinite(rating) || rating <= 0) return "";
+  const count = deal.ratings_count || deal.ratings || deal.review_count;
+  const countText = count ? " · " + escapeHtml(String(count)) + " ratings" : "";
+  return `<p class="deal-rating">★ ${rating.toFixed(1)}/5${countText}</p>`;
 }
 function discountPct(deal) {
   if (deal.discount !== null && deal.discount !== undefined && deal.discount !== "") {
@@ -284,9 +300,11 @@ function render() {
             <div class="deal-tags">
               <span class="tag retailer-tag">${escapeHtml(retailerLabel(d))}</span>
               <span class="category">${escapeHtml(d.category || "Shopping")}</span>
+              <span class="desktop-discount">${escapeHtml(discountText)}</span>
             </div>
 
             <h3>${escapeHtml(d.title)}</h3>
+            ${ratingLine(d)}
 
             <div class="price mobile-price">
               <strong>${escapeHtml(displayPrice)}</strong>
