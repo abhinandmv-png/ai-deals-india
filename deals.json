@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T14:55:58Z",
+  "updated_at": "2026-10-20T15:55:56Z",
   "deals": [
+    {
+      "title": "PHILIPS 15W 3in1 AstraGlow Round LED Panel Light | Slim Surface Panel with — **₹8,999**.",
+      "price": 8999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G6L2HW61?tag=2244005-21",
+      "posted_at": "2026-10-20T15:55:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G6L2HW61.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G6L2HW61.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G6L2HW61.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "One94Store 30 Meter LED Rope Light 3600 LED @ Rs.899",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSW6S3GN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSW6S3GN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient BLDC Ceiling Fan for ₹1649. Apply ₹550 Off Coupon : 77% Off : Lakme Liquid Lipstick Pack Of 3 @311.",
-      "price": 311,
-      "original_price": 1352,
-      "category": "Beauty",
-      "badge": "77% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5K8V38D?tag=2244005-21",
-      "posted_at": "2026-10-09T03:54:48Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H5K8V38D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5K8V38D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5K8V38D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
