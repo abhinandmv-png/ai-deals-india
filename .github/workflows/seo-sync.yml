@@ -5,25 +5,58 @@ on:
     paths:
       - deals.json
       - scripts/generate-seo.py
+      - .github/workflows/seo-sync.yml
   workflow_dispatch:
 
 permissions:
   contents: write
+
+# Queue deal updates instead of cancelling them. A cancelled run still emails.
+concurrency:
+  group: seo-sync
+  cancel-in-progress: false
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            deals.json
+            scripts/generate-seo.py
+            deals.html
+            sitemap.xml
+          sparse-checkout-cone-mode: false
+
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.x"
+          python-version: "3.12"
+
       - name: Generate crawlable deal directory and sitemap
         run: python scripts/generate-seo.py
+
       - name: Commit generated SEO files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add deals.html sitemap.xml
-          git diff --cached --quiet || git commit -m "Auto-sync SEO deal directory"
-          git push
+          if git diff --cached --quiet; then
+            echo "No SEO changes"
+            exit 0
+          fi
+          git commit -m "Auto-sync SEO deal directory"
+          if git pull --rebase origin main && git push; then
+            exit 0
+          fi
+          echo "Rebase raced a new deal. Regenerating from latest main."
+          git rebase --abort || true
+          git fetch origin main
+          git reset --hard origin/main
+          python scripts/generate-seo.py
+          git add deals.html sitemap.xml
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Auto-sync SEO deal directory"
+          git push || echo "::warning::SEO commit raced a newer deal. The next deal push will catch up."
