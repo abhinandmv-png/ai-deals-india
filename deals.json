@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T07:23:59Z",
+  "updated_at": "2026-10-20T08:04:14Z",
   "deals": [
+    {
+      "title": "Haldiram's Teekha Meetha Mixture Namkeen 750g @155",
+      "price": 155,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWMS6SP5?tag=2244005-21",
+      "posted_at": "2026-10-20T08:04:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GWMS6SP5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWMS6SP5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWMS6SP5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "No Cost EMI Dhamaal Live 🚀 Get Your Favourite Smartphones at Just ₹2,500/Month. OPPO : HMD : Al+ : Samsung : Vivo : Boltt : Realme : Nothing : Mivi One 5G : *No Cost EMI Upto 36 Months on Flipkart Via HDFC CC, Bajaj Fina",
       "price": 2500,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7RC5GHW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7RC5GHW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 653 L, 3 Star, Frost Free, Double Door, Convertible 5-in-1 Digital Inverter at 56,140 Effective Apply 3000 Coupon + Get 20,850 off with SBI card Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BQC4Y4TP?tag=2244005-21",
-      "posted_at": "2026-10-09T03:01:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BQC4Y4TP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BQC4Y4TP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BQC4Y4TP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
