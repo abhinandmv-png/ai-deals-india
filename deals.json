@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T17:10:57Z",
+  "updated_at": "2026-10-20T19:00:53Z",
   "deals": [
+    {
+      "title": "Borosil Borosilicate Glass Lunch Box With Bag @699.",
+      "price": 699,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07TVSKML7?tag=2244005-21",
+      "posted_at": "2026-10-20T19:00:53Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07TVSKML7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07TVSKML7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07TVSKML7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "realme Buds Wireless 5 Lite at 999.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FSK5CG1J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FSK5CG1J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 7 kg 5 Star Front Load Fully-Automatic Washing Machine @ Rs.25,169 **(Effective Price)** **Rs.2750 Instant Discount On SBI Credit Card**",
-      "price": 25169,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CFFPLZXJ?tag=2244005-21",
-      "posted_at": "2026-10-09T04:46:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CFFPLZXJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CFFPLZXJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CFFPLZXJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
