@@ -19,7 +19,15 @@ def price_from_title(title):
 
 def normalize(deal):
     item = dict(deal)
-    parsed = price_from_title(item.get("title"))
+    original_title = str(item.get("title") or "").strip()
+    bare = re.fullmatch(r"(?:₹|rs\.?)?\s*([0-9][0-9,]*)\s*:?", original_title, re.I)
+    if bare:
+        if item.get("price") in (None, ""):
+            item["price"] = float(bare.group(1).replace(",", ""))
+        item["title"] = "Amazon deal"
+    elif original_title.lower() == "upto":
+        item["title"] = "Amazon offer"
+    parsed = price_from_title(original_title if bare else item.get("title"))
     current = item.get("price")
     try:
         current_num = float(current)
@@ -27,11 +35,27 @@ def normalize(deal):
         current_num = None
     if parsed is not None and (current_num is None or current_num <= 10 or abs(current_num - parsed) > max(50, parsed * 0.85)):
         item["price"] = parsed
-    text = f'{item.get("title", "")} {item.get("badge", "")}'
+    text = f'{original_title} {item.get("badge", "")}'
     match = re.search(r"(\d{1,3})\s*%\s*(?:off|discount)", text, re.I) or re.search(r"upto\s*(\d{1,3})\s*%", text, re.I) or re.search(r"(?:^|\s)(\d{1,3})\s*%\s*:", text)
-    if match and not str(item.get("discount", "")).strip():
+    existing_discount = item.get("discount")
+    missing_discount = existing_discount in (None, "") or str(existing_discount).strip() in ("", "None", "null")
+    if match and missing_discount:
         item["discount"] = int(match.group(1))
     return item
+
+
+def badge_for(deal):
+    """Never raise. Missing discount is normal for this feed."""
+    discount = deal.get("discount")
+    if discount not in (None, "", "None"):
+        raw = str(discount).strip().rstrip("%").strip()
+        try:
+            number = float(raw)
+        except (TypeError, ValueError):
+            number = None
+        if number is not None and number == number and 0 < number <= 100:
+            return f"{int(round(number))}% OFF"
+    return str(deal.get("badge") or "DEAL")
 
 def money(value):
     if value in (None, ""):
@@ -56,8 +80,7 @@ for i, deal in enumerate(deals, 1):
     image = escape(str(deal.get("image") or ""), quote=True)
     price = money(deal.get("price"))
     old = money(deal.get("original_price"))
-    discount = deal.get("discount")
-    badge = f"{int(float(discount))}% OFF" if str(discount).strip() else str(deal.get("badge") or "DEAL")
+    badge = badge_for(deal)
     image_html = f'<img src="{image}" alt="{title}" loading="lazy" decoding="async">' if image else ""
     old_html = f" <del>{escape(old)}</del>" if old else ""
     cards.append(
