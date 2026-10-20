@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T04:34:12Z",
+  "updated_at": "2026-10-20T04:34:16Z",
   "deals": [
+    {
+      "title": "Lifelong 1.5L Electric Kettle @ 399",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6FLJH3S?tag=2244005-21",
+      "posted_at": "2026-10-20T04:34:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H6FLJH3S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6FLJH3S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6FLJH3S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil 19 Pieces Sage Opalware Dinner Set for Family of 6 — ₹949.",
       "price": 949,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09GYBZPHF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09GYBZPHF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PUMA Mens Dwane Men’s Running Shoe @995",
-      "price": 995,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07V6N4TWB?tag=2244005-21",
-      "posted_at": "2026-10-09T02:24:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07V6N4TWB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07V6N4TWB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07V6N4TWB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
