@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T16:10:56Z",
+  "updated_at": "2026-10-20T16:11:01Z",
   "deals": [
+    {
+      "title": "LG 185 L, 4 Star, Smart Inverter Refrigerator at 13609 Pay Using 12M No Cost EMI With SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GRCVWGFR?tag=2244005-21",
+      "posted_at": "2026-10-20T16:11:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GRCVWGFR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 77% Off On Milton Products. Masterlink :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097YP8MN5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097YP8MN5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "999",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HLQCCPKQ?tag=2244005-21",
-      "posted_at": "2026-10-09T03:54:55Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HLQCCPKQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HLQCCPKQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HLQCCPKQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
