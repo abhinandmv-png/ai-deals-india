@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T01:48:07Z",
+  "updated_at": "2026-10-20T02:39:41Z",
   "deals": [
+    {
+      "title": "Lenovo LOQ Essential AMD Ryzen 5 7535HS | NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD/144Hz Refresh Rate/15.6\" (39.6cm)/Windows 11/Office Home 2024/3 Mon. Game Pass/Grey/1.8Kg), 83S000G8IN Gaming Laptop ₹82,490 MRP ₹~~1,53,5",
+      "price": null,
+      "original_price": 82490,
+      "category": "Electronics",
+      "badge": "41% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H268Z1CC?tag=2244005-21",
+      "posted_at": "2026-10-20T02:39:41Z",
+      "source": "Telegram Test",
+      "image": "https://m.media-amazon.com/images/P/B0H268Z1CC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H268Z1CC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H268Z1CC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "359",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CXSZRKN2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CXSZRKN2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon Oven Toaster Grill 14 Liters @1799",
-      "price": 1799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DLBH7CCG?tag=2244005-21",
-      "posted_at": "2026-10-09T01:54:46Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DLBH7CCG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DLBH7CCG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DLBH7CCG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
