@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-19T19:33:03Z",
+  "updated_at": "2026-10-20T01:48:07Z",
   "deals": [
+    {
+      "title": "359",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZCYP7X8?tag=2244005-21",
+      "posted_at": "2026-10-20T01:48:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DZCYP7X8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZCYP7X8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZCYP7X8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 68% Off On Lacoste Watches.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DLBH7CCG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DLBH7CCG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "United Colors of Benetton Men Polo Shirt @589",
-      "price": 589,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C82ZBN6F?tag=2244005-21",
-      "posted_at": "2026-10-09T01:54:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C82ZBN6F.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C82ZBN6F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C82ZBN6F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
