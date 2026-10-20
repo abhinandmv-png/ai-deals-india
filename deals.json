@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T04:34:16Z",
+  "updated_at": "2026-10-20T07:05:43Z",
   "deals": [
+    {
+      "title": "Upto 93% Off On Tokyo Talkies Women Clothing. ***Surf All Pages**",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "93% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/WelTDmfaQz?tag=2244005-21",
+      "posted_at": "2026-10-20T07:05:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/WELTDMFAQZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/WelTDmfaQz.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/WelTDmfaQz.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong 1.5L Electric Kettle @ 399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLY9JKTQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLY9JKTQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifelong Mixer Grinder 500 Watt @899.",
-      "price": 899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09GYBZPHF?tag=2244005-21",
-      "posted_at": "2026-10-09T02:39:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09GYBZPHF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09GYBZPHF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09GYBZPHF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
