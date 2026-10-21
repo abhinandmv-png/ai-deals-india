@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T18:56:05Z",
+  "updated_at": "2026-10-21T19:11:02Z",
   "deals": [
+    {
+      "title": "Livon Keratin Shampoo | Smooth & 5x — **₹238**.",
+      "price": 238,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNN4954M?tag=2244005-21",
+      "posted_at": "2026-10-21T19:11:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNN4954M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Rayban Meta Gen 1 at 17325* *Pay with AXIS/ICICI Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07Y8SJFG1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07Y8SJFG1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Origami Plain Paper Napkins (Pack Of 8, 100 Each) at Rs.149",
-      "price": 149,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00E3QVVQO?tag=2244005-21",
-      "posted_at": "2026-10-09T10:47:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00E3QVVQO.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00E3QVVQO.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00E3QVVQO.01.LZZZZZZZ.jpg"
       ]
     }
   ]
