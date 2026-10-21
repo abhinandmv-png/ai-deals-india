@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T16:16:13Z",
+  "updated_at": "2026-10-21T16:43:15Z",
   "deals": [
+    {
+      "title": "1218 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5M7NGH4?tag=2244005-21",
+      "posted_at": "2026-10-21T16:43:14Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H5M7NGH4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5M7NGH4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5M7NGH4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FSYLNF3B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FSYLNF3B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Victus Gaming Laptop, 15.6\", 144Hz, 512GB 2.3kg 6GB, 24GB @ Rs.**91,740**. Flat 18,250 Off With SBI CC",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWQGM5FJ?tag=2244005-21",
-      "posted_at": "2026-10-09T08:31:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GWQGM5FJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWQGM5FJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWQGM5FJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
