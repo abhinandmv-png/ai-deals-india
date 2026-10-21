@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T12:46:07Z",
+  "updated_at": "2026-10-21T13:43:09Z",
   "deals": [
+    {
+      "title": "Huggies Baby Diapers M Size, 100 Count (Pack of 2) @1276* Apply 7% Off Coupon :",
+      "price": 1276,
+      "original_price": 1372,
+      "category": "Shopping",
+      "badge": "7% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DT12T7FN?tag=2244005-21",
+      "posted_at": "2026-10-21T13:43:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DT12T7FN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DT12T7FN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DT12T7FN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "84% off : HRX Force Large Size Suitcase @ Rs.2429",
       "price": 2429,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CX8ZTM7H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CX8ZTM7H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Tvs Silk Route Open Face Helmet @1,621.",
-      "price": 1621,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3PC8R69?tag=2244005-21",
-      "posted_at": "2026-10-09T07:39:51Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H3PC8R69.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3PC8R69.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3PC8R69.01.LZZZZZZZ.jpg"
       ]
     }
   ]
