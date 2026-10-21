@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T15:31:12Z",
+  "updated_at": "2026-10-21T16:16:13Z",
   "deals": [
+    {
+      "title": "99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FGJTKQMY?tag=2244005-21",
+      "posted_at": "2026-10-21T16:16:12Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146244.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FGJTKQMY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FGJTKQMY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FLYNGO 12 Diya Diwali Curtain String LED Lights for Decoration at Rs.295.",
       "price": 295,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWQGM5FJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWQGM5FJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09DH7MXYW?tag=2244005-21",
-      "posted_at": "2026-10-09T07:54:48Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09DH7MXYW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09DH7MXYW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09DH7MXYW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
