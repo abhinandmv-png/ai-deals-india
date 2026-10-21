@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-20T19:00:53Z",
+  "updated_at": "2026-10-21T01:45:58Z",
   "deals": [
+    {
+      "title": "299",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQNVY42Q?tag=2244005-21",
+      "posted_at": "2026-10-21T01:45:57Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FQNVY42Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQNVY42Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQNVY42Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosil Borosilicate Glass Lunch Box With Bag @699.",
       "price": 699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6WHHSHR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6WHHSHR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1210",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FSK5CG1J?tag=2244005-21",
-      "posted_at": "2026-10-09T04:54:45Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FSK5CG1J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FSK5CG1J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FSK5CG1J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
