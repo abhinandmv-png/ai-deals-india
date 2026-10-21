@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T17:51:37Z",
+  "updated_at": "2026-10-21T18:01:24Z",
   "deals": [
+    {
+      "title": "Portronics Luxcell B 20K Advanced 20000 mAh Power Bank with 22.5W Max Output, LED Battery Display, 22.5w Mach USB-A Output, 20w Type C PD Output, Type C Input, Wake Up Button",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HDXW9D5M?tag=2244005-21",
+      "posted_at": "2026-10-21T18:01:24Z",
+      "source": "Telegram",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_150.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HDXW9D5M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HDXW9D5M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony HT-S20R Soundbar For TV With Subwoofer at Rs.12739 *Pay with AXIS/ICICI Credit Card",
       "price": 12739,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FH2FSL1P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FH2FSL1P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1000 Off With Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G44J3RH9?tag=2244005-21",
-      "posted_at": "2026-10-09T09:01:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G44J3RH9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G44J3RH9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G44J3RH9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
