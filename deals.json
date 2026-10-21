@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T08:13:02Z",
+  "updated_at": "2026-10-21T08:28:02Z",
   "deals": [
+    {
+      "title": "KZULLY | Dress for Women Western Maxi, Ethnic Look Outfit — ₹339.",
+      "price": 339,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GD18BSJQ?tag=2244005-21",
+      "posted_at": "2026-10-21T08:28:02Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GD18BSJQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GD18BSJQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GD18BSJQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TWO SOFT Flip Flop for Women | Soft Comfortable — ₹75.",
       "price": 75,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FH6V1C5S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FH6V1C5S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 32\" Monitor with Smart TV @15,999 Flat ₹2000 Off With SBI Credit Card.",
-      "price": 15999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FK5KRQNR?tag=2244005-21",
-      "posted_at": "2026-10-09T06:46:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FK5KRQNR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FK5KRQNR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FK5KRQNR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
