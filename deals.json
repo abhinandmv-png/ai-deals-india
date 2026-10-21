@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T16:43:15Z",
+  "updated_at": "2026-10-21T17:36:33Z",
   "deals": [
+    {
+      "title": "HP OMEN Gaming Monitor, 23.8 inch(60.5 cm) FHD, 165Hz at 9299 Use Bank Offer to get extra discount Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CBPDLCSP?tag=2244005-21",
+      "posted_at": "2026-10-21T17:36:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CBPDLCSP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CBPDLCSP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CBPDLCSP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1218 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4TXXJZG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4TXXJZG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "₹138 :",
-      "price": 138,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FSYLNF3B?tag=2244005-21",
-      "posted_at": "2026-10-09T08:39:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FSYLNF3B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FSYLNF3B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FSYLNF3B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
