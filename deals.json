@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T18:01:24Z",
+  "updated_at": "2026-10-21T18:56:05Z",
   "deals": [
+    {
+      "title": "Rayban Meta Gen 1 at 17325* *Pay with AXIS/ICICI Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G24TJ9FQ?tag=2244005-21",
+      "posted_at": "2026-10-21T18:56:05Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G24TJ9FQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G24TJ9FQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G24TJ9FQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Portronics Luxcell B 20K Advanced 20000 mAh Power Bank with 22.5W Max Output, LED Battery Display, 22.5w Mach USB-A Output, 20w Type C PD Output, Type C Input, Wake Up Button",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00E3QVVQO.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00E3QVVQO.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : American Tourister Liftoff+ Large Size Check-in Spinner Trolley Bag @ Rs.3099",
-      "price": 3099,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH2FSL1P?tag=2244005-21",
-      "posted_at": "2026-10-09T09:31:29Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145291.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH2FSL1P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH2FSL1P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
