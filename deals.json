@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T07:13:06Z",
+  "updated_at": "2026-10-21T08:13:02Z",
   "deals": [
+    {
+      "title": "TWO SOFT Flip Flop for Women | Soft Comfortable — ₹75.",
+      "price": 75,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G81HXXBY?tag=2244005-21",
+      "posted_at": "2026-10-21T08:13:02Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G81HXXBY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G81HXXBY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G81HXXBY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Woman Flip Flops @79.",
       "price": 79,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FK5KRQNR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FK5KRQNR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Hero MotoCorp GLAMOUR X Drum Brake at 76764 Flat ₹12,250 Off With SBI Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRK1536Z?tag=2244005-21",
-      "posted_at": "2026-10-09T06:31:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FRK1536Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRK1536Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRK1536Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
