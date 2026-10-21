@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-21T01:45:58Z",
+  "updated_at": "2026-10-21T02:30:57Z",
   "deals": [
+    {
+      "title": "2297",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C58JR28X?tag=2244005-21",
+      "posted_at": "2026-10-21T02:30:57Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C58JR28X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C58JR28X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C58JR28X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D22F5K2N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D22F5K2N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo IdeaPad Slim 3 13th Gen Laptop @64,990 Apply ₹500 Off Coupon + ₹7500 Off With SBI Credit Card.",
-      "price": 64990,
-      "original_price": 7500,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6WHHSHR?tag=2244005-21",
-      "posted_at": "2026-10-09T05:01:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H6WHHSHR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6WHHSHR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6WHHSHR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
