@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T06:18:40Z",
+  "updated_at": "2026-10-22T06:48:33Z",
   "deals": [
+    {
+      "title": "Chopper @60.",
+      "price": 60,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FYX17CCM?tag=2244005-21",
+      "posted_at": "2026-10-22T06:48:33Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FYX17CCM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FYX17CCM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FYX17CCM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nayasa Bottle 1000ml Set Of 6 @187.",
       "price": 187,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVJF7528.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVJF7528.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 1TB Portable SSD @14,199 Apply ₹1,000 Coupon + ₹1,800 Off SBI Credit/Debit Card.",
-      "price": 14199,
-      "original_price": 1800,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HD7JY8T5?tag=2244005-21",
-      "posted_at": "2026-10-09T12:55:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HD7JY8T5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HD7JY8T5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HD7JY8T5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
