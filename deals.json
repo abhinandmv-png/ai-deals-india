@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T13:31:08Z",
+  "updated_at": "2026-10-22T13:46:13Z",
   "deals": [
+    {
+      "title": "BOSCH Universal Aquatak 125 High Pressure Washer @ Rs.8108 **[Effective Price]** **Apply 5% Off Coupon + Rs.900 Instant Discount On ICIC and AXIS Credit Card**",
+      "price": 8108,
+      "original_price": 8535,
+      "category": "Grocery",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07BLCWPNR?tag=2244005-21",
+      "posted_at": "2026-10-22T13:46:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07BLCWPNR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07BLCWPNR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07BLCWPNR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Lofty Lunch Box @ Rs.497",
       "price": 497,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXMKFX4S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXMKFX4S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Origami 2 Ply Kitchen Tissues (360 Sheets) @ Rs.199",
-      "price": 199,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08WRWRTHW?tag=2244005-21",
-      "posted_at": "2026-10-09T14:45:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08WRWRTHW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08WRWRTHW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08WRWRTHW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
