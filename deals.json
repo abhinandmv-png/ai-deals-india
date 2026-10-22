@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T10:18:36Z",
+  "updated_at": "2026-10-22T10:33:35Z",
   "deals": [
+    {
+      "title": "62% Off : BoroPlus Moisturising Cream 50ml @49.",
+      "price": 49,
+      "original_price": 129,
+      "category": "Beauty",
+      "badge": "62% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMCW69WH?tag=2244005-21",
+      "posted_at": "2026-10-22T10:33:35Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMCW69WH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Titan Bandhan Couple Analog Watch @7,773 With ICICI Card.",
       "price": 7773,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07RDP4KCK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07RDP4KCK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Basics A3 Laminating Machine @1998",
-      "price": 1998,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GJD8XFKY?tag=2244005-21",
-      "posted_at": "2026-10-09T13:39:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GJD8XFKY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GJD8XFKY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GJD8XFKY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
