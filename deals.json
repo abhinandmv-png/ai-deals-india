@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T11:03:55Z",
+  "updated_at": "2026-10-22T11:31:11Z",
   "deals": [
+    {
+      "title": "Lenovo V14 Intel Core i3 13th Gen Laptop (16GB RAM/512GB SSD) at Rs.50,490 **₹2500 off with ICICI Credit Card**",
+      "price": 50490,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNQZ9HWX?tag=2244005-21",
+      "posted_at": "2026-10-22T11:31:11Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNQZ9HWX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNQZ9HWX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNQZ9HWX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "279",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FK4SXGB1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FK4SXGB1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "155",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09DTCSX9G?tag=2244005-21",
-      "posted_at": "2026-10-09T14:24:54Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09DTCSX9G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09DTCSX9G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09DTCSX9G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
