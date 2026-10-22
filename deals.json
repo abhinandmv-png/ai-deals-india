@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T04:09:57Z",
+  "updated_at": "2026-10-22T04:25:11Z",
   "deals": [
+    {
+      "title": "Lowest Storite Women's Stylish Small Lightweight Sling Crossbody Shoulder Bag 🏷️ Lowest price in 30 days ✅Deal Price: ₹399 ❌MRP: ₹1,499 Discount: -73% 👉",
+      "price": 399,
+      "original_price": 1499,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CG9JP686?tag=2244005-21",
+      "posted_at": "2026-10-22T04:25:11Z",
+      "source": "Telegram",
+      "image": "https://m.media-amazon.com/images/P/B0CG9JP686.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CG9JP686.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CG9JP686.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "971",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00RLK8M98.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00RLK8M98.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DJI Osmo Pocket 4 Creator Combo 3-Axis Gimbal Camera @ Rs.60,990 **(Effective Price)** Rs.4000 Instant Discount On SBI Credit Card",
-      "price": 60990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FKT9K6CB?tag=2244005-21",
-      "posted_at": "2026-10-09T12:30:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FKT9K6CB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FKT9K6CB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FKT9K6CB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
