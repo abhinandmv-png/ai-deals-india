@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T04:09:34Z",
+  "updated_at": "2026-10-22T04:09:57Z",
   "deals": [
+    {
+      "title": "971",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07CYV7WZF?tag=2244005-21",
+      "posted_at": "2026-10-22T04:09:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07CYV7WZF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07CYV7WZF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07CYV7WZF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ride Runner - Men Navy Running Shoes Sneakers — ₹989.",
       "price": 989,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKT9K6CB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKT9K6CB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 189 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator @ Rs.14,591 **(Effective)** **Apply 1000 coupon + Get 1899 Discount using SBI CC **",
-      "price": 14591,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8J23WGV?tag=2244005-21",
-      "posted_at": "2026-10-09T12:29:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G8J23WGV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8J23WGV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8J23WGV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
