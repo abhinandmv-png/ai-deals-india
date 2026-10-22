@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T08:46:21Z",
+  "updated_at": "2026-10-22T09:46:05Z",
   "deals": [
+    {
+      "title": "OnePlus Nord Buds 4 Pro E518A Radiant Gray in — **₹3,569**. Flat ₹730 Off With Axis / ICICI CC",
+      "price": 3569,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQTNXDYM?tag=2244005-21",
+      "posted_at": "2026-10-22T09:46:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GQTNXDYM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQTNXDYM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQTNXDYM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lakme Loot : Buy 1 Get 1 FREE *Add Any 2 & Check Final Checkout Page.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DT8NM1F8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DT8NM1F8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Prestige 2 Litre + 3 Litre + 5 Litre Pressure Cooker @2,379.",
-      "price": 2379,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B095S9KLY8?tag=2244005-21",
-      "posted_at": "2026-10-09T13:15:09Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B095S9KLY8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B095S9KLY8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B095S9KLY8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
