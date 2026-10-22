@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T17:16:17Z",
+  "updated_at": "2026-10-22T17:46:10Z",
   "deals": [
+    {
+      "title": "Amazon Basics Business Smart Waterproof Backpack at 539",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F18N4LNY?tag=2244005-21",
+      "posted_at": "2026-10-22T17:46:10Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F18N4LNY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F18N4LNY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F18N4LNY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Belkin 20000 mAh Power Bank at Rs.1299",
       "price": 1299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJ8VXRFQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJ8VXRFQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 258 : Hisense 1.0 Ton 3 star Inverter Split AC at ₹24,740 Link : Flat ₹2,250 off with SBI EMI",
-      "price": 24740,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPYL5C21?tag=2244005-21",
-      "posted_at": "2026-10-09T15:30:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPYL5C21.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPYL5C21.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPYL5C21.01.LZZZZZZZ.jpg"
       ]
     }
   ]
