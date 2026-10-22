@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T09:46:05Z",
+  "updated_at": "2026-10-22T10:18:36Z",
   "deals": [
+    {
+      "title": "Titan Bandhan Couple Analog Watch @7,773 With ICICI Card.",
+      "price": 7773,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BWDNQDSJ?tag=2244005-21",
+      "posted_at": "2026-10-22T10:18:35Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BWDNQDSJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BWDNQDSJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BWDNQDSJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "OnePlus Nord Buds 4 Pro E518A Radiant Gray in — **₹3,569**. Flat ₹730 Off With Axis / ICICI CC",
       "price": 3569,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GJD8XFKY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GJD8XFKY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fossil Black Quartz Stainless Steel Watch @7919. Apply 20% Off Coupon + ₹879 Off With SBI Card.",
-      "price": 7919,
-      "original_price": 9899,
-      "category": "Electronics",
-      "badge": "20% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DT8NM1F8?tag=2244005-21",
-      "posted_at": "2026-10-09T13:39:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DT8NM1F8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DT8NM1F8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DT8NM1F8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
