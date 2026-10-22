@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T13:46:18Z",
+  "updated_at": "2026-10-22T13:46:25Z",
   "deals": [
+    {
+      "title": "Dell 24 AIO, 13th i5 8GB RAM DDR5 512GB SSD @ Rs.76,740 **Apply ₹3000 Off Coupon** + **₹8250 Off with ICICI Bank Credit Card**",
+      "price": 76740,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5WNB4MP?tag=2244005-21",
+      "posted_at": "2026-10-22T13:46:25Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H5WNB4MP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5WNB4MP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5WNB4MP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pumpkin Seeds 1Kg @ Rs.679",
       "price": 679,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B573Y6WD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B573Y6WD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Longway Super Dlx Juicer Mixer Grinder @1377",
-      "price": 1377,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BMVR5ZHN?tag=2244005-21",
-      "posted_at": "2026-10-09T15:09:57Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BMVR5ZHN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BMVR5ZHN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BMVR5ZHN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
