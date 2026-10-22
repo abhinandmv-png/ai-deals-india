@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T04:52:38Z",
+  "updated_at": "2026-10-22T05:15:36Z",
   "deals": [
+    {
+      "title": "45",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B084S2J2HG?tag=2244005-21",
+      "posted_at": "2026-10-22T05:15:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B084S2J2HG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 PRICE DROP - Foldable Ab Exercise Chair Core Exerciser @ 2879 with ICICI Cards Regular Price Rs.10K+",
       "price": 2879,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7BCL576.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7BCL576.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67% Off : Biotique Coconut Brightening Instant Glow Cream| 50gm @118",
-      "price": 118,
-      "original_price": 358,
-      "category": "Beauty",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0054MS8SU?tag=2244005-21",
-      "posted_at": "2026-10-09T12:54:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0054MS8SU.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0054MS8SU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0054MS8SU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
