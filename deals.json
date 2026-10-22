@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T06:48:45Z",
+  "updated_at": "2026-10-22T08:46:21Z",
   "deals": [
+    {
+      "title": "Lakme Loot : Buy 1 Get 1 FREE *Add Any 2 & Check Final Checkout Page.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/A2CM6J679H?tag=2244005-21",
+      "posted_at": "2026-10-22T08:46:20Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/A2CM6J679H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/A2CM6J679H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/A2CM6J679H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B095S9KLY8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B095S9KLY8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Loot For Needy** | Lenovo Idea Tab With Pen (6GB + 128GB, WiFi + 5G) @20,749*. *Flat ₹3250 Off With SBI Cards.",
-      "price": 20749,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HBBGL6C2?tag=2244005-21",
-      "posted_at": "2026-10-09T13:15:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HBBGL6C2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HBBGL6C2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HBBGL6C2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
