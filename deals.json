@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T05:28:27Z",
+  "updated_at": "2026-10-23T05:35:11Z",
   "deals": [
+    {
+      "title": "🔥🔥Nilkamal SLEEP Lite Dual Comfort 6 Inch Mattress | King Size (78 x 72 x 6) @ 8424/- APPLY 493 OFF COUPON + 935 OFF WITH AXIS/ICICI 👉🏻",
+      "price": 8424,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGXRC81B?tag=2244005-21",
+      "posted_at": "2026-10-23T05:35:10Z",
+      "source": "Telegram",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_170.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGXRC81B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGXRC81B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Deal",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCG5GBYV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCG5GBYV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 43 inches FHD Smart LED TV at 19293 Apply 400 Coupon + Pay Using SBI CC 3M No Cost Emi",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F84DKX8K?tag=2244005-21",
-      "posted_at": "2026-10-09T23:38:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F84DKX8K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F84DKX8K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F84DKX8K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
