@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T13:08:09Z",
+  "updated_at": "2026-10-23T13:23:07Z",
   "deals": [
+    {
+      "title": "Loot For Needy | LG 655L, Smart Inverter Double Door Side by Side Refrigerator @57,740* Flat ₹15,250 Off With ICICI CC",
+      "price": 57740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CM9HND4R?tag=2244005-21",
+      "posted_at": "2026-10-23T13:23:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CM9HND4R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CM9HND4R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CM9HND4R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "76% off : Aristocrat Airpro Max 8-Wheel Cabin Suitcase @ 1,099",
       "price": 1099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DG8RPQNS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DG8RPQNS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Elica 90cm 1600 m3/hr Vertical Filterless Autoclean Kitchen Chimney at 16196 Get 1749 discount using SBI card",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GF96CHK5?tag=2244005-21",
-      "posted_at": "2026-10-10T03:23:31Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GF96CHK5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GF96CHK5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GF96CHK5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
