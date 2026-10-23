@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T14:54:04Z",
+  "updated_at": "2026-10-23T15:39:07Z",
   "deals": [
+    {
+      "title": "Adjustable Washing Machine Stand with Wheels at Rs.749",
+      "price": 749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HN1HJDYK?tag=2244005-21",
+      "posted_at": "2026-10-23T15:39:07Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146367.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HN1HJDYK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HN1HJDYK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Silicone Strap Analog Watch for Men @ Rs.99",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07MXKMWT5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07MXKMWT5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Upto 76% Off On Branded Men's Blazers Park Avenue: Arrow: Raymond: Van Heusen: Cantabil: Allen Solly: Peter England: Colorplus: Louis Philippe: La Opala Opalware Dinner Set Of 10 Pcs at 359* Apply 10% Off Coupon :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "76% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5VQXDJY?tag=2244005-21",
-      "posted_at": "2026-10-10T06:08:32Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H5VQXDJY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5VQXDJY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5VQXDJY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
