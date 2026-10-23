@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T07:44:12Z",
+  "updated_at": "2026-10-23T07:58:18Z",
   "deals": [
+    {
+      "title": "Lenovo IdeaCentre AIO Intel Core i3 (8GB RAM/512GB SSD/ Keyboard & Mouse) at Rs.57,490 **Apply ₹4000 off coupon + ₹5500 off with ICICI Credit Card**",
+      "price": 57490,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HC6RKFNN?tag=2244005-21",
+      "posted_at": "2026-10-23T07:58:17Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HC6RKFNN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HC6RKFNN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HC6RKFNN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Deal",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDX1Z8CB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDX1Z8CB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : XIAOMI 17 (12GB/512GB) at 65,999* Flat ₹3000 Off With SBI CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMQWZ6ZM?tag=2244005-21",
-      "posted_at": "2026-10-10T02:06:21Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GMQWZ6ZM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMQWZ6ZM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMQWZ6ZM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
