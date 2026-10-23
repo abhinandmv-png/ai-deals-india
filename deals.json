@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T14:39:00Z",
+  "updated_at": "2026-10-23T14:54:04Z",
   "deals": [
+    {
+      "title": "Silicone Strap Analog Watch for Men @ Rs.99",
+      "price": 99,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HL4FCH58?tag=2244005-21",
+      "posted_at": "2026-10-23T14:54:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HL4FCH58.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HL4FCH58.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HL4FCH58.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HyperX Cloud II Wired Gaming Headset at **₹4,488**. Flat ₹499 Off With ICICI/Axis CC",
       "price": 4488,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5VQXDJY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5VQXDJY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Smart Tank 580 All-in-One WiFi Colour Printer @11303 Flat ₹2366 Off With SBI Credit Card",
-      "price": 11303,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BN1S41VH?tag=2244005-21",
-      "posted_at": "2026-10-10T05:23:32Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BN1S41VH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BN1S41VH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BN1S41VH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
