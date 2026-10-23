@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-22T18:01:12Z",
+  "updated_at": "2026-10-23T02:26:27Z",
   "deals": [
+    {
+      "title": "Treo By Milton Opalware Dinner Set 27Pcs @1299",
+      "price": 1299,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G81G5PYC?tag=2244005-21",
+      "posted_at": "2026-10-23T02:26:26Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G81G5PYC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G81G5PYC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G81G5PYC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Set Wet Luxury Perfume Royal, 18ml at **₹99**. Apply 50₹ off Coupon",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXL6BMNG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXL6BMNG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "75% Off : Himalaya Turmeric Serum Cleanser 180ml @152.",
-      "price": 152,
-      "original_price": 608,
-      "category": "Beauty",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GF81BZ65?tag=2244005-21",
-      "posted_at": "2026-10-09T15:54:57Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GF81BZ65.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GF81BZ65.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GF81BZ65.01.LZZZZZZZ.jpg"
       ]
     }
   ]
