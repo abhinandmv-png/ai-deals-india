@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T04:49:09Z",
+  "updated_at": "2026-10-23T05:28:27Z",
   "deals": [
+    {
+      "title": "Amazon Deal",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D78WK937?tag=2244005-21",
+      "posted_at": "2026-10-23T05:28:26Z",
+      "source": "Telegram",
+      "image": "https://m.media-amazon.com/images/P/B0D78WK937.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D78WK937.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D78WK937.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "88",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F84DKX8K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F84DKX8K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 53% Off On RC Cars & Construction Toy",
-      "price": null,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "53% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/jdDrPgtdaK?tag=2244005-21",
-      "posted_at": "2026-10-09T19:08:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/JDDRPGTDAK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/jdDrPgtdaK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/jdDrPgtdaK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
