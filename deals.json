@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T06:54:49Z",
+  "updated_at": "2026-10-23T07:23:33Z",
   "deals": [
+    {
+      "title": "Havells 750W 3 Jar Mixer Grinder at 2322* **Apply ₹490 Off Coupon **:",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNM7XWFD?tag=2244005-21",
+      "posted_at": "2026-10-23T07:23:33Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNM7XWFD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "20k mAh power bank ₹999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3JL33DW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3JL33DW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "799",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FR9QYC85?tag=2244005-21",
-      "posted_at": "2026-10-10T01:53:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FR9QYC85.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FR9QYC85.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FR9QYC85.01.LZZZZZZZ.jpg"
       ]
     }
   ]
