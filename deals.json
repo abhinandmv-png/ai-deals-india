@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T03:30:56Z",
+  "updated_at": "2026-10-23T03:58:36Z",
   "deals": [
+    {
+      "title": "Borosil 750W Mixer Grinder (3 Jars) @ Rs.2869",
+      "price": 2869,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07C2TQKH5?tag=2244005-21",
+      "posted_at": "2026-10-23T03:58:36Z",
+      "source": "Telegram",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_163.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07C2TQKH5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07C2TQKH5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "RR Signature Vento Fresh Luxura 150 mm Exhaust Fan @699",
       "price": 699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07WMJMNWJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07WMJMNWJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**BEST **: Bosch 368L, 6-in-1 Convertible Double Door Refrigerator @35,240* Flat ₹6750 Off With SBI Credit Card",
-      "price": 35240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJCZGYBZ?tag=2244005-21",
-      "posted_at": "2026-10-09T18:23:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HJCZGYBZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJCZGYBZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJCZGYBZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
