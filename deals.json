@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T13:48:25Z",
+  "updated_at": "2026-10-23T14:24:00Z",
   "deals": [
+    {
+      "title": "Stainless Steel Adjusting Multifunctional Over Kitchen Sink Caddy @ Rs.189",
+      "price": 189,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GLNW4JXR?tag=2244005-21",
+      "posted_at": "2026-10-23T14:23:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GLNW4JXR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GLNW4JXR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GLNW4JXR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AMO Electric Scooter Single Light Lithium Battery 60-70 Km Range Low Speed ✅Deal Price: **₹50,749** ❌MRP: ₹90,000 Discount: **-44%** 👉",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CV5MR8BH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CV5MR8BH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "JBL Cinema 440W Dolby Atmos Soundbar @ Rs.17,999 **•** Apply ₹250 Coupon + ₹1750 Off with SBI Debit/Credit Card *** Regular Price 24,999**",
-      "price": 17999,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D45YS7WK?tag=2244005-21",
-      "posted_at": "2026-10-10T03:23:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D45YS7WK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D45YS7WK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D45YS7WK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
