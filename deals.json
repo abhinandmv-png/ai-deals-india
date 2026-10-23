@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-23T02:26:27Z",
+  "updated_at": "2026-10-23T02:33:48Z",
   "deals": [
+    {
+      "title": "Godrej 185L 5 Star Single Door Refrigerator @17290 Apply Coupon :",
+      "price": 17290,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSG24816?tag=2244005-21",
+      "posted_at": "2026-10-23T02:33:48Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSG24816.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo By Milton Opalware Dinner Set 27Pcs @1299",
       "price": 1299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H34621W9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H34621W9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CG 60L Window Air Cooler @4,999.",
-      "price": 4999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXL6BMNG?tag=2244005-21",
-      "posted_at": "2026-10-09T16:09:55Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GXL6BMNG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXL6BMNG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXL6BMNG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
