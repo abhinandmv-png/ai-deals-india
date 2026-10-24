@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T04:13:01Z",
+  "updated_at": "2026-10-24T04:13:08Z",
   "deals": [
+    {
+      "title": "131 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4N9VRHH?tag=2244005-21",
+      "posted_at": "2026-10-24T04:13:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G4N9VRHH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4N9VRHH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4N9VRHH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "72% Off : Dove Body Wash 1L @267.",
       "price": 267,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6WR6JTL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6WR6JTL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifelong 56L Digital Safe Locker Box @ 6199.",
-      "price": 6199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09D8JZDQ8?tag=2244005-21",
-      "posted_at": "2026-10-10T06:55:11Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09D8JZDQ8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09D8JZDQ8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09D8JZDQ8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
