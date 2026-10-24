@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T11:24:18Z",
+  "updated_at": "2026-10-24T12:43:08Z",
   "deals": [
+    {
+      "title": "Apply ₹129 Off Coupon | Puma Men Snatch Sneaker @950.",
+      "price": 950,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09RG3QT7V?tag=2244005-21",
+      "posted_at": "2026-10-24T12:43:08Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09RG3QT7V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09RG3QT7V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09RG3QT7V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Air Purifier Loot @10,799*. **Apply ₹7000 Off Coupon** : *₹1199 Off With Axis/ICICI Credit Card.",
       "price": 10799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H25ZX29Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H25ZX29Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "340",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DMVTBYBJ?tag=2244005-21",
-      "posted_at": "2026-10-10T08:55:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DMVTBYBJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DMVTBYBJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DMVTBYBJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
