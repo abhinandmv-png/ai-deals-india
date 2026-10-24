@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T08:28:10Z",
+  "updated_at": "2026-10-24T09:24:47Z",
   "deals": [
+    {
+      "title": "Loot at ₹999 - Apply ₹500 Off Coupon",
+      "price": 999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FSSCYMZC?tag=2244005-21",
+      "posted_at": "2026-10-24T09:24:46Z",
+      "source": "Telegram",
+      "image": "https://m.media-amazon.com/images/P/B0FSSCYMZC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FSSCYMZC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FSSCYMZC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Beard & Hair 7 in 1 Trimmer @549.",
       "price": 549,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/vmRtIR4tP4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/vmRtIR4tP4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Atomberg BLDC Fan with Remote @2794. Bank Discount Extra",
-      "price": 2794,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDDJYLD8?tag=2244005-21",
-      "posted_at": "2026-10-10T08:08:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FDDJYLD8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDDJYLD8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDDJYLD8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
