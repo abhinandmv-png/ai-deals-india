@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T14:24:21Z",
+  "updated_at": "2026-10-24T14:54:21Z",
   "deals": [
+    {
+      "title": "Lowest : Printed Bath Mat Combo | Pack of 3 (14 x 23 Inch) @ Rs.229",
+      "price": 229,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H725JC5W?tag=2244005-21",
+      "posted_at": "2026-10-24T14:54:21Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146405.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H725JC5W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H725JC5W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Super Soft AC Single Bed Blanket @ Rs.399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08PGDPPM4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08PGDPPM4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "65% off : NIVEA Nourishing Body Milk 600ml Body Lotion @299",
-      "price": 299,
-      "original_price": 854,
-      "category": "Shopping",
-      "badge": "65% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07VKM2HR5?tag=2244005-21",
-      "posted_at": "2026-10-10T09:40:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07VKM2HR5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07VKM2HR5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07VKM2HR5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
