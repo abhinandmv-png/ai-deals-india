@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T02:13:00Z",
+  "updated_at": "2026-10-24T03:58:00Z",
   "deals": [
+    {
+      "title": "Haldiram’s Sweet Patisa 400g @137",
+      "price": 137,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07VHPMM5S?tag=2244005-21",
+      "posted_at": "2026-10-24T03:57:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07VHPMM5S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07VHPMM5S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07VHPMM5S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1264",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DH8413VK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DH8413VK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LG 251L Smart Inverter Double Door Refrigerator - with Smart — **₹21,148**. Apply** ₹1000 Off Code at Checkout** : LGFEST1000 Flat ₹3750 Off With SBI CC",
-      "price": 21148,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPCZBHPH?tag=2244005-21",
-      "posted_at": "2026-10-10T06:53:33Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPCZBHPH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPCZBHPH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPCZBHPH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
