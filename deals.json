@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T01:54:09Z",
+  "updated_at": "2026-10-24T02:13:00Z",
   "deals": [
+    {
+      "title": "1264",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MLQK7F?tag=2244005-21",
+      "posted_at": "2026-10-24T02:12:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C7MLQK7F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MLQK7F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MLQK7F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AXE Dark Temptation Long Lasting Deodorant Bodyspray for Men 215ml @ Rs.75 **Buy Max Qty**",
       "price": 75,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPCZBHPH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPCZBHPH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PINACOLADA Women's Cotton Hooded Neck Sweatshirt — ₹153.",
-      "price": 153,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BDFXJW26?tag=2244005-21",
-      "posted_at": "2026-10-10T06:40:14Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BDFXJW26.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BDFXJW26.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BDFXJW26.01.LZZZZZZZ.jpg"
       ]
     }
   ]
