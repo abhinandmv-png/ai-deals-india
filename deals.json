@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T03:58:00Z",
+  "updated_at": "2026-10-24T04:13:01Z",
   "deals": [
+    {
+      "title": "72% Off : Dove Body Wash 1L @267.",
+      "price": 267,
+      "original_price": 954,
+      "category": "Shopping",
+      "badge": "72% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHV82T31?tag=2244005-21",
+      "posted_at": "2026-10-24T04:13:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHV82T31.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Haldiram’s Sweet Patisa 400g @137",
       "price": 137,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09D8JZDQ8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09D8JZDQ8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "61% off : Glen 12L Air Fryer Oven 1800W with Rotisserie @7798",
-      "price": 7798,
-      "original_price": 19995,
-      "category": "Shopping",
-      "badge": "61% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DH8413VK?tag=2244005-21",
-      "posted_at": "2026-10-10T06:55:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DH8413VK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DH8413VK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DH8413VK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
