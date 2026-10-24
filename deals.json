@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T12:43:08Z",
+  "updated_at": "2026-10-24T13:09:18Z",
   "deals": [
+    {
+      "title": "Haier 325 L 3 Star Frost Free Triple Inverter Double Door Bottom Mount Refrigerator at Rs.28,740 Get 11,250 Discount Using ICICI EMI Link :",
+      "price": 28740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H34P66XV?tag=2244005-21",
+      "posted_at": "2026-10-24T13:09:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H34P66XV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H34P66XV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H34P66XV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply ₹129 Off Coupon | Puma Men Snatch Sneaker @950.",
       "price": 950,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GM13VDLG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GM13VDLG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo LOQ Intel Core i5 NVIDIA RTX 3050 6GB (16GB RAM/512GB SSD) AI Gaming Laptop @89,500 Flat ₹34,500 Off With SBI Credit Card.",
-      "price": 89500,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H25ZX29Y?tag=2244005-21",
-      "posted_at": "2026-10-10T09:10:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H25ZX29Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H25ZX29Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H25ZX29Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
