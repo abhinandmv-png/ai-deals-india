@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T16:54:32Z",
+  "updated_at": "2026-10-24T18:39:25Z",
   "deals": [
+    {
+      "title": "Grab : Ceramic Pot For Plants @ Rs.99",
+      "price": 99,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTYYG2SN?tag=2244005-21",
+      "posted_at": "2026-10-24T18:39:24Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146424.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTYYG2SN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTYYG2SN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt CineHead E1 Smart Projector @ Rs.7499 **Apply Rs.1000 Off Coupon**",
       "price": 7499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B4D1J266.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B4D1J266.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pexpo Hot and Cold Stainless Steel Water Bottle (980ml) at Rs.502 Regular price 949",
-      "price": 502,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BDLPJDGM?tag=2244005-21",
-      "posted_at": "2026-10-10T11:53:39Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145478.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BDLPJDGM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BDLPJDGM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
