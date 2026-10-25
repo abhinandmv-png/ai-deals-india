@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T03:24:30Z",
+  "updated_at": "2026-10-25T03:39:31Z",
   "deals": [
+    {
+      "title": "53% Off On Greenchef Dice Induction Cooktop 2000W Touch Panel at Rs.1499 Safari Pentagon Pro 8 Wheels Trolley Bag, Set, Set of 3 @ Rs.4559",
+      "price": 4559,
+      "original_price": 4559,
+      "category": "Fashion",
+      "badge": "53% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097G96VT8?tag=2244005-21",
+      "posted_at": "2026-10-25T03:39:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B097G96VT8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097G96VT8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097G96VT8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "USHA Warmboy 15L Storage Water Heater, 2000W @ Rs.5979",
       "price": 5979,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3HWJXZ5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3HWJXZ5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ASUS TUF F16 (2026) Intel Core 5 (16GB RAM (Upgradeable),512GB SSD) @ Rs.92,590 **(Effective Price)** **Rs.7,400 Instant Discount On SBI Credit Card**",
-      "price": 92590,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCP5YK91?tag=2244005-21",
-      "posted_at": "2026-10-10T13:23:38Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HCP5YK91.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCP5YK91.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCP5YK91.01.LZZZZZZZ.jpg"
       ]
     }
   ]
