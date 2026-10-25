@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T08:04:42Z",
+  "updated_at": "2026-10-25T08:19:06Z",
   "deals": [
+    {
+      "title": "Bangalore Refinery 24k (999) Gold Coin Pendants 1gm @ Rs.14,700 **(Effective Price)** **Rs.1250 Instant Discount On ICICI Bank Credit Card**",
+      "price": 14700,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBM5KPR7?tag=2244005-21",
+      "posted_at": "2026-10-25T08:19:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DBM5KPR7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBM5KPR7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBM5KPR7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1549",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B089B619P3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B089B619P3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apple iPad 11 A16 Chip 128GB, Wi-Fi 6 @42,240 Flat ₹3750 Off With SBI Credit Card",
-      "price": 42240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZ79Q1DB?tag=2244005-21",
-      "posted_at": "2026-10-10T15:55:18Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DZ79Q1DB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZ79Q1DB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZ79Q1DB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
