@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T15:26:10Z",
+  "updated_at": "2026-10-25T15:45:27Z",
   "deals": [
+    {
+      "title": "Tukzer 6-in-1 Type-C Hub to HDMI 4K, 2 USB 3.0 Data, USB-C 3.0 Data, 100W PD with 1000M Ethernet RJ45, MultiPort Adapter Compatible with MacBook Pro Air iPad, Dell, Other Type-C Device ✅Deal Price: ₹ 950 ❌MRP: ₹ 5499 Dis",
+      "price": 950,
+      "original_price": 5499,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHPD5CGS?tag=2244005-21",
+      "posted_at": "2026-10-25T15:45:27Z",
+      "source": "Telegram",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_211.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHPD5CGS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHPD5CGS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "56% Off : Fiama Gel Bar (Pack Of 8) @299.",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0154XTCNI.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0154XTCNI.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "789",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CXJ9SBFJ?tag=2244005-21",
-      "posted_at": "2026-10-11T01:50:39Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CXJ9SBFJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CXJ9SBFJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CXJ9SBFJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
