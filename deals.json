@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-24T18:54:22Z",
+  "updated_at": "2026-10-25T00:09:27Z",
   "deals": [
+    {
+      "title": "Loot 1799",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBWGR4LX?tag=2244005-21",
+      "posted_at": "2026-10-25T00:09:27Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FBWGR4LX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBWGR4LX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBWGR4LX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Godrej 185 L 5 Star Refrigerator at 13261 Apply ₹2000 off Coupon + ₹2029 off with ICICI Bank Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08P2YC9X8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08P2YC9X8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 335L Max Flex, 8 in 1 Convertible,Triple Door Refrigerator @ Rs.37,240 **(Effectively) ** ** Flat ₹7750 Off With SBI CC**",
-      "price": 37240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMPXF2SY?tag=2244005-21",
-      "posted_at": "2026-10-10T12:24:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
