@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T15:45:27Z",
+  "updated_at": "2026-10-25T16:06:41Z",
   "deals": [
+    {
+      "title": "Safari large laptop backpack 30 Litre @ R.s549",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097JJ2CK6?tag=2244005-21",
+      "posted_at": "2026-10-25T16:06:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B097JJ2CK6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097JJ2CK6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097JJ2CK6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tukzer 6-in-1 Type-C Hub to HDMI 4K, 2 USB 3.0 Data, USB-C 3.0 Data, 100W PD with 1000M Ethernet RJ45, MultiPort Adapter Compatible with MacBook Pro Air iPad, Dell, Other Type-C Device ✅Deal Price: ₹ 950 ❌MRP: ₹ 5499 Dis",
       "price": 950,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBKKPC41.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBKKPC41.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1350",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0154XTCNI?tag=2244005-21",
-      "posted_at": "2026-10-11T01:50:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0154XTCNI.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0154XTCNI.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0154XTCNI.01.LZZZZZZZ.jpg"
       ]
     }
   ]
