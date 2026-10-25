@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T13:15:30Z",
+  "updated_at": "2026-10-25T14:15:18Z",
   "deals": [
+    {
+      "title": "Premium Organic Raw Honey 300g at 299.",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H99G75R2?tag=2244005-21",
+      "posted_at": "2026-10-25T14:15:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H99G75R2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H99G75R2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H99G75R2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 43-inch 3 Star Direct Cool Single Door Refrigerator, 43 L at **₹8,901**. •Apply ₹500 Coupon •Apply ₹500 Off Code at Checkout : GIFT500 • Flat ₹989 Off With Axis/ICICI CC.",
       "price": 8901,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6XLNMH5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6XLNMH5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 32\" S3 Curved Monitor - with 1920x1080, 100Hz, 4ms — **₹11,592**. **Apply ₹1120 Off Coupon** + **₹1287 Off With SBI Credit Card.**",
-      "price": 11592,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F99YXMB9?tag=2244005-21",
-      "posted_at": "2026-10-10T18:23:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F99YXMB9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F99YXMB9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F99YXMB9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
