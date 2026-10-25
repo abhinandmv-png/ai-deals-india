@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T17:06:41Z",
+  "updated_at": "2026-10-25T18:03:35Z",
   "deals": [
+    {
+      "title": ". Portronics Toad Wired Mouse 🔥 79₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRKSQ7Z2?tag=2244005-21",
+      "posted_at": "2026-10-25T18:03:35Z",
+      "source": "Telegram",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_212.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRKSQ7Z2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRKSQ7Z2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Handmade MDF Wooden Lotus Main Door Toran (Pack of 2) @ Rs.199",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FZKZTXSN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FZKZTXSN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "537",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC63Q5XP?tag=2244005-21",
-      "posted_at": "2026-10-11T02:10:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FC63Q5XP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC63Q5XP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC63Q5XP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
