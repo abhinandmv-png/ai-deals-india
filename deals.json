@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T02:09:28Z",
+  "updated_at": "2026-10-25T02:43:23Z",
   "deals": [
+    {
+      "title": "Cello Melamine Mug - Set of 4, 200ml @187",
+      "price": 187,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07XY4XQPD?tag=2244005-21",
+      "posted_at": "2026-10-25T02:43:22Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07XY4XQPD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07XY4XQPD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07XY4XQPD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Judge by Prestige Non-Stick Cookware Set @ Rs.875",
       "price": 875,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HGRSP9MM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HGRSP9MM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Waxpol Metal Polish (200 ml) at Rs.141",
-      "price": 141,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B078V5C6NK?tag=2244005-21",
-      "posted_at": "2026-10-10T12:53:38Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B078V5C6NK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B078V5C6NK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B078V5C6NK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
