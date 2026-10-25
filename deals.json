@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T02:58:20Z",
+  "updated_at": "2026-10-25T03:24:30Z",
   "deals": [
+    {
+      "title": "USHA Warmboy 15L Storage Water Heater, 2000W @ Rs.5979",
+      "price": 5979,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BDZZ5LWD?tag=2244005-21",
+      "posted_at": "2026-10-25T03:24:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BDZZ5LWD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BDZZ5LWD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BDZZ5LWD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Levi's Men's Slim Fit Pant @791",
       "price": 791,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCP5YK91.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCP5YK91.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "SANDISK 2TB Portable SSD @22749 Flat ₹5250 off with SBI Credit Card",
-      "price": 22749,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C5JNWF58?tag=2244005-21",
-      "posted_at": "2026-10-10T13:10:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C5JNWF58.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C5JNWF58.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C5JNWF58.01.LZZZZZZZ.jpg"
       ]
     }
   ]
