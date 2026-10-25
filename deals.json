@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T03:43:20Z",
+  "updated_at": "2026-10-25T04:28:19Z",
   "deals": [
+    {
+      "title": "Oral-B Soft Toothbrush Pack of 4 @126",
+      "price": 126,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B591M2JK?tag=2244005-21",
+      "posted_at": "2026-10-25T04:28:18Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B591M2JK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B591M2JK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B591M2JK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Aqua Stainless Steel Bottle 920 ml, Set of 3 @596",
       "price": 596,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FS23TZ4N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1380",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBLN9VFS?tag=2244005-21",
-      "posted_at": "2026-10-10T13:40:12Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FBLN9VFS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBLN9VFS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBLN9VFS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
