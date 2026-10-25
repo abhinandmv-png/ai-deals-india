@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T04:28:26Z",
+  "updated_at": "2026-10-25T04:39:31Z",
   "deals": [
+    {
+      "title": "Fastrack Up Quartz Analog Watch at Rs.**1,725**. Apply 10% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "10% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B87XJW4Z?tag=2244005-21",
+      "posted_at": "2026-10-25T04:39:31Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B87XJW4Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B87XJW4Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B87XJW4Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "U.S. POLO ASSN. Men Slim Fit Jeans @629",
       "price": 629,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00RLKAA1Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00RLKAA1Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "43 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B6FJNH97?tag=2244005-21",
-      "posted_at": "2026-10-10T13:55:14Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B6FJNH97.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B6FJNH97.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B6FJNH97.01.LZZZZZZZ.jpg"
       ]
     }
   ]
