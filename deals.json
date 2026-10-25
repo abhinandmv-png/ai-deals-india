@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T08:04:05Z",
+  "updated_at": "2026-10-25T08:04:36Z",
   "deals": [
+    {
+      "title": "Puma Unisex Adult Max Slide @633. Apply 12% Off Coupon :",
+      "price": 633,
+      "original_price": 719,
+      "category": "Shopping",
+      "badge": "12% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYSP6DSH?tag=2244005-21",
+      "posted_at": "2026-10-25T08:04:35Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BYSP6DSH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYSP6DSH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYSP6DSH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sensodyne Toothpaste 160gm (80gm x 2) at 235.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07DVRGPG2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07DVRGPG2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "986",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNG3B1D3?tag=2244005-21",
-      "posted_at": "2026-10-10T15:40:20Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GNG3B1D3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNG3B1D3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNG3B1D3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
