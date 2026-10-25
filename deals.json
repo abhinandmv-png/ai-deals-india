@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T08:34:07Z",
+  "updated_at": "2026-10-25T11:00:20Z",
   "deals": [
+    {
+      "title": "Tata Classic Instant Coffee, 200g Pouch at 278",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09VGRNCJ7?tag=2244005-21",
+      "posted_at": "2026-10-25T11:00:20Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09VGRNCJ7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09VGRNCJ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09VGRNCJ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Opalware Dinner Set | 13 Pieces @634.",
       "price": 634,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTTVR5L3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTTVR5L3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LG 80 cm Full HD Curved PC Monitor @ Rs.10,800 Flat ₹1199 Off With SBI Credit Card + Apply ₹500 Off Coupon",
-      "price": 10800,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKFTZCJ2?tag=2244005-21",
-      "posted_at": "2026-10-10T16:53:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DKFTZCJ2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKFTZCJ2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKFTZCJ2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
