@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-25T08:19:06Z",
+  "updated_at": "2026-10-25T08:34:07Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Opalware Dinner Set | 13 Pieces @634.",
+      "price": 634,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MJJXCJ?tag=2244005-21",
+      "posted_at": "2026-10-25T08:34:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C7MJJXCJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MJJXCJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MJJXCJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bangalore Refinery 24k (999) Gold Coin Pendants 1gm @ Rs.14,700 **(Effective Price)** **Rs.1250 Instant Discount On ICICI Bank Credit Card**",
       "price": 14700,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DKFTZCJ2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DKFTZCJ2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "35% Off On Greenchef Stainless Steel Induction Bottom Pressure Cooker 2liter at Rs.729 Grab : GreenUV Protection Shade Net (6.5FT x 5FT) @ Rs.75",
-      "price": 75,
-      "original_price": 115,
-      "category": "Home",
-      "badge": "35% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B089B619P3?tag=2244005-21",
-      "posted_at": "2026-10-10T16:08:43Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145529.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B089B619P3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B089B619P3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
