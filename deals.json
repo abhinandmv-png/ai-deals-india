@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T08:26:09Z",
+  "updated_at": "2026-10-26T09:11:11Z",
   "deals": [
+    {
+      "title": "Himalay Baby Diaper Size L 128 Count @1085",
+      "price": 1085,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BKQ1Q2?tag=2244005-21",
+      "posted_at": "2026-10-26T09:11:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H6BKQ1Q2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BKQ1Q2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BKQ1Q2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifebuoy Body Wash, 1L @253",
       "price": 253,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FM8B3QBT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FM8B3QBT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "174",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08HDT835B?tag=2244005-21",
-      "posted_at": "2026-10-11T06:10:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08HDT835B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
