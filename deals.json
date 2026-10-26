@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T06:56:09Z",
+  "updated_at": "2026-10-26T07:06:59Z",
   "deals": [
+    {
+      "title": "Haier 602 L 3 Star Frost Free Expert Inverter 2-Door Side by Side Refrigerator at 51,430 Effective Apply 2000 Coupon + Get 10,250 Discount Using ICICI",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B8ZMLRH4?tag=2244005-21",
+      "posted_at": "2026-10-26T07:06:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B8ZMLRH4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B8ZMLRH4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B8ZMLRH4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1422",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBRGQ7PM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBRGQ7PM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Little Angel Baby Diaper Pants @ Rs.383 M, 72 Pants : L, 62 Pants : XL, 54 Pants : Upto 65% Off On All Diaper Sizes From Little Angel : Loot For Needy | Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispen",
-      "price": 383,
-      "original_price": 8750,
-      "category": "Fashion",
-      "badge": "65% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GR9W77F4?tag=2244005-21",
-      "posted_at": "2026-10-11T04:50:45Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GR9W77F4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GR9W77F4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GR9W77F4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
