@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T07:36:53Z",
+  "updated_at": "2026-10-26T07:51:53Z",
   "deals": [
+    {
+      "title": "Tommy Hilfiger Watch for Men at 5434 Apply 10% Off Coupon:",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "10% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CLRDYN6R?tag=2244005-21",
+      "posted_at": "2026-10-26T07:51:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CLRDYN6R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CLRDYN6R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CLRDYN6R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Epson EcoTank A4 All-in-One Ink Tank Printer at **₹9,990**. ₹1109 off with ICICI Bank Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08PBR9CN9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08PBR9CN9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "259",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07YWMQHYJ?tag=2244005-21",
-      "posted_at": "2026-10-11T04:55:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07YWMQHYJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07YWMQHYJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07YWMQHYJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
