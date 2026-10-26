@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T05:26:26Z",
+  "updated_at": "2026-10-26T05:41:08Z",
   "deals": [
+    {
+      "title": "Bata Mens Napoli E Sneaker @681.",
+      "price": 681,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMJSFZ7P?tag=2244005-21",
+      "posted_at": "2026-10-26T05:41:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GMJSFZ7P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMJSFZ7P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMJSFZ7P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Artis Mixer Grinder, 5 Jar, 1000 W @3666",
       "price": 3666,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FN7V2ZGV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FN7V2ZGV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Colgate Strong Teeth, 500g @ Rs.239 Apply 3% Off Coupon",
-      "price": 239,
-      "original_price": 246,
-      "category": "Shopping",
-      "badge": "3% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B082LDRTD1?tag=2244005-21",
-      "posted_at": "2026-10-11T04:05:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B082LDRTD1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B082LDRTD1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B082LDRTD1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
