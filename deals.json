@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T04:21:48Z",
+  "updated_at": "2026-10-26T05:11:06Z",
   "deals": [
+    {
+      "title": "Havells Prolife Brio Air Fryer 4.2 L @3819",
+      "price": 3819,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH1WPYMX?tag=2244005-21",
+      "posted_at": "2026-10-26T05:11:06Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH1WPYMX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosil Deep Kadai 2 L at 771.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4HP1B43.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4HP1B43.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "102 Apply 3% Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00CQ3WXFO?tag=2244005-21",
-      "posted_at": "2026-10-11T03:10:22Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00CQ3WXFO.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00CQ3WXFO.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00CQ3WXFO.01.LZZZZZZZ.jpg"
       ]
     }
   ]
