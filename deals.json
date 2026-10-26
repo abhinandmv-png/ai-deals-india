@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T18:54:18Z",
+  "updated_at": "2026-10-26T18:54:28Z",
   "deals": [
+    {
+      "title": "Logitech G502 X Lightspeed Wireless Gaming Mouse - Optical Mouse at **₹7,017**. **Apply 35% Coupon** + **Bank Discount**",
+      "price": 7017,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BCQ83WL9?tag=2244005-21",
+      "posted_at": "2026-10-26T18:54:28Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BCQ83WL9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Logitech G PRO Mechanical Gaming Keyboard at ‎6,497. Apply 35% Off Coupon :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBKJVDMF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBKJVDMF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acer Aspire AMD Ryzen Laptop at 31,740. Apply ₹3000 Off Coupon + ₹5000 Off With SBI Credit Card.",
-      "price": null,
-      "original_price": 5000,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYRGV13D?tag=2244005-21",
-      "posted_at": "2026-10-11T10:05:57Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GYRGV13D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYRGV13D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYRGV13D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
