@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T05:56:08Z",
+  "updated_at": "2026-10-26T06:41:08Z",
   "deals": [
+    {
+      "title": "Havells Beard & Hair 7 in 1 Trimmer @599. Regular Price 1K",
+      "price": 599,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GJ5NH152?tag=2244005-21",
+      "posted_at": "2026-10-26T06:41:08Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GJ5NH152.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GJ5NH152.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GJ5NH152.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% Off : Saffola Honey Active, 1kg @201.",
       "price": 201,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GY12MBB9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GY12MBB9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lakme Perfect Radiance Serum 30ml @233",
-      "price": 233,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01C42I1NE?tag=2244005-21",
-      "posted_at": "2026-10-11T04:25:23Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B01C42I1NE.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01C42I1NE.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01C42I1NE.01.LZZZZZZZ.jpg"
       ]
     }
   ]
