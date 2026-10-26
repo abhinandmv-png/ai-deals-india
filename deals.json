@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T07:51:53Z",
+  "updated_at": "2026-10-26T08:06:52Z",
   "deals": [
+    {
+      "title": "Signoraware Stainless Steel Lunch Box with Steel tumbler @622.",
+      "price": 622,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07PWN1H2B?tag=2244005-21",
+      "posted_at": "2026-10-26T08:06:51Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07PWN1H2B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07PWN1H2B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07PWN1H2B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tommy Hilfiger Watch for Men at 5434 Apply 10% Off Coupon:",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01M0TK5AP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01M0TK5AP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Butterfly 750W Mixer Grinder (4 Jars) at 2706* **• 300₹ Off Using SBI Debit/Credit Card**",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08PBR9CN9?tag=2244005-21",
-      "posted_at": "2026-10-11T05:20:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08PBR9CN9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08PBR9CN9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08PBR9CN9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
