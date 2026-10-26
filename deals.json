@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T05:11:06Z",
+  "updated_at": "2026-10-26T05:26:07Z",
   "deals": [
+    {
+      "title": "Bata Men Casual Slip-on Shoes @663",
+      "price": 663,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMJSBRF1?tag=2244005-21",
+      "posted_at": "2026-10-26T05:26:06Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GMJSBRF1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMJSBRF1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMJSBRF1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Prolife Brio Air Fryer 4.2 L @3819",
       "price": 3819,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09FN1TRL1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09FN1TRL1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ASICS Unisex-Adult Classic Running Shoe @3200",
-      "price": 3200,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G4HP1B43?tag=2244005-21",
-      "posted_at": "2026-10-11T03:25:23Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G4HP1B43.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G4HP1B43.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G4HP1B43.01.LZZZZZZZ.jpg"
       ]
     }
   ]
