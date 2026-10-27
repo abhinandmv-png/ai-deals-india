@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:44:45Z",
+  "updated_at": "2026-10-27T18:53:11Z",
   "deals": [
+    {
+      "title": ".. Loottt Fasttt 💥💥💥 236 : Buy Fast, Before Price Change . Puma RBD Tech Sneaker 2131 Apply Coupon OnePlus N6x | 4GB+128GB at ₹14,999 Apply ₹1000 Coupon + ₹3000 Off With HDFC CC",
+      "price": 14999,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H7S6LT9P?tag=2244005-21",
+      "posted_at": "2026-10-27T18:53:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H7S6LT9P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H7S6LT9P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H7S6LT9P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 12 kg Fully-Automatic Front Load Washing Machine at ‎33240 Apply ₹2000 off Coupon + ₹11250 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D62KSKV2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D62KSKV2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFH259P1?tag=2244005-21",
-      "posted_at": "2026-10-12T02:31:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DFH259P1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFH259P1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFH259P1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
