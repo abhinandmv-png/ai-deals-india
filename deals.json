@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T17:48:22Z",
+  "updated_at": "2026-10-27T18:03:23Z",
   "deals": [
+    {
+      "title": ". Citizen Tsuyosa NJ0150-81Z Automatic Watch 24080 With ICICI/AXIS CC",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09LQS9N9X?tag=2244005-21",
+      "posted_at": "2026-10-27T18:03:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09LQS9N9X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09LQS9N9X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09LQS9N9X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Citizen Men's Stainless Steel Analog Quartz Watch 8,079 Apply 5% Off Coupon + 897 Off With ICICI/Axis CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FL2M6KZS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FL2M6KZS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Flat 800 off using cc",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G44K5LCL?tag=2244005-21",
-      "posted_at": "2026-10-11T17:36:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G44K5LCL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G44K5LCL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G44K5LCL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
