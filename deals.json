@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T04:11:25Z",
+  "updated_at": "2026-10-27T04:41:26Z",
   "deals": [
+    {
+      "title": "44% Off : Complan Nutrition Chocolate Flavour, 1.5 Kg @634",
+      "price": 634,
+      "original_price": 1132,
+      "category": "Shopping",
+      "badge": "44% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CD5QSDXM?tag=2244005-21",
+      "posted_at": "2026-10-27T04:41:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CD5QSDXM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CD5QSDXM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CD5QSDXM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric 5.9 Litre Instant Water @2790 With Axis/ICICI CC.",
       "price": 2790,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07PRVXDGV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07PRVXDGV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AJIO Loot : Upto 86% Off On Levi's Clothing. Men's : Women's : Upto 86% Off On UCB Clothing. Men's : Women’s : Boy's : Girl's : Upto 85% Off Vero Moda & ONLY Women's Clothing. Dresses : Tops : T-shirts : Sweatshirts : Je",
-      "price": 299,
-      "original_price": 2136,
-      "category": "Fashion",
-      "badge": "86% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/oaux9c6wW8?tag=2244005-21",
-      "posted_at": "2026-10-11T12:51:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/OAUX9C6WW8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/oaux9c6wW8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/oaux9c6wW8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
