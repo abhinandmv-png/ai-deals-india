@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-26T18:54:28Z",
+  "updated_at": "2026-10-27T01:24:24Z",
   "deals": [
+    {
+      "title": "Hero Xoom 125cc Petrol Scooter @ Rs.88,700 Flat ₹8500 Off With ICICI/AXIS Credit Card.",
+      "price": 88700,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FGY91JB5?tag=2244005-21",
+      "posted_at": "2026-10-27T01:24:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FGY91JB5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FGY91JB5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FGY91JB5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Logitech G502 X Lightspeed Wireless Gaming Mouse - Optical Mouse at **₹7,017**. **Apply 35% Coupon** + **Bank Discount**",
       "price": 7017,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4VBH9L7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4VBH9L7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Surf Excel Matic Liquid Detergent 3 kg for Front Load (Pack of 2) @ Rs.799",
-      "price": 799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CBKJVDMF?tag=2244005-21",
-      "posted_at": "2026-10-11T11:20:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CBKJVDMF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CBKJVDMF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CBKJVDMF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
