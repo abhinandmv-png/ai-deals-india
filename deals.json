@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:55:14Z",
+  "updated_at": "2026-10-27T18:55:21Z",
   "deals": [
+    {
+      "title": ". Ant Esports Gm320 RGB Wired Gaming Mouse, 12800 498",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08D64C9FN?tag=2244005-21",
+      "posted_at": "2026-10-27T18:55:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08D64C9FN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08D64C9FN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08D64C9FN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". London Fog Brixton Collection Analog Quartz Vintage Watch 1,199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWSYH11M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWSYH11M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "245",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C27PLT88?tag=2244005-21",
-      "posted_at": "2026-10-12T03:16:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C27PLT88.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C27PLT88.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C27PLT88.01.LZZZZZZZ.jpg"
       ]
     }
   ]
