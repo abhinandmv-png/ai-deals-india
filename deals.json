@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T19:24:17Z",
+  "updated_at": "2026-10-27T19:44:35Z",
   "deals": [
+    {
+      "title": ". IKEA Small Hinge for Horizontal Door 666 Apply 35% Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B085QFFKN3?tag=2244005-21",
+      "posted_at": "2026-10-27T19:44:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B085QFFKN3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B085QFFKN3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B085QFFKN3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sennheiser Momentum 4 Headphones @ Rs.19,470+Bank Offer",
       "price": 19470,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B088TZ3B3N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B088TZ3B3N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "53% Off : Cinthol Lime Foam Body Wash (750ml) @155.",
-      "price": 155,
-      "original_price": 330,
-      "category": "Shopping",
-      "badge": "53% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FP5C1C7C?tag=2244005-21",
-      "posted_at": "2026-10-12T06:46:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FP5C1C7C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FP5C1C7C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FP5C1C7C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
