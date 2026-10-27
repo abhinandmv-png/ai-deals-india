@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:03:33Z",
+  "updated_at": "2026-10-27T18:30:08Z",
   "deals": [
+    {
+      "title": "Godrej 415L Double Door Refrigerator for ₹27,590 **(Effectively) ** **Apply ₹4,000 off Coupon + ₹13,500 off with ICICI & Axis Credit Card EMI **",
+      "price": 27590,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY11WRBQ?tag=2244005-21",
+      "posted_at": "2026-10-27T18:30:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GY11WRBQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY11WRBQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY11WRBQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Casio G-Shock Analog-Digital Silver Dial Watch 10126 Apply 7% Off Coupon + 1124 Off with ICICI & Axis CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra : Flat 64% Off On Calvin Klein Watches + Bank Offer. La Opala Opalware Dinner Set, 10-Piece, 10 Pieces — **₹360**. • **Apply 10% Coupon** on page.",
-      "price": 360,
-      "original_price": 1000,
-      "category": "Electronics",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5VRR17J?tag=2244005-21",
-      "posted_at": "2026-10-11T18:36:06Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H5VRR17J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5VRR17J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5VRR17J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
