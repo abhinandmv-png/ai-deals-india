@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:30:08Z",
+  "updated_at": "2026-10-27T18:33:28Z",
   "deals": [
+    {
+      "title": "iPhone 17 Pro Big Basket ₹8000 coupon Someone shared this on discussion group Samsung 9 Kg Fully-Automatic Front Load Washing Machine @28500 Flat ₹10000 Off With HDFC Credit Card",
+      "price": 28500,
+      "original_price": 10000,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRYMKCW4?tag=2244005-21",
+      "posted_at": "2026-10-27T18:33:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DRYMKCW4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRYMKCW4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRYMKCW4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Godrej 415L Double Door Refrigerator for ₹27,590 **(Effectively) ** **Apply ₹4,000 off Coupon + ₹13,500 off with ICICI & Axis Credit Card EMI **",
       "price": 27590,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08B3L75WX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08B3L75WX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra : Flat 64% Off On Calvin Klein Watches + Bank Offer. Nilkamal Sierra Velvet Fabric Manual Recliner | 3 Year Warranty at 10,612 Effective Get 4578 Discount Using SBI CC",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BVRGMDPQ?tag=2244005-21",
-      "posted_at": "2026-10-11T18:51:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
