@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:55:21Z",
+  "updated_at": "2026-10-27T18:58:51Z",
   "deals": [
+    {
+      "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : 14500 off Using Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2HQ3ZY4?tag=2244005-21",
+      "posted_at": "2026-10-27T18:58:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H2HQ3ZY4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2HQ3ZY4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2HQ3ZY4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Ant Esports Gm320 RGB Wired Gaming Mouse, 12800 498",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDL5K6SV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDL5K6SV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2339",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWSYH11M?tag=2244005-21",
-      "posted_at": "2026-10-12T03:31:02Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DWSYH11M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWSYH11M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWSYH11M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
