@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T19:59:34Z",
+  "updated_at": "2026-10-27T19:59:42Z",
   "deals": [
+    {
+      "title": ". Apple Watch Series 11 GPS 46mm 37,499",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQG8MSVT?tag=2244005-21",
+      "posted_at": "2026-10-27T19:59:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQG8MSVT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "13,299₹ With HDFC Bank Offer SanDisk 1TB Portable SSD, 800MB/s R, USB 3.2 Gen 2, Rugged SSD",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B083JXG8G9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B083JXG8G9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "281",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00SUYF42M?tag=2244005-21",
-      "posted_at": "2026-10-12T07:01:04Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00SUYF42M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00SUYF42M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00SUYF42M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
