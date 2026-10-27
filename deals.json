@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T16:40:42Z",
+  "updated_at": "2026-10-27T17:00:01Z",
   "deals": [
+    {
+      "title": "Bajaj Pulsar NS 400 Brooklyn Bike at 179042 Apply 5000 Coupon + 13000 off Using Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5JRPMFN?tag=2244005-21",
+      "posted_at": "2026-10-27T17:00:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H5JRPMFN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5JRPMFN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5JRPMFN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HRX Helium 3-Piece Luggage Set 3,999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQTSHLLR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQTSHLLR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Zebronics 90W Compact soundbar at 2999.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7XNF1QF?tag=2244005-21",
-      "posted_at": "2026-10-11T16:55:38Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F7XNF1QF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7XNF1QF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7XNF1QF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
