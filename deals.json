@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:59:13Z",
+  "updated_at": "2026-10-27T18:59:24Z",
   "deals": [
+    {
+      "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : . Bosch 335L 3 Star Frost Free Trip",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMPXF2SY?tag=2244005-21",
+      "posted_at": "2026-10-27T18:59:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : . OnePlus Buds 4 TWS Earbuds 5,180",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F2TQ547C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F2TQ547C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Armani Exchange Men's Analog Black Dial Watch at **₹11,106**.",
-      "price": 11106,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00LO7WHM2?tag=2244005-21",
-      "posted_at": "2026-10-12T04:06:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00LO7WHM2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00LO7WHM2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00LO7WHM2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
