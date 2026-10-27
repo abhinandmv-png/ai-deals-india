@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T07:24:28Z",
+  "updated_at": "2026-10-27T09:26:30Z",
   "deals": [
+    {
+      "title": "2379",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTHSHTXT?tag=2244005-21",
+      "posted_at": "2026-10-27T09:26:29Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DTHSHTXT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTHSHTXT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTHSHTXT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wonderchef Tumbler 275 ml (Set Of 6) at 299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07WMS7TWB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07WMS7TWB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Clean Yeast Protein Isolate (1kg) @ Rs.1399 Apply Rs.41 Off Coupon",
-      "price": 1399,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8S1K7XM?tag=2244005-21",
-      "posted_at": "2026-10-11T14:36:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H8S1K7XM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8S1K7XM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8S1K7XM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
