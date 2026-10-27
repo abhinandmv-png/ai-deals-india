@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:59:24Z",
+  "updated_at": "2026-10-27T19:02:36Z",
   "deals": [
+    {
+      "title": "479",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GW3N1M37?tag=2244005-21",
+      "posted_at": "2026-10-27T19:02:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GW3N1M37.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GW3N1M37.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GW3N1M37.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : . Bosch 335L 3 Star Frost Free Trip",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D3QYP2V1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D3QYP2V1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Highlander Men's Cargo Jogger Trousers @283",
-      "price": 283,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F2TQ547C?tag=2244005-21",
-      "posted_at": "2026-10-12T05:31:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F2TQ547C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F2TQ547C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F2TQ547C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
