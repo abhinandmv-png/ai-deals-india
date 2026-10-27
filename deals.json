@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:33:28Z",
+  "updated_at": "2026-10-27T18:43:56Z",
   "deals": [
+    {
+      "title": ". Casio Vintage Watch 1,869 LOOT : ARMANI Watch @4999 + Bank offer. REGULAR 22K",
+      "price": 4999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07M77D5KV?tag=2244005-21",
+      "posted_at": "2026-10-27T18:43:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07M77D5KV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07M77D5KV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07M77D5KV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iPhone 17 Pro Big Basket ₹8000 coupon Someone shared this on discussion group Samsung 9 Kg Fully-Automatic Front Load Washing Machine @28500 Flat ₹10000 Off With HDFC Credit Card",
       "price": 28500,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B7RC52SP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B7RC52SP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acer 23.8 Inch Full HD IPS Monitor - with 100Hz 1ms — **₹5,129**. • **₹569 Off** on **SBI Credit Card**.",
-      "price": 5129,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08B3L75WX?tag=2244005-21",
-      "posted_at": "2026-10-11T18:51:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08B3L75WX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08B3L75WX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08B3L75WX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
