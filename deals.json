@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:53:11Z",
+  "updated_at": "2026-10-27T18:55:14Z",
   "deals": [
+    {
+      "title": ". London Fog Brixton Collection Analog Quartz Vintage Watch 1,199",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GKH4JPXV?tag=2244005-21",
+      "posted_at": "2026-10-27T18:55:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GKH4JPXV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GKH4JPXV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GKH4JPXV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loottt Fasttt 💥💥💥 236 : Buy Fast, Before Price Change . Puma RBD Tech Sneaker 2131 Apply Coupon OnePlus N6x | 4GB+128GB at ₹14,999 Apply ₹1000 Coupon + ₹3000 Off With HDFC CC",
       "price": 14999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C27PLT88.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C27PLT88.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Crompton Amica Pro 10L Storage Water Geyser @ Rs.5553 (Effective Price) Rs.616 Instant Discount On SBI CC",
-      "price": 5553,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D62KSKV2?tag=2244005-21",
-      "posted_at": "2026-10-12T03:06:11Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D62KSKV2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D62KSKV2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D62KSKV2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
