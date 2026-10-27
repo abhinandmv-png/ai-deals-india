@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:59:06Z",
+  "updated_at": "2026-10-27T18:59:13Z",
   "deals": [
+    {
+      "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : . OnePlus Buds 4 TWS Earbuds 5,180",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCMRVJKH?tag=2244005-21",
+      "posted_at": "2026-10-27T18:59:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FCMRVJKH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCMRVJKH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCMRVJKH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : Logitech MX Master 3S Bluetooth Edi",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00LO7WHM2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00LO7WHM2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "115",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B086LNGH5C?tag=2244005-21",
-      "posted_at": "2026-10-12T03:46:33Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B086LNGH5C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B086LNGH5C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B086LNGH5C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
