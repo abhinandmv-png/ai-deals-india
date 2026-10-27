@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T15:39:36Z",
+  "updated_at": "2026-10-27T15:41:36Z",
   "deals": [
+    {
+      "title": "70% Off : Biotique Sun Lotion SPF 40, 120Ml @145. Apply 3% Off Coupon :",
+      "price": 145,
+      "original_price": 483,
+      "category": "Shopping",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00791D2WG?tag=2244005-21",
+      "posted_at": "2026-10-27T15:41:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B00791D2WG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00791D2WG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00791D2WG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dell i3 14th Gen Laptop 8GB DDR4, 512 SSD at 52,490 Flat ₹4500 Off With ICICI CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FB3NC9HP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FB3NC9HP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo LOQ i5 13th Gen (16 GB/512 GB SSD/6 GB Graphics/RTX 3050) Gaming Laptop @ Rs.84480 ₹25,510 off with Flipkart Axis Credit Card Lenovo IdeaPad Slim 3 i5 13th Gen (16 GB/512 GB SSD) Laptop @ Rs.62206 ₹7,784 off with ",
-      "price": 84480,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKWC16NP?tag=2244005-21",
-      "posted_at": "2026-10-11T16:36:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HKWC16NP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKWC16NP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKWC16NP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
