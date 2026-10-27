@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T05:11:25Z",
+  "updated_at": "2026-10-27T06:09:27Z",
   "deals": [
+    {
+      "title": "Symbol Hoodie Color-blocked Jacket @ Rs.679.",
+      "price": 679,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CBKM9GDD?tag=2244005-21",
+      "posted_at": "2026-10-27T06:09:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CBKM9GDD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CBKM9GDD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CBKM9GDD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1144",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPVVYKTQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPVVYKTQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Grab :** Naphthalene Balls (200g ) @ Rs.59",
-      "price": 59,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHDPZ31N?tag=2244005-21",
-      "posted_at": "2026-10-11T13:06:01Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145642.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHDPZ31N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHDPZ31N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
