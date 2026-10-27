@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T18:44:04Z",
+  "updated_at": "2026-10-27T18:44:28Z",
   "deals": [
+    {
+      "title": ". Casio Vintage Watch 1,869 realme T310 True Wireless Earbuds, 12.4mm Dynamic Bass Driver — ₹1,691. Apply 6% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "6% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBGNY4XP?tag=2244005-21",
+      "posted_at": "2026-10-27T18:44:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DBGNY4XP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBGNY4XP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBGNY4XP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Casio Vintage Watch 1,869 Godrej 308L Double Door Refrigerato at ₹24,790 Flat ₹7500 Off With HDFC Credit Card.",
       "price": 24790,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHTP2GVQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHTP2GVQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "4990",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DY7L1WYM?tag=2244005-21",
-      "posted_at": "2026-10-12T01:45:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DY7L1WYM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DY7L1WYM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DY7L1WYM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
