@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-27T19:03:49Z",
+  "updated_at": "2026-10-27T19:03:58Z",
   "deals": [
+    {
+      "title": ". IFB 206L Single Door Refrigerator - with 30 Hrs 13,740 Apply 2000 Coupon + 4250 Off With HDFC CC",
+      "price": 13740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GW345QCM?tag=2244005-21",
+      "posted_at": "2026-10-27T19:03:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GW345QCM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GW345QCM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GW345QCM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Zebronics Trolley DJ Speaker, 200W, Upto 9 Hours Playback 16999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZ9JYSV4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZ9JYSV4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Gear 14 Blue Casual Backpack 14cms — ₹264.",
-      "price": 264,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0757K36YV?tag=2244005-21",
-      "posted_at": "2026-10-12T06:01:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0757K36YV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0757K36YV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0757K36YV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
