@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T01:30:47Z",
+  "updated_at": "2026-10-28T01:30:54Z",
   "deals": [
+    {
+      "title": "Mortein Mosquito Repellent Refill (45ml x 6) @ Rs.234",
+      "price": 234,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07YY9N6TY?tag=2244005-21",
+      "posted_at": "2026-10-28T01:30:54Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07YY9N6TY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07YY9N6TY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07YY9N6TY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Spinz Talc Powder 400gm @ Rs.178",
       "price": 178,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZ366RZ7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZ366RZ7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "WD 2TB Elements Portable HDD @10,125 Apply ₹1000 off Coupon + ₹1124 off with SBI Credit Card",
-      "price": 10125,
-      "original_price": 1124,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00PLOXG42?tag=2244005-21",
-      "posted_at": "2026-10-12T11:21:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00PLOXG42.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00PLOXG42.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00PLOXG42.01.LZZZZZZZ.jpg"
       ]
     }
   ]
