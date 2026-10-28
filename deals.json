@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T08:53:55Z",
+  "updated_at": "2026-10-28T09:00:26Z",
   "deals": [
+    {
+      "title": "52% Off : Himalaya Baby Lotion 700ml @396.",
+      "price": 396,
+      "original_price": 825,
+      "category": "Shopping",
+      "badge": "52% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F47Z9Z4M?tag=2244005-21",
+      "posted_at": "2026-10-28T09:00:26Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F47Z9Z4M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F47Z9Z4M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F47Z9Z4M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 69985",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F29L7HJP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F29L7HJP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loott 🔥🔥🔥 pTron 20000mAh Powerbank w/ 22.5W Fast Charging, USB & Type C Output, Built-in Cables, Compatible w/Power Delivery, Quick Charge for iPhone, Android Mobile & Tablets ~~M.R.P.: ₹3,999~~ 💰999",
-      "price": 3999,
-      "original_price": 3999,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFMWV6VH?tag=2244005-21",
-      "posted_at": "2026-10-14T16:23:23Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0GFMWV6VH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFMWV6VH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFMWV6VH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
