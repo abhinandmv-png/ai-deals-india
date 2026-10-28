@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T05:49:16Z",
+  "updated_at": "2026-10-28T05:49:37Z",
   "deals": [
+    {
+      "title": "Lifelong 6HP Motorized Treadmill| 25 Levels Auto Incline @21,174 Apply bank offer",
+      "price": 21174,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G34S89Z9?tag=2244005-21",
+      "posted_at": "2026-10-28T05:49:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508908.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G34S89Z9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G34S89Z9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acerpure Chill Neo 1 Ton 3 star @24,990 Apply coupn + bank offers",
       "price": 24990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D78YCR1K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D78YCR1K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 70% Off On La Opala Dinner Sets.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/80qO0vojAI?tag=2244005-21",
-      "posted_at": "2026-10-13T14:46:31Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/80QO0VOJAI.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/80qO0vojAI.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/80qO0vojAI.01.LZZZZZZZ.jpg"
       ]
     }
   ]
