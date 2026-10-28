@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T05:34:03Z",
+  "updated_at": "2026-10-28T05:34:17Z",
   "deals": [
+    {
+      "title": "@1837",
+      "price": 1837,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSRN88LS?tag=2244005-21",
+      "posted_at": "2026-10-28T05:34:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508899.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSRN88LS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSRN88LS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Amazon Deal",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7PJCGFG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7PJCGFG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Wall Hanger Hook Without Drilling 20Pcs at 99.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HLXJBYSM?tag=2244005-21",
-      "posted_at": "2026-10-13T14:36:39Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HLXJBYSM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HLXJBYSM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HLXJBYSM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
