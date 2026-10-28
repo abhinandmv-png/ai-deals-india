@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T13:15:29Z",
+  "updated_at": "2026-10-28T13:19:00Z",
   "deals": [
+    {
+      "title": ".. Grab : Goldmedal WOW 9W LED Bulb (Pack of 10) – Only ₹377🤯 ✨B22 Base with Warm White Light (3000K) ✨230° Wide Light Coverage ✨4kV Surge Protection & High Voltage Protection Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 377,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CGR8K1HD?tag=2244005-21",
+      "posted_at": "2026-10-28T13:18:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509143.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CGR8K1HD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CGR8K1HD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "53% Off : Bhikharam Chandmal Diwali Gift Hamper @314.",
       "price": 314,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B007E9HPLC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B007E9HPLC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah By Borosil 35 Pieces Dinner Set @1399. Apply ₹300 Off Coupon :",
-      "price": 1399,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08G8JGVZ3?tag=2244005-21",
-      "posted_at": "2026-10-16T08:32:28Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08G8JGVZ3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08G8JGVZ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08G8JGVZ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
