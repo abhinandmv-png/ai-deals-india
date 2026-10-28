@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T07:08:45Z",
+  "updated_at": "2026-10-28T07:08:55Z",
   "deals": [
+    {
+      "title": "88% off : HRX Icon 3Pc Set Haileysl Suitcase Set @₹3,499",
+      "price": 3499,
+      "original_price": 29158,
+      "category": "Travel",
+      "badge": "88% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLQGBQ9H?tag=2244005-21",
+      "posted_at": "2026-10-28T07:08:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508977.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLQGBQ9H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLQGBQ9H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @25,665 Samsung 8 kg, 5 star, AI Control, AI Eco Bubble, Wi-Fi, Digital Inverter, Motor Apply coupon + bank offer",
       "price": 25665,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5DCHV9T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5DCHV9T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Rexona Powder Dry Underarm Roll-On Deodorant (Pack of 5) Rs.226",
-      "price": 226,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FMXVDPCX?tag=2244005-21",
-      "posted_at": "2026-10-14T08:31:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FMXVDPCX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FMXVDPCX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FMXVDPCX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
