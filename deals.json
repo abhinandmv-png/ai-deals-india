@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T06:04:22Z",
+  "updated_at": "2026-10-28T06:04:33Z",
   "deals": [
+    {
+      "title": "Grab @2013 GOBOULT X120 2.1 Channel Bluetooth Soundbar with BoomX Subwoofer,",
+      "price": 2013,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DM1MTZ1X?tag=2244005-21",
+      "posted_at": "2026-10-28T06:04:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508920.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DM1MTZ1X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DM1MTZ1X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@2250",
       "price": 2250,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C74LTJ2Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C74LTJ2Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Allen Solly Women's Casual Tops — ₹290. Apply 6% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "6% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H71248GN?tag=2244005-21",
-      "posted_at": "2026-10-13T18:36:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H71248GN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H71248GN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H71248GN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
