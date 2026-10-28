@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T18:19:00Z",
+  "updated_at": "2026-10-28T18:47:17Z",
   "deals": [
+    {
+      "title": "63",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B096XGB49Z?tag=2244005-21",
+      "posted_at": "2026-10-28T18:47:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B096XGB49Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B096XGB49Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B096XGB49Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones 5,291 Flat 1,698 off with HDFC Cc",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GCFSQ4X7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GCFSQ4X7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Lifelong Walking Pad at 5880. Pay Using SBI Card & Get ₹1119",
-      "price": 1119,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FD817WFP?tag=2244005-21",
-      "posted_at": "2026-10-17T07:20:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FD817WFP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FD817WFP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FD817WFP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
