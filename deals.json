@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T13:24:09Z",
+  "updated_at": "2026-10-28T14:18:56Z",
   "deals": [
+    {
+      "title": ". Wonderchef Whiskey Tumbler 320 ml (Set Of 6) 399",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BNNQMY5Q?tag=2244005-21",
+      "posted_at": "2026-10-28T14:18:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BNNQMY5Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BNNQMY5Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BNNQMY5Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zebronics Android Portable Smart Projector @ Rs.7,999",
       "price": 7999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/BeautyHaul.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/BeautyHaul.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 57% Off Activa Geyser 10 L Instant Water Geyser at Rs.2,798 25L Storage Water Geyser at Rs.3,798 R3SET Natural Pain Relief Spray at 199",
-      "price": 2798,
-      "original_price": 3798,
-      "category": "Home",
-      "badge": "57% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSKHG8F9?tag=2244005-21",
-      "posted_at": "2026-10-16T13:05:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DSKHG8F9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSKHG8F9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSKHG8F9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
