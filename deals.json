@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T07:38:48Z",
+  "updated_at": "2026-10-28T07:54:13Z",
   "deals": [
+    {
+      "title": "U.S. POLO ASSN. Apparel Casual Pants @439",
+      "price": 439,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWFJ7465?tag=2244005-21",
+      "posted_at": "2026-10-28T07:54:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509011.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWFJ7465.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWFJ7465.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥 wipro Garnet 50 mtr LED Strip Light| 3330",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DR2PBF8J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DR2PBF8J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fusefit Women's Navy/Red Sports Top, XS — ₹599.",
-      "price": 599,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRZ5D6L6?tag=2244005-21",
-      "posted_at": "2026-10-14T13:32:00Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CRZ5D6L6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRZ5D6L6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRZ5D6L6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
