@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T18:48:11Z",
+  "updated_at": "2026-10-28T18:48:18Z",
   "deals": [
+    {
+      "title": "Upto 85% Off On Branded Clothing. PUMA. Women’s : Men’s : United Colors Of Benetton. T-shirts : Shirts : Bottomwears : Aeropostale. T-shirts : Shirts : Jeans & Trousers : Winterwears : Being Human : Peter England : Wrang",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "85% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSVCFDBN?tag=2244005-21",
+      "posted_at": "2026-10-28T18:48:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DSVCFDBN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSVCFDBN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSVCFDBN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 85% Off On Branded Clothing. PUMA. Women’s : Men’s : United Colors Of Benetton. T-shirts : Shirts : Bottomwears : Aeropostale. T-shirts : Shirts : Jeans & Trousers : Winterwears : Being Human : Peter England : Wrang",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9XHXXD9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9XHXXD9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by BOROSIL 35-Piece Kora Opalware Dinner Set, 35 Pieces — **₹1,699**. Apply 300 Off Coupon On Dinner Set",
-      "price": 1699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D8J7LB75?tag=2244005-21",
-      "posted_at": "2026-10-17T08:20:55Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D8J7LB75.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D8J7LB75.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D8J7LB75.01.LZZZZZZZ.jpg"
       ]
     }
   ]
