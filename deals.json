@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T06:39:22Z",
+  "updated_at": "2026-10-28T06:39:50Z",
   "deals": [
+    {
+      "title": "Havells Instanio 3L Instant Water Heater(Geyser) at ₹3,241 Apply 5% off coupon",
+      "price": 3241,
+      "original_price": 3412,
+      "category": "Home",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B078JDNZJ8?tag=2244005-21",
+      "posted_at": "2026-10-28T06:39:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B078JDNZJ8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B078JDNZJ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B078JDNZJ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@649 Philips India's No.1 Hair Styling Brand -Hair Dryer 1000W |Blow Dry for Men & Women",
       "price": 649,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CFVWX219.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CFVWX219.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP 15, AMD Ryzen 5 7520U Laptop (16GB DDR4, 512GB SSD) @60,490* Flat ₹8500 Off With SBI CC",
-      "price": 60490,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTVDH4G2?tag=2244005-21",
-      "posted_at": "2026-10-14T06:01:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTVDH4G2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
