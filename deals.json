@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T10:53:38Z",
+  "updated_at": "2026-10-28T10:53:52Z",
   "deals": [
+    {
+      "title": ".. Lowest : Solar Outdoor Garden Light (8 LEDs, 65cm) – Only ₹399🤯 ✨Solar-Powered Firefly Swaying Crystal Ball Design ✨Automatic Lighting with Warm White Glow ✨Waterproof Decor for Gardens, Balconies & Pathways Buy Now👇🏻",
+      "price": 399,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C6B38WWQ?tag=2244005-21",
+      "posted_at": "2026-10-28T10:53:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509100.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C6B38WWQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C6B38WWQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Milton Stainless Steel Water Bottle, 1000 ml 212",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B011IRYECI.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B011IRYECI.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Microfiber Reusable Washable Towels 20 Pieces at Rs.199",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GM13NMGP?tag=2244005-21",
-      "posted_at": "2026-10-15T14:13:50Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GM13NMGP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GM13NMGP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GM13NMGP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
