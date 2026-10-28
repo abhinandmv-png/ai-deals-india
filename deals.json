@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T13:24:01Z",
+  "updated_at": "2026-10-28T13:24:09Z",
   "deals": [
+    {
+      "title": "Zebronics Android Portable Smart Projector @ Rs.7,999",
+      "price": 7999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FR2GBJN9?tag=2244005-21",
+      "posted_at": "2026-10-28T13:24:08Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FR2GBJN9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FR2GBJN9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FR2GBJN9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Aavante Bar Prime B300 with Subwoofer and Dual Rear Speakers @ ₹5,850 Flat ₹649 off with HDFC Cc",
       "price": 5850,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSKHG8F9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSKHG8F9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acer Aspire One 8GB RAM + 512GB SSD Laptop @39240 Apply ₹1000 off Coupon + ₹6750 off with SBI Credit Card",
-      "price": 39240,
-      "original_price": 6750,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H46H6JK8?tag=2244005-21",
-      "posted_at": "2026-10-16T11:47:32Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H46H6JK8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
