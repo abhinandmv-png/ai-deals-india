@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T02:18:24Z",
+  "updated_at": "2026-10-28T02:33:15Z",
   "deals": [
+    {
+      "title": "Apply 3000 Coupon + 5750 off Using HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G8KB4NBK?tag=2244005-21",
+      "posted_at": "2026-10-28T02:33:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508813.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G8KB4NBK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G8KB4NBK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GREENCHEF Marco Aluminium Pressure Cooker, 3 Litre — ₹499.",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DPHTSTYJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DPHTSTYJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "French Connection Women's Amour Analog Watch @1,179",
-      "price": 1179,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B2JY84CT?tag=2244005-21",
-      "posted_at": "2026-10-12T13:16:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B2JY84CT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B2JY84CT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B2JY84CT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
