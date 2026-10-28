@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T03:00:22Z",
+  "updated_at": "2026-10-28T03:16:51Z",
   "deals": [
+    {
+      "title": "GRAB 🔥 Office Chair @4777 Apply 5% Off Coupon + 842₹ Off With HDFC CC",
+      "price": 4777,
+      "original_price": 5028,
+      "category": "Shopping",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3PLTHSC?tag=2244005-21",
+      "posted_at": "2026-10-28T03:16:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508823.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3PLTHSC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3PLTHSC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "RR Signature 1200MM BLDC @2717",
       "price": 2717,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BB2XFYB5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BB2XFYB5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nilkamal Massif Neo 2-Door Wardrobe Without Mirror at **₹5,573**. **Apply ₹1000 Off Coupon** + **₹1857 Off With SBI Credit Card**",
-      "price": 5573,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F38HW3FJ?tag=2244005-21",
-      "posted_at": "2026-10-12T17:51:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F38HW3FJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F38HW3FJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F38HW3FJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
