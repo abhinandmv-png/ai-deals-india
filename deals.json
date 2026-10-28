@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T08:39:28Z",
+  "updated_at": "2026-10-28T08:53:43Z",
   "deals": [
+    {
+      "title": "Puma Coarse Running Shoe — ₹1,441 Apply Coupon Other colour costs more 🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BVMCG288?tag=2244005-21",
+      "posted_at": "2026-10-28T08:53:42Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509042.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BVMCG288.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BVMCG288.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP Victus RTX 4050 Laptops Starts @ Rs.1,10,490* Get Upto ₹12,500 Off Using Bank Offers Loot Rs.129 : Buy Max",
       "price": 110490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CRZ27474.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CRZ27474.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Studds Captain America Open Face Helmet (Blue, L) @739.",
-      "price": 739,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01N4P9MN8?tag=2244005-21",
-      "posted_at": "2026-10-14T15:31:56Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B01N4P9MN8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01N4P9MN8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01N4P9MN8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
