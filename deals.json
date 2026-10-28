@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T12:34:38Z",
+  "updated_at": "2026-10-28T12:34:51Z",
   "deals": [
+    {
+      "title": ". Crompton 1HP Water Pump 3899",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CGQ834KW?tag=2244005-21",
+      "posted_at": "2026-10-28T12:34:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CGQ834KW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CGQ834KW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CGQ834KW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "416",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00OG1UHPW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00OG1UHPW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon Electric Kettle, 1.8L @ 398",
-      "price": 398,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08NZG6T79?tag=2244005-21",
-      "posted_at": "2026-10-16T05:32:27Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08NZG6T79.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08NZG6T79.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08NZG6T79.01.LZZZZZZZ.jpg"
       ]
     }
   ]
