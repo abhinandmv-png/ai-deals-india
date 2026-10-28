@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T02:15:19Z",
+  "updated_at": "2026-10-28T02:18:24Z",
   "deals": [
+    {
+      "title": "GREENCHEF Marco Aluminium Pressure Cooker, 3 Litre — ₹499.",
+      "price": 499,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BSNCT18X?tag=2244005-21",
+      "posted_at": "2026-10-28T02:18:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508811.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BSNCT18X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BSNCT18X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "53% Off : Haldiram's Premium Kaju Katli Gift Pack 400g @475.",
       "price": 475,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B2JY84CT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B2JY84CT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HRX Helium Cabin Size Suitcase @999.",
-      "price": 999,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK4GWXSH?tag=2244005-21",
-      "posted_at": "2026-10-12T13:01:15Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK4GWXSH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK4GWXSH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK4GWXSH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
