@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T17:49:42Z",
+  "updated_at": "2026-10-28T18:03:59Z",
   "deals": [
+    {
+      "title": ". ASUS V501 (2026),Intel Core 5 210H (i5-14th Gen),Intel UHD iGPU, 8GB RAM, 512GB SSD,Windows 61690 Apply 5000 off Coupon + 6300 off with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMQXP76X?tag=2244005-21",
+      "posted_at": "2026-10-28T18:03:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GMQXP76X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMQXP76X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMQXP76X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Acer Aspire One Thin and Light Laptop, 1.48KG 256GB 8GB 34990 Apply 2000 off Coupon + 5000 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07N8G742J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07N8G742J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi 75 inch Smartchoice X Pro 4K QLED TV, 34W, 120Hz — **₹58,999**. 11,000 Off With SBI Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GLFVTCC7?tag=2244005-21",
-      "posted_at": "2026-10-17T03:35:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GLFVTCC7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GLFVTCC7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GLFVTCC7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
