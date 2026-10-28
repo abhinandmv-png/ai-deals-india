@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T03:16:51Z",
+  "updated_at": "2026-10-28T03:17:03Z",
   "deals": [
+    {
+      "title": "MILTON Spire Mixer Grinder, 4 Jar, 550 W, 21000 RPM — ₹2,280",
+      "price": 2280,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FD44MF4K?tag=2244005-21",
+      "posted_at": "2026-10-28T03:17:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FD44MF4K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FD44MF4K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FD44MF4K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB 🔥 Office Chair @4777 Apply 5% Off Coupon + 842₹ Off With HDFC CC",
       "price": 4777,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJ9SC113.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJ9SC113.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Tommy Hilfiger Quartz Multifunction Steel Strap Men Watch at 7628 Apply₹650 Off Coupon + ₹747 Off With SBI Card",
-      "price": null,
-      "original_price": 747,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BB2XFYB5?tag=2244005-21",
-      "posted_at": "2026-10-12T18:51:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BB2XFYB5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BB2XFYB5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BB2XFYB5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
