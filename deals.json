@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T09:54:14Z",
+  "updated_at": "2026-10-28T10:08:45Z",
   "deals": [
+    {
+      "title": "Loot : URBN 20000 mAh 70W Nano Powerbank @1802. • 197₹ Off With SBI Card 90% off : HRX Kyoto Premium 3-Piece Luggage Set @₹3,599",
+      "price": 1802,
+      "original_price": 18020,
+      "category": "Travel",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHPT7S7C?tag=2244005-21",
+      "posted_at": "2026-10-28T10:08:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509083.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHPT7S7C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHPT7S7C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "KILLER TROLLEY | SET OF 3 @2358 + 390 Supercoins back more ✦ Apply 200 Off Coupon ✦ 750 Off Using 15 Supercoins ✦ 491 Off With SBI Debit/Credit Card iFFALCON 75-Inch 4K UHD Smart LED Google TV, 144Hz, 3GB — ₹48,499. Flat",
       "price": 2358,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CL53K417.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CL53K417.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "949",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G2B73WYT?tag=2244005-21",
-      "posted_at": "2026-10-15T03:24:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G2B73WYT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G2B73WYT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G2B73WYT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
