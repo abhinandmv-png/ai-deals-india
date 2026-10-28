@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T19:17:31Z",
+  "updated_at": "2026-10-28T19:17:42Z",
   "deals": [
+    {
+      "title": ". Casio F91W Youth Watch 1,293 FAAASSTT 💥 299₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GM7H7378?tag=2244005-21",
+      "posted_at": "2026-10-28T19:17:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509231.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GM7H7378.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GM7H7378.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer Smartchoice Aspire One, AMD Ryzen 5-40, 8GB LPDDR5 RAM/ 512GB SSD @42,440. Flat ₹3550 Off Using HDFC Credit Card",
       "price": 42440,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0974G5Q2Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0974G5Q2Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Reversible Double Bed Comforter @779. Apply 6% Off Coupon :",
-      "price": 779,
-      "original_price": 829,
-      "category": "Shopping",
-      "badge": "6% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK4VDJP3?tag=2244005-21",
-      "posted_at": "2026-10-17T13:17:50Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK4VDJP3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK4VDJP3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK4VDJP3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
