@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T09:23:47Z",
+  "updated_at": "2026-10-28T09:38:44Z",
   "deals": [
+    {
+      "title": "Grab @4050 Oppo Enco Air5 Pro True Wireless in-Ear Earbuds Apply bank offer",
+      "price": 4050,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H28LBC3W?tag=2244005-21",
+      "posted_at": "2026-10-28T09:38:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509069.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H28LBC3W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H28LBC3W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PHILIPS MG3760/33, 11 in 1 Multigroomer, Unique DualCut Tech Grooming Kit 75 min Runtime 8 Length Settings (Silver) ₹1200 @5997 Pureit Wave Prime Water Purifier for Home (Black)",
       "price": 5997,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C6LSK39V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C6LSK39V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony Headphones XM5 at 19489 Price increased for other colours",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGL6R3SX?tag=2244005-21",
-      "posted_at": "2026-10-14T19:09:36Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DGL6R3SX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGL6R3SX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGL6R3SX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
