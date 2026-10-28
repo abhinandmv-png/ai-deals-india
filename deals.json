@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T14:49:14Z",
+  "updated_at": "2026-10-28T15:04:02Z",
   "deals": [
+    {
+      "title": ".. Loottt fasttt💥💥💥 Loot : Whole Cashews (500g) – Only ₹459🤯 ✨500g Pack of Whole Cashews ✨Perfect for Snacking and Festive Treats ✨Great for Sweets, Desserts & Everyday Recipes Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 459,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FYXNWF8K?tag=2244005-21",
+      "posted_at": "2026-10-28T15:04:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509163.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FYXNWF8K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FYXNWF8K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Grab : Halonix Twinkle 32 Feet Yellow LED Decorative Lights – Only ₹78🤯 ✨32 Feet String Light with 46 LEDs ✨Beautiful Yellow Glow for Festive Decor ✨Perfect for Diwali, Curtains & Home Decoration Buy Now👇🏻 🛒 BUY FAST ",
       "price": 78,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPM1V9C5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPM1V9C5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Gesto Diya Curtain Fairy Lights at Rs.349.",
-      "price": 349,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBLTCGMR?tag=2244005-21",
-      "posted_at": "2026-10-16T15:05:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DBLTCGMR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBLTCGMR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBLTCGMR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
