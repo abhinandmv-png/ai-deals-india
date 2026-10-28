@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T04:46:48Z",
+  "updated_at": "2026-10-28T05:00:22Z",
   "deals": [
+    {
+      "title": "52% Off : Baidyanath Balm 8ml (Pack Of 5) @107.",
+      "price": 107,
+      "original_price": 223,
+      "category": "Shopping",
+      "badge": "52% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DYVHJ2MK?tag=2244005-21",
+      "posted_at": "2026-10-28T05:00:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DYVHJ2MK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DYVHJ2MK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DYVHJ2MK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lloyd 1.5 Ton 3 Star Inverter Split AC @30,240 Apply bank offer",
       "price": 30240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPVX566R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPVX566R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "6 Colors Lip Tint Stain Set at 588 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FWS4H6L6?tag=2244005-21",
-      "posted_at": "2026-10-13T04:51:31Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FWS4H6L6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FWS4H6L6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FWS4H6L6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
