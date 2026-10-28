@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T10:08:45Z",
+  "updated_at": "2026-10-28T10:09:11Z",
   "deals": [
+    {
+      "title": "880",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FGPTK1N8?tag=2244005-21",
+      "posted_at": "2026-10-28T10:09:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FGPTK1N8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FGPTK1N8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FGPTK1N8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : URBN 20000 mAh 70W Nano Powerbank @1802. • 197₹ Off With SBI Card 90% off : HRX Kyoto Premium 3-Piece Luggage Set @₹3,599",
       "price": 1802,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSKHRTXP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSKHRTXP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "T2F Women Track Pants @179.",
-      "price": 179,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CL53K417?tag=2244005-21",
-      "posted_at": "2026-10-15T04:32:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CL53K417.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CL53K417.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CL53K417.01.LZZZZZZZ.jpg"
       ]
     }
   ]
