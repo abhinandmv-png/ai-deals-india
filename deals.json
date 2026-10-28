@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T09:53:53Z",
+  "updated_at": "2026-10-28T09:54:14Z",
   "deals": [
+    {
+      "title": "KILLER TROLLEY | SET OF 3 @2358 + 390 Supercoins back more ✦ Apply 200 Off Coupon ✦ 750 Off Using 15 Supercoins ✦ 491 Off With SBI Debit/Credit Card iFFALCON 75-Inch 4K UHD Smart LED Google TV, 144Hz, 3GB — ₹48,499. Flat",
+      "price": 2358,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYD6YC2N?tag=2244005-21",
+      "posted_at": "2026-10-28T09:54:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GYD6YC2N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYD6YC2N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYD6YC2N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 499 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G2B73WYT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G2B73WYT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Voltas 1.5 ton 3 Star Fixed Speed Window AC (Copper, Anti Dust Filter at ₹30,235",
-      "price": 30235,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSZRMP3H?tag=2244005-21",
-      "posted_at": "2026-10-15T03:09:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GSZRMP3H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSZRMP3H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSZRMP3H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
