@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T07:09:08Z",
+  "updated_at": "2026-10-28T07:09:22Z",
   "deals": [
+    {
+      "title": "Faaaast 🔥 @399 CELLO Travel Star Thermos Water Jug for Travel",
+      "price": 399,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B071YR1F15?tag=2244005-21",
+      "posted_at": "2026-10-28T07:09:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508980.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B071YR1F15.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B071YR1F15.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @23,065 Samsung, 10kg, 5 Star, Eco Bubble, Hygiene Steam, Quick Wash Apply coupon+ bank offer",
       "price": 23065,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGDNXVJ8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGDNXVJ8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLBELL Ergonomic Electric Height Adjustable Desk - with Digital Display — **₹7,972**. Flat ₹2347 Off With SBI CC",
-      "price": 7972,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FZKXHKH2?tag=2244005-21",
-      "posted_at": "2026-10-14T08:46:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FZKXHKH2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FZKXHKH2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FZKXHKH2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
