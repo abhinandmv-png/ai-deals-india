@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T09:08:49Z",
+  "updated_at": "2026-10-28T09:15:26Z",
   "deals": [
+    {
+      "title": "CALVIN KLEIN EVERYONE Eau De Toilette @760. Apply 20% Coupon :",
+      "price": 760,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CN7BR4KP?tag=2244005-21",
+      "posted_at": "2026-10-28T09:15:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CN7BR4KP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CN7BR4KP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CN7BR4KP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "90% off : HRX Parabola 3-Piece Luggage Set @₹3,150",
       "price": 3150,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00DUCIK7U.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00DUCIK7U.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony 55 inch LED TV at 59490 Apply Coupon + Pay with any card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7X5FC43?tag=2244005-21",
-      "posted_at": "2026-10-14T17:00:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F7X5FC43.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7X5FC43.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7X5FC43.01.LZZZZZZZ.jpg"
       ]
     }
   ]
