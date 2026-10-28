@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T06:24:09Z",
+  "updated_at": "2026-10-28T06:24:21Z",
   "deals": [
+    {
+      "title": "@13094 Hindware Smart Appliances Skyla Neo BLDC 60 Blk Apply coupon+ bank Offer",
+      "price": 13094,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRXQYQV5?tag=2244005-21",
+      "posted_at": "2026-10-28T06:24:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BRXQYQV5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRXQYQV5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRXQYQV5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @36,249 ECOVACS Deebot T30e Omni 2 in 1 Robot Vacuum Cleaner & Mop,",
       "price": 36249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZJQN28G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZJQN28G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Mechanical Gaming Keyboard @1399.",
-      "price": 1399,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CX8MH9XN?tag=2244005-21",
-      "posted_at": "2026-10-14T03:31:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CX8MH9XN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CX8MH9XN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CX8MH9XN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
