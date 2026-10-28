@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T05:49:05Z",
+  "updated_at": "2026-10-28T05:49:16Z",
   "deals": [
+    {
+      "title": "Acerpure Chill Neo 1 Ton 3 star @24,990 Apply coupn + bank offers",
+      "price": 24990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GL29BM99?tag=2244005-21",
+      "posted_at": "2026-10-28T05:49:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GL29BM99.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GL29BM99.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GL29BM99.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab faaaast 🔥 Other size costs more 1300+ United Colors of Benetton Pintuck Polo Shirt — ₹389.",
       "price": 389,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/80qO0vojAI.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/80qO0vojAI.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 8 Kg 5 Star AI Wash Ecobubble Top Load Washing Machine at 17640/- Effective Apply ₹1000 Coupon + Get ₹2350 Discount Using SBI CC Link :",
-      "price": null,
-      "original_price": 2350,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F2SLWGJW?tag=2244005-21",
-      "posted_at": "2026-10-13T14:36:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F2SLWGJW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F2SLWGJW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F2SLWGJW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
