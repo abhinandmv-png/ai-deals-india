@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T05:50:38Z",
+  "updated_at": "2026-10-28T06:04:04Z",
   "deals": [
+    {
+      "title": "10,679 Apply bank offer",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZQ96PYT?tag=2244005-21",
+      "posted_at": "2026-10-28T06:04:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508914.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZQ96PYT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZQ96PYT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HINDWARE SMART APPLIANCES Skyla Neo BLDC 60 Blk Auto Clean — ₹11,490.",
       "price": 11490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6WB7BV6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6WB7BV6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2999 : Other color 6k+ 1170 Apply ₹129 Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FTSFX9LH?tag=2244005-21",
-      "posted_at": "2026-10-13T15:01:39Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FTSFX9LH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FTSFX9LH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FTSFX9LH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
