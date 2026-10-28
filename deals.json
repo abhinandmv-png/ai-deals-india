@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T19:32:49Z",
+  "updated_at": "2026-10-28T19:32:57Z",
   "deals": [
+    {
+      "title": ". FAASSSTTTT 🔥🔥 All 50% OFF 🔥 Xiaomi Pad 8 at ₹32,949 Pay with HDFC Credit Card",
+      "price": 32949,
+      "original_price": 65898,
+      "category": "Shopping",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPVQPMKY?tag=2244005-21",
+      "posted_at": "2026-10-28T19:32:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GPVQPMKY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPVQPMKY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPVQPMKY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹1200 Reg Price -2500",
       "price": 1200,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZCGKKNP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZCGKKNP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Trident Bath Towel 450 gsm at Rs.310. Apply ₹59 Coupon :",
-      "price": 310,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CGR59CH9?tag=2244005-21",
-      "posted_at": "2026-10-17T14:36:01Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146021.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CGR59CH9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CGR59CH9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
