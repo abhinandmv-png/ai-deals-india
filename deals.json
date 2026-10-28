@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T19:17:42Z",
+  "updated_at": "2026-10-28T19:32:49Z",
   "deals": [
+    {
+      "title": "Deal Price ₹1200 Reg Price -2500",
+      "price": 1200,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FG2QT7H2?tag=2244005-21",
+      "posted_at": "2026-10-28T19:32:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509242.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FG2QT7H2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FG2QT7H2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Casio F91W Youth Watch 1,293 FAAASSTT 💥 299₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGR59CH9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGR59CH9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Type-C A400 Cable, 2 Mtrs, 3A Fast Charging — ₹149.",
-      "price": 149,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0974G5Q2Y?tag=2244005-21",
-      "posted_at": "2026-10-17T13:17:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0974G5Q2Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0974G5Q2Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0974G5Q2Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
