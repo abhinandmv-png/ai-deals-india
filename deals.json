@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T18:48:28Z",
+  "updated_at": "2026-10-28T18:48:53Z",
   "deals": [
+    {
+      "title": ". Xiaomi Air Purifier 4 Lite Monitor for home, 3-stage 9,891 Pay with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C1P65Y4H?tag=2244005-21",
+      "posted_at": "2026-10-28T18:48:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C1P65Y4H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C1P65Y4H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C1P65Y4H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 85% Off On Branded Clothing. PUMA. Women’s : Men’s : United Colors Of Benetton. T-shirts : Shirts : Bottomwears : Aeropostale. T-shirts : Shirts : Jeans & Trousers : Winterwears : Being Human : Peter England : Wrang",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08X3Q32H6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08X3Q32H6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : 5999 + Coupon Regular Rs.8500+",
-      "price": 8500,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5KSMTHC?tag=2244005-21",
-      "posted_at": "2026-10-17T08:35:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H5KSMTHC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5KSMTHC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5KSMTHC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
