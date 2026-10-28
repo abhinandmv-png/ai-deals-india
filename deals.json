@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T07:09:52Z",
+  "updated_at": "2026-10-28T07:10:03Z",
   "deals": [
+    {
+      "title": "Grab @3060 Zebronics 21.5” (54.6cm) LED Monitor, FHD 1920x1080",
+      "price": 3060,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2RCXTN6?tag=2244005-21",
+      "posted_at": "2026-10-28T07:10:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508984.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2RCXTN6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2RCXTN6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Aquaguard (RO+UV+UF+MC, SS Tank, 2‑Yr Filter Life) Water Purifier at 9,250 (Effectively). ₹2749 Off With SBI/HDFC/ICICI/Asix Credit Card + Cashback. Limited Time Offer, Buy Fast if Needed.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09RFM8QQJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09RFM8QQJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sugar Free D'Lite Gift Pack, 120gm @225.",
-      "price": 225,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08K3GYPW1?tag=2244005-21",
-      "posted_at": "2026-10-14T10:01:51Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08K3GYPW1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08K3GYPW1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08K3GYPW1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
