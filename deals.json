@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T02:33:15Z",
+  "updated_at": "2026-10-28T02:33:25Z",
   "deals": [
+    {
+      "title": "Grab faaaast 🔥🔥 3726 Apply coupon + bank offer Jabra Evolve 20 MS Stereo USB-C/A Wired Headset with Noise-Cancelling Microphone",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DX7D572Y?tag=2244005-21",
+      "posted_at": "2026-10-28T02:33:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508814.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DX7D572Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DX7D572Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply 3000 Coupon + 5750 off Using HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B083F62P4B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B083F62P4B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Loot** : LG 8 Kg 5 Star Fully Automatic Top Load Washing Machine @ Rs.17538 Apply ₹500 Off Coupon + ₹3250 Off With SBI Credit Card",
-      "price": 17538,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DPHTSTYJ?tag=2244005-21",
-      "posted_at": "2026-10-12T14:36:20Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DPHTSTYJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DPHTSTYJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DPHTSTYJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
