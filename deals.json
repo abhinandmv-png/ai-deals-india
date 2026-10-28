@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T10:45:33Z",
+  "updated_at": "2026-10-28T10:53:38Z",
   "deals": [
+    {
+      "title": ". Milton Stainless Steel Water Bottle, 1000 ml 212",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNN6LBD3?tag=2244005-21",
+      "posted_at": "2026-10-28T10:53:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FNN6LBD3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNN6LBD3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNN6LBD3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DiSano Penne Pasta 1kg @120.",
       "price": 120,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GM13NMGP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GM13NMGP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[SBI CC] PHILIPS 190 cm (75 inch) 8100 Series 4K Ultra HD Smart QLED Google TV 75PQT8100/94 ✅Deal Price: **₹65,249** ❌MRP: ₹1,19,990 Discount: **-46%** 👉",
-      "price": null,
-      "original_price": 119990,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNR5JJSS?tag=2244005-21",
-      "posted_at": "2026-10-15T13:56:54Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_139.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNR5JJSS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNR5JJSS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
