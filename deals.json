@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T10:53:52Z",
+  "updated_at": "2026-10-28T10:53:59Z",
   "deals": [
+    {
+      "title": "GOBOULT Y1 v2.0 Ear Buds at Rs.999",
+      "price": 999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSQXFNMF?tag=2244005-21",
+      "posted_at": "2026-10-28T10:53:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GSQXFNMF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSQXFNMF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSQXFNMF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Lowest : Solar Outdoor Garden Light (8 LEDs, 65cm) – Only ₹399🤯 ✨Solar-Powered Firefly Swaying Crystal Ball Design ✨Automatic Lighting with Warm White Glow ✨Waterproof Decor for Gardens, Balconies & Pathways Buy Now👇🏻",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GP6VTQNB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GP6VTQNB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Waxpol Furniture Polish (200ml) at Rs.222",
-      "price": 222,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B011IRYECI?tag=2244005-21",
-      "posted_at": "2026-10-15T14:43:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B011IRYECI.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B011IRYECI.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B011IRYECI.01.LZZZZZZZ.jpg"
       ]
     }
   ]
