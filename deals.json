@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T14:33:56Z",
+  "updated_at": "2026-10-28T14:49:14Z",
   "deals": [
+    {
+      "title": ".. Grab : Halonix Twinkle 32 Feet Yellow LED Decorative Lights – Only ₹78🤯 ✨32 Feet String Light with 46 LEDs ✨Beautiful Yellow Glow for Festive Decor ✨Perfect for Diwali, Curtains & Home Decoration Buy Now👇🏻 🛒 BUY FAST ",
+      "price": 78,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FGJRHZLV?tag=2244005-21",
+      "posted_at": "2026-10-28T14:49:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509162.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FGJRHZLV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FGJRHZLV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "pTron TagNet X1 for iPhone/iOS Users 469",
       "price": 469,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBLTCGMR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBLTCGMR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "9W LED Bulb (Pack of 2) @ Rs.89",
-      "price": 89,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FM4169BN?tag=2244005-21",
-      "posted_at": "2026-10-16T13:35:42Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_145960.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FM4169BN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FM4169BN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
