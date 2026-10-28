@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T12:20:04Z",
+  "updated_at": "2026-10-28T12:20:19Z",
   "deals": [
+    {
+      "title": "349",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CR6JYY5R?tag=2244005-21",
+      "posted_at": "2026-10-28T12:20:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509128.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CR6JYY5R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CR6JYY5R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Haier 325 L 3 Star Frost Free Bottom Mount Refrigerator 28740 Apply 1000 Off Coupon + 11250 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FFMYSGHB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FFMYSGHB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Flat 70-77% Off On Axe Deodorants/Perfume. Buy Max Qty :",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "77% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/MsPGh1yjsb?tag=2244005-21",
-      "posted_at": "2026-10-16T04:47:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/MSPGH1YJSB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/MsPGh1yjsb.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/MsPGh1yjsb.01.LZZZZZZZ.jpg"
       ]
     }
   ]
