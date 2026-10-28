@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T18:04:12Z",
+  "updated_at": "2026-10-28T18:19:00Z",
   "deals": [
+    {
+      "title": ". Sony WH-CH720N Active Noise Cancellation Wireless Bluetooth Over Ear Headphones 5,291 Flat 1,698 off with HDFC Cc",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BS1QCFHX?tag=2244005-21",
+      "posted_at": "2026-10-28T18:19:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BS1QCFHX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BS1QCFHX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BS1QCFHX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Lowest : Round Metal Plant Stand (Pack of 8, Black) – Only ₹449🤯 ✨Pack of 8 Galvanised Metal Pot Holders ✨Ideal for Plant Pots & Flower Displays ✨Perfect for Home, Garden & Balcony Decor Buy Now👇🏻 🛒 BUY FAST BEFORE PR",
       "price": 449,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FD817WFP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FD817WFP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Margo Original Neem Soap (125gm X 8) @199.",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B082GB1N7K?tag=2244005-21",
-      "posted_at": "2026-10-17T06:32:44Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B082GB1N7K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B082GB1N7K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B082GB1N7K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
