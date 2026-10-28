@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T00:14:52Z",
+  "updated_at": "2026-10-28T00:15:02Z",
   "deals": [
+    {
+      "title": "Grab faaaast 🔥 Lowest price 🔥 12,171 Reg : 16,800+ Saver combo of Lenovo L27-4C 27\" FHD IPS 144Hz Monitor and Amazon Fire TV Stick HD (newest model)",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJXJ3W8X?tag=2244005-21",
+      "posted_at": "2026-10-28T00:15:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508788.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJXJ3W8X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJXJ3W8X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4050 Reg : 4999 JBL Clip 5, Wireless Ultra Portable Bluetooth Speaker",
       "price": 4050,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPQY19P2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPQY19P2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony WH-1000XM6 Headphones at 27490 Apply ₹1249 off Coupon + ₹7250 off with SBI Credit Card",
-      "price": null,
-      "original_price": 7250,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F3QJLD3B?tag=2244005-21",
-      "posted_at": "2026-10-12T08:36:16Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F3QJLD3B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F3QJLD3B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F3QJLD3B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
