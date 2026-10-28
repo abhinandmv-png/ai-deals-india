@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T15:19:00Z",
+  "updated_at": "2026-10-28T15:19:11Z",
   "deals": [
+    {
+      "title": ". MILTON Aqua Stainless Steel Water Bottle 750ml 205",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C74MKNQV?tag=2244005-21",
+      "posted_at": "2026-10-28T15:19:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C74MKNQV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C74MKNQV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C74MKNQV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Grab : Multipurpose Storage Cabinet with LED Lights – Only ₹9950🤯 ✨Engineered Wood Cabinet in Teak Brown ✨Adjustable Shelves with Upper Shelf ✨LED Lights & Soft-Close Doors Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 9950,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6YVDP7M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6YVDP7M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Patanjali Haldi Chandan Kanti Body Cleanser Soap for Men and — ₹94. Apply 5% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DX1YLDRT?tag=2244005-21",
-      "posted_at": "2026-10-16T16:32:34Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DX1YLDRT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DX1YLDRT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DX1YLDRT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
