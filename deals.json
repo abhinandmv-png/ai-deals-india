@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T07:54:13Z",
+  "updated_at": "2026-10-28T08:08:50Z",
   "deals": [
+    {
+      "title": "@62,684 Dulux Sadolin PU Wood Polish Gloss 4 Litres @1231.",
+      "price": 62684,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3TRVC3Q?tag=2244005-21",
+      "posted_at": "2026-10-28T08:08:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509017.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3TRVC3Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3TRVC3Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "U.S. POLO ASSN. Apparel Casual Pants @439",
       "price": 439,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FRMZJF9Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FRMZJF9Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "70% off : Zebronics Groot Wireless Mouse, Dual Mode (2.4GHz + BT) @₹299",
-      "price": 299,
-      "original_price": 997,
-      "category": "Electronics",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DR2PBF8J?tag=2244005-21",
-      "posted_at": "2026-10-14T13:32:04Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DR2PBF8J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DR2PBF8J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DR2PBF8J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
