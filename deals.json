@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T09:38:44Z",
+  "updated_at": "2026-10-28T09:39:23Z",
   "deals": [
+    {
+      "title": "Samsung 24-Inch FHD Monitor - with 75Hz and AMD Freesync — ₹4,482 Apply bank offer",
+      "price": 4482,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C4YMKNNZ?tag=2244005-21",
+      "posted_at": "2026-10-28T09:39:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509073.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C4YMKNNZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C4YMKNNZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4050 Oppo Enco Air5 Pro True Wireless in-Ear Earbuds Apply bank offer",
       "price": 4050,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BH4ZW9BF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BH4ZW9BF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "649",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C6LSK39V?tag=2244005-21",
-      "posted_at": "2026-10-15T01:47:04Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C6LSK39V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C6LSK39V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C6LSK39V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
