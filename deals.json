@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T08:08:50Z",
+  "updated_at": "2026-10-28T08:09:03Z",
   "deals": [
+    {
+      "title": "@6395🔥🔥🔥 Durafit91™ Dash 2.5HP Peak BLDC Motor Treadmill with Mobile Stand & Remote Control",
+      "price": 6395,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07GWV71FQ?tag=2244005-21",
+      "posted_at": "2026-10-28T08:09:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509018.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07GWV71FQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07GWV71FQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@62,684 Dulux Sadolin PU Wood Polish Gloss 4 Litres @1231.",
       "price": 62684,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifelong electric heating belt for pain relief @649",
-      "price": 649,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRMZJF9Z?tag=2244005-21",
-      "posted_at": "2026-10-14T13:32:09Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FRMZJF9Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRMZJF9Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRMZJF9Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
