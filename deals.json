@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T05:16:40Z",
+  "updated_at": "2026-10-28T05:16:48Z",
   "deals": [
+    {
+      "title": "🔥🔥🔥 Aquaguard Enrich Ritz Pro RO+UV+Copper+Alkaline Smart Purifier Purifier |2-Year Unconditional Warranty @ 12499 3500 OFF WITH ALL CARDS",
+      "price": 12499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4611FMJ?tag=2244005-21",
+      "posted_at": "2026-10-28T05:16:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508885.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4611FMJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4611FMJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAST : Nilkamal 6 Inch King Size Mattress @6877 Apply ₹1000 Coupon + ₹1213 Off With HDFC CC Regular Price 14k",
       "price": 6877,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G6Z6QV5C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G6Z6QV5C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Looot🔥 ZEBRONICS Zeb-Comfort Wired USB Mouse, 3-Button, 1000 DPI Optical Sensor, Plug & Play, for Windows/Mac M.R.P.: ₹299 ₹99 67% off",
-      "price": null,
-      "original_price": 299,
-      "category": "Electronics",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B079Y6JZC8?tag=2244005-21",
-      "posted_at": "2026-10-13T09:39:03Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_137.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B079Y6JZC8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B079Y6JZC8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
