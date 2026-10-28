@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T06:39:11Z",
+  "updated_at": "2026-10-28T06:39:22Z",
   "deals": [
+    {
+      "title": "@649 Philips India's No.1 Hair Styling Brand -Hair Dryer 1000W |Blow Dry for Men & Women",
+      "price": 649,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B074KKM2MP?tag=2244005-21",
+      "posted_at": "2026-10-28T06:39:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508955.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B074KKM2MP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B074KKM2MP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loottt fasttt💥💥💥 Lowest : Rain Drop LED Meteor Shower Lights (192 LEDs, 8 Tubes) – Only ₹399🤯 ✨Beautiful Falling Meteor Shower Light Effect ✨192 LEDs with 8 Light Tubes ✨Perfect for Diwali, Christmas, Balconies & Outdoor",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTVDH4G2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orthopedic Open Cell Memory Foam Mattress at 9116 Apply coupon+ Sbi card discount",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZ727MKX?tag=2244005-21",
-      "posted_at": "2026-10-14T05:01:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DZ727MKX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZ727MKX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZ727MKX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
