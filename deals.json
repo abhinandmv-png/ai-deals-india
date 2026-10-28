@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T08:09:03Z",
+  "updated_at": "2026-10-28T08:24:13Z",
   "deals": [
+    {
+      "title": "Grab @4270 Apply bank offer🔥",
+      "price": 4270,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDFRGWLQ?tag=2244005-21",
+      "posted_at": "2026-10-28T08:24:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509030.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDFRGWLQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDFRGWLQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@6395🔥🔥🔥 Durafit91™ Dash 2.5HP Peak BLDC Motor Treadmill with Mobile Stand & Remote Control",
       "price": 6395,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DP57B739.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DP57B739.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "63% Off : Lakme Glycolic Illuminate Serum 15 ml @279.",
-      "price": 279,
-      "original_price": 754,
-      "category": "Beauty",
-      "badge": "63% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPDNFW3Z?tag=2244005-21",
-      "posted_at": "2026-10-14T13:32:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
