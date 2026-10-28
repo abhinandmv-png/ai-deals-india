@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T16:15:34Z",
+  "updated_at": "2026-10-28T16:18:57Z",
   "deals": [
+    {
+      "title": "FAAASSSTTT 🔥 368₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F389QTNV?tag=2244005-21",
+      "posted_at": "2026-10-28T16:18:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F389QTNV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F389QTNV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F389QTNV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 960 Ergonomic Wireless Keyboard @5,141.",
       "price": 5141,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07W8Y847L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07W8Y847L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67% Off : Tresemme Shampoo 1 Ltr at 449.",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "67% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07L3ZCJ53?tag=2244005-21",
-      "posted_at": "2026-10-16T19:05:45Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07L3ZCJ53.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07L3ZCJ53.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07L3ZCJ53.01.LZZZZZZZ.jpg"
       ]
     }
   ]
