@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T00:44:41Z",
+  "updated_at": "2026-10-28T01:29:44Z",
   "deals": [
+    {
+      "title": "Upto 80% Off On Action Shoes. Link: Pigeon By Stovekraft Swift Plus Multi-Cook Kettle 1.5L @ Rs.759",
+      "price": 759,
+      "original_price": 3795,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQM62NKJ?tag=2244005-21",
+      "posted_at": "2026-10-28T01:29:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508799.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQM62NKJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQM62NKJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @2430 Reg : 3600+ boAt Nirvana Zenith Pro, 50dB Hybrid Adaptive ANC, Spatial Audio",
       "price": 2430,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F38JK4N3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F38JK4N3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Belkin 20000 mAh Power Bank at 1299",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CV8HPXPC?tag=2244005-21",
-      "posted_at": "2026-10-12T10:36:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CV8HPXPC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CV8HPXPC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CV8HPXPC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
