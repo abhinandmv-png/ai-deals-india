@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T19:47:09Z",
+  "updated_at": "2026-10-28T19:47:16Z",
   "deals": [
+    {
+      "title": "45",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BQC48Y1H?tag=2244005-21",
+      "posted_at": "2026-10-28T19:47:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BQC48Y1H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BQC48Y1H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BQC48Y1H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lee Cooper Square Dial Watch LC08254 351 4,705",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4R23KCW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4R23KCW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Gesto 20 Meter LED String Lights @ Rs.149.",
-      "price": 149,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09FZ4KTFN?tag=2244005-21",
-      "posted_at": "2026-10-17T15:06:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B09FZ4KTFN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09FZ4KTFN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09FZ4KTFN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
