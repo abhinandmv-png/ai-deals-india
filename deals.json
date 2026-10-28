@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T05:31:03Z",
+  "updated_at": "2026-10-28T05:31:12Z",
   "deals": [
+    {
+      "title": "Grab @2037 Apply coupon",
+      "price": 2037,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07JGX5YXC?tag=2244005-21",
+      "posted_at": "2026-10-28T05:31:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508896.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07JGX5YXC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07JGX5YXC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Desidiya 200 LED Waterfall Curtain Lights at 299.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7WB69KN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7WB69KN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cloud Cotton King Size Bedsheet at Rs.699 Apply 3% Off Coupon",
-      "price": 699,
-      "original_price": 721,
-      "category": "Home",
-      "badge": "3% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DJQRC77M?tag=2244005-21",
-      "posted_at": "2026-10-13T14:06:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DJQRC77M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DJQRC77M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DJQRC77M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
