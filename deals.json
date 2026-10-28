@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-28T12:49:00Z",
+  "updated_at": "2026-10-28T12:49:19Z",
   "deals": [
+    {
+      "title": ". INNOWIN Profit High Back Orthopedic Boss Chair with 3 Year Limited Warranty 5359 Apply 3% Off Coupon 945 Off with HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "3% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FB9DTY8Y?tag=2244005-21",
+      "posted_at": "2026-10-28T12:49:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509137.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FB9DTY8Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FB9DTY8Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Good Knight Flash Liquid Vaporiser | Pack of 6 (45ml Each) 360",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0744QZY9B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0744QZY9B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fiama Gel Bathing Bar, 125g x 8 Packs @509.",
-      "price": 509,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B9RHYXNB?tag=2244005-21",
-      "posted_at": "2026-10-16T06:17:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B9RHYXNB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B9RHYXNB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B9RHYXNB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
