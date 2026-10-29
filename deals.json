@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T18:58:50Z",
+  "updated_at": "2026-10-29T18:59:15Z",
   "deals": [
+    {
+      "title": ". Tresemme Keratin Smooth Shampoo 1L 525₹",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07L3ZCJ53?tag=2244005-21",
+      "posted_at": "2026-10-29T18:59:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07L3ZCJ53.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07L3ZCJ53.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07L3ZCJ53.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells 24L Personal Air Cooler 3346 Apply 25% Off Coupon + 10% Off With HDFC CC Delhi Available, Check Yours",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GSG24816.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Treo By Milton Opalware Dinner Set 27Pcs @1299",
-      "price": 1299,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G81G5PYC?tag=2244005-21",
-      "posted_at": "2026-10-23T02:26:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G81G5PYC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G81G5PYC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G81G5PYC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
