@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T00:02:56Z",
+  "updated_at": "2026-10-29T00:03:05Z",
   "deals": [
+    {
+      "title": "Xoundbar Waterproof Portable Bluetooth Stereo Speaker at Rs.1056.",
+      "price": 1056,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07GJNQ3VH?tag=2244005-21",
+      "posted_at": "2026-10-29T00:03:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509263.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07GJNQ3VH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07GJNQ3VH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[HDFC CC] Lee Cooper Men's Watch at Rs.3054.",
       "price": 3054,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGJ7TGDR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGJ7TGDR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "OnePlus Pad Lite, 11-inch 6GB RAM, 128GB ROM @18,749* Apply ₹1000 Off Coupon + ₹2250 Off With SBI CC",
-      "price": 18749,
-      "original_price": 2250,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCTHQRVJ?tag=2244005-21",
-      "posted_at": "2026-10-17T18:21:03Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
