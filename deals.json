@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T00:39:05Z",
+  "updated_at": "2026-10-29T01:02:16Z",
   "deals": [
+    {
+      "title": "@1499",
+      "price": 1499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FMF3PRSZ?tag=2244005-21",
+      "posted_at": "2026-10-29T01:02:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509274.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FMF3PRSZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FMF3PRSZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @1699",
       "price": 1699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GP71KXP5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GP71KXP5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "50% Off : L'Oreal Paris Conditioner 175ml @172.",
-      "price": 172,
-      "original_price": 344,
-      "category": "Shopping",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSLNKJR1?tag=2244005-21",
-      "posted_at": "2026-10-18T04:48:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DSLNKJR1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSLNKJR1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSLNKJR1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
