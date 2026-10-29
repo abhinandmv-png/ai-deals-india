@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:26:13Z",
+  "updated_at": "2026-10-29T06:26:31Z",
   "deals": [
+    {
+      "title": "Grab faaaast 🔥 5356 595 off with hdfc cc Sony INZONE Mouse-A Ultra-Lightweight 48g Wireless Gaming Mouse",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ2XTB3Q?tag=2244005-21",
+      "posted_at": "2026-10-29T06:26:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509369.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ2XTB3Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ2XTB3Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @2250 Skullcandy Grom Wired Kids Headphones 249 off with hdfc cc",
       "price": 2250,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Jade + Ice Roller @ Rs.95",
-      "price": 95,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPFL7VWG?tag=2244005-21",
-      "posted_at": "2026-10-19T15:17:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPFL7VWG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPFL7VWG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPFL7VWG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
