@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:02:28Z",
+  "updated_at": "2026-10-29T02:02:38Z",
   "deals": [
+    {
+      "title": "boAt 2026 Launch Rockerz 650 Pro w/Crest AI — ₹1,470.",
+      "price": 1470,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HM3GCFPR?tag=2244005-21",
+      "posted_at": "2026-10-29T02:02:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509292.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HM3GCFPR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HM3GCFPR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLO Glassy Square Lunch Box Set of 3x320ml - 3 Pcs — ₹587.",
       "price": 587,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDGSYR17.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "71% Off : Parachute Body Lotion 600ml @172.",
-      "price": 172,
-      "original_price": 593,
-      "category": "Shopping",
-      "badge": "71% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CG17DT8T?tag=2244005-21",
-      "posted_at": "2026-10-18T12:18:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CG17DT8T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
