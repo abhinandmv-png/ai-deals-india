@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T04:32:32Z",
+  "updated_at": "2026-10-29T04:45:43Z",
   "deals": [
+    {
+      "title": "MILTON Comet 1000ml Stainless Steel Bottle @212",
+      "price": 212,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNN84WZR?tag=2244005-21",
+      "posted_at": "2026-10-29T04:45:42Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FNN84WZR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNN84WZR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNN84WZR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@1099",
       "price": 1099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCJXGFSF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCJXGFSF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Butterfly 750W Mixer Grinder at 2308 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B075JJ5NQC?tag=2244005-21",
-      "posted_at": "2026-10-19T02:27:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B075JJ5NQC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
