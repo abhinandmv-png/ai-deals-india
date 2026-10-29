@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:47:18Z",
+  "updated_at": "2026-10-29T02:47:29Z",
   "deals": [
+    {
+      "title": "FCUK Smartwatch @799. 2 Colours :",
+      "price": 799,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09PNLJW7N?tag=2244005-21",
+      "posted_at": "2026-10-29T02:47:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09PNLJW7N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09PNLJW7N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09PNLJW7N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Levi's Men's 512 Dark Indigo Slim Tapered Fit Mid Rise — ₹899.",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6Z1YPTZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6Z1YPTZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells REO BLDC 1200MM 5 Star Rated Ceiling Fan @ Rs.2194 [Effective Price] Apply Rs.305 Coupon ASUS AiO VM441 (2026) 16GB/512GB SSD PC @ Rs.69,890 **[Effective Price]** **Rs.14,100 Instant Discount On SBI CC**",
-      "price": 2194,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GY12GB1P?tag=2244005-21",
-      "posted_at": "2026-10-18T14:27:03Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GY12GB1P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GY12GB1P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GY12GB1P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
