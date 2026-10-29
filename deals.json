@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T14:39:27Z",
+  "updated_at": "2026-10-29T14:43:49Z",
   "deals": [
+    {
+      "title": ". Grab 💥💥💥 Sony Bluetooth in Ear Earbuds 3981 Apply 500 Off Coupon + 2098 Off With HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCLPQG26?tag=2244005-21",
+      "posted_at": "2026-10-29T14:43:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509491.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCLPQG26.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCLPQG26.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Steaminator 2600W Steam Generator Iron | 1.5L Tank at Rs.5990",
       "price": 5990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B084685MT1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B084685MT1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP OMEN Gaming Monitor, 23.8 inch(60.5 cm) FHD, 165Hz at 9299 Use Bank Offer to get extra discount Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CBPDLCSP?tag=2244005-21",
-      "posted_at": "2026-10-21T17:36:32Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CBPDLCSP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CBPDLCSP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CBPDLCSP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
