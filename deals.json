@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:11:09Z",
+  "updated_at": "2026-10-29T06:11:23Z",
   "deals": [
+    {
+      "title": "Grab🔥🔥 @1799 Other colour costs more Noise Airwave Max 3 Bluetooth On Ear Headphones with 70H Playtime",
+      "price": 1799,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY23KHW5?tag=2244005-21",
+      "posted_at": "2026-10-29T06:11:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509366.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY23KHW5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY23KHW5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 80% Off On Fastrack Handbags & Wallets.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTQ7PR9L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTQ7PR9L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Tommy Hilfiger Joshua 21L Laptop Backpack @ Rs.1,399",
-      "price": 1399,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6L7X4VC?tag=2244005-21",
-      "posted_at": "2026-10-19T14:32:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H6L7X4VC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6L7X4VC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6L7X4VC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
