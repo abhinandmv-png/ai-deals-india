@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T05:56:15Z",
+  "updated_at": "2026-10-29T06:10:56Z",
   "deals": [
+    {
+      "title": "Samsung 55 Inch (138cm) Mini LED 4K Vision AI 2026 @ 37565 Apply ₹3450 Off Coupon + Flat ₹6475 Off With HDFC Credit Card",
+      "price": 37565,
+      "original_price": 6475,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXV5313B?tag=2244005-21",
+      "posted_at": "2026-10-29T06:10:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509362.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXV5313B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXV5313B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab@14,266🔥🔥 750 off coupon 1974 off with hdfc cc Samsung 189 L, 5 Star, Digital Inverter",
       "price": 14266,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9Y4S29Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9Y4S29Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "74% off : Safari Solace 30L Laptop Backpack @ Rs.1,049",
-      "price": 1049,
-      "original_price": 4035,
-      "category": "Electronics",
-      "badge": "74% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQJ5MK3L?tag=2244005-21",
-      "posted_at": "2026-10-19T13:33:03Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FQJ5MK3L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQJ5MK3L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQJ5MK3L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
