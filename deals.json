@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T15:14:00Z",
+  "updated_at": "2026-10-29T15:28:42Z",
   "deals": [
+    {
+      "title": ". V-Guard Divino 15 Litre Water Heater for Home | White 6699",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08WRKSF9D?tag=2244005-21",
+      "posted_at": "2026-10-29T15:28:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08WRKSF9D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08WRKSF9D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08WRKSF9D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loottt fasttt💥💥💥 Loot : Mix 4 Seeds Combo Pack (1kg) – Only ₹399🤯 ✨Pumpkin, Sunflower, Flax & Chia Seeds ✨250g Each – 1kg Total ✨Natural Raw Seeds for Everyday Nutrition Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00RV73XDG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00RV73XDG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "150",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHXYQ318?tag=2244005-21",
-      "posted_at": "2026-10-22T02:24:29Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GHXYQ318.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHXYQ318.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHXYQ318.01.LZZZZZZZ.jpg"
       ]
     }
   ]
