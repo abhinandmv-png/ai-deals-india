@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T04:17:49Z",
+  "updated_at": "2026-10-29T04:32:20Z",
   "deals": [
+    {
+      "title": "Bata Men's Loafer Shoes — ₹543.",
+      "price": 543,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8BJ1WNP?tag=2244005-21",
+      "posted_at": "2026-10-29T04:32:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509330.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8BJ1WNP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8BJ1WNP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SANDISK 2TB Portable SSD, 800MB/s R, USB 3.2 Gen 2, Rugged SSD @ 21999 ₹5000 Off with HDFC CC",
       "price": 21999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CH82JHLP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CH82JHLP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "925",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H18D3Q3N?tag=2244005-21",
-      "posted_at": "2026-10-18T19:18:12Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H18D3Q3N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H18D3Q3N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H18D3Q3N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
