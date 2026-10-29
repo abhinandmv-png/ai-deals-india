@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T18:13:43Z",
+  "updated_at": "2026-10-29T18:28:43Z",
   "deals": [
+    {
+      "title": ". TRIMIXA 3-Story Princess Dollhouse - with Slide & Furniture 199",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HH9N8F5F?tag=2244005-21",
+      "posted_at": "2026-10-29T18:28:42Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HH9N8F5F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HH9N8F5F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HH9N8F5F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Apple Macbook Air M5 512GB 1,27,590 Using HDFC 7,300 off Using HDFC Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07BLCWPNR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07BLCWPNR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "MILTON Lofty Lunch Box @ Rs.497",
-      "price": 497,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CWVLMC5G?tag=2244005-21",
-      "posted_at": "2026-10-22T13:31:08Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CWVLMC5G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CWVLMC5G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CWVLMC5G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
