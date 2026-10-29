@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T16:39:24Z",
+  "updated_at": "2026-10-29T16:43:40Z",
   "deals": [
+    {
+      "title": ". Spotzero By Milton Non-Scratch Wire Dish Cloth Pack of 10 99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9YTKR28?tag=2244005-21",
+      "posted_at": "2026-10-29T16:43:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F9YTKR28.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9YTKR28.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9YTKR28.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Leo Rapid 5.9L Instant Water Heater | 3000W at Rs.2999",
       "price": 2999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B084S2J2HG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 PRICE DROP - Foldable Ab Exercise Chair Core Exerciser @ 2879 with ICICI Cards Regular Price Rs.10K+",
-      "price": 2879,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D1XHLBCD?tag=2244005-21",
-      "posted_at": "2026-10-22T04:52:38Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_161.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D1XHLBCD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D1XHLBCD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
