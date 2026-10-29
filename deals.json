@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T09:28:39Z",
+  "updated_at": "2026-10-29T09:58:35Z",
   "deals": [
+    {
+      "title": "Grab @13,999 2499 off with hdfc bank cc LG 27G610A 68.4 cm (27 Inch) Ultragear QHD (2560x1440) IPS Gaming Monitor",
+      "price": 13999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMQRBN4M?tag=2244005-21",
+      "posted_at": "2026-10-29T09:58:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509440.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMQRBN4M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMQRBN4M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @7704 Sony E Mount Full-Frame Ultra-Wide Converter (SEL075UWC) |Convertor for FE 28mm F2 Lens 856 off with hdfc cc",
       "price": 7704,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/0BGaKxMxBZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/0BGaKxMxBZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PHILIPS 15W 3in1 AstraGlow Round LED Panel Light | Slim Surface Panel with — **₹8,999**.",
-      "price": 8999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G6L2HW61?tag=2244005-21",
-      "posted_at": "2026-10-20T15:55:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G6L2HW61.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G6L2HW61.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G6L2HW61.01.LZZZZZZZ.jpg"
       ]
     }
   ]
