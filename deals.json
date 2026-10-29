@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:47:43Z",
+  "updated_at": "2026-10-29T02:47:57Z",
   "deals": [
+    {
+      "title": "Larah By Borosil Opalware Dinner Set, 19 Pcs @988",
+      "price": 988,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MGNTLC?tag=2244005-21",
+      "posted_at": "2026-10-29T02:47:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509301.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MGNTLC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MGNTLC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLBELL Office Chair @3957 439₹ Off With HDFC CC",
       "price": 3957,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G8JYQ9GY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G8JYQ9GY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Apple Watch Series 11 at 35,499 + Bank Offer. Grab at ₹199",
-      "price": 199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F42XKR94?tag=2244005-21",
-      "posted_at": "2026-10-18T15:12:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F42XKR94.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F42XKR94.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F42XKR94.01.LZZZZZZZ.jpg"
       ]
     }
   ]
