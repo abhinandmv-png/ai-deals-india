@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T18:28:43Z",
+  "updated_at": "2026-10-29T18:39:26Z",
   "deals": [
+    {
+      "title": "Sleepwell Dual Mattress Single Size 72x30x6 Inch @ ₹3,841 Get Flat ₹426 off with HDFC Cc + 3% off coupon",
+      "price": 3841,
+      "original_price": 3960,
+      "category": "Home",
+      "badge": "3% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G1MN4NNQ?tag=2244005-21",
+      "posted_at": "2026-10-29T18:39:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G1MN4NNQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G1MN4NNQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G1MN4NNQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TRIMIXA 3-Story Princess Dollhouse - with Slide & Furniture 199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9LJ7VP5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9LJ7VP5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "BOSCH Universal Aquatak 125 High Pressure Washer @ Rs.8108 **[Effective Price]** **Apply 5% Off Coupon + Rs.900 Instant Discount On ICIC and AXIS Credit Card**",
-      "price": 8108,
-      "original_price": 8535,
-      "category": "Grocery",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07BLCWPNR?tag=2244005-21",
-      "posted_at": "2026-10-22T13:46:12Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07BLCWPNR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07BLCWPNR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07BLCWPNR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
