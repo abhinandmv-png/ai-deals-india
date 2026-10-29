@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:44:33Z",
+  "updated_at": "2026-10-29T06:44:51Z",
   "deals": [
+    {
+      "title": "Loot 103 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08JQLB5CG?tag=2244005-21",
+      "posted_at": "2026-10-29T06:44:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509382.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08JQLB5CG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08JQLB5CG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells All New Greta Pro 15L 5 Star Storage Water Heater (Geyser) | Faster Heating | Safe to use | Saves electricity |Engineered for Hard Water | Feroglas Coated Anti Rust Tank | Made in India Deal Price ₹6401",
       "price": 6401,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F1MNBVR9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F1MNBVR9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest TVS Cruisetown Open Face Helmet 🏷️ **Lowest price in 30 days** ✅Deal Price: **₹999** ❌MRP: ₹1,899 Discount: **-47%** 👉",
-      "price": null,
-      "original_price": 1899,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FSZW2QZV?tag=2244005-21",
-      "posted_at": "2026-10-19T17:58:06Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_141.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FSZW2QZV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FSZW2QZV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
