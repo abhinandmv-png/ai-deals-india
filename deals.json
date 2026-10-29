@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:43:40Z",
+  "updated_at": "2026-10-29T06:43:59Z",
   "deals": [
+    {
+      "title": "Godrej 3 Seater Sofa at 9371 ₹1919 Off Using HDFC Cards.",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FFTHH86W?tag=2244005-21",
+      "posted_at": "2026-10-29T06:43:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509377.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FFTHH86W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FFTHH86W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @11,360 Jabra Evolve2 55 - Link390c MS Mono Wireless Headphones",
       "price": 11360,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Loot Deal **: IFB 241L 10-in-1 Convertible, Double Door Refrigerator @21,326* Apply ₹2000 Coupon + ₹2964 Off With SBI CC",
-      "price": 21326,
-      "original_price": 2964,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWQ3NDLK?tag=2244005-21",
-      "posted_at": "2026-10-19T16:33:01Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GWQ3NDLK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWQ3NDLK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWQ3NDLK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
