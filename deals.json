@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:02:17Z",
+  "updated_at": "2026-10-29T02:02:28Z",
   "deals": [
+    {
+      "title": "CELLO Glassy Square Lunch Box Set of 3x320ml - 3 Pcs — ₹587.",
+      "price": 587,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXPPJ8YQ?tag=2244005-21",
+      "posted_at": "2026-10-29T02:02:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DXPPJ8YQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXPPJ8YQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXPPJ8YQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Syntro Neo 300 mm High Speed Wall Fan at Rs.1499",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CG17DT8T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ASUS V440 (2026) i3-14th Gen @44990 Flat ₹11000 Off With SBI Credit Card",
-      "price": 44990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXZWL94H?tag=2244005-21",
-      "posted_at": "2026-10-18T12:18:11Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXZWL94H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
