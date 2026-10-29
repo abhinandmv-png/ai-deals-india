@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T17:54:34Z",
+  "updated_at": "2026-10-29T18:13:43Z",
   "deals": [
+    {
+      "title": ". Apple Macbook Air M5 512GB 1,27,590 Using HDFC 7,300 off Using HDFC Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GR1HPR1W?tag=2244005-21",
+      "posted_at": "2026-10-29T18:13:42Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GR1HPR1W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GR1HPR1W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GR1HPR1W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ECOVACS Deebot T30e Omni 2 in 1 Robot Vacuum Cleaner & Mop at Rs.36,449 Get 8550 Discount Using HDFC CC",
       "price": 36449,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CWVLMC5G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CWVLMC5G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1781 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCG47MLC?tag=2244005-21",
-      "posted_at": "2026-10-22T12:33:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FCG47MLC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCG47MLC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCG47MLC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
