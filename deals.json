@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T05:10:50Z",
+  "updated_at": "2026-10-29T05:25:50Z",
   "deals": [
+    {
+      "title": "Grab @6085 137₹ coupon off 676 off with hdfc cc Audio Array Studio Monitors Speaker Pair 3.5\"",
+      "price": 6085,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GN97RFPR?tag=2244005-21",
+      "posted_at": "2026-10-29T05:25:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509347.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GN97RFPR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GN97RFPR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @1499 Zebronics Sound Feast 45 Portable Bluetooth Speaker",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FRB7JMHG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FRB7JMHG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Victus, 14th Gen Intel Core i5 Gaming Laptop @ Rs.84740 Flat ₹15250 Off With SBI Credit Card",
-      "price": 84740,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G46HR61G?tag=2244005-21",
-      "posted_at": "2026-10-19T10:17:55Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G46HR61G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G46HR61G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G46HR61G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
