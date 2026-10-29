@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:47:57Z",
+  "updated_at": "2026-10-29T02:54:13Z",
   "deals": [
+    {
+      "title": "1637",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07THYZ1LN?tag=2244005-21",
+      "posted_at": "2026-10-29T02:54:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07THYZ1LN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07THYZ1LN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07THYZ1LN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah By Borosil Opalware Dinner Set, 19 Pcs @988",
       "price": 988,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9TC9FM1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9TC9FM1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 236L Digital Inverter Frost Free Double Door Refrigerator at Rs.**22,239**. • Apply ₹500 Coupon • Apply ₹1001 Off Code at Checkout SALE1001 • Flat ₹4250 Off With SBI CC",
-      "price": null,
-      "original_price": 1001,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8JYQ9GY?tag=2244005-21",
-      "posted_at": "2026-10-18T15:42:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G8JYQ9GY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8JYQ9GY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8JYQ9GY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
