@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T09:58:35Z",
+  "updated_at": "2026-10-29T10:24:17Z",
   "deals": [
+    {
+      "title": "SINGER 1310 Automatic Zig Zag Electric Sewing Machine at Rs.8721 Apply 300 Off Coupon",
+      "price": 8721,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3NZ4TRV?tag=2244005-21",
+      "posted_at": "2026-10-29T10:24:17Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H3NZ4TRV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3NZ4TRV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3NZ4TRV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @13,999 2499 off with hdfc bank cc LG 27G610A 68.4 cm (27 Inch) Ultragear QHD (2560x1440) IPS Gaming Monitor",
       "price": 13999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRCVWGFR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 77% Off On Milton Products. Masterlink :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "77% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/0BGaKxMxBZ?tag=2244005-21",
-      "posted_at": "2026-10-20T16:10:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/0BGAKXMXBZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/0BGaKxMxBZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/0BGaKxMxBZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
