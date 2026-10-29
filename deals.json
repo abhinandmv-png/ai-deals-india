@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T12:13:40Z",
+  "updated_at": "2026-10-29T12:30:51Z",
   "deals": [
+    {
+      "title": "Havells Hexo 2000W Induction Cooktop @3543. Apply 20% Off Coupon :",
+      "price": 3543,
+      "original_price": 4429,
+      "category": "Shopping",
+      "badge": "20% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GKDFR8YS?tag=2244005-21",
+      "posted_at": "2026-10-29T12:30:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GKDFR8YS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GKDFR8YS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GKDFR8YS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loot 79 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GD18BSJQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GD18BSJQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TWO SOFT Flip Flop for Women | Soft Comfortable — ₹75.",
-      "price": 75,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G81HXXBY?tag=2244005-21",
-      "posted_at": "2026-10-21T08:13:02Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G81HXXBY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G81HXXBY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G81HXXBY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
