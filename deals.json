@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T13:13:53Z",
+  "updated_at": "2026-10-29T13:28:40Z",
   "deals": [
+    {
+      "title": ". Puma Flexrate Sneaker 🔥 1,349₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BVM5529F?tag=2244005-21",
+      "posted_at": "2026-10-29T13:28:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BVM5529F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BVM5529F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BVM5529F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. ✅ PRICE DROP ALERT : Patakha Deals on Baby Essentials - Upto 85% Off 85% Off: LITTLE RIDES Explorer Baby Stroller (Multi, Blue) @ 1985 : 42% Off: Himalaya Gentle Baby Soap Value Pack (4 x 75 g) @ 139 : 68% Off: MeeMee",
       "price": 1985,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DT12T7FN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DT12T7FN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "84% off : HRX Force Large Size Suitcase @ Rs.2429",
-      "price": 2429,
-      "original_price": 15181,
-      "category": "Travel",
-      "badge": "84% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK44HZM7?tag=2244005-21",
-      "posted_at": "2026-10-21T12:46:06Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HK44HZM7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK44HZM7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK44HZM7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
