@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T17:43:53Z",
+  "updated_at": "2026-10-29T17:54:25Z",
   "deals": [
+    {
+      "title": "MSI PRO MP275 27 Inch Full HD Office Monitor @ ₹8,640 Flat ₹959 off with HDFC Cc",
+      "price": 8640,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPM6YZLR?tag=2244005-21",
+      "posted_at": "2026-10-29T17:54:25Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CPM6YZLR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPM6YZLR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPM6YZLR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Panasonic 20W LED Batten (Pack Of 10) 949₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNQZ9HWX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNQZ9HWX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "279",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H94G11C3?tag=2244005-21",
-      "posted_at": "2026-10-22T11:03:55Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H94G11C3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H94G11C3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H94G11C3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
