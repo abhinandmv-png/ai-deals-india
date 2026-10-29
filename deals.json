@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T08:39:16Z",
+  "updated_at": "2026-10-29T09:13:40Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Tab S10 FE S Pen in-Box 8 GB RAM, 128 GB @₹36,499 Apply ₹3000 off Coupon + ₹4550 off with HDFC Credit Card",
+      "price": 36499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F29P9CKJ?tag=2244005-21",
+      "posted_at": "2026-10-29T09:13:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509430.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F29P9CKJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Green Soul Seoul X Office Chair @ ₹2,557 Flat ₹284 off with HDFC Cc + 5% off coupon",
       "price": 2557,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DHW5JRTM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DHW5JRTM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : Rechargeable Slim 30cm LED Light Bar – Only ₹340🤯 ✨Touch Control for Convenient Operation ✨Magnetic Mount for Easy Installation ✨Slim Design for Cabinets, Shelves and Workspaces Buy Now👇🏻 🛒 BUY",
-      "price": 340,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HH491T5J?tag=2244005-21",
-      "posted_at": "2026-10-20T10:44:58Z",
-      "source": "Telegram Test",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_146.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HH491T5J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HH491T5J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
