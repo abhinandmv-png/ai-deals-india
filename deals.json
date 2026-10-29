@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T19:25:58Z",
+  "updated_at": "2026-10-29T19:26:15Z",
   "deals": [
+    {
+      "title": ". Grab 💥💥💥 Sony Alpha 24.2MP Mirrorless Digital SLR Camera 70740 Flat 16250 Off With HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07NF5PT84?tag=2244005-21",
+      "posted_at": "2026-10-29T19:26:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509567.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07NF5PT84.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07NF5PT84.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Casio G-Shock Watch 🔥 6316 With Bank Offer",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07C2TQKH5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07C2TQKH5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "RR Signature Vento Fresh Luxura 150 mm Exhaust Fan @699",
-      "price": 699,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DK9XXKJC?tag=2244005-21",
-      "posted_at": "2026-10-23T03:30:56Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DK9XXKJC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DK9XXKJC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DK9XXKJC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
