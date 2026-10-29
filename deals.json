@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T01:32:15Z",
+  "updated_at": "2026-10-29T01:32:31Z",
   "deals": [
+    {
+      "title": "PUMA Kids Unisex-Child Slipper at Rs.234.",
+      "price": 234,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BN682Z4J?tag=2244005-21",
+      "posted_at": "2026-10-29T01:32:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509281.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BN682Z4J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BN682Z4J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fastrack Magnus Smart Watch at Rs.2159.",
       "price": 2159,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00E3AP5KS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00E3AP5KS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Min. 60% Off On BACCA BUCCI Shoes",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/BACCABUCCI?tag=2244005-21",
-      "posted_at": "2026-10-18T10:48:06Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146071.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/BACCABUCCI.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/BACCABUCCI.01.LZZZZZZZ.jpg"
       ]
     }
   ]
