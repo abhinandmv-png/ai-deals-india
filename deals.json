@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:11:23Z",
+  "updated_at": "2026-10-29T06:16:02Z",
   "deals": [
+    {
+      "title": "12500",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQXC3FWC?tag=2244005-21",
+      "posted_at": "2026-10-29T06:16:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DQXC3FWC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQXC3FWC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQXC3FWC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 @1799 Other colour costs more Noise Airwave Max 3 Bluetooth On Ear Headphones with 70H Playtime",
       "price": 1799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJP1ZWM2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJP1ZWM2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTQ7PR9L?tag=2244005-21",
-      "posted_at": "2026-10-19T14:33:28Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DTQ7PR9L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTQ7PR9L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTQ7PR9L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
