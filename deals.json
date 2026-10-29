@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T00:03:05Z",
+  "updated_at": "2026-10-29T00:03:21Z",
   "deals": [
+    {
+      "title": "[HDFC CC] Samsung Galaxy Tab S10 Lite at Rs.27,749.",
+      "price": 27749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=2244005-21",
+      "posted_at": "2026-10-29T00:03:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xoundbar Waterproof Portable Bluetooth Stereo Speaker at Rs.1056.",
       "price": 1056,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DMFBF9Z4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DMFBF9Z4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Apple iPhone 16 (128GB) at 69999* Apply ₹750 Off Coupon + ₹6250 Off on SBI Bank Credit Card",
-      "price": null,
-      "original_price": 6250,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGJ7TGDR?tag=2244005-21",
-      "posted_at": "2026-10-17T18:51:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DGJ7TGDR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGJ7TGDR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGJ7TGDR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
