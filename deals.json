@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T00:02:31Z",
+  "updated_at": "2026-10-29T00:02:39Z",
   "deals": [
+    {
+      "title": "[HDFC CC] Amazon Echo Dot (5th Gen, White) Smart Home Speaker Combo with Wipro LED Smart Bulb at Rs.4589.",
+      "price": 4589,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPM3PJHV?tag=2244005-21",
+      "posted_at": "2026-10-29T00:02:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509260.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPM3PJHV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPM3PJHV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[HDFC CC] Coirfit Bone Zone Foam Mattress at Rs.2753.",
       "price": 2753,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09DC9B71T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09DC9B71T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Microfiber Cleaning Cloth (Pack of 3) @ Rs.99",
-      "price": 99,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H726BX3X?tag=2244005-21",
-      "posted_at": "2026-10-17T16:51:05Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146040.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H726BX3X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H726BX3X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
