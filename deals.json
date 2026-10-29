@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T18:43:58Z",
+  "updated_at": "2026-10-29T18:44:06Z",
   "deals": [
+    {
+      "title": ". Gear Laptop Backpack 🔥 499₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTJ1RY1Y?tag=2244005-21",
+      "posted_at": "2026-10-29T18:44:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BTJ1RY1Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTJ1RY1Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTJ1RY1Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SAMPLE LOOTT 💥 99 APPLY COUPON",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F18N4LNY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F18N4LNY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Belkin 20000 mAh Power Bank at Rs.1299",
-      "price": 1299,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CV9M9VP3?tag=2244005-21",
-      "posted_at": "2026-10-22T17:16:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CV9M9VP3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CV9M9VP3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CV9M9VP3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
