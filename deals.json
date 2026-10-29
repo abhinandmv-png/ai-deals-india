@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T09:13:40Z",
+  "updated_at": "2026-10-29T09:15:48Z",
   "deals": [
+    {
+      "title": "449",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07N6J9WV3?tag=2244005-21",
+      "posted_at": "2026-10-29T09:15:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07N6J9WV3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07N6J9WV3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07N6J9WV3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Galaxy Tab S10 FE S Pen in-Box 8 GB RAM, 128 GB @₹36,499 Apply ₹3000 off Coupon + ₹4550 off with HDFC Credit Card",
       "price": 36499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DJYKBJXF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DJYKBJXF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "479",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DHW5JRTM?tag=2244005-21",
-      "posted_at": "2026-10-20T14:27:47Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DHW5JRTM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DHW5JRTM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DHW5JRTM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
