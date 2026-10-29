@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T05:06:55Z",
+  "updated_at": "2026-10-29T05:10:50Z",
   "deals": [
+    {
+      "title": "Grab @1499 Zebronics Sound Feast 45 Portable Bluetooth Speaker",
+      "price": 1499,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6672HRD?tag=2244005-21",
+      "posted_at": "2026-10-29T05:10:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509346.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6672HRD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6672HRD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon 1300 Watts Cordless Electrical Dry Iron @623",
       "price": 623,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G46HR61G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G46HR61G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Aquas Neo Water Purifier @5356 Apply ₹957 Coupon + ₹1650 Off With SBI/Axis/HDFC/ICICI CC",
-      "price": 5356,
-      "original_price": 1650,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8QC2Z7C?tag=2244005-21",
-      "posted_at": "2026-10-19T09:48:23Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F8QC2Z7C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8QC2Z7C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8QC2Z7C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
