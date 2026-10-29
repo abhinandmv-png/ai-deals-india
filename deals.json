@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:58:39Z",
+  "updated_at": "2026-10-29T06:58:59Z",
   "deals": [
+    {
+      "title": "HP 330 15.6-inch Laptop Backpack - with Padded Panels — ₹473.",
+      "price": 473,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYDWD4VL?tag=2244005-21",
+      "posted_at": "2026-10-29T06:58:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509392.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYDWD4VL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYDWD4VL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @32,440 Samsung Smart Choice Smart Choice 12 kg 4k off coupon 9250 off with hdfc cc",
       "price": 32440,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZCYP7X8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZCYP7X8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 68% Off On Lacoste Watches.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "68% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/afvWK49Dem?tag=2244005-21",
-      "posted_at": "2026-10-19T19:33:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/AFVWK49DEM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/afvWK49Dem.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/afvWK49Dem.01.LZZZZZZZ.jpg"
       ]
     }
   ]
