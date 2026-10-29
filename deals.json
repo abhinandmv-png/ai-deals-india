@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T14:28:44Z",
+  "updated_at": "2026-10-29T14:39:27Z",
   "deals": [
+    {
+      "title": "Singer Steaminator 2600W Steam Generator Iron | 1.5L Tank at Rs.5990",
+      "price": 5990,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G47Y5VNN?tag=2244005-21",
+      "posted_at": "2026-10-29T14:39:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G47Y5VNN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G47Y5VNN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G47Y5VNN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Running Shoes Drift Runner M 1040",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBPDLCSP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBPDLCSP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1218 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5M7NGH4?tag=2244005-21",
-      "posted_at": "2026-10-21T16:43:14Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H5M7NGH4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5M7NGH4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5M7NGH4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
