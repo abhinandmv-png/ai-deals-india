@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T08:15:50Z",
+  "updated_at": "2026-10-29T08:28:47Z",
   "deals": [
+    {
+      "title": "Up to 80% off Hisense 55 Inch 55E8S Hi-QLED MiniLED Smart TV @34,999 9500 off with hdfc cc🔥",
+      "price": 34999,
+      "original_price": 174995,
+      "category": "Electronics",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVNBSXLS?tag=2244005-21",
+      "posted_at": "2026-10-29T08:28:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509416.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVNBSXLS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVNBSXLS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "191 : 35L",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01J0WH1R8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01J0WH1R8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haldiram's Teekha Meetha Mixture Namkeen 750g @155",
-      "price": 155,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWMS6SP5?tag=2244005-21",
-      "posted_at": "2026-10-20T08:04:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GWMS6SP5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWMS6SP5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWMS6SP5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
