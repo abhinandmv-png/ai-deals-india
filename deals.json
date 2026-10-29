@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T11:28:43Z",
+  "updated_at": "2026-10-29T11:43:39Z",
   "deals": [
+    {
+      "title": "🔥🔥 249₹ Dove Nourishing Body Wash with Triple Hydration Serum | 825 ML",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S7R626P?tag=2244005-21",
+      "posted_at": "2026-10-29T11:43:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509459.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S7R626P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S7R626P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Daniel Hechter Paris Bercy Collection Chronograph Watch 2,343₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GF6WT32C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GF6WT32C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Deal",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G1M51CVB?tag=2244005-21",
-      "posted_at": "2026-10-21T03:14:45Z",
-      "source": "Telegram Test",
-      "image": "https://m.media-amazon.com/images/P/B0G1M51CVB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G1M51CVB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G1M51CVB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
