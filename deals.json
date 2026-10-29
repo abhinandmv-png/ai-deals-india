@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:16:02Z",
+  "updated_at": "2026-10-29T06:16:13Z",
   "deals": [
+    {
+      "title": "69",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DN6F999P?tag=2244005-21",
+      "posted_at": "2026-10-29T06:16:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DN6F999P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DN6F999P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DN6F999P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "12500",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09MM6CHLX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09MM6CHLX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pack of 12 Saree Covers @ Rs.199",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJP1ZWM2?tag=2244005-21",
-      "posted_at": "2026-10-19T14:47:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HJP1ZWM2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJP1ZWM2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJP1ZWM2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
