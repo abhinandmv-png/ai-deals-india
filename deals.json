@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:28:39Z",
+  "updated_at": "2026-10-29T06:43:40Z",
   "deals": [
+    {
+      "title": "Grab @11,360 Jabra Evolve2 55 - Link390c MS Mono Wireless Headphones",
+      "price": 11360,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BS1MB671?tag=2244005-21",
+      "posted_at": "2026-10-29T06:43:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509375.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BS1MB671.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BS1MB671.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4029 711 off with hdfc cc Amazon Basics Digital Safe with Electronic Keypad Locker for Home,",
       "price": 4029,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWQ3NDLK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWQ3NDLK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3 Layer Egg Holder @ Rs.185",
-      "price": 185,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FP33WSXF?tag=2244005-21",
-      "posted_at": "2026-10-19T16:18:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FP33WSXF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FP33WSXF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FP33WSXF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
