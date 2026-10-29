@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T03:17:19Z",
+  "updated_at": "2026-10-29T03:17:33Z",
   "deals": [
+    {
+      "title": "Grab 🔥 Adidas Unisex-Adult Running Shoes @1135 Other colour costs more 🔥",
+      "price": 1135,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7SS1RZ?tag=2244005-21",
+      "posted_at": "2026-10-29T03:17:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509306.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7SS1RZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7SS1RZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Noise New Launch ColorFit Pulse Air Smartwatch with BT Calling, 1.85\" TFT Display, Lightweight 45g Design, Heart Rate & Step Tracking, Multi-Sport Modes, Find My Phone, Water Resistant (Rose Pink @999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXZVZRDT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXZVZRDT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 87% Off On Lee Cooper Watches. Men's : Women : Upto 87% Off On Daniel Klein Watches. 55% Off : Close Up Toothpaste (Pack Of 4) @216.",
-      "price": 216,
-      "original_price": 1662,
-      "category": "Electronics",
-      "badge": "87% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0881YY2QJ?tag=2244005-21",
-      "posted_at": "2026-10-18T16:18:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0881YY2QJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0881YY2QJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0881YY2QJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
