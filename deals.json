@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T15:13:50Z",
+  "updated_at": "2026-10-29T15:14:00Z",
   "deals": [
+    {
+      "title": ".. Loottt fasttt💥💥💥 Loot : Mix 4 Seeds Combo Pack (1kg) – Only ₹399🤯 ✨Pumpkin, Sunflower, Flax & Chia Seeds ✨250g Each – 1kg Total ✨Natural Raw Seeds for Everyday Nutrition Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 399,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJ2RSG6Q?tag=2244005-21",
+      "posted_at": "2026-10-29T15:14:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509500.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJ2RSG6Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJ2RSG6Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Starlit 12 Meter 72 LED String Lights – Only ₹199🤯 ✨12-Meter String with 72 LEDs ✨Warm White Glow for Festive Decor ✨Perfect for Diwali, Christmas & Home Decoration Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHXYQ318.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHXYQ318.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TUSI Women's Essential Tank Top High/Mock Neck Full Length Turtle Neck — ₹90.",
-      "price": 90,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BW9B6J8R?tag=2244005-21",
-      "posted_at": "2026-10-22T02:09:29Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BW9B6J8R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BW9B6J8R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BW9B6J8R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
