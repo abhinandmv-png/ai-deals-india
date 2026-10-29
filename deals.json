@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T03:17:33Z",
+  "updated_at": "2026-10-29T03:47:19Z",
   "deals": [
+    {
+      "title": "Robustt Safety Helmet Pack of 5 — ₹250.",
+      "price": 250,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DPCMH7YR?tag=2244005-21",
+      "posted_at": "2026-10-29T03:47:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509311.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DPCMH7YR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DPCMH7YR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 🔥 Adidas Unisex-Adult Running Shoes @1135 Other colour costs more 🔥",
       "price": 1135,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4LXWTW3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4LXWTW3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 87% Off On Lee Cooper Watches. Men's : Women : Upto 87% Off On Daniel Klein Watches. ASUS i3-14th Gen All in One PC @40,990 Flat ₹10000 Off With SBI Credit Card.",
-      "price": 40990,
-      "original_price": 315308,
-      "category": "Electronics",
-      "badge": "87% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXZVZRDT?tag=2244005-21",
-      "posted_at": "2026-10-18T16:18:13Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GXZVZRDT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXZVZRDT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXZVZRDT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
