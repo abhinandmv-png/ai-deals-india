@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T16:13:57Z",
+  "updated_at": "2026-10-29T16:39:24Z",
   "deals": [
+    {
+      "title": "Singer Leo Rapid 5.9L Instant Water Heater | 3000W at Rs.2999",
+      "price": 2999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FYGSLVRW?tag=2244005-21",
+      "posted_at": "2026-10-29T16:39:23Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FYGSLVRW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Samsung S26 Ultra 124999 Apply 15000 off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D1XHLBCD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D1XHLBCD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "POND'S Pure Detox Face Wash, 200 g at Rs.199. **Apply 10% Off Coupon** :",
-      "price": 199,
-      "original_price": 221,
-      "category": "Beauty",
-      "badge": "10% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08PQ6VWPT?tag=2244005-21",
-      "posted_at": "2026-10-22T04:38:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08PQ6VWPT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08PQ6VWPT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08PQ6VWPT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
