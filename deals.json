@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T17:15:58Z",
+  "updated_at": "2026-10-29T17:24:28Z",
   "deals": [
+    {
+      "title": "Ant Esports Prism Mouse Pad - with Anti-fray Stitching, Waterproof at **₹69**.",
+      "price": 69,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSHZLRQB?tag=2244005-21",
+      "posted_at": "2026-10-29T17:24:28Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DSHZLRQB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSHZLRQB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSHZLRQB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299 Loot",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQTNXDYM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQTNXDYM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lakme Loot : Buy 1 Get 1 FREE *Add Any 2 & Check Final Checkout Page.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/A2CM6J679H?tag=2244005-21",
-      "posted_at": "2026-10-22T08:46:20Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/A2CM6J679H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/A2CM6J679H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/A2CM6J679H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
