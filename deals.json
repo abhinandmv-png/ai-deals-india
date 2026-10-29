@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T04:45:43Z",
+  "updated_at": "2026-10-29T04:47:26Z",
   "deals": [
+    {
+      "title": "Loot For Needy | IFB 197L 5 Star Advanced Inverter Refrigerator @13,121 • Apply ₹1000 Coupon • Apply ₹1000 Off Code at Checkout ➡️ DIWALI1K • ₹2569 Off With HDFC CC",
+      "price": 13121,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GW2YHFCX?tag=2244005-21",
+      "posted_at": "2026-10-29T04:47:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509335.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GW2YHFCX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GW2YHFCX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Comet 1000ml Stainless Steel Bottle @212",
       "price": 212,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D41L64NR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D41L64NR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Everyday 16-inch Laptop Bag @ Rs.798",
-      "price": 798,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCJXGFSF?tag=2244005-21",
-      "posted_at": "2026-10-19T04:12:14Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DCJXGFSF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCJXGFSF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCJXGFSF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
