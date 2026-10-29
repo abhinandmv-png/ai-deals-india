@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T14:13:45Z",
+  "updated_at": "2026-10-29T14:28:44Z",
   "deals": [
+    {
+      "title": ". Reebok Running Shoes Drift Runner M 1040",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BVBS2W1T?tag=2244005-21",
+      "posted_at": "2026-10-29T14:28:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BVBS2W1T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BVBS2W1T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BVBS2W1T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Wagzo Car Media Player 🔥 6,999₹ 75 Apply 50% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5M7NGH4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5M7NGH4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "99",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGJTKQMY?tag=2244005-21",
-      "posted_at": "2026-10-21T16:16:12Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146244.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGJTKQMY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGJTKQMY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
