@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T03:47:39Z",
+  "updated_at": "2026-10-29T03:47:49Z",
   "deals": [
+    {
+      "title": "@75,515 Little's Ultra Premium Baby Diapers L 44 Count @525 Apply Coupon :",
+      "price": 75515,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H887C7VH?tag=2244005-21",
+      "posted_at": "2026-10-29T03:47:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509317.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H887C7VH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H887C7VH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@75,515 Grab @819 PowerVolt 102 Max 20000mAh Power Bank, 22.5W Fast Charging, LED Display, Multiple Input & Output Ports, Portable Charger for Smartphones & Tablets",
       "price": 75515,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy Tab S10 FE 10.9 inch Wi-Fi Tablet, 8 GB, 128 GB — **₹39,249**. Flat ₹4750 Off With SBI Credit Card",
-      "price": 39249,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F29P9CKJ?tag=2244005-21",
-      "posted_at": "2026-10-18T16:57:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F29P9CKJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
