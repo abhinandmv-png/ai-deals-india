@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:10:56Z",
+  "updated_at": "2026-10-29T06:11:09Z",
   "deals": [
+    {
+      "title": "Upto 80% Off On Fastrack Handbags & Wallets.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/oeHw2DHlf4?tag=2244005-21",
+      "posted_at": "2026-10-29T06:11:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509365.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/oeHw2DHlf4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/oeHw2DHlf4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 55 Inch (138cm) Mini LED 4K Vision AI 2026 @ 37565 Apply ₹3450 Off Coupon + Flat ₹6475 Off With HDFC Credit Card",
       "price": 37565,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6L7X4VC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6L7X4VC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Dinning Table Cover @ Rs.99",
-      "price": 99,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9Y4S29Z?tag=2244005-21",
-      "posted_at": "2026-10-19T14:17:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9Y4S29Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9Y4S29Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9Y4S29Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
