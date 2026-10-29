@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T11:43:54Z",
+  "updated_at": "2026-10-29T11:54:20Z",
   "deals": [
+    {
+      "title": "Grab : Singer Auro 1000 Watts Dry Iron at Rs.499",
+      "price": 499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLDWZMBT?tag=2244005-21",
+      "posted_at": "2026-10-29T11:54:19Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HLDWZMBT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLDWZMBT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLDWZMBT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Acer Flow Silent Wireless Mouse, 500mAh 299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSQ9D5L6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSQ9D5L6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Puma Men Forbes Sneaker @956. Apply ₹168 Off Coupon:",
-      "price": 956,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BPL7W64Q?tag=2244005-21",
-      "posted_at": "2026-10-21T05:27:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BPL7W64Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BPL7W64Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BPL7W64Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
