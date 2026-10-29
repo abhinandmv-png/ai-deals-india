@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T11:13:47Z",
+  "updated_at": "2026-10-29T11:28:43Z",
   "deals": [
+    {
+      "title": ". Daniel Hechter Paris Bercy Collection Chronograph Watch 2,343₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZTNVL2M?tag=2244005-21",
+      "posted_at": "2026-10-29T11:28:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509458.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZTNVL2M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZTNVL2M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "97",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G1M51CVB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G1M51CVB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Eureka Forbes Omni Vac Plus Vacuum Cleaner at Rs.4735. **Regular Price 14k**",
-      "price": 4735,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HH9KKC16?tag=2244005-21",
-      "posted_at": "2026-10-21T02:31:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HH9KKC16.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HH9KKC16.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HH9KKC16.01.LZZZZZZZ.jpg"
       ]
     }
   ]
