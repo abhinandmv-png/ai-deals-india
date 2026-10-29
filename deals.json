@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T06:43:59Z",
+  "updated_at": "2026-10-29T06:44:17Z",
   "deals": [
+    {
+      "title": "Interio by Godrej Windle 1-Seater Fabric Sofa @ 5,942 Use HDFC CC",
+      "price": 5942,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8JH2N69?tag=2244005-21",
+      "posted_at": "2026-10-29T06:44:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509378.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8JH2N69.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8JH2N69.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Godrej 3 Seater Sofa at 9371 ₹1919 Off Using HDFC Cards.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DRCD16GN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DRCD16GN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 32\" (80cm) M5 Smart Monitor with Smart TV @13099 Flat ₹3000 off with SBI Credit Card",
-      "price": 13099,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FK5JR8ZR?tag=2244005-21",
-      "posted_at": "2026-10-19T17:18:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
