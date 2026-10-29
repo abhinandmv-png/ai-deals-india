@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T11:58:36Z",
+  "updated_at": "2026-10-29T12:13:40Z",
   "deals": [
+    {
+      "title": ".. Loot 79 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DJ7VFKRN?tag=2244005-21",
+      "posted_at": "2026-10-29T12:13:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509465.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DJ7VFKRN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DJ7VFKRN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sony E Mount FE 85mm F1.8 Full-Frame Lens 34990 Flat 7500 Off With HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G81HXXBY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G81HXXBY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Woman Flip Flops @79.",
-      "price": 79,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G81T325H?tag=2244005-21",
-      "posted_at": "2026-10-21T07:13:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0G81T325H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G81T325H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G81T325H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
