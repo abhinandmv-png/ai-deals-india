@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:17:39Z",
+  "updated_at": "2026-10-29T02:32:18Z",
   "deals": [
+    {
+      "title": "Grab @5400 599 off with hdfc cc🔥🔥 Noise Junior Explorer 2 Smart Watch for Kids with 4G SIM Compatible, 2-Way Video & Voice Calling, Geofencing, Real Time Location Monitoring via Google Maps, IP68, SOS Emergency Alerts (F",
+      "price": 5400,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC69CWZ1?tag=2244005-21",
+      "posted_at": "2026-10-29T02:32:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509297.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC69CWZ1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC69CWZ1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLBELL Executive Chair at Rs.4796.",
       "price": 4796,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5QCYM82.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5QCYM82.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Flipkart Big Billion Days | Last Day Fashion Deals. Trending Sneakers Under for ₹299. Stylish Flats & Bellies Under for ₹129. Men's Wallets Under for ₹199. Classic Sunglasses Under for ₹199. Premium Look Watches Under fo",
-      "price": 144,
-      "original_price": 480,
-      "category": "Electronics",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F9VMX4ZD?tag=2244005-21",
-      "posted_at": "2026-10-18T13:51:22Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146088.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F9VMX4ZD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F9VMX4ZD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
