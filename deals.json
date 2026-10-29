@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T13:28:40Z",
+  "updated_at": "2026-10-29T13:39:24Z",
   "deals": [
+    {
+      "title": "Singer Cheffy Mix Mixer Grinder 3 Stainless Steel Jars at Rs.1498",
+      "price": 1498,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNCV2F9V?tag=2244005-21",
+      "posted_at": "2026-10-29T13:39:24Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146686.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNCV2F9V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNCV2F9V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Flexrate Sneaker 🔥 1,349₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4RFMPWY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4RFMPWY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Huggies Baby Diapers M Size, 100 Count (Pack of 2) @1276* Apply 7% Off Coupon :",
-      "price": 1276,
-      "original_price": 1372,
-      "category": "Shopping",
-      "badge": "7% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DT12T7FN?tag=2244005-21",
-      "posted_at": "2026-10-21T13:43:09Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DT12T7FN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DT12T7FN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DT12T7FN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
