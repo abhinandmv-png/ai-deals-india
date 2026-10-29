@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T04:47:26Z",
+  "updated_at": "2026-10-29T05:02:24Z",
   "deals": [
+    {
+      "title": "Grab @16,249 JBL Cinema SB590 Deep Bass, Dolby Atmos Soundbar with Wireless Subwoofer for Extra Deep Bass, 3.1 Channel 1k off coupon 2750 off with hdfc cc",
+      "price": 16249,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D45YS7WK?tag=2244005-21",
+      "posted_at": "2026-10-29T05:02:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509341.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D45YS7WK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D45YS7WK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot For Needy | IFB 197L 5 Star Advanced Inverter Refrigerator @13,121 • Apply ₹1000 Coupon • Apply ₹1000 Off Code at Checkout ➡️ DIWALI1K • ₹2569 Off With HDFC CC",
       "price": 13121,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7G6KBCR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7G6KBCR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 9 kg 5 Star Front Load Fully-Automatic Washing Machine at 26,490. **₹6000 off with SBI Card**",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D41L64NR?tag=2244005-21",
-      "posted_at": "2026-10-19T06:12:15Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D41L64NR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D41L64NR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D41L64NR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
