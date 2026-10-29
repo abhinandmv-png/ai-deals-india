@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T11:43:46Z",
+  "updated_at": "2026-10-29T11:43:54Z",
   "deals": [
+    {
+      "title": ". Acer Flow Silent Wireless Mouse, 500mAh 299",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHZNXKKQ?tag=2244005-21",
+      "posted_at": "2026-10-29T11:43:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HHZNXKKQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHZNXKKQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHZNXKKQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bajaj Style Mix 1000W 5 Jar Mixer Grinder 8938",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BPL7W64Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BPL7W64Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Polycab BLDC 1200mm Remote Ceiling Fan @2499.",
-      "price": 2499,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9YCTYTC?tag=2244005-21",
-      "posted_at": "2026-10-21T05:13:00Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H9YCTYTC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9YCTYTC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9YCTYTC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
