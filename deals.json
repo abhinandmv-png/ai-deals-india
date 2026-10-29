@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T02:02:38Z",
+  "updated_at": "2026-10-29T02:17:17Z",
   "deals": [
+    {
+      "title": "ATTRO Prime Stainless Steel Single Wall Storage Containers, 6x550ml, Set Of 6 — ₹323.",
+      "price": 323,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GM6D7S7Q?tag=2244005-21",
+      "posted_at": "2026-10-29T02:17:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509293.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GM6D7S7Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GM6D7S7Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt 2026 Launch Rockerz 650 Pro w/Crest AI — ₹1,470.",
       "price": 1470,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DT6YX3TN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DT6YX3TN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy Buds Core Earbuds - with ANC, 35hrs Battery @ Rs.3199",
-      "price": 3199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDGSYR17?tag=2244005-21",
-      "posted_at": "2026-10-18T12:33:06Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDGSYR17.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDGSYR17.01.LZZZZZZZ.jpg"
       ]
     }
   ]
