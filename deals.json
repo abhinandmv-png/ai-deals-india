@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T10:24:17Z",
+  "updated_at": "2026-10-29T10:28:39Z",
   "deals": [
+    {
+      "title": ". MOKOBARA Autopilot Laptop Backpack 15.6 Inch 4,799₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5M4BYRZ?tag=2244005-21",
+      "posted_at": "2026-10-29T10:28:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509447.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5M4BYRZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5M4BYRZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SINGER 1310 Automatic Zig Zag Electric Sewing Machine at Rs.8721 Apply 300 Off Coupon",
       "price": 8721,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC1SFX45.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC1SFX45.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LG 185 L, 4 Star, Smart Inverter Refrigerator at 13609 Pay Using 12M No Cost EMI With SBI CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GRCVWGFR?tag=2244005-21",
-      "posted_at": "2026-10-20T16:11:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GRCVWGFR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
