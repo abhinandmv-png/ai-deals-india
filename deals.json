@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T16:43:40Z",
+  "updated_at": "2026-10-29T16:43:49Z",
   "deals": [
+    {
+      "title": ". MSI MAG 245F X24 24-inch Gaming Monitor 9499",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B096Y4WNYL?tag=2244005-21",
+      "posted_at": "2026-10-29T16:43:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509515.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B096Y4WNYL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B096Y4WNYL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Spotzero By Milton Non-Scratch Wire Dish Cloth Pack of 10 99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4VGXZ12.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4VGXZ12.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "45",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B084S2J2HG?tag=2244005-21",
-      "posted_at": "2026-10-22T05:15:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B084S2J2HG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B084S2J2HG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
