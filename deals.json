@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T08:13:52Z",
+  "updated_at": "2026-10-29T08:15:50Z",
   "deals": [
+    {
+      "title": "191 : 35L",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09HMTN3KB?tag=2244005-21",
+      "posted_at": "2026-10-29T08:15:50Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09HMTN3KB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09HMTN3KB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09HMTN3KB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gear Large Water Resistant 4 Compartment Backpack, 19\"/39L — ₹499.",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWMS6SP5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWMS6SP5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "No Cost EMI Dhamaal Live 🚀 Get Your Favourite Smartphones at Just ₹2,500/Month. OPPO : HMD : Al+ : Samsung : Vivo : Boltt : Realme : Nothing : Mivi One 5G : *No Cost EMI Upto 36 Months on Flipkart Via HDFC CC, Bajaj Fina",
-      "price": 2500,
-      "original_price": 63107,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7XD2387?tag=2244005-21",
-      "posted_at": "2026-10-20T07:23:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F7XD2387.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7XD2387.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7XD2387.01.LZZZZZZZ.jpg"
       ]
     }
   ]
