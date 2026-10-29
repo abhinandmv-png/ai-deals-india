@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T03:47:19Z",
+  "updated_at": "2026-10-29T03:47:39Z",
   "deals": [
+    {
+      "title": "@75,515 Grab @819 PowerVolt 102 Max 20000mAh Power Bank, 22.5W Fast Charging, LED Display, Multiple Input & Output Ports, Portable Charger for Smartphones & Tablets",
+      "price": 75515,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3QF4PJP?tag=2244005-21",
+      "posted_at": "2026-10-29T03:47:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509316.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3QF4PJP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3QF4PJP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Robustt Safety Helmet Pack of 5 — ₹250.",
       "price": 250,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F29P9CKJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Waterproof Baby Playmat @ Rs.699",
-      "price": 699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G4LXWTW3?tag=2244005-21",
-      "posted_at": "2026-10-18T16:42:06Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146109.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G4LXWTW3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G4LXWTW3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
