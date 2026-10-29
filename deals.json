@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T01:47:44Z",
+  "updated_at": "2026-10-29T02:02:17Z",
   "deals": [
+    {
+      "title": "Syntro Neo 300 mm High Speed Wall Fan at Rs.1499",
+      "price": 1499,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HDYPL9RG?tag=2244005-21",
+      "posted_at": "2026-10-29T02:02:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509290.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HDYPL9RG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HDYPL9RG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab faaaast 🔥 ZEBRONICS Juke bar 9550 pro 5.2 Soundbar (625 Watts) 9k 999 off with hdfc cc",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXZWL94H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Oral-B Vitality Rechargeable Electric Toothbrush at Rs.1099. *Regular Rs.1600+",
-      "price": 1099,
-      "original_price": 1600,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07JL3W3KG?tag=2244005-21",
-      "posted_at": "2026-10-18T12:18:06Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07JL3W3KG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07JL3W3KG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07JL3W3KG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
