@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T15:28:42Z",
+  "updated_at": "2026-10-29T15:43:40Z",
   "deals": [
+    {
+      "title": "Havells 2-in-1 Convertible 80 L Desert Air Cooler at ₹7087 Apply 25% Off Coupon + 787 Off With HDFC CC Delhi Available",
+      "price": 7087,
+      "original_price": 9449,
+      "category": "Shopping",
+      "badge": "25% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQKRHMHK?tag=2244005-21",
+      "posted_at": "2026-10-29T15:43:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DQKRHMHK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQKRHMHK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQKRHMHK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". V-Guard Divino 15 Litre Water Heater for Home | White 6699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09SHWKFZ5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09SHWKFZ5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "99 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00RV73XDG?tag=2244005-21",
-      "posted_at": "2026-10-22T03:39:30Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00RV73XDG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00RV73XDG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00RV73XDG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
