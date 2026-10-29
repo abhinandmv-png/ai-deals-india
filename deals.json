@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T17:24:28Z",
+  "updated_at": "2026-10-29T17:28:44Z",
   "deals": [
+    {
+      "title": ". Puma Game Sneaker 💥 1184",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09HTFZRQK?tag=2244005-21",
+      "posted_at": "2026-10-29T17:28:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09HTFZRQK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09HTFZRQK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09HTFZRQK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ant Esports Prism Mouse Pad - with Anti-fray Stitching, Waterproof at **₹69**.",
       "price": 69,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BWDNQDSJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BWDNQDSJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "OnePlus Nord Buds 4 Pro E518A Radiant Gray in — **₹3,569**. Flat ₹730 Off With Axis / ICICI CC",
-      "price": 3569,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQTNXDYM?tag=2244005-21",
-      "posted_at": "2026-10-22T09:46:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GQTNXDYM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQTNXDYM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQTNXDYM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
