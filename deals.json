@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T12:39:22Z",
+  "updated_at": "2026-10-29T12:43:38Z",
   "deals": [
+    {
+      "title": ". GoPro HERO13 Waterproof Action Camera - with 5.3K60 Video 26990 Flat 6000 off with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFY1SYNJ?tag=2244005-21",
+      "posted_at": "2026-10-29T12:43:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DFY1SYNJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFY1SYNJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFY1SYNJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AI+ Nova 2 Pro 5G (6GB/128GB ) at ₹13,999. *Extra 5% Cashback With Flipkart Axis & Flipkart SBI Cards. Market Rate ₹17,200+. Singer Tailor Mate Straight Stitch Sewing Machine with Free Arm at Rs.4290",
       "price": 13999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGDZM1G5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGDZM1G5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony ULT Headphones at 10739 Apply coupon + pay with AXIS/ICICI Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CWVX1GNX?tag=2244005-21",
-      "posted_at": "2026-10-21T09:46:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CWVX1GNX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CWVX1GNX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CWVX1GNX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
