@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T01:00:32Z",
+  "updated_at": "2026-10-30T01:30:06Z",
   "deals": [
+    {
+      "title": "Voltas Insta plus 3L, 4 Star Vertical Mounting 2000W Water Heater, at Rs.2,999.",
+      "price": 2999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5JVXW4Z?tag=2244005-21",
+      "posted_at": "2026-10-30T01:30:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509577.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5JVXW4Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5JVXW4Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[ Coupon + HDFC CC ] peps Springkoil Ortho Luxe 8 Inch Pocket Spring Latex Foam Mattress at Rs.17,478.",
       "price": 17478,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHTPYRPW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHTPYRPW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "5 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HNW14JYP?tag=2244005-21",
-      "posted_at": "2026-10-23T04:22:33Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_165.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HNW14JYP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HNW14JYP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
