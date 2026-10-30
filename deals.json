@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T16:00:30Z",
+  "updated_at": "2026-10-30T16:15:19Z",
   "deals": [
+    {
+      "title": ".. LOOOT 279 + CPN",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYJMS9FL?tag=2244005-21",
+      "posted_at": "2026-10-30T16:15:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509763.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYJMS9FL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYJMS9FL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9SJSNXQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9SJSNXQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Bird Net for Balconies (10FT x 12FT) at Rs.299",
-      "price": 299,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FG2K2TLS?tag=2244005-21",
-      "posted_at": "2026-10-25T14:45:19Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FG2K2TLS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FG2K2TLS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FG2K2TLS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
