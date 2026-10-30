@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T08:00:32Z",
+  "updated_at": "2026-10-30T08:30:14Z",
   "deals": [
+    {
+      "title": "Highlander Oversized/Relaxed Fit Shirts upto 90% off Grab @3825 424 off with hdfc cc",
+      "price": 3825,
+      "original_price": 38250,
+      "category": "Fashion",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097BDYZ26?tag=2244005-21",
+      "posted_at": "2026-10-30T08:30:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509679.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097BDYZ26.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097BDYZ26.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@ 522 🔥🔥HMD Gaming Outfit for HMD Fusion | Gamepad with 18 Buttons",
       "price": 522,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H34P66XV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H34P66XV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply ₹129 Off Coupon | Puma Men Snatch Sneaker @950.",
-      "price": 950,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09RG3QT7V?tag=2244005-21",
-      "posted_at": "2026-10-24T12:43:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09RG3QT7V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09RG3QT7V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09RG3QT7V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
