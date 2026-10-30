@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T05:45:11Z",
+  "updated_at": "2026-10-30T05:45:41Z",
   "deals": [
+    {
+      "title": "Egate Zen DLP 6X (EGK6) (600 lm) Full HD 1080p Native with 4K Ultra HD Support with Battery | 600 ISO Lumens, Android 9.0, 2GB-32GB, Dual WiFi and Bluetooth | DLP Smart Home Projector (White) Deal Price ₹9899 Deal Price ",
+      "price": 9899,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2PT11LY?tag=2244005-21",
+      "posted_at": "2026-10-30T05:45:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509634.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2PT11LY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2PT11LY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "JBL Quantum 100 Wired Over Ear Gaming Headphones with Mic Deal Price: ₹1,999 MRP: ₹4,599",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4N9VRHH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4N9VRHH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "72% Off : Dove Body Wash 1L @267.",
-      "price": 267,
-      "original_price": 954,
-      "category": "Shopping",
-      "badge": "72% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHV82T31?tag=2244005-21",
-      "posted_at": "2026-10-24T04:13:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHV82T31.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHV82T31.01.LZZZZZZZ.jpg"
       ]
     }
   ]
