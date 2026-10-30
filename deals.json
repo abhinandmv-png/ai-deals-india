@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T09:45:19Z",
+  "updated_at": "2026-10-30T09:45:25Z",
   "deals": [
+    {
+      "title": "Men’s T Shirt at Rs.199 Size : XL",
+      "price": 199,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BM2ZMT8J?tag=2244005-21",
+      "posted_at": "2026-10-30T09:45:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BM2ZMT8J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BM2ZMT8J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BM2ZMT8J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient 5.9 Litre Instant Water Geyser at 2700 Pay Using HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C73YF39W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C73YF39W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "71% Off : Parachute Body Lotion 400ml @ Rs.144",
-      "price": 144,
-      "original_price": 497,
-      "category": "Shopping",
-      "badge": "71% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09HC85ZPS?tag=2244005-21",
-      "posted_at": "2026-10-24T15:54:28Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B09HC85ZPS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09HC85ZPS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09HC85ZPS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
