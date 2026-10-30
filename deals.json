@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T12:24:39Z",
+  "updated_at": "2026-10-30T12:45:13Z",
   "deals": [
+    {
+      "title": "382",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B078V8R9BS?tag=2244005-21",
+      "posted_at": "2026-10-30T12:45:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B078V8R9BS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B078V8R9BS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B078V8R9BS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TinyHugs Baby Lotion, 200ml @ Rs.139",
       "price": 139,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BDZZ5LWD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BDZZ5LWD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Levi's Men's Slim Fit Pant @791",
-      "price": 791,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GC86C7RJ?tag=2244005-21",
-      "posted_at": "2026-10-25T02:58:20Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GC86C7RJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GC86C7RJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GC86C7RJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
