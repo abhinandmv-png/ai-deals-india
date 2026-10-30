@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T19:30:31Z",
+  "updated_at": "2026-10-30T19:30:41Z",
   "deals": [
+    {
+      "title": ".. Loot : Washing Machine Dolly with Wheels at 499. 🏠 Move heavy appliances easily! ✅ Extendable & Adjustable Frame ✅ Smooth-rolling Wheels ✅ Perfect for Washing Machines & Dryers ✅ Also Suitable for Refrigerators 💪 Stro",
+      "price": null,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HKNP1XJ1?tag=2244005-21",
+      "posted_at": "2026-10-30T19:30:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509812.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HKNP1XJ1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HKNP1XJ1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Casio G-Shock DW-5600UE-1DR Digital Dial Resin Strap Men's Watch Shock 4,968 552 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08B44K4YS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08B44K4YS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Mens Napoli E Sneaker @681.",
-      "price": 681,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMJSFZ7P?tag=2244005-21",
-      "posted_at": "2026-10-26T05:41:07Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GMJSFZ7P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMJSFZ7P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMJSFZ7P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
