@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T15:15:32Z",
+  "updated_at": "2026-10-30T15:24:44Z",
   "deals": [
+    {
+      "title": "Zebronics Wattz 60CC3 Type-C to Type-C Braided Cable, PD 60W at **₹169**.",
+      "price": 169,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ2MN429?tag=2244005-21",
+      "posted_at": "2026-10-30T15:24:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FJ2MN429.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ2MN429.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ2MN429.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. ✅ GRAB : Head to Toe Baby Wash, 200ml @ 139",
       "price": 139,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G58RD54R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G58RD54R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1336",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CSYYQ82J?tag=2244005-21",
-      "posted_at": "2026-10-25T12:34:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CSYYQ82J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CSYYQ82J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CSYYQ82J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
