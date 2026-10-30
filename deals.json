@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T14:00:21Z",
+  "updated_at": "2026-10-30T14:00:34Z",
   "deals": [
+    {
+      "title": "3330 With HDFC Bank Offer",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2H6L87J?tag=2244005-21",
+      "posted_at": "2026-10-30T14:00:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509738.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2H6L87J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2H6L87J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loot 49",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BYSP6DSH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BYSP6DSH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sensodyne Toothpaste 160gm (80gm x 2) at 235.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B097YP8MN5?tag=2244005-21",
-      "posted_at": "2026-10-25T08:04:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B097YP8MN5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B097YP8MN5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B097YP8MN5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
