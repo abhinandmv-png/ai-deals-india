@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T04:15:18Z",
+  "updated_at": "2026-10-30T04:30:41Z",
   "deals": [
+    {
+      "title": "Grab @65,940 7k off with hdfc cc",
+      "price": 65940,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSFQZTVW?tag=2244005-21",
+      "posted_at": "2026-10-30T04:30:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509612.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSFQZTVW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSFQZTVW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hafele Dome Plus 2200W, 240V Electric Stainless Steel Kettle with Spout Cover with Analogue Temperature Display, Detachable Micro-Mesh Filter for Lime Scale Filtering, Easy Cleaning (1.7 L) (Grey) Deal Price ₹3150",
       "price": 3150,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00SAYCXWG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00SAYCXWG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HNTQLXR1?tag=2244005-21",
-      "posted_at": "2026-10-23T14:24:10Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HNTQLXR1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HNTQLXR1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HNTQLXR1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
