@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T13:24:40Z",
+  "updated_at": "2026-10-30T13:30:18Z",
   "deals": [
+    {
+      "title": ". Grab 💥💥💥 Timex Women's Analog Watch 1,680₹ Reg: 2,752₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFYT2TYJ?tag=2244005-21",
+      "posted_at": "2026-10-30T13:30:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509731.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFYT2TYJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFYT2TYJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Newborn Baby Gift Set with Free Gift (Pack of 7) @ Rs.399 Regular Price 550+",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07SCDW1H9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07SCDW1H9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fastrack Up Quartz Analog Watch at Rs.**1,725**. Apply 10% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "10% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B87XJW4Z?tag=2244005-21",
-      "posted_at": "2026-10-25T04:39:31Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0B87XJW4Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B87XJW4Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B87XJW4Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
