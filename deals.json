@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T18:45:36Z",
+  "updated_at": "2026-10-30T18:46:13Z",
   "deals": [
+    {
+      "title": ". Hero MotoCorp HF Deluxe Drum Self Start Booking for Ex-Showroom 52677 6800 DISCOUNT WITH HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7XNZ6BG?tag=2244005-21",
+      "posted_at": "2026-10-30T18:46:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F7XNZ6BG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7XNZ6BG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7XNZ6BG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "79",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0798P9MNH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0798P9MNH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Men Casual Slip-on Shoes @663",
-      "price": 663,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMJSBRF1?tag=2244005-21",
-      "posted_at": "2026-10-26T05:26:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GMJSBRF1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMJSBRF1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMJSBRF1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
