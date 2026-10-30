@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T03:30:22Z",
+  "updated_at": "2026-10-30T03:30:35Z",
   "deals": [
+    {
+      "title": "[ Apply 3% Coupon] EVEREADY 30W LED Hammer Bulb at Rs.237.",
+      "price": 237,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B076DNJMCV?tag=2244005-21",
+      "posted_at": "2026-10-30T03:30:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509597.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B076DNJMCV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B076DNJMCV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[Apply 5% Coupon] Fur Jaden 55 LTR Rucksack at Rs.664.",
       "price": 664,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3W2N8MP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3W2N8MP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon Edge High Grade 4x Kitchen Knife Set, 4 Pcs — **₹139**.",
-      "price": 139,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CYZ48MDL?tag=2244005-21",
-      "posted_at": "2026-10-23T10:28:23Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CYZ48MDL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CYZ48MDL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CYZ48MDL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
