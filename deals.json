@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T06:45:15Z",
+  "updated_at": "2026-10-30T07:15:11Z",
   "deals": [
+    {
+      "title": "281",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D3X5PS5J?tag=2244005-21",
+      "posted_at": "2026-10-30T07:15:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509666.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D3X5PS5J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D3X5PS5J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@5849 Loottt fasttt💥💥💥 Loot : Multi-Purpose Kitchen Scissors – Only ₹94🤯 ✨Heavy-Duty Stainless Steel Blades ✨Durable Black Design ✨Useful for Everyday Kitchen Cutting Tasks Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 5849,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNRN5619.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNRN5619.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "69",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B74XRPT4?tag=2244005-21",
-      "posted_at": "2026-10-24T08:28:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B74XRPT4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B74XRPT4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B74XRPT4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
