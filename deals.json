@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T06:15:14Z",
+  "updated_at": "2026-10-30T06:30:27Z",
   "deals": [
+    {
+      "title": "Upto 76% Off - Here & Now Women's Jeans Loot : Upto 72% Off On Loreal Paris & Garnier Beauty Products 6225 WITH HDFC 1k off coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "76% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3VJ6RDT?tag=2244005-21",
+      "posted_at": "2026-10-30T06:30:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509654.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3VJ6RDT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3VJ6RDT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@54,140 🔥🔥 Samsung Galaxy Buds4 Pro (Black) in-Ear Wireless Earbuds with Hi-Fi Audio @14,759 1k off coupon 1639 off with hdfc cc",
       "price": 54140,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08L7CXPTR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08L7CXPTR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "10 Pcs Self Adhesive Wall Hooks for Hanging at Rs.39",
-      "price": 39,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9ZJM8SC?tag=2244005-21",
-      "posted_at": "2026-10-24T05:09:12Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9ZJM8SC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9ZJM8SC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9ZJM8SC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
