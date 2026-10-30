@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T18:45:27Z",
+  "updated_at": "2026-10-30T18:45:36Z",
   "deals": [
+    {
+      "title": "79",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CXQ5TGDZ?tag=2244005-21",
+      "posted_at": "2026-10-30T18:45:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CXQ5TGDZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CXQ5TGDZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CXQ5TGDZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Lowest : Boldfit Massage Gun for Pain Relief Full Body Deep Tissue Muscle Massager @ 599",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMJSBRF1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMJSBRF1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Prolife Brio Air Fryer 4.2 L @3819",
-      "price": 3819,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH1WPYMX?tag=2244005-21",
-      "posted_at": "2026-10-26T05:11:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH1WPYMX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
