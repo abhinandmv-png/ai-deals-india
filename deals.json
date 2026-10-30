@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T11:00:23Z",
+  "updated_at": "2026-10-30T11:00:32Z",
   "deals": [
+    {
+      "title": ". HP K270 Wireless Keyboard 🔥 499₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXPHFMLX?tag=2244005-21",
+      "posted_at": "2026-10-30T11:00:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509708.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXPHFMLX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXPHFMLX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". ASICS Men's Sports Shoes Sneaker 3,709₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBWGR4LX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBWGR4LX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Godrej 185 L 5 Star Refrigerator at 13261 Apply ₹2000 off Coupon + ₹2029 off with ICICI Bank Credit Card",
-      "price": null,
-      "original_price": 2029,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GL2M7N7Z?tag=2244005-21",
-      "posted_at": "2026-10-24T18:54:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GL2M7N7Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GL2M7N7Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GL2M7N7Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
