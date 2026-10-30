@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T10:45:22Z",
+  "updated_at": "2026-10-30T11:00:23Z",
   "deals": [
+    {
+      "title": ". ASICS Men's Sports Shoes Sneaker 3,709₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G1K48XYZ?tag=2244005-21",
+      "posted_at": "2026-10-30T11:00:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509707.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G1K48XYZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G1K48XYZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 579₹ HP 65W AC Charger Adapter 4.5mm Without Power Cable for HP Pavilion Black",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GL2M7N7Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GL2M7N7Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Ceramic Pot For Plants @ Rs.99",
-      "price": 99,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTYYG2SN?tag=2244005-21",
-      "posted_at": "2026-10-24T18:39:24Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146424.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTYYG2SN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTYYG2SN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
