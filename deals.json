@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T01:00:03Z",
+  "updated_at": "2026-10-30T01:00:20Z",
   "deals": [
+    {
+      "title": "Nike Women Deodorant Spray Combo at Rs.284.",
+      "price": 284,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S35H3DK?tag=2244005-21",
+      "posted_at": "2026-10-30T01:00:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509574.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S35H3DK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S35H3DK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Vaseline Deep Moisture Body Lotion at Rs.262.",
       "price": 262,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08WQ6TB1Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08WQ6TB1Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Zebronics Wireless Keyboard & Mouse Combo @530. Apply 5% Off Coupon :",
-      "price": 530,
-      "original_price": 558,
-      "category": "Electronics",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHPFFYTK?tag=2244005-21",
-      "posted_at": "2026-10-23T04:05:31Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_164.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHPFFYTK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHPFFYTK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
