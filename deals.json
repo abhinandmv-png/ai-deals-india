@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T07:30:09Z",
+  "updated_at": "2026-10-30T08:00:12Z",
   "deals": [
+    {
+      "title": "Loot 599 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C862R9VF?tag=2244005-21",
+      "posted_at": "2026-10-30T08:00:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509674.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C862R9VF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C862R9VF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat 55 Cms Suitcase at Rs.1499",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFW15QRS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFW15QRS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot at ₹999 - Apply ₹500 Off Coupon",
-      "price": 999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FSSCYMZC?tag=2244005-21",
-      "posted_at": "2026-10-24T09:24:46Z",
-      "source": "Telegram",
-      "image": "https://m.media-amazon.com/images/P/B0FSSCYMZC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FSSCYMZC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FSSCYMZC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
