@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-29T19:26:15Z",
+  "updated_at": "2026-10-30T01:00:03Z",
   "deals": [
+    {
+      "title": "Vaseline Deep Moisture Body Lotion at Rs.262.",
+      "price": 262,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08M4T5FJG?tag=2244005-21",
+      "posted_at": "2026-10-30T01:00:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08M4T5FJG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08M4T5FJG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08M4T5FJG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 💥💥💥 Sony Alpha 24.2MP Mirrorless Digital SLR Camera 70740 Flat 16250 Off With HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHPFFYTK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHPFFYTK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosil 750W Mixer Grinder (3 Jars) @ Rs.2869",
-      "price": 2869,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07C2TQKH5?tag=2244005-21",
-      "posted_at": "2026-10-23T03:58:36Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_163.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07C2TQKH5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07C2TQKH5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
