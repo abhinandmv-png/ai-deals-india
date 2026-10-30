@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T07:15:11Z",
+  "updated_at": "2026-10-30T07:30:09Z",
   "deals": [
+    {
+      "title": "Aristocrat 55 Cms Suitcase at Rs.1499",
+      "price": 1499,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097BH9MD5?tag=2244005-21",
+      "posted_at": "2026-10-30T07:30:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B097BH9MD5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097BH9MD5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097BH9MD5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "281",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FSSCYMZC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FSSCYMZC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Beard & Hair 7 in 1 Trimmer @549.",
-      "price": 549,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNRN5619?tag=2244005-21",
-      "posted_at": "2026-10-24T08:28:09Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GNRN5619.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNRN5619.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNRN5619.01.LZZZZZZZ.jpg"
       ]
     }
   ]
