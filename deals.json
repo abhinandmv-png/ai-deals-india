@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T15:00:22Z",
+  "updated_at": "2026-10-30T15:15:32Z",
   "deals": [
+    {
+      "title": ".. ✅ GRAB : Head to Toe Baby Wash, 200ml @ 139",
+      "price": 139,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DN6P42NC?tag=2244005-21",
+      "posted_at": "2026-10-30T15:15:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509754.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DN6P42NC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DN6P42NC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HP M190 Wireless Mouse 🔥 370₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CSYYQ82J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CSYYQ82J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Khaitan Volt 5.5 Litre Instant Water Heater @3508",
-      "price": 3508,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8PBSZMY?tag=2244005-21",
-      "posted_at": "2026-10-25T11:49:35Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H8PBSZMY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8PBSZMY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8PBSZMY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
