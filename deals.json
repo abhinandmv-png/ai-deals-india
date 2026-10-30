@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T13:39:41Z",
+  "updated_at": "2026-10-30T13:45:21Z",
   "deals": [
+    {
+      "title": "75",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09268KD7J?tag=2244005-21",
+      "posted_at": "2026-10-30T13:45:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509736.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09268KD7J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09268KD7J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Lowest **: IFB 30L Convection Microwave Oven @14,740* Apply ₹500 Coupon + ₹1250 Off With HDFC CC",
       "price": 14740,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRHZDJBJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRHZDJBJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFYLH9N9?tag=2244005-21",
-      "posted_at": "2026-10-25T05:28:20Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DFYLH9N9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFYLH9N9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFYLH9N9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
