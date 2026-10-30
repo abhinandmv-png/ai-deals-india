@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T18:39:45Z",
+  "updated_at": "2026-10-30T18:45:20Z",
   "deals": [
+    {
+      "title": "1199 Apply ₹500 Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08G8KFKMJ?tag=2244005-21",
+      "posted_at": "2026-10-30T18:45:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08G8KFKMJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08G8KFKMJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08G8KFKMJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosil Fluted Lavender Dinner Set, 25-Pieces, White at **₹1,771**. Apply ₹500 Off Coupon | Borosil Dinner Set Of 25 Pcs at 1272.",
       "price": 1771,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FM7KQVMY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FM7KQVMY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 384 Other colour costs more 🔥",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D14VWSWQ?tag=2244005-21",
-      "posted_at": "2026-10-26T04:06:37Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_213.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D14VWSWQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D14VWSWQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
