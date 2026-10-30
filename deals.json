@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T01:00:20Z",
+  "updated_at": "2026-10-30T01:00:32Z",
   "deals": [
+    {
+      "title": "[ Coupon + HDFC CC ] peps Springkoil Ortho Luxe 8 Inch Pocket Spring Latex Foam Mattress at Rs.17,478.",
+      "price": 17478,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FFH6P5SH?tag=2244005-21",
+      "posted_at": "2026-10-30T01:00:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509575.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FFH6P5SH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FFH6P5SH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nike Women Deodorant Spray Combo at Rs.284.",
       "price": 284,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HNW14JYP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HNW14JYP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wood Cold Pressed Groundnut (Peanuts) Oil - 5 Litre Tin Can @ Rs.1380 Apply 3% Off Coupon",
-      "price": 1380,
-      "original_price": 1423,
-      "category": "Grocery",
-      "badge": "3% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08WQ6TB1Q?tag=2244005-21",
-      "posted_at": "2026-10-23T04:11:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08WQ6TB1Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08WQ6TB1Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08WQ6TB1Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
