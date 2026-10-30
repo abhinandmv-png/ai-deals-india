@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T03:45:07Z",
+  "updated_at": "2026-10-30T03:45:19Z",
   "deals": [
+    {
+      "title": "Samsung Smart Choice 9 kg, 5 Star, AI Control, AI Ecobubble, Super Speed, Wi-Fi, Fully-Automatic Front Load Washing Machine at ₹30,240 💥 ₹10,250 off with HDFC Credit Cards Link:",
+      "price": 30240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DS681G4K?tag=2244005-21",
+      "posted_at": "2026-10-30T03:45:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DS681G4K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DS681G4K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DS681G4K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Giordano Analog Quartz Watch for Men at Rs.2489.",
       "price": 2489,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CM9HND4R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CM9HND4R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "76% off : Aristocrat Airpro Max 8-Wheel Cabin Suitcase @ 1,099",
-      "price": 1099,
-      "original_price": 4579,
-      "category": "Travel",
-      "badge": "76% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1N5V3P3?tag=2244005-21",
-      "posted_at": "2026-10-23T13:08:08Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H1N5V3P3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1N5V3P3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1N5V3P3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
