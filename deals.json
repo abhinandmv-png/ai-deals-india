@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T03:13:35Z",
+  "updated_at": "2026-10-30T03:30:08Z",
   "deals": [
+    {
+      "title": "boAt Wave Call 3 Smartwatch at Rs.1299.",
+      "price": 1299,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLF35YV4?tag=2244005-21",
+      "posted_at": "2026-10-30T03:30:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509595.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLF35YV4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLF35YV4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Livpure Allura Prime Water Purifier RO+UV+UF+Copper+Alkaline 7 Ltr at 8,911. Apply 1,099 Coupon + 989 Off With HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08DYCWC9R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08DYCWC9R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest Gear Quantum 29L Water Resistant Laptop backpack 🏷️ **Lowest price in 30 days** ✅Deal Price: **₹1,199** ❌MRP: ₹5,499 Discount: **-78%** 👉",
-      "price": null,
-      "original_price": 5499,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFGZZQRV?tag=2244005-21",
-      "posted_at": "2026-10-23T08:11:28Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_179.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFGZZQRV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFGZZQRV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
