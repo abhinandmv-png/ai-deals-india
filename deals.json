@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T16:54:44Z",
+  "updated_at": "2026-10-30T17:09:43Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Karnage Pre workout at Rs.1029",
+      "price": 1029,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY1ZZXTB?tag=2244005-21",
+      "posted_at": "2026-10-30T17:09:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lumio Vision 7 II (55 inches) 4K Ultra-HD Smart QLED Google TV at Rs.33,199",
       "price": 33199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHPD5CGS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHPD5CGS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "56% Off : Fiama Gel Bar (Pack Of 8) @299.",
-      "price": 299,
-      "original_price": 680,
-      "category": "Shopping",
-      "badge": "56% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09G33GLP8?tag=2244005-21",
-      "posted_at": "2026-10-25T15:26:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09G33GLP8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
