@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T17:10:02Z",
+  "updated_at": "2026-10-30T17:39:45Z",
   "deals": [
+    {
+      "title": "**Loot Deal** : Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispenser @ Rs.29,740* Apply ₹2000 Off Code : `FFGIF2000` Apply ₹1000 Off Code : `EARLYGIF1000` Flat ₹7250 Off With HDFC CC",
+      "price": 29740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPQR66B7?tag=2244005-21",
+      "posted_at": "2026-10-30T17:39:44Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GPQR66B7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPQR66B7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPQR66B7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ASUS Vivobook Go 14 (2026),AMD Ryzen 3 30 Processor,AMD iGPU,8GB at **₹34,440**. Flat ₹8550 Off With HDFC Credit Card",
       "price": 34440,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BRKSQ7Z2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BRKSQ7Z2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Handmade MDF Wooden Lotus Main Door Toran (Pack of 2) @ Rs.199",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BGHDC6HR?tag=2244005-21",
-      "posted_at": "2026-10-25T17:06:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BGHDC6HR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BGHDC6HR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BGHDC6HR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
