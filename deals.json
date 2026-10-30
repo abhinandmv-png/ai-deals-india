@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T08:30:14Z",
+  "updated_at": "2026-10-30T08:31:08Z",
   "deals": [
+    {
+      "title": "299",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G3GRQMC4?tag=2244005-21",
+      "posted_at": "2026-10-30T08:31:07Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G3GRQMC4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Highlander Oversized/Relaxed Fit Shirts upto 90% off Grab @3825 424 off with hdfc cc",
       "price": 3825,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BKWKH9FG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BKWKH9FG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haier 325 L 3 Star Frost Free Triple Inverter Double Door Bottom Mount Refrigerator at Rs.28,740 Get 11,250 Discount Using ICICI EMI Link :",
-      "price": 28740,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H34P66XV?tag=2244005-21",
-      "posted_at": "2026-10-24T13:09:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H34P66XV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H34P66XV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H34P66XV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
