@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T05:30:26Z",
+  "updated_at": "2026-10-30T05:39:35Z",
   "deals": [
+    {
+      "title": "Preethi MiniBlend, Blender Mixer Grinder, 2 Jars at Rs.2,064",
+      "price": 2064,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08L46ZKKZ?tag=2244005-21",
+      "posted_at": "2026-10-30T05:39:34Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08L46ZKKZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08L46ZKKZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08L46ZKKZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Angetube Wide Angle 4K Webcam for PC - 120° FOV, PDAF Autofocus, 2 Mics 1080P@60FPS, Auto Light Correction, USB-A/C, Privacy Cover, Video Conference Camera for Mac Laptop and Desktop 6,412🔥 712 off with hdfc cc",
       "price": 60,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07VHPMM5S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07VHPMM5S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1264",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MLQK7F?tag=2244005-21",
-      "posted_at": "2026-10-24T02:12:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C7MLQK7F.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MLQK7F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MLQK7F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
