@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T18:15:26Z",
+  "updated_at": "2026-10-30T18:39:45Z",
   "deals": [
+    {
+      "title": "Borosil Fluted Lavender Dinner Set, 25-Pieces, White at **₹1,771**. Apply ₹500 Off Coupon | Borosil Dinner Set Of 25 Pcs at 1272.",
+      "price": 1771,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07H7V5DVZ?tag=2244005-21",
+      "posted_at": "2026-10-30T18:39:45Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07H7V5DVZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07H7V5DVZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07H7V5DVZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Wakefit Wood Nicco Wing Chair - Green 9759",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D14VWSWQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D14VWSWQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil Opalware Dinner Set, 33 Pcs @1392",
-      "price": 1392,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MTY4YV?tag=2244005-21",
-      "posted_at": "2026-10-26T01:56:05Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C7MTY4YV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MTY4YV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MTY4YV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
