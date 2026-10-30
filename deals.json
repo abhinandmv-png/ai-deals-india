@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T01:45:48Z",
+  "updated_at": "2026-10-30T02:39:31Z",
   "deals": [
+    {
+      "title": "Dove Serum Bar (125g x 7) @ Rs.379",
+      "price": 379,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D676LFY6?tag=2244005-21",
+      "posted_at": "2026-10-30T02:39:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D676LFY6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D676LFY6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D676LFY6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @9k 999 off with hdfc cc",
       "price": 9,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D96HMLYX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D96HMLYX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pack of 20 1169 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CVTTKGCC?tag=2244005-21",
-      "posted_at": "2026-10-23T06:32:32Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_171.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CVTTKGCC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CVTTKGCC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
