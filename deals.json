@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T06:00:11Z",
+  "updated_at": "2026-10-30T06:15:14Z",
   "deals": [
+    {
+      "title": "@54,140 🔥🔥 Samsung Galaxy Buds4 Pro (Black) in-Ear Wireless Earbuds with Hi-Fi Audio @14,759 1k off coupon 1639 off with hdfc cc",
+      "price": 54140,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMJLFCR7?tag=2244005-21",
+      "posted_at": "2026-10-30T06:15:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509646.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMJLFCR7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMJLFCR7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @7710 Philips Stainless Steel Mixer Grinder HL7707/01, 750W, 4 Jars 400 off coupon 1189 off with hdfc cc",
       "price": 7710,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9ZJM8SC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9ZJM8SC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "86",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DMWFLP9R?tag=2244005-21",
-      "posted_at": "2026-10-24T04:13:14Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DMWFLP9R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DMWFLP9R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DMWFLP9R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
