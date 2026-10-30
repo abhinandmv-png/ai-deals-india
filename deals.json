@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T09:45:25Z",
+  "updated_at": "2026-10-30T10:15:47Z",
   "deals": [
+    {
+      "title": ". boAt 2026 Launch Hive Dashcam M1 2K Real QHD Car Dash Camera 1910",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GBWXDJPB?tag=2244005-21",
+      "posted_at": "2026-10-30T10:15:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509697.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GBWXDJPB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GBWXDJPB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Men’s T Shirt at Rs.199 Size : XL",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQ6DXTVH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQ6DXTVH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah By Borosil Dinner Set 33 Pcs @1427.",
-      "price": 1427,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C73YF39W?tag=2244005-21",
-      "posted_at": "2026-10-24T15:58:15Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C73YF39W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C73YF39W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C73YF39W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
