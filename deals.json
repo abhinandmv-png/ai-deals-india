@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T10:27:26Z",
+  "updated_at": "2026-10-30T10:45:11Z",
   "deals": [
+    {
+      "title": ". OnePlus,Pad Lite (6GB + 128GB) 17249 Apply 2000 Off Coupon + 3250 Off With HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCTHQRVJ?tag=2244005-21",
+      "posted_at": "2026-10-30T10:45:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon Carbon Knife Set Of 6 Pcs @402.",
       "price": 402,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRW5BSBW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRW5BSBW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mini 3D Printer @ Rs.17,849** [Effective Price]** **Apply Rs.500 Off Coupon + Rs.1250 Instant Discount On ICICI/AXIS Bank Credit Card**",
-      "price": 17849,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSLL17HD?tag=2244005-21",
-      "posted_at": "2026-10-24T16:39:28Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DSLL17HD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSLL17HD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSLL17HD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
