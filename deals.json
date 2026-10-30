@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T08:45:12Z",
+  "updated_at": "2026-10-30T09:15:12Z",
   "deals": [
+    {
+      "title": "@2565 284 off with hdfc cc INALSA Hand Blender 1500 W|Silent DC Copper Motor",
+      "price": 2565,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DJGTRT51?tag=2244005-21",
+      "posted_at": "2026-10-30T09:15:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509686.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DJGTRT51.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DJGTRT51.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab faaaast 🔥 @24,741 2k off coupon 4750 off with hdfc cc Midea 5400W Max Cooling Capacity, 3 Star,1.36 Ton Wi-Fi Inverter Split AC",
       "price": 24741,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0933B5N19.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0933B5N19.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Printed Bath Mat Combo | Pack of 3 (14 x 23 Inch) @ Rs.229",
-      "price": 229,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H725JC5W?tag=2244005-21",
-      "posted_at": "2026-10-24T14:54:21Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146405.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H725JC5W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H725JC5W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
