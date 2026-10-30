@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T15:31:24Z",
+  "updated_at": "2026-10-30T15:45:22Z",
   "deals": [
+    {
+      "title": ".. Lowest : Big Size Brass Akhand Diya with Glass Cover – Only ₹999🤯 ✨Premium Brass Diya with Borosilicate Glass Cover ✨Elegant Wooden Base ✨Perfect for Daily Puja, Diwali & Festive Gifting Buy Now👇🏻 🛒 BUY FAST BEFORE PR",
+      "price": 999,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFWWS3WQ?tag=2244005-21",
+      "posted_at": "2026-10-30T15:45:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509759.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFWWS3WQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFWWS3WQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lenovo Idea Tab with Tab Pen | WiFi+5G 6GB RAM + 128GB ROM 18448 Apply 1500 off Coupon + 3050 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GL7M6KT4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GL7M6KT4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Tide Deep Clean Detergent Washing Powder - 3kg Pack at Rs.574",
-      "price": 574,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HLZC5K1B?tag=2244005-21",
-      "posted_at": "2026-10-25T13:15:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HLZC5K1B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HLZC5K1B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HLZC5K1B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
