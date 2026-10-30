@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T12:15:16Z",
+  "updated_at": "2026-10-30T12:24:39Z",
   "deals": [
+    {
+      "title": "TinyHugs Baby Lotion, 200ml @ Rs.139",
+      "price": 139,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DN6HZ3L4?tag=2244005-21",
+      "posted_at": "2026-10-30T12:24:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DN6HZ3L4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DN6HZ3L4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DN6HZ3L4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "336 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GC86C7RJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GC86C7RJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Instanio Prime 15L Storage Water Heater at 5920* Apply ₹590 Off Coupon + 1480₹ Off With Axis/ICICI Card",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08GM5QJPR?tag=2244005-21",
-      "posted_at": "2026-10-25T02:54:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08GM5QJPR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08GM5QJPR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08GM5QJPR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
