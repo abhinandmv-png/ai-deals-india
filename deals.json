@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T04:00:08Z",
+  "updated_at": "2026-10-30T04:15:18Z",
   "deals": [
+    {
+      "title": "Hafele Dome Plus 2200W, 240V Electric Stainless Steel Kettle with Spout Cover with Analogue Temperature Display, Detachable Micro-Mesh Filter for Lime Scale Filtering, Easy Cleaning (1.7 L) (Grey) Deal Price ₹3150",
+      "price": 3150,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BWF3DZJV?tag=2244005-21",
+      "posted_at": "2026-10-30T04:15:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509606.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BWF3DZJV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BWF3DZJV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹7731",
       "price": 7731,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HNTQLXR1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HNTQLXR1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Stainless Steel Adjusting Multifunctional Over Kitchen Sink Caddy @ Rs.189",
-      "price": 189,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GLNW4JXR?tag=2244005-21",
-      "posted_at": "2026-10-23T14:23:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GLNW4JXR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GLNW4JXR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GLNW4JXR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
