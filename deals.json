@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T12:45:58Z",
+  "updated_at": "2026-10-31T13:15:40Z",
   "deals": [
+    {
+      "title": "Loottt fasttt💥💥💥 Loot : House Wrap Aluminium Foil Paper (25m, 11 Microns) – Only ₹159🤯 ✨25-Meter Aluminium Foil Roll ✨11 Microns Thickness ✨Perfect for Wrapping & Storing Food Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 159,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1CXLM52?tag=2244005-21",
+      "posted_at": "2026-10-31T13:15:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509958.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1CXLM52.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1CXLM52.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : AGEasy Unisex Adult Diaper Pants (10 Pants) @179 + Coupon.",
       "price": 179,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FW5DDNCW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FW5DDNCW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Apple Watch Series 11 GPS 46mm 37,499",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQG8MSVT?tag=2244005-21",
-      "posted_at": "2026-10-27T19:59:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQG8MSVT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
