@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T17:01:41Z",
+  "updated_at": "2026-10-31T17:01:54Z",
   "deals": [
+    {
+      "title": ". Amazon Basics Triply Stainless Steel Cookware Set 7 Pcs 2489",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTN4ZKXZ?tag=premiumde066c-21",
+      "posted_at": "2026-10-31T17:01:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GTN4ZKXZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTN4ZKXZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTN4ZKXZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "OnePlus,Pad Lite, 11-inch (27.94 CM), LCD, 6GB RAM, 128GB ROM — **₹17,949**. **Apply ₹2000 Off Coupon** + **₹2750 Off with HDFC Credit Card**",
       "price": 17949,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08S7V8YTN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08S7V8YTN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lavie Sport Tropica Laptop Backpack | 37L @₹880",
-      "price": 880,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSB8S16M?tag=2244005-21",
-      "posted_at": "2026-10-28T04:31:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508857.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSB8S16M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSB8S16M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
