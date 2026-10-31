@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T16:46:55Z",
+  "updated_at": "2026-10-31T17:01:41Z",
   "deals": [
+    {
+      "title": "OnePlus,Pad Lite, 11-inch (27.94 CM), LCD, 6GB RAM, 128GB ROM — **₹17,949**. **Apply ₹2000 Off Coupon** + **₹2750 Off with HDFC Credit Card**",
+      "price": 17949,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCTHQRVJ?tag=premiumde066c-21",
+      "posted_at": "2026-10-31T17:01:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "325",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GSB8S16M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GSB8S16M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pepe Jeans Men's Straight Fit Jeans @839",
-      "price": 839,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJRH2JJQ?tag=2244005-21",
-      "posted_at": "2026-10-28T04:30:21Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FJRH2JJQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJRH2JJQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJRH2JJQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
