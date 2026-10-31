@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T10:31:31Z",
+  "updated_at": "2026-10-31T10:40:12Z",
   "deals": [
+    {
+      "title": "AGARO Beard Trimmer, 10 Length at Rs.573",
+      "price": 573,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLY8827N?tag=2244005-21",
+      "posted_at": "2026-10-31T10:40:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FLY8827N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLY8827N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLY8827N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "53% Off : Bajaj Almond Drops Hair Oil, 625ml @299.",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : . OnePlus Buds 4 TWS Earbuds 5,180",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "90% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCMRVJKH?tag=2244005-21",
-      "posted_at": "2026-10-27T18:59:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FCMRVJKH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCMRVJKH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCMRVJKH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
