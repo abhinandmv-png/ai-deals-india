@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T13:31:10Z",
+  "updated_at": "2026-10-31T13:31:22Z",
   "deals": [
+    {
+      "title": "Grab Deal🔥🔥 ZEBRONICS Juke BAR 9900 Soundbar, 725 Watts, DTS X, Dolby Atmos, 5.2.4 CH at 15,999 Get 2000 Discount Using HDFC CC Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CTTXHPSK?tag=2244005-21",
+      "posted_at": "2026-10-31T13:31:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509966.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CTTXHPSK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CTTXHPSK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥📸 Canon EOS R50 RF-S18-45mm f/4.5-6.3 is STM Mirrorless Camera- 4K Video Vlogging with 24.2 MP @ 52989 ✅ APPLY 2500 OFF COUPON + 9500 OFF WITH HDFC 9M EMIS 👉",
       "price": 52989,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJXJ3W8X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJXJ3W8X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @4050 Reg : 4999 JBL Clip 5, Wireless Ultra Portable Bluetooth Speaker",
-      "price": 4050,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CX97D16Y?tag=2244005-21",
-      "posted_at": "2026-10-28T00:14:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508787.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CX97D16Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CX97D16Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
