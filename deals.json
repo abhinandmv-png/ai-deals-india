@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:05:49Z",
+  "updated_at": "2026-10-31T01:05:57Z",
   "deals": [
+    {
+      "title": "[HDFC CC] Logitech Wired Headset at Rs.2876.",
+      "price": 2876,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BW9S5ZZB?tag=2244005-21",
+      "posted_at": "2026-10-31T01:05:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509823.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BW9S5ZZB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BW9S5ZZB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[Coupon + HDFC CC ] Sony New Alpha camera at Rs.60,990.",
       "price": 60990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09TH8GCZW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09TH8GCZW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Signoraware Stainless Steel Lunch Box with Steel tumbler @622.",
-      "price": 622,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07PWN1H2B?tag=2244005-21",
-      "posted_at": "2026-10-26T08:06:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07PWN1H2B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07PWN1H2B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07PWN1H2B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
