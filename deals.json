@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T09:01:30Z",
+  "updated_at": "2026-10-31T09:01:37Z",
   "deals": [
+    {
+      "title": "97 Apply 25% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "25% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S2SKYTH?tag=2244005-21",
+      "posted_at": "2026-10-31T09:01:37Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07S2SKYTH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S2SKYTH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S2SKYTH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "109 Apply 5% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6BL1Z9X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6BL1Z9X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Casio Vintage Watch 1,869 LOOT : ARMANI Watch @4999 + Bank offer. REGULAR 22K",
-      "price": 4999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07M77D5KV?tag=2244005-21",
-      "posted_at": "2026-10-27T18:43:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07M77D5KV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07M77D5KV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07M77D5KV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
