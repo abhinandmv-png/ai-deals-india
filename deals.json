@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T05:35:43Z",
+  "updated_at": "2026-10-31T05:35:53Z",
   "deals": [
+    {
+      "title": ". Clovia Women's Cotton Printed T-Shirt & Basic Pyjama Set (LS0546D13_Black_L) 229",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09LR4HLMG?tag=2244005-21",
+      "posted_at": "2026-10-31T05:35:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509861.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09LR4HLMG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09LR4HLMG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Neelam Stainless Steel Dinner Set (Set of 36 Pcs Diamond) 986₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTHSHTXT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTHSHTXT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wonderchef Tumbler 275 ml (Set Of 6) at 299",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRB8W5CJ?tag=2244005-21",
-      "posted_at": "2026-10-27T07:24:28Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BRB8W5CJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRB8W5CJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRB8W5CJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
