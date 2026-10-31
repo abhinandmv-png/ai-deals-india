@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T16:46:40Z",
+  "updated_at": "2026-10-31T16:46:47Z",
   "deals": [
+    {
+      "title": "Bosch 302L, 8-in-1 Convertible Triple Door Refrigerator @ Rs.24,240 • Apply ₹2500 Coupon • Apply ₹2500 Off Code at Checkout ➡️ `BOSCH2500` • ₹7750 Off With HDFC CC",
+      "price": 24240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9FFQ1ZC?tag=premiumde066c-21",
+      "posted_at": "2026-10-31T16:46:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Leo Rapid 5.9L Instant Water Heater | 3000W at Rs.2999",
       "price": 2999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSFPWTPY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSFPWTPY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Smart Choice 8 kg, 5 star, Eco Bubble Tech, Digital Inverter Motor, Soft Closing Door, Fully-Automatic Top Load Washing Machine (WA80BG4441BGTL, Light Gray @15,915 Apply coupon + bank offer",
-      "price": 15915,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B8NK5HTH?tag=2244005-21",
-      "posted_at": "2026-10-28T03:48:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508835.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B8NK5HTH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B8NK5HTH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
