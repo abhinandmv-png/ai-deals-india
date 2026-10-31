@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T03:05:42Z",
+  "updated_at": "2026-10-31T03:16:24Z",
   "deals": [
+    {
+      "title": "Cello Plastic Garbage Swing-Lid Dustbin 48Ltr, 2Pcs @1727",
+      "price": 1727,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5YVKXKP?tag=2244005-21",
+      "posted_at": "2026-10-31T03:16:24Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D5YVKXKP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5YVKXKP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5YVKXKP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Opalware Dinner Set, 27 Pcs @1265",
       "price": 1265,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BCQ83WL9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BCQ83WL9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Logitech G PRO Mechanical Gaming Keyboard at ‎6,497. Apply 35% Off Coupon :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "35% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09PNJ4CXL?tag=2244005-21",
-      "posted_at": "2026-10-26T18:54:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B09PNJ4CXL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09PNJ4CXL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09PNJ4CXL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
