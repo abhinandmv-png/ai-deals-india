@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T00:35:39Z",
+  "updated_at": "2026-10-31T00:35:48Z",
   "deals": [
+    {
+      "title": "HDFC CC] boAt Earbuds at Rs.1599.",
+      "price": 1599,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFS7Z89W?tag=2244005-21",
+      "posted_at": "2026-10-31T00:35:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509818.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFS7Z89W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFS7Z89W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TVS MissFit Women's Open Face Helmet at Rs.1007.",
       "price": 1007,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFMBY5ZM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFMBY5ZM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Beard & Hair 7 in 1 Trimmer @599. Regular Price 1K",
-      "price": 599,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GJ5NH152?tag=2244005-21",
-      "posted_at": "2026-10-26T06:41:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GJ5NH152.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GJ5NH152.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GJ5NH152.01.LZZZZZZZ.jpg"
       ]
     }
   ]
