@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:05:57Z",
+  "updated_at": "2026-10-31T01:06:06Z",
   "deals": [
+    {
+      "title": "Yardley London Cool Wave Eau De Parfum at Rs.342.",
+      "price": 342,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMQT3N19?tag=2244005-21",
+      "posted_at": "2026-10-31T01:06:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509824.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMQT3N19.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMQT3N19.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[HDFC CC] Logitech Wired Headset at Rs.2876.",
       "price": 2876,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6BKQ1Q2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6BKQ1Q2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifebuoy Body Wash, 1L @253",
-      "price": 253,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09TH8GCZW?tag=2244005-21",
-      "posted_at": "2026-10-26T08:26:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09TH8GCZW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09TH8GCZW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09TH8GCZW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
