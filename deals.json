@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:06:14Z",
+  "updated_at": "2026-10-31T01:20:38Z",
   "deals": [
+    {
+      "title": "[ HDFC CC] boAt EnergyShroom power bank at Rs.3150.",
+      "price": 3150,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G1BS17WC?tag=2244005-21",
+      "posted_at": "2026-10-31T01:20:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509826.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G1BS17WC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G1BS17WC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Pure Skin Neem Facial Kit — ₹95. Apply Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09Y1KJ1FL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09Y1KJ1FL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Hero MotoCorp GLAMOUR X Disc Brake @89915 Flat ₹9000 Off Using ICICI/AXIS CC.",
-      "price": 89915,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRJQC1PC?tag=2244005-21",
-      "posted_at": "2026-10-26T10:11:11Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FRJQC1PC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRJQC1PC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRJQC1PC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
