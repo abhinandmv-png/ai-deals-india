@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T13:15:40Z",
+  "updated_at": "2026-10-31T13:30:46Z",
   "deals": [
+    {
+      "title": "Lowest : Electric Kid’s Ride-On @2448.",
+      "price": 2448,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HC3XX2WG?tag=2244005-21",
+      "posted_at": "2026-10-31T13:30:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509962.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HC3XX2WG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HC3XX2WG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loottt fasttt💥💥💥 Loot : House Wrap Aluminium Foil Paper (25m, 11 Microns) – Only ₹159🤯 ✨25-Meter Aluminium Foil Roll ✨11 Microns Thickness ✨Perfect for Wrapping & Storing Food Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 159,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07BFL8TM8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07BFL8TM8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab faaaast 🔥 2250 Reg : 3600+ boAt Rockerz Plus 550 ANC, (~40dB) Hybrid ANC, 80Hrs Playback",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FW5DDNCW?tag=2244005-21",
-      "posted_at": "2026-10-27T23:59:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508784.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FW5DDNCW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FW5DDNCW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
