@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T09:30:45Z",
+  "updated_at": "2026-10-31T09:45:36Z",
   "deals": [
+    {
+      "title": ". Crompton Aluminium Gleam 20W LED Flood Light | Outdoor Waterproof 1,977₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D1VB15H2?tag=2244005-21",
+      "posted_at": "2026-10-31T09:45:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D1VB15H2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D1VB15H2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D1VB15H2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". ASUS Vivobook 15 Intel Core 3 Laptop 8GB RAM,256GB SSD 40240 Flat 9750 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKH4JPXV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKH4JPXV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt Fasttt 💥💥💥 236 : Buy Fast, Before Price Change . Puma RBD Tech Sneaker 2131 Apply Coupon OnePlus N6x | 4GB+128GB at ₹14,999 Apply ₹1000 Coupon + ₹3000 Off With HDFC CC",
-      "price": 14999,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H7S6LT9P?tag=2244005-21",
-      "posted_at": "2026-10-27T18:53:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H7S6LT9P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H7S6LT9P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H7S6LT9P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
