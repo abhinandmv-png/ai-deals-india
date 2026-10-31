@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T04:05:46Z",
+  "updated_at": "2026-10-31T04:05:57Z",
   "deals": [
+    {
+      "title": "Grab🔥 HP A7E34AA USB 3.0Docking Station (Black) 3022 335 off with hdfc cc",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B078R44L1V?tag=2244005-21",
+      "posted_at": "2026-10-31T04:05:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B078R44L1V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B078R44L1V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B078R44L1V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i5-13420H 15.3 inch at 52,690 Effective Get 14300 Discount Using HDFC Link :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CD5QSDXM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CD5QSDXM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient Electric 5.9 Litre Instant Water @2790 With Axis/ICICI CC.",
-      "price": 2790,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C82PJH3S?tag=2244005-21",
-      "posted_at": "2026-10-27T04:11:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C82PJH3S.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C82PJH3S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C82PJH3S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
