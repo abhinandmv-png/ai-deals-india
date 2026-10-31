@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T09:01:37Z",
+  "updated_at": "2026-10-31T09:15:41Z",
   "deals": [
+    {
+      "title": ".. Loottt fasttt💥💥💥 Loot : 8-in-1 Stainless Steel Grooming Kit – Only ₹213🤯 🎟️ 5% Coupon Available! ✨8-in-1 Kit for Nail Care & Maintenance ✨Rust-Resistant Stainless Steel Tools ✨Compact Travel Case for Men & Women Buy N",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HK8G6NXQ?tag=2244005-21",
+      "posted_at": "2026-10-31T09:15:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509896.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HK8G6NXQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HK8G6NXQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "97 Apply 25% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBGNY4XP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBGNY4XP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Casio Vintage Watch 1,869 Godrej 308L Double Door Refrigerato at ₹24,790 Flat ₹7500 Off With HDFC Credit Card.",
-      "price": 24790,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6BL1Z9X?tag=2244005-21",
-      "posted_at": "2026-10-27T18:44:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H6BL1Z9X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6BL1Z9X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6BL1Z9X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
