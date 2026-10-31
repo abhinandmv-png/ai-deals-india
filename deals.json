@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T16:46:47Z",
+  "updated_at": "2026-10-31T16:46:55Z",
   "deals": [
+    {
+      "title": "325",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09L7YNK87?tag=premiumde066c-21",
+      "posted_at": "2026-10-31T16:46:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09L7YNK87.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09L7YNK87.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09L7YNK87.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bosch 302L, 8-in-1 Convertible Triple Door Refrigerator @ Rs.24,240 • Apply ₹2500 Coupon • Apply ₹2500 Off Code at Checkout ➡️ `BOSCH2500` • ₹7750 Off With HDFC CC",
       "price": 24240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJRH2JJQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJRH2JJQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Adidas Mens Cushup M Casual Shoes @921",
-      "price": 921,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSFPWTPY?tag=2244005-21",
-      "posted_at": "2026-10-28T04:00:21Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DSFPWTPY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSFPWTPY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSFPWTPY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
