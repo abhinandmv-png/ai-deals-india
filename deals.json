@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:35:41Z",
+  "updated_at": "2026-10-31T01:50:47Z",
   "deals": [
+    {
+      "title": "MILTON Pro Lunch Box, 3 Microwave Safe Inner 320 ml (180 ml — ₹719.",
+      "price": 719,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C85T9PXW?tag=2244005-21",
+      "posted_at": "2026-10-31T01:50:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509828.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C85T9PXW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C85T9PXW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Livon Keratin Shampoo 1L — ₹315. Apply Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H8PS4R1H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H8PS4R1H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Augmont 24kt 1 Gm @ Rs.14,435 658₹ Instant Discount + 758₹ Cashback with Amazon Pay ICICI CC",
-      "price": 14435,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFMMD3Y7?tag=2244005-21",
-      "posted_at": "2026-10-26T15:22:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HFMMD3Y7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFMMD3Y7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFMMD3Y7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
