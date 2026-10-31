@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T15:12:15Z",
+  "updated_at": "2026-10-31T15:13:40Z",
   "deals": [
+    {
+      "title": "French Connection FCUK TRACKOR FW25 Men’s Analog Watch at 599",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FTV941WM?tag=2244005-21",
+      "posted_at": "2026-10-31T15:13:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510009.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FTV941WM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FTV941WM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony Bravia Theatre Bar 6 HT-BD60 5.1(3.1.2 ch) Dolby Atmos Soundbar at Rs.29,739 Flat ₹4,250 off with HDFC EMI + ₹1,000 coupon",
       "price": 29739,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BSNCT18X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BSNCT18X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "53% Off : Haldiram's Premium Kaju Katli Gift Pack 400g @475.",
-      "price": 475,
-      "original_price": 1011,
-      "category": "Shopping",
-      "badge": "53% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK86ZNR4?tag=2244005-21",
-      "posted_at": "2026-10-28T02:15:18Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK86ZNR4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
