@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T15:58:36Z",
+  "updated_at": "2026-10-31T15:58:48Z",
   "deals": [
+    {
+      "title": ".. ✅ Flash Sale : Boltt ACE 5G @ ₹11,499. *Extra 5% Off With Flipkart Axis & Flipkart SBI Cards. .. Loottt fasttt💥💥💥 Loot : ZAIRA Hair Oil Applicator Comb with Refillable Reservoir – Only ₹214🤯 🎟️25% Coupon Available! ✨R",
+      "price": 11499,
+      "original_price": 12104,
+      "category": "Beauty",
+      "badge": "5% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJZZNQHT?tag=2244005-21",
+      "posted_at": "2026-10-31T15:58:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510024.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJZZNQHT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJZZNQHT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 100₹ Portronics Toad 101 Wired Optical Mouse with 1200 DPI, Plug & Play",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3PLTHSC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3PLTHSC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "RR Signature 1200MM BLDC @2717",
-      "price": 2717,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C147YZWC?tag=2244005-21",
-      "posted_at": "2026-10-28T03:00:21Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C147YZWC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C147YZWC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C147YZWC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
