@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T04:16:25Z",
+  "updated_at": "2026-10-31T04:20:51Z",
   "deals": [
+    {
+      "title": "Lifelong Book Safe Locker @ 599",
+      "price": 599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWFSSGDY?tag=2244005-21",
+      "posted_at": "2026-10-31T04:20:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DWFSSGDY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWFSSGDY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWFSSGDY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "42% Off : Tata Coffee Gold Coffee Jar 50gm @245.",
       "price": 245,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBKM9GDD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBKM9GDD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1144",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D78L8V3B?tag=2244005-21",
-      "posted_at": "2026-10-27T05:11:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D78L8V3B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D78L8V3B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D78L8V3B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
