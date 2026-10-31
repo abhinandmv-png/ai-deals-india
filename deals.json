@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T04:01:26Z",
+  "updated_at": "2026-10-31T04:05:46Z",
   "deals": [
+    {
+      "title": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i5-13420H 15.3 inch at 52,690 Effective Get 14300 Discount Using HDFC Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HGXVSQ9R?tag=2244005-21",
+      "posted_at": "2026-10-31T04:05:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509843.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HGXVSQ9R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HGXVSQ9R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "58% Off : Lux Magical Orchid Bodywash 750 ml @185.",
       "price": 185,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C82PJH3S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C82PJH3S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Canon EOS R100 24.1 MP Mirrorless Camera at Rs.38,989 Flat ₹3,500 off with ICICI EMI + ₹2,500 off coupon",
-      "price": 38989,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C8HCLQVC?tag=2244005-21",
-      "posted_at": "2026-10-27T04:09:25Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C8HCLQVC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C8HCLQVC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C8HCLQVC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
