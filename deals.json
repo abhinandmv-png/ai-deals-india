@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T18:42:25Z",
+  "updated_at": "2026-10-31T18:42:35Z",
   "deals": [
+    {
+      "title": ". Portronics AeroDrive, Type-C Powered Car Air Purifier 1,199₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GNYVK3NW?tag=53twge73y-21",
+      "posted_at": "2026-10-31T18:42:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GNYVK3NW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GNYVK3NW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GNYVK3NW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "74",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3NYBFVR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3NYBFVR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon Digital GV at 3% Off.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "3% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HM3C2KH9?tag=2244005-21",
-      "posted_at": "2026-10-28T05:16:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508886.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HM3C2KH9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HM3C2KH9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
