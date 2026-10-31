@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T03:50:44Z",
+  "updated_at": "2026-10-31T04:01:26Z",
   "deals": [
+    {
+      "title": "58% Off : Lux Magical Orchid Bodywash 750 ml @185.",
+      "price": 185,
+      "original_price": 440,
+      "category": "Shopping",
+      "badge": "58% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09KHKB1YN?tag=2244005-21",
+      "posted_at": "2026-10-31T04:01:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09KHKB1YN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09KHKB1YN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09KHKB1YN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "63% OFF 🔥🔥 Himalaya Purifying Neem Face Wash 400ML (pack of 2) @₹449",
       "price": 449,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C8HCLQVC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C8HCLQVC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Original 25W USB Type-C Travel Adaptor at 449/",
-      "price": null,
-      "original_price": 25,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D2R26HFV?tag=2244005-21",
-      "posted_at": "2026-10-27T03:09:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D2R26HFV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
