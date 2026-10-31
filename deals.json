@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T13:45:55Z",
+  "updated_at": "2026-10-31T13:46:18Z",
   "deals": [
+    {
+      "title": "Corsair HS35 v2(Universal 3.5mm connectivity Headphones - with PC,Xbox,PS, 50mm Audio — ₹1,524.",
+      "price": 1524,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CX4YC475?tag=2244005-21",
+      "posted_at": "2026-10-31T13:46:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509972.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CX4YC475.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CX4YC475.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nike Men's SB Alleyoop Sneakers at 3247",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HC7C2ZS9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HC7C2ZS9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[HDFC CC] SanDisk 1TB Creator Phone SSD - Up to 1,000 MB/s at R/s.15,249.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNCP6G4Y?tag=2244005-21",
-      "posted_at": "2026-10-28T00:29:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508790.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNCP6G4Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNCP6G4Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
