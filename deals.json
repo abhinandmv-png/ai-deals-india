@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T06:40:07Z",
+  "updated_at": "2026-10-31T07:10:07Z",
   "deals": [
+    {
+      "title": "Grab : Gillette Fusion5 Razors at Rs.360 Link :",
+      "price": 360,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B001XURGVM?tag=2244005-21",
+      "posted_at": "2026-10-31T07:10:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B001XURGVM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B001XURGVM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B001XURGVM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Stone 350 Bluetooth Speaker @ ₹1,299",
       "price": 1299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKHMQT2Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKHMQT2Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "70% Off : Biotique Sun Lotion SPF 40, 120Ml @145. Apply 3% Off Coupon :",
-      "price": 145,
-      "original_price": 483,
-      "category": "Shopping",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00791D2WG?tag=2244005-21",
-      "posted_at": "2026-10-27T15:41:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00791D2WG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00791D2WG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00791D2WG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
