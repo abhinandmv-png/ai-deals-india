@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T05:35:53Z",
+  "updated_at": "2026-10-31T05:40:07Z",
   "deals": [
+    {
+      "title": "One more link",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BMLHNLDH?tag=2244005-21",
+      "posted_at": "2026-10-31T05:40:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BMLHNLDH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BMLHNLDH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BMLHNLDH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Clovia Women's Cotton Printed T-Shirt & Basic Pyjama Set (LS0546D13_Black_L) 229",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B086Q88V9H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B086Q88V9H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2379",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTHSHTXT?tag=2244005-21",
-      "posted_at": "2026-10-27T09:26:29Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DTHSHTXT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTHSHTXT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTHSHTXT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
