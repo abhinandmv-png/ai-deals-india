@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T13:30:59Z",
+  "updated_at": "2026-10-31T13:31:10Z",
   "deals": [
+    {
+      "title": "🔥🔥📸 Canon EOS R50 RF-S18-45mm f/4.5-6.3 is STM Mirrorless Camera- 4K Video Vlogging with 24.2 MP @ 52989 ✅ APPLY 2500 OFF COUPON + 9500 OFF WITH HDFC 9M EMIS 👉",
+      "price": 52989,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYZHDRN6?tag=2244005-21",
+      "posted_at": "2026-10-31T13:31:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509964.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYZHDRN6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYZHDRN6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70mai A510 HDR 3K Dual Dash Cam, BITA 2026 @₹10,620 ₹1179 off with HDFC Credit Card",
       "price": 10620,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CX97D16Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CX97D16Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥 91,990 Reg : 1,09,990 ASUS Vivobook 16 (2026),Smartchoice",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTW3GBTV?tag=2244005-21",
-      "posted_at": "2026-10-28T00:14:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508786.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTW3GBTV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTW3GBTV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
