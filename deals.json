@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:05:40Z",
+  "updated_at": "2026-10-31T01:05:49Z",
   "deals": [
+    {
+      "title": "[Coupon + HDFC CC ] Sony New Alpha camera at Rs.60,990.",
+      "price": 60990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTK5596V?tag=2244005-21",
+      "posted_at": "2026-10-31T01:05:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509822.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTK5596V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTK5596V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Ultima Regal Smart Watch at Rs.2610.",
       "price": 2610,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07PWN1H2B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07PWN1H2B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Tommy Hilfiger Watch for Men at 5434 Apply 10% Off Coupon:",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "10% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CLRDYN6R?tag=2244005-21",
-      "posted_at": "2026-10-26T07:51:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CLRDYN6R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CLRDYN6R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CLRDYN6R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
