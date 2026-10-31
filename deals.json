@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T12:45:41Z",
+  "updated_at": "2026-10-31T12:45:58Z",
   "deals": [
+    {
+      "title": "Lowest : AGEasy Unisex Adult Diaper Pants (10 Pants) @179 + Coupon.",
+      "price": 179,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZP4ZQ47?tag=2244005-21",
+      "posted_at": "2026-10-31T12:45:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509956.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZP4ZQ47.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZP4ZQ47.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : HAUS OF BARS by SpeedX – Model M Mini Home Bar (Royal Green) – Only ₹10999🤯 ✨Premium Royal Green Finish ✨Left-Side Display Cabinet ✨Stylish Mini Bar for Home Interiors Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 10999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQG8MSVT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQG8MSVT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "13,299₹ With HDFC Bank Offer SanDisk 1TB Portable SSD, 800MB/s R, USB 3.2 Gen 2, Rugged SSD",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HLDPQ73P?tag=2244005-21",
-      "posted_at": "2026-10-27T19:59:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HLDPQ73P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HLDPQ73P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HLDPQ73P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
