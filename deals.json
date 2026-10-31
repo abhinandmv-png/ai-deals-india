@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T19:07:03Z",
+  "updated_at": "2026-10-31T19:16:13Z",
   "deals": [
+    {
+      "title": "FAAASSTT 💥 437₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CLS3QYYP?tag=53twge73y-21",
+      "posted_at": "2026-10-31T19:16:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CLS3QYYP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CLS3QYYP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CLS3QYYP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO Loot : Upto 80% Off On Premium Brand Clothing. GAS Clothing. Men’s : Women’s : SUPERDRY. Men’s : Women’s : G Star Raw Clothing. Men’s : Women’s : Calvin Klein. Men’s : Women’s : Tommy Hilfiger. Men’s : Women’s : Arm",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G34S89Z9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G34S89Z9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acerpure Chill Neo 1 Ton 3 star @24,990 Apply coupn + bank offers",
-      "price": 24990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GL29BM99?tag=2244005-21",
-      "posted_at": "2026-10-28T05:49:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GL29BM99.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GL29BM99.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GL29BM99.01.LZZZZZZZ.jpg"
       ]
     }
   ]
