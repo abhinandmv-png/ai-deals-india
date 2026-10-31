@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T14:15:43Z",
+  "updated_at": "2026-10-31T14:25:19Z",
   "deals": [
+    {
+      "title": "WONDERCHEF Nutri-Blend 1000W Juicer Mixer Grinder, 3 Jars @5039* Flat ₹560 Off With SBI Credit Card Grab : Handmade Wood Lotus Hangings for Diwali ( Pack of 6) @ 207 Apply Coupon :",
+      "price": 5039,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BGHCNVD6?tag=2244005-21",
+      "posted_at": "2026-10-31T14:25:19Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146807.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BGHCNVD6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BGHCNVD6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 1799 REGULAR 1400",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBWYD3HS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBWYD3HS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mortein Mosquito Repellent Refill (45ml x 6) @ Rs.234",
-      "price": 234,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07YY9N6TY?tag=2244005-21",
-      "posted_at": "2026-10-28T01:30:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07YY9N6TY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07YY9N6TY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07YY9N6TY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
