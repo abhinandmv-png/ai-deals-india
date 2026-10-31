@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T14:00:56Z",
+  "updated_at": "2026-10-31T14:01:08Z",
   "deals": [
+    {
+      "title": "🔥🔥🔥Lenovo Tab (Smartchoice) 4 GB RAM + 64 GB ROM @₹10,810 Apply 1500 off Coupon + 2589 off with HDFC CC 👉🏻",
+      "price": 10810,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDWFRC48?tag=2244005-21",
+      "posted_at": "2026-10-31T14:01:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509979.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDWFRC48.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDWFRC48.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Electric Air Duster @2499. Apply ₹1000 Off Coupon :",
       "price": 2499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B009NQUF8O.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B009NQUF8O.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 80% Off On Action Shoes. Link: Pigeon By Stovekraft Swift Plus Multi-Cook Kettle 1.5L @ Rs.759",
-      "price": 759,
-      "original_price": 3795,
-      "category": "Fashion",
-      "badge": "80% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQM62NKJ?tag=2244005-21",
-      "posted_at": "2026-10-28T01:29:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508799.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQM62NKJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQM62NKJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
