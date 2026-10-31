@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:20:38Z",
+  "updated_at": "2026-10-31T01:35:41Z",
   "deals": [
+    {
+      "title": "Livon Keratin Shampoo 1L — ₹315. Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFKCYBQV?tag=2244005-21",
+      "posted_at": "2026-10-31T01:35:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HFKCYBQV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFKCYBQV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFKCYBQV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[ HDFC CC] boAt EnergyShroom power bank at Rs.3150.",
       "price": 3150,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFMMD3Y7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFMMD3Y7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "69% Off : Maybelline New York Tattoo Gel Kajal Pencil @156.",
-      "price": 156,
-      "original_price": 503,
-      "category": "Shopping",
-      "badge": "69% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09Y1KJ1FL?tag=2244005-21",
-      "posted_at": "2026-10-26T13:26:23Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09Y1KJ1FL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09Y1KJ1FL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09Y1KJ1FL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
