@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T05:40:07Z",
+  "updated_at": "2026-10-31T05:53:44Z",
   "deals": [
+    {
+      "title": ". TRESemme Shampoo 1L 🔥 499₹",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C45WQNND?tag=2244005-21",
+      "posted_at": "2026-10-31T05:53:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C45WQNND.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C45WQNND.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C45WQNND.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "One more link",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3D1K8JX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3D1K8JX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "54% Off : Colgate Visible White Teeth Toothpaste 480g @365.",
-      "price": 365,
-      "original_price": 793,
-      "category": "Shopping",
-      "badge": "54% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B086Q88V9H?tag=2244005-21",
-      "posted_at": "2026-10-27T10:24:31Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B086Q88V9H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B086Q88V9H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B086Q88V9H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
