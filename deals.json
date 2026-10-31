@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T04:20:51Z",
+  "updated_at": "2026-10-31T04:31:26Z",
   "deals": [
+    {
+      "title": "51% Off : Himalaya Soap, 125gm (Pack of 4) @99.",
+      "price": 99,
+      "original_price": 202,
+      "category": "Shopping",
+      "badge": "51% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B011C1B2XY?tag=2244005-21",
+      "posted_at": "2026-10-31T04:31:25Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B011C1B2XY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B011C1B2XY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B011C1B2XY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong Book Safe Locker @ 599",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GZVLQ8VT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GZVLQ8VT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Symbol Hoodie Color-blocked Jacket @ Rs.679.",
-      "price": 679,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CBKM9GDD?tag=2244005-21",
-      "posted_at": "2026-10-27T06:09:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CBKM9GDD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CBKM9GDD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CBKM9GDD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
