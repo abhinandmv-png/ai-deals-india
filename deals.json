@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T06:23:42Z",
+  "updated_at": "2026-10-31T06:23:51Z",
   "deals": [
+    {
+      "title": ". ANT Esports Gaming RGB Keyboard and Mouse Combo 631",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMXQN2B4?tag=2244005-21",
+      "posted_at": "2026-10-31T06:23:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509871.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMXQN2B4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMXQN2B4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Jivo Gold Refined Oil 4 Litre 671 Buy 4 Qty & Get Rs.90 CB At Checkout",
       "price": 90,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2K81SP6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2K81SP6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Van Heusen Men's Skinny Fit Formal Trousers (VDTFESKFK26871_Grey_30) — ₹289.",
-      "price": 289,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07KT52WZ2?tag=2244005-21",
-      "posted_at": "2026-10-27T14:56:34Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07KT52WZ2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07KT52WZ2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07KT52WZ2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
