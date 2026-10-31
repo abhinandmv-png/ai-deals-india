@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T02:05:54Z",
+  "updated_at": "2026-10-31T02:20:44Z",
   "deals": [
+    {
+      "title": "Bata Persia Women's Pink Heels - 5 UK (6515992) — ₹338. Apply Coupon🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08MK9MY74?tag=2244005-21",
+      "posted_at": "2026-10-31T02:20:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509831.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08MK9MY74.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08MK9MY74.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj Classico Sleek Wood 1200MM (48”) BLDC Ceiling Fan — ₹2,476.",
       "price": 2476,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKS7VDHR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKS7VDHR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 302L, 8-in-1 Convertible Triple Door Refrigerator @28,740 effectively. Flat ₹8250 Off With Axis CC",
-      "price": 28740,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9FFQ1ZC?tag=2244005-21",
-      "posted_at": "2026-10-26T15:51:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
