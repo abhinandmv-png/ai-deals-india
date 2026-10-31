@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T15:13:40Z",
+  "updated_at": "2026-10-31T15:27:17Z",
   "deals": [
+    {
+      "title": "Haier 540 L 3 Star Frost Free Inverter Side by Side Refrigerator at 43,240 Effective Apply Rs.2000 Coupon + Apply Rs.3000 OFF Code at Checkout : DIWALI3000 + Get Rs.9750 OFF With HDFC CC",
+      "price": null,
+      "original_price": 3000,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GP6V371Z?tag=2244005-21",
+      "posted_at": "2026-10-31T15:27:16Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GP6V371Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GP6V371Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GP6V371Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "French Connection FCUK TRACKOR FW25 Men’s Analog Watch at 599",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G8KB4NBK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G8KB4NBK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GREENCHEF Marco Aluminium Pressure Cooker, 3 Litre — ₹499.",
-      "price": 499,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BSNCT18X?tag=2244005-21",
-      "posted_at": "2026-10-28T02:18:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508811.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BSNCT18X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BSNCT18X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
