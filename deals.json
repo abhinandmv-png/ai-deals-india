@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T01:50:47Z",
+  "updated_at": "2026-10-31T02:05:40Z",
   "deals": [
+    {
+      "title": "GRAB 87% off : Mumma's LIFE Stainless Steel Dinner Forks Set of 6 Piece @₹101",
+      "price": 101,
+      "original_price": 777,
+      "category": "Shopping",
+      "badge": "87% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H49KXF1Y?tag=2244005-21",
+      "posted_at": "2026-10-31T02:05:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509829.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H49KXF1Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H49KXF1Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Pro Lunch Box, 3 Microwave Safe Inner 320 ml (180 ml — ₹719.",
       "price": 719,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HMXF65N4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HMXF65N4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "17990 Apply ₹3000 Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8PS4R1H?tag=2244005-21",
-      "posted_at": "2026-10-26T15:26:32Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H8PS4R1H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8PS4R1H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8PS4R1H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
