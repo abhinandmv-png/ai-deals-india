@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T03:46:24Z",
+  "updated_at": "2026-10-31T03:50:44Z",
   "deals": [
+    {
+      "title": "63% OFF 🔥🔥 Himalaya Purifying Neem Face Wash 400ML (pack of 2) @₹449",
+      "price": 449,
+      "original_price": 1214,
+      "category": "Beauty",
+      "badge": "63% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B5X5S8GY?tag=2244005-21",
+      "posted_at": "2026-10-31T03:50:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509842.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B5X5S8GY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B5X5S8GY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pepe Jeans Men's Regular Fit Mid Rise Jeans @971",
       "price": 971,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2R26HFV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2R26HFV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton Pro Cook Induction Cookware & Cooking Set @1650",
-      "price": 1650,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B5XQMLJM?tag=2244005-21",
-      "posted_at": "2026-10-27T02:41:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B5XQMLJM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B5XQMLJM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B5XQMLJM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
