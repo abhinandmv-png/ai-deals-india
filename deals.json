@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T06:38:45Z",
+  "updated_at": "2026-10-31T06:40:07Z",
   "deals": [
+    {
+      "title": "boAt Stone 350 Bluetooth Speaker @ ₹1,299",
+      "price": 1299,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJRWP3YW?tag=2244005-21",
+      "posted_at": "2026-10-31T06:40:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CJRWP3YW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJRWP3YW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJRWP3YW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 🔥 1,186₹ Fastrack Bare Quartz Analog Anthacite Black Dial White Band Unisex Watches",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00791D2WG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00791D2WG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Dell i3 14th Gen Laptop 8GB DDR4, 512 SSD at 52,490 Flat ₹4500 Off With ICICI CC",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FZKZTXSN?tag=2244005-21",
-      "posted_at": "2026-10-27T15:39:35Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FZKZTXSN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FZKZTXSN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FZKZTXSN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
