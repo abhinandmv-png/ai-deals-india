@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T14:01:08Z",
+  "updated_at": "2026-10-31T14:15:43Z",
   "deals": [
+    {
+      "title": "Grab 1799 REGULAR 1400",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HPY39985?tag=2244005-21",
+      "posted_at": "2026-10-31T14:15:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HPY39985.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HPY39985.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HPY39985.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥🔥Lenovo Tab (Smartchoice) 4 GB RAM + 64 GB ROM @₹10,810 Apply 1500 off Coupon + 2589 off with HDFC CC 👉🏻",
       "price": 10810,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07YY9N6TY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07YY9N6TY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Spinz Talc Powder 400gm @ Rs.178",
-      "price": 178,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B009NQUF8O?tag=2244005-21",
-      "posted_at": "2026-10-28T01:30:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B009NQUF8O.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B009NQUF8O.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B009NQUF8O.01.LZZZZZZZ.jpg"
       ]
     }
   ]
