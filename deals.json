@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T10:00:43Z",
+  "updated_at": "2026-10-31T10:15:45Z",
   "deals": [
+    {
+      "title": "Lenovo Yoga Slim 7 Smartchoice Aura Edition Intel Evo (16GB — ₹81,740. Flat ₹21250 Off With HDFC Credit Card",
+      "price": 81740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HF7T1M74?tag=2244005-21",
+      "posted_at": "2026-10-31T10:15:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509912.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HF7T1M74.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HF7T1M74.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Portronics Car Power 65 Pro 65W Fast Car Charger 849",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNV6GP6K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNV6GP6K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : 14500 off Using Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "90% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H2HQ3ZY4?tag=2244005-21",
-      "posted_at": "2026-10-27T18:58:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H2HQ3ZY4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H2HQ3ZY4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H2HQ3ZY4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
