@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T10:47:17Z",
+  "updated_at": "2026-10-31T10:47:45Z",
   "deals": [
+    {
+      "title": "LG 8 Kg, 5 Star Fully-Automatic Front Load Washing Machine @26,490 Apply ₹1750 Off Coupon + ₹8250 Off With HDFC Credit Card",
+      "price": 26490,
+      "original_price": 8250,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DD45WVCM?tag=2244005-21",
+      "posted_at": "2026-10-31T10:47:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509924.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DD45WVCM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DD45WVCM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kamiliant by American Tourister Set of 3 Suitcase @₹3,509",
       "price": 3509,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FR1DG5WX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FR1DG5WX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "479",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GW3N1M37?tag=2244005-21",
-      "posted_at": "2026-10-27T19:02:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GW3N1M37.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GW3N1M37.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GW3N1M37.01.LZZZZZZZ.jpg"
       ]
     }
   ]
