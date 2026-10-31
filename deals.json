@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T13:30:46Z",
+  "updated_at": "2026-10-31T13:30:59Z",
   "deals": [
+    {
+      "title": "70mai A510 HDR 3K Dual Dash Cam, BITA 2026 @₹10,620 ₹1179 off with HDFC Credit Card",
+      "price": 10620,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVH2K929?tag=2244005-21",
+      "posted_at": "2026-10-31T13:30:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509963.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVH2K929.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVH2K929.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Electric Kid’s Ride-On @2448.",
       "price": 2448,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTW3GBTV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTW3GBTV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @594 BlueRigger 4K HDMI CEC Less Adapter (4K, UHD, ARC, 1080p, Ethernet)",
-      "price": 594,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07BFL8TM8?tag=2244005-21",
-      "posted_at": "2026-10-27T23:59:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508785.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07BFL8TM8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07BFL8TM8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
