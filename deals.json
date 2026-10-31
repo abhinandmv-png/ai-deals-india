@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T05:20:44Z",
+  "updated_at": "2026-10-31T05:35:43Z",
   "deals": [
+    {
+      "title": ". Neelam Stainless Steel Dinner Set (Set of 36 Pcs Diamond) 986₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07TN2Z17R?tag=2244005-21",
+      "posted_at": "2026-10-31T05:35:42Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07TN2Z17R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07TN2Z17R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07TN2Z17R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 GOLD LOOT ! EFFECTIVE 13,700/GM MMTC 24K 999.9 2gm Pendant @ 27,400 Effectively 30500 - 1750 HDFC Card Disc - 1350 Amazon Pay Cashback",
       "price": 27400,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BRB8W5CJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BRB8W5CJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "49",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGQRWY1P?tag=2244005-21",
-      "posted_at": "2026-10-27T06:26:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DGQRWY1P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGQRWY1P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGQRWY1P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
