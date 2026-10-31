@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T14:26:32Z",
+  "updated_at": "2026-10-31T14:56:36Z",
   "deals": [
+    {
+      "title": "Upto 90% Off On Locomotive Shirts. Lowest : haus & kinder 100% Cotton Decorative Cushion Covers (Pack of 2) – Only ₹439🤯 ✨Premium 100% Cotton Fabric ✨Digital Printed Rouge & Rose Design ✨16 × 16 Inches – Perfect for Sofa",
+      "price": 439,
+      "original_price": 4390,
+      "category": "Fashion",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWDBPQ2M?tag=2244005-21",
+      "posted_at": "2026-10-31T14:56:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510004.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWDBPQ2M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWDBPQ2M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "74% off : SNITCH Loop Set of 3 Suitcase & Free Shoe Bag @₹3,699",
       "price": 3699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GFD11ZQJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GFD11ZQJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Wave Call Smart Watch - with 1.69” HD Display — ₹1,436.",
-      "price": 1436,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BP13252H?tag=2244005-21",
-      "posted_at": "2026-10-28T02:03:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508808.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BP13252H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BP13252H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
