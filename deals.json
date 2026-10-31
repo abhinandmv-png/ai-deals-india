@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T07:45:32Z",
+  "updated_at": "2026-10-31T08:00:33Z",
   "deals": [
+    {
+      "title": ". LG 24G411B 60 cm (24 Inch) Ultragear FHD(1920 x 1080) IPS Gaming Monitor 8,099",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFSTXB48?tag=2244005-21",
+      "posted_at": "2026-10-31T08:00:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HFSTXB48.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFSTXB48.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFSTXB48.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Michael Kors Panorama Gold Automatic Stainless Steel Watch MK9218 7000 Apply Coupon + Get 1333 Cashback",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09LQS9N9X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09LQS9N9X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Citizen Men's Stainless Steel Analog Quartz Watch 8,079 Apply 5% Off Coupon + 897 Off With ICICI/Axis CC",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GKMYKQJY?tag=2244005-21",
-      "posted_at": "2026-10-27T17:48:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GKMYKQJY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GKMYKQJY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GKMYKQJY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
