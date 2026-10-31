@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T02:20:44Z",
+  "updated_at": "2026-10-31T02:35:45Z",
   "deals": [
+    {
+      "title": "Grab faaaast @3166 With hdfc cc Other colour costs more 🔥",
+      "price": 3166,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D15CTHH2?tag=2244005-21",
+      "posted_at": "2026-10-31T02:35:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509833.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D15CTHH2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D15CTHH2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bata Persia Women's Pink Heels - 5 UK (6515992) — ₹338. Apply Coupon🔥",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08G29ZWCX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08G29ZWCX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAAAASSSTTTT 🔥 26",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKS7VDHR?tag=2244005-21",
-      "posted_at": "2026-10-26T16:21:10Z",
-      "source": "Telegram",
-      "image": "https://m.media-amazon.com/images/P/B0HKS7VDHR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKS7VDHR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKS7VDHR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
