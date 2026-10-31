@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T10:40:12Z",
+  "updated_at": "2026-10-31T10:47:17Z",
   "deals": [
+    {
+      "title": "Kamiliant by American Tourister Set of 3 Suitcase @₹3,509",
+      "price": 3509,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPQKGRYC?tag=2244005-21",
+      "posted_at": "2026-10-31T10:47:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509923.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPQKGRYC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPQKGRYC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AGARO Beard Trimmer, 10 Length at Rs.573",
       "price": 573,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GW3N1M37.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GW3N1M37.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Upto 90% Off On Branded Watches. Killer : Timex : Casio : Maxima : Titan : Van Heusen : Allen Solly : Peter England : U.S Polo Assn : Fastrack : Fcuk : Emporio Armani : Fossil : . Bosch 335L 3 Star Frost Free Trip",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "90% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMPXF2SY?tag=2244005-21",
-      "posted_at": "2026-10-27T18:59:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
