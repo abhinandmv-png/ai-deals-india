@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-30T19:30:41Z",
+  "updated_at": "2026-10-31T00:35:39Z",
   "deals": [
+    {
+      "title": "TVS MissFit Women's Open Face Helmet at Rs.1007.",
+      "price": 1007,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FR9BXKJ3?tag=2244005-21",
+      "posted_at": "2026-10-31T00:35:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509817.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FR9BXKJ3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FR9BXKJ3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loot : Washing Machine Dolly with Wheels at 499. 🏠 Move heavy appliances easily! ✅ Extendable & Adjustable Frame ✅ Smooth-rolling Wheels ✅ Perfect for Washing Machines & Dryers ✅ Also Suitable for Refrigerators 💪 Stro",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GJ5NH152.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GJ5NH152.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Saffola Honey Active, 1kg @201.",
-      "price": 201,
-      "original_price": 502,
-      "category": "Grocery",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08B44K4YS?tag=2244005-21",
-      "posted_at": "2026-10-26T05:56:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08B44K4YS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08B44K4YS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08B44K4YS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
