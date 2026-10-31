@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-10-31T19:04:36Z",
+  "updated_at": "2026-10-31T19:06:30Z",
   "deals": [
+    {
+      "title": ". Grab 💥💥💥 LG 8 Kg, 5 Star Fully-Automatic Front Load Washing Machine 26490 Apply 1750 Off Coupon + Flat 8250 Off With HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DD45WVCM?tag=53twge73y-21",
+      "posted_at": "2026-10-31T19:06:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510062.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DD45WVCM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DD45WVCM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "899",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7GPDK5P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7GPDK5P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@1837",
-      "price": 1837,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSRN88LS?tag=2244005-21",
-      "posted_at": "2026-10-28T05:34:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508899.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSRN88LS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSRN88LS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
