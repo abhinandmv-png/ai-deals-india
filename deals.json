@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T13:45:24Z",
+  "updated_at": "2026-11-01T13:45:32Z",
   "deals": [
+    {
+      "title": "Saffola Mustard Oil 4L @658* Apply Coupon > Buy 4 Qty. Final Payment Rs.748-90 Cashback At Checkout.",
+      "price": 658,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVLN496Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T13:45:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DVLN496Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVLN496Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVLN496Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer Aspire One, AMD Ryzen 5 Laptop @46,990. Flat ₹6300 Off With HDFC CC.",
       "price": 46990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4GC4BFH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4GC4BFH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Ambrane 20000mAh Powerbank with in-Build Type C Cable 1399",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZHJT3JB?tag=2244005-21",
-      "posted_at": "2026-10-28T12:19:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZHJT3JB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
