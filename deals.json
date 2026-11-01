@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T09:09:07Z",
+  "updated_at": "2026-11-01T09:23:34Z",
   "deals": [
+    {
+      "title": "Lavie Sport 24L Laptop Backpack with Trolley Sleeve @₹1,259",
+      "price": 1259,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D3Q9N7FP?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T09:23:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510146.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D3Q9N7FP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D3Q9N7FP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Singer Nexchop Mini Single Speed Electric Chopper 350W | 700ml Bow at Rs.1149",
       "price": 1149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHPBQKPB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHPBQKPB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "52% Off : Himalaya Baby Lotion 700ml @396.",
-      "price": 396,
-      "original_price": 825,
-      "category": "Shopping",
-      "badge": "52% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F47Z9Z4M?tag=2244005-21",
-      "posted_at": "2026-10-28T09:00:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F47Z9Z4M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F47Z9Z4M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F47Z9Z4M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
