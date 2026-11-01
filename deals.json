@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T19:03:59Z",
+  "updated_at": "2026-11-01T19:04:06Z",
   "deals": [
+    {
+      "title": "157",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G25MTZD3?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T19:04:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0G25MTZD3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G25MTZD3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G25MTZD3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FM3S66T5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FM3S66T5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". LAKMÉ Glycolic Illuminate Serum, 15ml 279₹",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPDNFW3Z?tag=2244005-21",
-      "posted_at": "2026-10-28T19:02:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
