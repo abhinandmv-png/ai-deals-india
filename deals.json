@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T14:31:21Z",
+  "updated_at": "2026-11-01T14:45:20Z",
   "deals": [
+    {
+      "title": "HP 15, AMD Ryzen 5 7520U (16GB DDR4, 512GB SSD) 53440 Apply 1000 Coupon + 10550 Off With HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTVDH4G2?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T14:45:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTVDH4G2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Prestige Iris 750 Watt Mixer Grinder with 4 Jars (3 Stainless Steel + 1 at Rs.**2,699**.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FB9DTY8Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FB9DTY8Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Good Knight Flash Liquid Vaporiser | Pack of 6 (45ml Each) 360",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G48HZ2GL?tag=2244005-21",
-      "posted_at": "2026-10-28T12:49:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G48HZ2GL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G48HZ2GL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G48HZ2GL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
