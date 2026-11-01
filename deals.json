@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T17:34:03Z",
+  "updated_at": "2026-11-01T18:18:56Z",
   "deals": [
+    {
+      "title": ". Storage Containers Set 500Ml, Pack of 6 247₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2NL4QWM?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T18:18:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D2NL4QWM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2NL4QWM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2NL4QWM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Portronics Wireless Mouse 🔥 435₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZHX6MKP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZHX6MKP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". ASUS V501 (2026),Intel Core 5 210H (i5-14th Gen),Intel UHD iGPU, 8GB RAM, 512GB SSD,Windows 61690 Apply 5000 off Coupon + 6300 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMQXP76X?tag=2244005-21",
-      "posted_at": "2026-10-28T18:03:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GMQXP76X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMQXP76X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMQXP76X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
