@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T16:31:46Z",
+  "updated_at": "2026-11-01T16:33:56Z",
   "deals": [
+    {
+      "title": ".. Grab : Rocco Denzo Engineered Wood Bookshelf – Only ₹8,749🤯 ✨Engineered Wood Construction ✨Stylish Bookshelf Design ✨Perfect for Organising Books and Essentials Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 8749,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJYFVQBX?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T16:33:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510219.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJYFVQBX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJYFVQBX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Purifying Neem Face Wash, 400 Ml (Pack of 2) at **₹448**.",
       "price": 448,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F389QTNV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F389QTNV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP 960 Ergonomic Wireless Keyboard @5,141.",
-      "price": 5141,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D1QBQMWV?tag=2244005-21",
-      "posted_at": "2026-10-28T16:15:33Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D1QBQMWV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D1QBQMWV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D1QBQMWV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
