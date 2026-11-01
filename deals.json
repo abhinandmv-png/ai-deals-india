@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T03:27:19Z",
+  "updated_at": "2026-11-01T03:30:03Z",
   "deals": [
+    {
+      "title": "Treo by Milton Glass Tiffin with Bag, Set of 8 @901",
+      "price": 901,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BJLBYDFR?tag=53twge73y-21",
+      "posted_at": "2026-11-01T03:30:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510092.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BJLBYDFR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BJLBYDFR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kellogg's Multigrain Plus Corn Flakes 450gm @134",
       "price": 134,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGPMXG9P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGPMXG9P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TIMEX Women's Analog Watch - with Dial and Band — ₹1,430.",
-      "price": 1430,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09W2DCD4Q?tag=2244005-21",
-      "posted_at": "2026-10-28T06:05:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508928.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09W2DCD4Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09W2DCD4Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
