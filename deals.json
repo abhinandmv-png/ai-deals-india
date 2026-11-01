@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T15:59:06Z",
+  "updated_at": "2026-11-01T16:00:26Z",
   "deals": [
+    {
+      "title": "Min 60% Off On PUMA. Shoes : Men : Women : Kids : Nike Unisex Kids Sneakers at ₹1,897",
+      "price": 1897,
+      "original_price": 4742,
+      "category": "Fashion",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C4PJF7CK?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T16:00:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C4PJF7CK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C4PJF7CK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C4PJF7CK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Safari Polyester In-line Skate Sprinter Cabin Size Duffle Bag 999₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C74MKNQV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C74MKNQV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Grab : Multipurpose Storage Cabinet with LED Lights – Only ₹9950🤯 ✨Engineered Wood Cabinet in Teak Brown ✨Adjustable Shelves with Upper Shelf ✨LED Lights & Soft-Close Doors Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 9950,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F63SFJG7?tag=2244005-21",
-      "posted_at": "2026-10-28T15:19:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509165.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F63SFJG7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F63SFJG7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
