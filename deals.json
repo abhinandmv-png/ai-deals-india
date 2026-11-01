@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T14:30:21Z",
+  "updated_at": "2026-11-01T14:31:21Z",
   "deals": [
+    {
+      "title": "Prestige Iris 750 Watt Mixer Grinder with 4 Jars (3 Stainless Steel + 1 at Rs.**2,699**.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T14:31:21Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Grab : Livein Essential Orthopedic Memory Foam Mattress (Double Bed, 6 Inch) – Only ₹12,000🤯 ✨Pressure-Relieving Memory Foam ✨Medium-Firm Comfort with Anti-Microbial Fabric ✨72 × 48 × 6 Inch Double Bed Mattress Buy No",
       "price": 12000,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G48HZ2GL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G48HZ2GL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Crompton 1HP Water Pump 3899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CGQ834KW?tag=2244005-21",
-      "posted_at": "2026-10-28T12:34:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CGQ834KW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CGQ834KW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CGQ834KW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
