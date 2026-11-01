@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T13:15:22Z",
+  "updated_at": "2026-11-01T13:15:31Z",
   "deals": [
+    {
+      "title": ". Grab 💥💥💥 2299 500 Coupon Orient Electric 1200 mm BLDC ceiling fan with Remote",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CHRKX49F?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T13:15:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510189.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CHRKX49F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CHRKX49F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAAASSTT 💥 889₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D9KCPPTK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D9KCPPTK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "570",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FMDZ1N52?tag=2244005-21",
-      "posted_at": "2026-10-28T11:49:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FMDZ1N52.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FMDZ1N52.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FMDZ1N52.01.LZZZZZZZ.jpg"
       ]
     }
   ]
