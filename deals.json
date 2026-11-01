@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T08:53:45Z",
+  "updated_at": "2026-11-01T09:09:07Z",
   "deals": [
+    {
+      "title": "Grab : Singer Nexchop Mini Single Speed Electric Chopper 350W | 700ml Bow at Rs.1149",
+      "price": 1149,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHYPH5J9?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T09:09:06Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146862.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHYPH5J9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi (139 cm) 55 inch Smartchoice FX Pro 4K QLED 34W — **₹27,874**. ₹7625 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F47Z9Z4M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F47Z9Z4M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥🔥 69985",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNMKL3VP?tag=2244005-21",
-      "posted_at": "2026-10-28T08:53:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509044.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNMKL3VP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNMKL3VP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
