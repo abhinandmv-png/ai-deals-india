@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T03:57:27Z",
+  "updated_at": "2026-11-01T04:15:03Z",
   "deals": [
+    {
+      "title": "adidas Mens Run Casual Shoes @1050",
+      "price": 1050,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNHFX38R?tag=53twge73y-21",
+      "posted_at": "2026-11-01T04:15:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510100.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNHFX38R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNHFX38R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "adidas Mens Run Casual Shoes @1050",
       "price": 1050,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HBWXF18Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HBWXF18Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@28,402 TCL 108 cm (43 inches) 4K Ultra HD Smart LED Google TV | 4K HDR | Dolby Vision & Atmos | Game Master | 60Hz MEMC | 43P6L Apply coupon+ bank offer",
-      "price": 28402,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GVJJMF9J?tag=2244005-21",
-      "posted_at": "2026-10-28T06:23:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508939.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GVJJMF9J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GVJJMF9J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
