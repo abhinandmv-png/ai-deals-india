@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T07:39:22Z",
+  "updated_at": "2026-11-01T07:53:33Z",
   "deals": [
+    {
+      "title": "Wipro Elato GD203 1200 Watt Heavyweight Dry Iron, Quick Heat Up — ₹1,079.",
+      "price": 1079,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CTZX85DY?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T07:53:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510132.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CTZX85DY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CTZX85DY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bikano Royal Gulab Jamun, 1 Kg @ Rs.165 + **Coupon**.",
       "price": 165,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWFJ7465.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWFJ7465.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥 wipro Garnet 50 mtr LED Strip Light| 3330",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DK395SGN?tag=2244005-21",
-      "posted_at": "2026-10-28T07:38:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508998.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DK395SGN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DK395SGN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
