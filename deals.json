@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T07:53:33Z",
+  "updated_at": "2026-11-01T07:53:41Z",
   "deals": [
+    {
+      "title": "249 All colours & size available",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNK7TFLH?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T07:53:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510133.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNK7TFLH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNK7TFLH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro Elato GD203 1200 Watt Heavyweight Dry Iron, Quick Heat Up — ₹1,079.",
       "price": 1079,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3TRVC3Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3TRVC3Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "U.S. POLO ASSN. Apparel Casual Pants @439",
-      "price": 439,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWFJ7465?tag=2244005-21",
-      "posted_at": "2026-10-28T07:54:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509011.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWFJ7465.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWFJ7465.01.LZZZZZZZ.jpg"
       ]
     }
   ]
