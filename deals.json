@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T07:09:01Z",
+  "updated_at": "2026-11-01T07:23:28Z",
   "deals": [
+    {
+      "title": "Pack of 12 Containers at Rs.208",
+      "price": 208,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08SLF5DQZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T07:23:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08SLF5DQZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08SLF5DQZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08SLF5DQZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "76% off : SNITCH Loop Set of 3 Suitcase & Free Shoe Bag @₹3,329",
       "price": 3329,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G2RCXTN6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G2RCXTN6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Aquaguard (RO+UV+UF+MC, SS Tank, 2‑Yr Filter Life) Water Purifier at 9,250 (Effectively). ₹2749 Off With SBI/HDFC/ICICI/Asix Credit Card + Cashback. Limited Time Offer, Buy Fast if Needed.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTM4HHD1?tag=2244005-21",
-      "posted_at": "2026-10-28T07:09:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508982.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTM4HHD1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTM4HHD1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
