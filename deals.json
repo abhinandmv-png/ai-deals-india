@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T06:53:47Z",
+  "updated_at": "2026-11-01T06:53:59Z",
   "deals": [
+    {
+      "title": "Puma Mens Radcliff V1 Sneaker @900. Apply ₹180 Off Coupon",
+      "price": 900,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CN3F9JD9?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T06:53:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510121.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CN3F9JD9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CN3F9JD9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70% Off : Vivel Body Wash 1300 ml @195.",
       "price": 195,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B071YR1F15.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B071YR1F15.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @23,065 Samsung, 10kg, 5 Star, Eco Bubble, Hygiene Steam, Quick Wash Apply coupon+ bank offer",
-      "price": 23065,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3L7GWZC?tag=2244005-21",
-      "posted_at": "2026-10-28T07:09:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_508978.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3L7GWZC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3L7GWZC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
