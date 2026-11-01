@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T09:39:13Z",
+  "updated_at": "2026-11-01T09:39:43Z",
   "deals": [
+    {
+      "title": "Xiaomi Power Bank 4i 20000mah 33w Super Charging Pd Smart 12 Layer Protectiontype C Input Outputtriple Output Portssupports Androidapple Tablets Earbudswatchmi Powerbankblack ✅Deal Price: **₹1,999** ❌MRP: ₹3,999 Discount",
+      "price": null,
+      "original_price": 3999,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DCZ3WDTB?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T09:39:42Z",
+      "source": "Telegram",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_225.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DCZ3WDTB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DCZ3WDTB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥💣 IFB 222L 4 Star Advanced Inverter Refrigerator at just 14,040 Apply ₹2000 Off Code at Checkout ➡️ DIWALI12000 ➕ 4250 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCG4T5Q6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCG4T5Q6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "54",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FD8TK542?tag=2244005-21",
-      "posted_at": "2026-10-28T09:15:33Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FD8TK542.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FD8TK542.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FD8TK542.01.LZZZZZZZ.jpg"
       ]
     }
   ]
