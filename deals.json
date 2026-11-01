@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T11:30:51Z",
+  "updated_at": "2026-11-01T12:00:17Z",
   "deals": [
+    {
+      "title": ".. Air Purifier Loot @5130 Apply 5% Coupon + Bank Offer : Regular Price ₹8999+",
+      "price": 5130,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFVXMLC5?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T12:00:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HFVXMLC5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFVXMLC5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFVXMLC5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lino PerrosAvril Jenna Tote Bag 1958",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWMHJP2Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWMHJP2Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. ✅ Lowest : Flipkart Big Shopping Utsav Deals. ★ Samsung F70e @ ₹15,499* *9 Months No Cost EMI @ ₹1,722 month on All Banks. ★ Ai+ Nova 2 Ultra (8/128) ₹16,999* *3 Months No Cost EMI @ ₹5,666/month. Incl. ₹5,000 Off Wit",
-      "price": 15499,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01BSY2ZTU?tag=2244005-21",
-      "posted_at": "2026-10-28T10:38:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B01BSY2ZTU.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01BSY2ZTU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01BSY2ZTU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
