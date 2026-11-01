@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T07:53:41Z",
+  "updated_at": "2026-11-01T07:53:51Z",
   "deals": [
+    {
+      "title": "Grab : Flat 37% OFF on Ariel Gel Liquid Detergent (4kg)@474 Link : (Faster Dissolving | Long-Lasting Fragrance | Color Protection)",
+      "price": 474,
+      "original_price": 752,
+      "category": "Beauty",
+      "badge": "37% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CSPG8D76?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T07:53:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510134.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CSPG8D76.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CSPG8D76.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "249 All colours & size available",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07GWV71FQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07GWV71FQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@62,684 Dulux Sadolin PU Wood Polish Gloss 4 Litres @1231.",
-      "price": 62684,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F3TRVC3Q?tag=2244005-21",
-      "posted_at": "2026-10-28T08:08:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509017.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F3TRVC3Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F3TRVC3Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
