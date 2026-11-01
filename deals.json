@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T17:18:55Z",
+  "updated_at": "2026-11-01T17:34:03Z",
   "deals": [
+    {
+      "title": ". Portronics Wireless Mouse 🔥 435₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGQ16G2Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T17:34:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510230.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGQ16G2Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGQ16G2Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Ponds Triple Vitamin Moisturising Body Lotion, 600ml 338₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMQXP76X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMQXP76X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Acer Aspire One Thin and Light Laptop, 1.48KG 256GB 8GB 34990 Apply 2000 off Coupon + 5000 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H45YFPJT?tag=2244005-21",
-      "posted_at": "2026-10-28T17:49:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H45YFPJT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
