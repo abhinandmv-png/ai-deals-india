@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T08:38:42Z",
+  "updated_at": "2026-11-01T08:53:33Z",
   "deals": [
+    {
+      "title": "Lifelong Gun massager @799",
+      "price": 799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C9DX5RFY?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T08:53:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510141.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C9DX5RFY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C9DX5RFY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo By Milton Whiskey Glass Set Of 6 @ Rs.263",
       "price": 263,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BVMCG288.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BVMCG288.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Victus RTX 4050 Laptops Starts @ Rs.1,10,490* Get Upto ₹12,500 Off Using Bank Offers Loot Rs.129 : Buy Max",
-      "price": 110490,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6GBG29Q?tag=2244005-21",
-      "posted_at": "2026-10-28T08:39:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H6GBG29Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6GBG29Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6GBG29Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
