@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T13:45:32Z",
+  "updated_at": "2026-11-01T13:45:39Z",
   "deals": [
+    {
+      "title": "Grab : Singer Cheffy Mix Mixer Grinder 3 Stainless Steel Jars at Rs.1498",
+      "price": 1498,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNCV2F9V?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T13:45:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNCV2F9V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNCV2F9V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNCV2F9V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Saffola Mustard Oil 4L @658* Apply Coupon > Buy 4 Qty. Final Payment Rs.748-90 Cashback At Checkout.",
       "price": 658,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CR6JYY5R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CR6JYY5R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Haier 325 L 3 Star Frost Free Bottom Mount Refrigerator 28740 Apply 1000 Off Coupon + 11250 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4GC4BFH?tag=2244005-21",
-      "posted_at": "2026-10-28T12:20:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H4GC4BFH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4GC4BFH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4GC4BFH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
