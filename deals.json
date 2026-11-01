@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T13:45:39Z",
+  "updated_at": "2026-11-01T13:45:49Z",
   "deals": [
+    {
+      "title": "Loot : Newborn Baby Gift Set with Free Gift (Pack of 7) @ Rs.399",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G5JV6SPC?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T13:45:48Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146884.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G5JV6SPC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G5JV6SPC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Singer Cheffy Mix Mixer Grinder 3 Stainless Steel Jars at Rs.1498",
       "price": 1498,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F1YVHMRS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F1YVHMRS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "349",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CR6JYY5R?tag=2244005-21",
-      "posted_at": "2026-10-28T12:20:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509128.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CR6JYY5R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CR6JYY5R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
