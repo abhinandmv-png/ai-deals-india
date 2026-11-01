@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T07:53:51Z",
+  "updated_at": "2026-11-01T08:08:35Z",
   "deals": [
+    {
+      "title": "72% off : SNITCH Layer Large Size Black Suitcase & Free Shoe Bag @₹1,799",
+      "price": 1799,
+      "original_price": 6425,
+      "category": "Fashion",
+      "badge": "72% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY1FG61X?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T08:08:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510135.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY1FG61X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY1FG61X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Flat 37% OFF on Ariel Gel Liquid Detergent (4kg)@474 Link : (Faster Dissolving | Long-Lasting Fragrance | Color Protection)",
       "price": 474,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDFRGWLQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDFRGWLQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@6395🔥🔥🔥 Durafit91™ Dash 2.5HP Peak BLDC Motor Treadmill with Mobile Stand & Remote Control",
-      "price": 6395,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07GWV71FQ?tag=2244005-21",
-      "posted_at": "2026-10-28T08:09:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509018.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07GWV71FQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07GWV71FQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
