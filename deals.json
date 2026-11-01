@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T18:18:56Z",
+  "updated_at": "2026-11-01T18:34:01Z",
   "deals": [
+    {
+      "title": ". Kamiliant by American Tourister Set of 3 Trolley Bags 3504",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPQR8MNP?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T18:34:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GPQR8MNP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPQR8MNP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPQR8MNP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Storage Containers Set 500Ml, Pack of 6 247₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BS1QCFHX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BS1QCFHX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Lowest : Round Metal Plant Stand (Pack of 8, Black) – Only ₹449🤯 ✨Pack of 8 Galvanised Metal Pot Holders ✨Ideal for Plant Pots & Flower Displays ✨Perfect for Home, Garden & Balcony Decor Buy Now👇🏻 🛒 BUY FAST BEFORE PR",
-      "price": 449,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZHX6MKP?tag=2244005-21",
-      "posted_at": "2026-10-28T18:04:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509198.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZHX6MKP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZHX6MKP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
