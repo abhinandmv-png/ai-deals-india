@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T05:30:31Z",
+  "updated_at": "2026-11-01T06:08:30Z",
   "deals": [
+    {
+      "title": "new balance Men's Arch Graphic T-Shirt,Blue,S — ₹579.",
+      "price": 579,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1YH199M?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T06:08:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510117.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1YH199M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1YH199M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 💻HP 15, INTEL CORE 5 120U (14TH GEN) 8GB DDR4, 512GB SSD, FHD LAPTOP @ 53440 APPLY 1000 OFF COUPON + 10550 OFF WITH HDFC CC 👉🏻",
       "price": 53440,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08MZQB86J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08MZQB86J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Instanio 3L Instant Water Heater(Geyser) at ₹3,241 Apply 5% off coupon",
-      "price": 3241,
-      "original_price": 3412,
-      "category": "Home",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B078JDNZJ8?tag=2244005-21",
-      "posted_at": "2026-10-28T06:39:49Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B078JDNZJ8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B078JDNZJ8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B078JDNZJ8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
