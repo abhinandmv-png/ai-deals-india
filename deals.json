@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T06:08:30Z",
+  "updated_at": "2026-11-01T06:38:34Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy Tab S10 Plus S Pen, 12 GB RAM, 256 GB Storage, Wi-Fi Tablet, @₹73,949 ₹6950 off with HDFC Credit Card",
+      "price": 73949,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DHH97DM5?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T06:38:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510119.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DHH97DM5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DHH97DM5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "new balance Men's Arch Graphic T-Shirt,Blue,S — ₹579.",
       "price": 579,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D3HZ911R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D3HZ911R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "59% Off : Karachi Bakery Besan Ladoo 200gm @67.",
-      "price": 67,
-      "original_price": 163,
-      "category": "Shopping",
-      "badge": "59% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08MZQB86J?tag=2244005-21",
-      "posted_at": "2026-10-28T06:45:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08MZQB86J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08MZQB86J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08MZQB86J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
