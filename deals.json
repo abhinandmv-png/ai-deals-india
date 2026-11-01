@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-01T08:23:36Z",
+  "updated_at": "2026-11-01T08:38:34Z",
   "deals": [
+    {
+      "title": "Lowest : Pampers Premium Baby Diapers (M, 104 Counts) at 1529.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FG7J7626?tag=premiumde066c-21",
+      "posted_at": "2026-11-01T08:38:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510138.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FG7J7626.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FG7J7626.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Singer 1310 Automatic Zig Zag Electric Sewing Machine at Rs.9989 + Bank Offer**",
       "price": 9989,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FWKQRLDT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FWKQRLDT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @27,240 5250 off with hdfccc🔥 Hisense 126 cm (50 Inches) 4K Ultra HD Smart QLED TV",
-      "price": 27240,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJLSJ81W?tag=2244005-21",
-      "posted_at": "2026-10-28T08:38:42Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509033.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJLSJ81W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJLSJ81W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
