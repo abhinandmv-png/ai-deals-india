@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T06:34:19Z",
+  "updated_at": "2026-11-02T06:34:33Z",
   "deals": [
+    {
+      "title": "Single Seater Manual Recliner at ₹10,666 💥 ₹2,403 off with HDFC Credit Cards Link:",
+      "price": 10666,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSCKKZ68?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T06:34:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510303.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSCKKZ68.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSCKKZ68.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo IdeaPad Slim 3 Ryzen 7 Laptop (16GB RAM/512GB SSD) @₹58,940 ₹11,050 off with HDFC Card",
       "price": 58940,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6WHHSHR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6WHHSHR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[HDFC CC] Epson EcoTank InkTank Printer at Rs.8,550.",
-      "price": 8550,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00WP39JLG?tag=2244005-21",
-      "posted_at": "2026-10-29T00:17:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509269.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00WP39JLG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00WP39JLG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
