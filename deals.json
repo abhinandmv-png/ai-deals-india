@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T11:24:43Z",
+  "updated_at": "2026-11-02T11:24:52Z",
   "deals": [
+    {
+      "title": "🔥🔥 162₹ Panasonic 9 Watt Motion Sensor Led B22D Bulb for Home with 3 Mtr Radius Sensor Area",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B089TKXP92?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T11:24:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510366.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B089TKXP92.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B089TKXP92.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Acer Aspire One, AMD Ryzen 5 Laptop 34440 Apply 2000 Coupon + 3550 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MGNTLC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MGNTLC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLBELL Office Chair @3957 439₹ Off With HDFC CC",
-      "price": 3957,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRVLXGS9?tag=2244005-21",
-      "posted_at": "2026-10-29T02:47:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509300.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRVLXGS9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRVLXGS9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
