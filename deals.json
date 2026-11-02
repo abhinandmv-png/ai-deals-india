@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T15:47:12Z",
+  "updated_at": "2026-11-02T15:54:29Z",
   "deals": [
+    {
+      "title": "🔥🔥 2,895₹ CELLBELL Desire C104 Mesh Mid Back Chair",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08XBGZ4R6?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T15:54:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510414.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08XBGZ4R6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08XBGZ4R6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Reebok Men's Tracktop at 1,199.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B6C4Z14M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B6C4Z14M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab faaaast 🔥 5356 595 off with hdfc cc Sony INZONE Mouse-A Ultra-Lightweight 48g Wireless Gaming Mouse",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJ2XTB3Q?tag=2244005-21",
-      "posted_at": "2026-10-29T06:26:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509369.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJ2XTB3Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJ2XTB3Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
