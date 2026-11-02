@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T15:47:06Z",
+  "updated_at": "2026-11-02T15:47:12Z",
   "deals": [
+    {
+      "title": "Reebok Men's Tracktop at 1,199.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJS2RGB4?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T15:47:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FJS2RGB4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJS2RGB4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJS2RGB4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 93% Off - Red Tape Men's Sports Shoes Hero MotoCorp Pleasure at ‎₹68,080 *Apply ₹2500 Off Coupon + ₹10,050 Off With HDFC Credit Cards*. Simply Book Online Through Amazon & Collect Your Bike From The Nearest Availabl",
       "price": 68080,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJ2XTB3Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJ2XTB3Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @2250 Skullcandy Grom Wired Kids Headphones 249 off with hdfc cc",
-      "price": 2250,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQKP2SX5?tag=2244005-21",
-      "posted_at": "2026-10-29T06:26:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509368.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQKP2SX5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQKP2SX5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
