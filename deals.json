@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T14:54:25Z",
+  "updated_at": "2026-11-02T15:09:24Z",
   "deals": [
+    {
+      "title": ". SanDisk 1 TB SSD 13,299 Pay with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLDPQ73P?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T15:09:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HLDPQ73P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLDPQ73P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLDPQ73P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". JBL Cinema SB190 Deep Bass, Dolby Atmos Soundbar 6,845 760 off with HDFC Cc",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DQXC3FWC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DQXC3FWC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥🔥 @1799 Other colour costs more Noise Airwave Max 3 Bluetooth On Ear Headphones with 70H Playtime",
-      "price": 1799,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CY23KHW5?tag=2244005-21",
-      "posted_at": "2026-10-29T06:11:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509366.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CY23KHW5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CY23KHW5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
