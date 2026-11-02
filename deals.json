@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T11:24:27Z",
+  "updated_at": "2026-11-02T11:24:36Z",
   "deals": [
+    {
+      "title": "1300 500 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C53RBBNX?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T11:24:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510364.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C53RBBNX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C53RBBNX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Men's Popcat 20 RES Slide 🔥 761₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09PNLJW7N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09PNLJW7N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Levi's Men's 512 Dark Indigo Slim Tapered Fit Mid Rise — ₹899.",
-      "price": 899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5PXGFPS?tag=2244005-21",
-      "posted_at": "2026-10-29T02:47:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509298.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5PXGFPS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5PXGFPS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
