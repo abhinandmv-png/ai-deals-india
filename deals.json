@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T01:19:02Z",
+  "updated_at": "2026-11-02T02:04:05Z",
   "deals": [
+    {
+      "title": "adidas Men Infynyte Run M, Casual Shoes, Green, 9 — ₹961.",
+      "price": 961,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7YXQF5?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T02:04:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510267.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7YXQF5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7YXQF5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Parachute SkinPure Body Lotion - with Vitamin C & Virgin — ₹139.",
       "price": 139,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPVQPMKY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPVQPMKY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹1200 Reg Price -2500",
-      "price": 1200,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FG2QT7H2?tag=2244005-21",
-      "posted_at": "2026-10-28T19:32:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509242.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FG2QT7H2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FG2QT7H2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
