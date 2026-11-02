@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T17:27:58Z",
+  "updated_at": "2026-11-02T17:35:56Z",
   "deals": [
+    {
+      "title": "Reebok Mens Tracksuit at 1799.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJRWQV1M?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T17:35:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FJRWQV1M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJRWQV1M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJRWQV1M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 596₹ wipro D913065 30 Watts Flood Light, Cool Day White, Square",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFD25CCX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFD25CCX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Loot : boAt Earbuds Upto 97% Off **",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "97% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/lCY2di4U5K?tag=2244005-21",
-      "posted_at": "2026-10-29T06:54:14Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/LCY2DI4U5K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/lCY2di4U5K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/lCY2di4U5K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
