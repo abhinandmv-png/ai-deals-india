@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T13:39:38Z",
+  "updated_at": "2026-11-02T13:47:02Z",
   "deals": [
+    {
+      "title": "Afghani Anjeer 1Kg at Rs.375. *Buy Max Quantity",
+      "price": 375,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4RFMPWY?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T13:47:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G4RFMPWY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4RFMPWY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4RFMPWY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 199₹ GM 3206 G-On Extension Board with 2 International Sockets | 2.5M Extension Cord",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GN97RFPR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GN97RFPR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @1499 Zebronics Sound Feast 45 Portable Bluetooth Speaker",
-      "price": 1499,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6672HRD?tag=2244005-21",
-      "posted_at": "2026-10-29T05:10:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509346.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6672HRD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6672HRD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
