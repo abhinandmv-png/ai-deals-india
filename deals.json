@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T13:39:30Z",
+  "updated_at": "2026-11-02T13:39:38Z",
   "deals": [
+    {
+      "title": "🔥🔥 199₹ GM 3206 G-On Extension Board with 2 International Sockets | 2.5M Extension Cord",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B014E12F7Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T13:39:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510391.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B014E12F7Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B014E12F7Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "POPCORN & COMPANY Cheesy Sriracha Popcorn Sampler Pack 15GM 1₹ Coupon Prime Users Specific Check In Your Account",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6672HRD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6672HRD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon 1300 Watts Cordless Electrical Dry Iron @623",
-      "price": 623,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GT3ZQXWQ?tag=2244005-21",
-      "posted_at": "2026-10-29T05:06:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509343.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GT3ZQXWQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GT3ZQXWQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
