@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T12:39:24Z",
+  "updated_at": "2026-11-02T12:39:32Z",
   "deals": [
+    {
+      "title": ". Set Wet Styling Hair Gel, 250gm 112₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079HWW3NM?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T12:39:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B079HWW3NM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079HWW3NM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079HWW3NM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sony WF-1000XM5 Best Active Noise Cancelling Wireless Bluetooth Earbuds with Mic 11,439",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C5JNWF58.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C5JNWF58.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@29,740🔥🔥 1750 off coupon 10,500 off with hdfc cc TCL 139 cm (55 inches) Smartchoice 4K Ultra HD Smart QLED Google TV",
-      "price": 29740,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GVJSTKS6?tag=2244005-21",
-      "posted_at": "2026-10-29T04:02:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509322.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GVJSTKS6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GVJSTKS6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
