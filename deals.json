@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T15:54:43Z",
+  "updated_at": "2026-11-02T16:09:28Z",
   "deals": [
+    {
+      "title": "Grab 🔥 2688 Coupon Polycab Wizzy Neo 1200mm BLDC, Remote Ceiling Fan",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2L9DC3F?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T16:09:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510416.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2L9DC3F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2L9DC3F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj IRX 220F Infrared Induction Cooktop 3,400₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BS1MB671.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BS1MB671.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @4029 711 off with hdfc cc Amazon Basics Digital Safe with Electronic Keypad Locker for Home,",
-      "price": 4029,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G13V6TSR?tag=2244005-21",
-      "posted_at": "2026-10-29T06:28:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509372.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G13V6TSR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G13V6TSR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
