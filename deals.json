@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T16:42:45Z",
+  "updated_at": "2026-11-02T16:42:54Z",
   "deals": [
+    {
+      "title": ". Philips 10 Watt LED Bulb 🔥 76₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C2Q3V52R?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T16:42:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510423.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3V52R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C2Q3V52R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Daniel Hechter Paris Cite Collection Watch 1,815 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08JQLB5CG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08JQLB5CG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells All New Greta Pro 15L 5 Star Storage Water Heater (Geyser) | Faster Heating | Safe to use | Saves electricity |Engineered for Hard Water | Feroglas Coated Anti Rust Tank | Made in India Deal Price ₹6401",
-      "price": 6401,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBLVSKDF?tag=2244005-21",
-      "posted_at": "2026-10-29T06:44:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509379.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBLVSKDF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBLVSKDF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
