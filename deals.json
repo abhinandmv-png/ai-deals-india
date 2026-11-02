@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T08:38:34Z",
+  "updated_at": "2026-11-02T09:08:05Z",
   "deals": [
+    {
+      "title": "@999",
+      "price": 999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6CL93PZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T09:08:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510335.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6CL93PZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6CL93PZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "229 : • Check All Colours & Sizes",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7MH51JR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7MH51JR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Philips All-New Keypad Mobile at Rs.1,199.",
-      "price": 1199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8PTDJXG?tag=2244005-21",
-      "posted_at": "2026-10-29T01:17:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509278.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8PTDJXG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8PTDJXG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
