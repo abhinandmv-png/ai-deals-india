@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T10:47:00Z",
+  "updated_at": "2026-11-02T10:55:05Z",
   "deals": [
+    {
+      "title": "99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01NCUMUET?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T10:55:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510358.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01NCUMUET.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01NCUMUET.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 183 L, 4 Star, Digital Inverter, Direct-Cool Single Door Refrigerator @ ₹13,686 Get Flat ₹2,354 off with HDFC EMI + ₹750 off coupon",
       "price": 13686,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07MKMFKPG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07MKMFKPG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ATTRO Prime Stainless Steel Single Wall Storage Containers, 6x550ml, Set Of 6 — ₹323.",
-      "price": 323,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GM6D7S7Q?tag=2244005-21",
-      "posted_at": "2026-10-29T02:17:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509293.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GM6D7S7Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GM6D7S7Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
