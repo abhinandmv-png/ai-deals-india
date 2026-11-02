@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T09:39:24Z",
+  "updated_at": "2026-11-02T09:55:03Z",
   "deals": [
+    {
+      "title": ". Grab 💥💥 Lenovo Idea Tab with Tab Pen | WiFi+5G 6GB RAM + 128GB ROM 18698 Apply 1500 off Coupon + 2800 off with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HBBGL6C2?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T09:55:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510350.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HBBGL6C2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HBBGL6C2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "296",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDYPL9RG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDYPL9RG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab faaaast 🔥 ZEBRONICS Juke bar 9550 pro 5.2 Soundbar (625 Watts) 9k 999 off with hdfc cc",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJM2NST8?tag=2244005-21",
-      "posted_at": "2026-10-29T01:47:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509288.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJM2NST8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJM2NST8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
