@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T04:04:38Z",
+  "updated_at": "2026-11-02T04:14:55Z",
   "deals": [
+    {
+      "title": "56% Off : Fiama Gel Bar (125g Pack Of 8) @299.",
+      "price": 299,
+      "original_price": 680,
+      "category": "Shopping",
+      "badge": "56% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09G33GLP8?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T04:14:55Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09G33GLP8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : Upto 90% Off On Trendy Men’s Casual Shirts Starts at ₹209. Portronics Ki-Pad 3 USB Wired Keyboard with Large Keycaps, Noise-Free Typing at 399",
       "price": 209,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPM3PJHV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPM3PJHV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[HDFC CC] Coirfit Bone Zone Foam Mattress at Rs.2753.",
-      "price": 2753,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07P74HTQY?tag=2244005-21",
-      "posted_at": "2026-10-29T00:02:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509259.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07P74HTQY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07P74HTQY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
