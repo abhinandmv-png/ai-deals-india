@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T11:09:31Z",
+  "updated_at": "2026-11-02T11:24:27Z",
   "deals": [
+    {
+      "title": ". Puma Men's Popcat 20 RES Slide 🔥 761₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BH4GVJZQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T11:24:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510363.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BH4GVJZQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BH4GVJZQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 799₹ pTron Newly Launched Fusion Tunes 10W Mini Bluetooth Speaker",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5PXGFPS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5PXGFPS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @5400 599 off with hdfc cc🔥🔥 Noise Junior Explorer 2 Smart Watch for Kids with 4G SIM Compatible, 2-Way Video & Voice Calling, Geofencing, Real Time Location Monitoring via Google Maps, IP68, SOS Emergency Alerts (F",
-      "price": 5400,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC69CWZ1?tag=2244005-21",
-      "posted_at": "2026-10-29T02:32:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509297.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC69CWZ1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC69CWZ1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
