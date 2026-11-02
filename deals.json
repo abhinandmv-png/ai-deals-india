@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T10:55:19Z",
+  "updated_at": "2026-11-02T11:09:31Z",
   "deals": [
+    {
+      "title": "🔥🔥 799₹ pTron Newly Launched Fusion Tunes 10W Mini Bluetooth Speaker",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D771Y8WP?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T11:09:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510362.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D771Y8WP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D771Y8WP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 💥 499₹ Zebronics Wireless Keyboard & Mouse",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC69CWZ1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC69CWZ1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLBELL Executive Chair at Rs.4796.",
-      "price": 4796,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4TTVC7H?tag=2244005-21",
-      "posted_at": "2026-10-29T02:17:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509295.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4TTVC7H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4TTVC7H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
