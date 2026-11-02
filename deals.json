@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T11:25:04Z",
+  "updated_at": "2026-11-02T11:39:25Z",
   "deals": [
+    {
+      "title": "1499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097BH9MD5?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T11:39:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510369.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097BH9MD5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097BH9MD5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 349₹ Gear Polyester Black and Green Travel Duffle",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMD5NPX6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMD5NPX6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1637",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07THYZ1LN?tag=2244005-21",
-      "posted_at": "2026-10-29T02:54:12Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07THYZ1LN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07THYZ1LN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07THYZ1LN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
