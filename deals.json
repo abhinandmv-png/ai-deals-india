@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T11:24:52Z",
+  "updated_at": "2026-11-02T11:25:04Z",
   "deals": [
+    {
+      "title": "🔥🔥 349₹ Gear Polyester Black and Green Travel Duffle",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00Z93XF00?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T11:25:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510368.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00Z93XF00.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00Z93XF00.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 162₹ Panasonic 9 Watt Motion Sensor Led B22D Bulb for Home with 3 Mtr Radius Sensor Area",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07THYZ1LN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07THYZ1LN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah By Borosil Opalware Dinner Set, 19 Pcs @988",
-      "price": 988,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MGNTLC?tag=2244005-21",
-      "posted_at": "2026-10-29T02:47:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509301.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MGNTLC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MGNTLC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
