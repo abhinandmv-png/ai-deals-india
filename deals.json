@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T09:29:54Z",
+  "updated_at": "2026-11-02T09:39:24Z",
   "deals": [
+    {
+      "title": "296",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0971DWFDT?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T09:39:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510345.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0971DWFDT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0971DWFDT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "53% Off : Haldiram's Four in One 450gm @244.",
       "price": 244,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CJM2NST8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CJM2NST8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Treo By Milton Whiskey Glass Set of 6, 255 ml Each @₹263",
-      "price": 263,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXWWSPX5?tag=2244005-21",
-      "posted_at": "2026-10-29T01:47:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509287.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXWWSPX5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXWWSPX5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
