@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T14:32:02Z",
+  "updated_at": "2026-11-02T14:39:26Z",
   "deals": [
+    {
+      "title": ". Fujifilm Fujinon XF 27MM F2.8 R Waether Resistance Prime Lens 24249 6250 Off With HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08TRKK9ST?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T14:39:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510400.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08TRKK9ST.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08TRKK9ST.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 185 L, 4 Star, Smart Inverter, Refrigerator at 14140* Apply Rs.750 Coupon + Pay Using 12M No Cost EMI With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXV5313B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXV5313B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab@14,266🔥🔥 750 off coupon 1974 off with hdfc cc Samsung 189 L, 5 Star, Digital Inverter",
-      "price": 14266,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8JTHH46?tag=2244005-21",
-      "posted_at": "2026-10-29T05:56:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509360.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8JTHH46.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8JTHH46.01.LZZZZZZZ.jpg"
       ]
     }
   ]
