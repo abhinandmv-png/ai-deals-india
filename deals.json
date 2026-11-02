@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T12:09:30Z",
+  "updated_at": "2026-11-02T12:11:00Z",
   "deals": [
+    {
+      "title": ". Safari Broadway 8 Wheels Set of 3 Trolley Bag 4770 With Bank Offer",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HB4Y645P?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T12:10:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510375.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HB4Y645P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HB4Y645P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "27",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3QF4PJP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3QF4PJP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Robustt Safety Helmet Pack of 5 — ₹250.",
-      "price": 250,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DPCMH7YR?tag=2244005-21",
-      "posted_at": "2026-10-29T03:47:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509311.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DPCMH7YR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DPCMH7YR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
