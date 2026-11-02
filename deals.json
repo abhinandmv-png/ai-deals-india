@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T13:24:27Z",
+  "updated_at": "2026-11-02T13:39:24Z",
   "deals": [
+    {
+      "title": "6789",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DDHNX5W4?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T13:39:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DDHNX5W4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DDHNX5W4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DDHNX5W4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Lowest : Solar Fairy String Lights (39 Ft, 120 LEDs) – Only ₹399🤯 ✨Solar-Powered with 800 mAh Rechargeable Battery ✨IP65 Waterproof Design with 8 Lighting Modes ✨Perfect for Gardens, Diwali & Home Décor Buy Now👇🏻 🛒 BU",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D45YS7WK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D45YS7WK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot For Needy | IFB 197L 5 Star Advanced Inverter Refrigerator @13,121 • Apply ₹1000 Coupon • Apply ₹1000 Off Code at Checkout ➡️ DIWALI1K • ₹2569 Off With HDFC CC",
-      "price": 13121,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GW2YHFCX?tag=2244005-21",
-      "posted_at": "2026-10-29T04:47:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509335.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GW2YHFCX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GW2YHFCX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
