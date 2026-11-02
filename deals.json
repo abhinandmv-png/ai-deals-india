@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T13:09:21Z",
+  "updated_at": "2026-11-02T13:15:00Z",
   "deals": [
+    {
+      "title": "3577",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DG8P3DKV?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T13:14:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DG8P3DKV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DG8P3DKV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DG8P3DKV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Faber SLIMX 60cm 1500m³/hr BLDC Autoclean Filterless T-Shape Chimney 15241 Coupon + Bank Offer",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJFF32BQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJFF32BQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Men's Loafer Shoes — ₹543.",
-      "price": 543,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8BJ1WNP?tag=2244005-21",
-      "posted_at": "2026-10-29T04:32:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509330.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8BJ1WNP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8BJ1WNP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
