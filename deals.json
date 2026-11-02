@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T14:30:01Z",
+  "updated_at": "2026-11-02T14:32:02Z",
   "deals": [
+    {
+      "title": "LG 185 L, 4 Star, Smart Inverter, Refrigerator at 14140* Apply Rs.750 Coupon + Pay Using 12M No Cost EMI With HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GRCVWGFR?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T14:32:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GRCVWGFR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "50% Off : Real Greetings Vitamin Boost Pack 3x1L @250.",
       "price": 250,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G8JTHH46.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G8JTHH46.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt 2026 Launch Nirvana Ion ANC w/Crest AI (Smart Burgandy) @2340",
-      "price": 2340,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFSF99HY?tag=2244005-21",
-      "posted_at": "2026-10-29T05:55:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509358.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFSF99HY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFSF99HY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
