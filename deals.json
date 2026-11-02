@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T15:54:29Z",
+  "updated_at": "2026-11-02T15:54:43Z",
   "deals": [
+    {
+      "title": "Bajaj IRX 220F Infrared Induction Cooktop 3,400₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZTSWMZZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-02T15:54:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510415.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZTSWMZZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZTSWMZZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 2,895₹ CELLBELL Desire C104 Mesh Mid Back Chair",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G13V6TSR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G13V6TSR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @4226 469 off with hdfc cc🔥",
-      "price": 4226,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B6C4Z14M?tag=2244005-21",
-      "posted_at": "2026-10-29T06:26:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509371.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B6C4Z14M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B6C4Z14M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
