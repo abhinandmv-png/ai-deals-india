@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T07:06:29Z",
+  "updated_at": "2026-11-03T07:21:27Z",
   "deals": [
+    {
+      "title": "Women’s Sweatshirt at Rs.569",
+      "price": 569,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09FFCRQQF?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T07:21:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510519.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09FFCRQQF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09FFCRQQF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹3299 Apply coupon Loot : Upto 70% Off On L'Oréal Paris & Garnier Beauty Products Armani Exchange A|X Dive-Inspired Stainless Steel Men's Watch at Rs.8,998 💥 Link: Rs.999 Off with HDFC CC",
       "price": 3299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B5RJDWMT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B5RJDWMT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Singer Shakti Press Heavy Weight Dry Iron | 1000W Power at Rs.898",
-      "price": 898,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPQ7GR81?tag=2244005-21",
-      "posted_at": "2026-10-29T15:09:27Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPQ7GR81.01.LZZZZZZZ.jpg"
       ]
     }
   ]
