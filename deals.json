@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T10:31:27Z",
+  "updated_at": "2026-11-03T10:31:35Z",
   "deals": [
+    {
+      "title": ". Jivo Cold Pressed Kachi Ghani Mustard Oil 4 Litre 671 Buy 4 Qty & Get 90 CB At Checkout",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09NYCSQLF?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T10:31:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09NYCSQLF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09NYCSQLF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09NYCSQLF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "135",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWHYQW77.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWHYQW77.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". MSI MAG 245F X24 24-inch Gaming Monitor 9499",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B096Y4WNYL?tag=2244005-21",
-      "posted_at": "2026-10-29T16:43:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509515.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B096Y4WNYL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B096Y4WNYL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
