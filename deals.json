@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T10:46:27Z",
+  "updated_at": "2026-11-03T10:46:34Z",
   "deals": [
+    {
+      "title": ". Godrej 185L 5 Star with 5 Years Comprehensive Warranty 12,386 Apply 750 Coupon + 4154 Off With HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSG24816?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T10:46:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSG24816.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSG24816.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot Deal : IFB 197L 5 Star Advanced Inverter Refrigerator @12,550 Apply ₹1250 Coupon + ₹3894 Off With HDFC CC",
       "price": 12550,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B083RB6L1S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B083RB6L1S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "109",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBZXZZHT?tag=2244005-21",
-      "posted_at": "2026-10-29T17:00:55Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DBZXZZHT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBZXZZHT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBZXZZHT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
