@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-02T19:36:18Z",
+  "updated_at": "2026-11-03T00:36:19Z",
   "deals": [
+    {
+      "title": "Yogurt Maker at Rs.610.",
+      "price": 610,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCTZN41N?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T00:36:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510461.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCTZN41N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCTZN41N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Spykar Men's Shirt 🔥 625₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5M4BYRZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5M4BYRZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "SINGER 1310 Automatic Zig Zag Electric Sewing Machine at Rs.8721 Apply 300 Off Coupon",
-      "price": 8721,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3NZ4TRV?tag=2244005-21",
-      "posted_at": "2026-10-29T10:24:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H3NZ4TRV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3NZ4TRV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3NZ4TRV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
