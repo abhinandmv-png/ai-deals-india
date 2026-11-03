@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T11:16:30Z",
+  "updated_at": "2026-11-03T11:16:40Z",
   "deals": [
+    {
+      "title": "🔥🔥 198₹ Pigeon by Stovekraft Inox Hydra Plus Stainless Steel Drinking Water Bottle 900 ml - Silver",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHSHJZ33?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T11:16:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510562.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHSHJZ33.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHSHJZ33.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 💥 699₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FGY8SC77.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FGY8SC77.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Game Sneaker 💥 1184",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09HTFZRQK?tag=2244005-21",
-      "posted_at": "2026-10-29T17:28:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09HTFZRQK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09HTFZRQK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09HTFZRQK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
