@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T17:07:00Z",
+  "updated_at": "2026-11-03T17:51:54Z",
   "deals": [
+    {
+      "title": ". Puma Trackracer 2.0 Sneaker 🔥 1,343₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BZQJFZSW?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T17:51:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510621.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BZQJFZSW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BZQJFZSW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Samsung 55-inch Mini LED 4K Vision AI Smart TV 38490 Apply 3500 Coupon + 5500 Off With HDFC CC EMI",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F13828HW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F13828HW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lizol Disinfectant Surface & Floor Cleaner Liquid, Citrus - 5 Litre at Rs.699.",
-      "price": 699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07DCXYJ4N?tag=2244005-21",
-      "posted_at": "2026-10-30T03:00:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509593.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07DCXYJ4N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07DCXYJ4N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
