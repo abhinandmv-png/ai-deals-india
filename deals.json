@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T10:46:34Z",
+  "updated_at": "2026-11-03T11:01:30Z",
   "deals": [
+    {
+      "title": ". RR Signature Raptor 1200mm BLDC Designer Ceiling Fan 2,899₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC2NLJTF?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T11:01:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510556.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC2NLJTF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Godrej 185L 5 Star with 5 Years Comprehensive Warranty 12,386 Apply 750 Coupon + 4154 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQNVH37W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQNVH37W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : Sheer Door Curtains (7 Feet, Set of 2, Beige) – Only ₹999🤯 ✨Light-Filtering Sheer Fabric ✨Transparent Design with Privacy in Mind ✨Perfect for Living Rooms & Bedrooms Buy Now👇🏻 🛒 BUY FAST BEFOR",
-      "price": 999,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B083RB6L1S?tag=2244005-21",
-      "posted_at": "2026-10-29T17:13:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509521.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B083RB6L1S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B083RB6L1S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
