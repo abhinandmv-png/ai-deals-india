@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T01:36:18Z",
+  "updated_at": "2026-11-03T01:36:28Z",
   "deals": [
+    {
+      "title": "Marks & Spencer Women Jeans @524",
+      "price": 524,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQKXHXGG?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T01:36:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510468.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQKXHXGG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQKXHXGG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "152 Buy Max Qnty",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6CL9T5H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6CL9T5H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAASSTT 💥 1,560₹ Puma Unisex-Child Softride Pro Flex Sliptechjr Sneaker",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMWYL7MX?tag=2244005-21",
-      "posted_at": "2026-10-29T11:13:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509454.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMWYL7MX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMWYL7MX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
