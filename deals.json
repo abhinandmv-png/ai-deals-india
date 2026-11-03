@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T03:21:26Z",
+  "updated_at": "2026-11-03T03:21:55Z",
   "deals": [
+    {
+      "title": "🔥 Carrier 1.5 Ton 5 Star, Wi-Fi Split AC @ 39,490 (Effectively) Apply ₹1000 Off Coupon + ₹7500 Off with HDFC Credit Card",
+      "price": 39490,
+      "original_price": 7500,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GCFBDLDW?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T03:21:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510480.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GCFBDLDW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GCFBDLDW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@441",
       "price": 441,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKDFR8YS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKDFR8YS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loot 79 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DJ7VFKRN?tag=2244005-21",
-      "posted_at": "2026-10-29T12:13:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509465.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DJ7VFKRN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DJ7VFKRN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
