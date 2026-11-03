@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T07:51:24Z",
+  "updated_at": "2026-11-03T08:36:29Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Silk Series Luna Opalware Dinner Set with Steel Spoon | 55 — ₹1,906.",
+      "price": 1906,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSZ4Y2H6?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T08:36:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510528.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSZ4Y2H6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSZ4Y2H6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest : HARLEY-DAVIDSON X440 Vivid Motorcycle 440cc @ 2,00,950 (Effectively) Apply 15000 Coupon + 19,050 Off Using CC",
       "price": 200950,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08WRKSF9D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08WRKSF9D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : Mix 4 Seeds Combo Pack (1kg) – Only ₹399🤯 ✨Pumpkin, Sunflower, Flax & Chia Seeds ✨250g Each – 1kg Total ✨Natural Raw Seeds for Everyday Nutrition Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 399,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJ2RSG6Q?tag=2244005-21",
-      "posted_at": "2026-10-29T15:14:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509500.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJ2RSG6Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJ2RSG6Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
