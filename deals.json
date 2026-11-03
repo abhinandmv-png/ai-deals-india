@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T11:01:44Z",
+  "updated_at": "2026-11-03T11:16:30Z",
   "deals": [
+    {
+      "title": "Grab 💥 699₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWTNZRP1?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T11:16:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510561.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWTNZRP1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWTNZRP1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Haier 520L Triple Inverter French Door Side by Side Refrigerator 65,240 Apply 3,000 Coupon + 12,750 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09HTFZRQK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09HTFZRQK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ant Esports Prism Mouse Pad - with Anti-fray Stitching, Waterproof at **₹69**.",
-      "price": 69,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSHZLRQB?tag=2244005-21",
-      "posted_at": "2026-10-29T17:24:28Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DSHZLRQB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSHZLRQB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSHZLRQB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
