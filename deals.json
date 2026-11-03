@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T11:31:44Z",
+  "updated_at": "2026-11-03T11:45:16Z",
   "deals": [
+    {
+      "title": "169",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FS1HWH3N?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T11:45:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FS1HWH3N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FS1HWH3N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FS1HWH3N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lee Cooper Chronograph Round Dial Watch 4,930₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GR1HPR1W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GR1HPR1W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ECOVACS Deebot T30e Omni 2 in 1 Robot Vacuum Cleaner & Mop at Rs.36,449 Get 8550 Discount Using HDFC CC",
-      "price": 36449,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYR9QHXV?tag=2244005-21",
-      "posted_at": "2026-10-29T17:54:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GYR9QHXV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYR9QHXV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYR9QHXV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
