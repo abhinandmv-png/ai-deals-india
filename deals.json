@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T10:31:35Z",
+  "updated_at": "2026-11-03T10:46:27Z",
   "deals": [
+    {
+      "title": "Loot Deal : IFB 197L 5 Star Advanced Inverter Refrigerator @12,550 Apply ₹1250 Coupon + ₹3894 Off With HDFC CC",
+      "price": 12550,
+      "original_price": 3894,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GW2YHFCX?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T10:46:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GW2YHFCX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GW2YHFCX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GW2YHFCX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Jivo Cold Pressed Kachi Ghani Mustard Oil 4 Litre 671 Buy 4 Qty & Get 90 CB At Checkout",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBZXZZHT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBZXZZHT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Lenovo Idea Tab Pro Gen 2 with Pen 35,999 Flat 6000 Off With HDFC Credit Card No Cost EMI",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWHYQW77?tag=2244005-21",
-      "posted_at": "2026-10-29T16:58:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GWHYQW77.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWHYQW77.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWHYQW77.01.LZZZZZZZ.jpg"
       ]
     }
   ]
