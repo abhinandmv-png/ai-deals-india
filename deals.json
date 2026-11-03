@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T12:28:46Z",
+  "updated_at": "2026-11-03T12:31:33Z",
   "deals": [
+    {
+      "title": "🔥🔥 475₹ Bajaj 1000 W Immersion Water Heater Rod | Nickel-Plated Heating Element",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00KA7VUD4?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T12:31:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510580.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00KA7VUD4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00KA7VUD4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apple 2026 MacBook Neo 13″ Laptop - with A18 — **₹64,940**. Flat ₹4050 Off With HDFC CC.",
       "price": 64940,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3V1PHQR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3V1PHQR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Gear Laptop Backpack 🔥 499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BTJ1RY1Y?tag=2244005-21",
-      "posted_at": "2026-10-29T18:44:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BTJ1RY1Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BTJ1RY1Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BTJ1RY1Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
