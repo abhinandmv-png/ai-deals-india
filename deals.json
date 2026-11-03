@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T11:16:50Z",
+  "updated_at": "2026-11-03T11:31:31Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 879₹ Ant Esports WENTE 220 USB Unidirectional Microphone - Black",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09GG56LM1?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T11:31:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510564.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09GG56LM1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09GG56LM1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Preethi Alya 2 Burner Glass Top Gas Stove 2765",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPM6YZLR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPM6YZLR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Panasonic 20W LED Batten (Pack Of 10) 949₹",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DRCD16GN?tag=2244005-21",
-      "posted_at": "2026-10-29T17:43:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DRCD16GN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRCD16GN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRCD16GN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
