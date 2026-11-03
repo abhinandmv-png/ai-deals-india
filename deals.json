@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T18:21:53Z",
+  "updated_at": "2026-11-03T18:22:03Z",
   "deals": [
+    {
+      "title": ". Allen Solly Hooded Sweatshirt 🔥 899₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07DPTJ391?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T18:22:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510626.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07DPTJ391.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07DPTJ391.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "73",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GVJ6C92B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GVJ6C92B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[ Apply 3% Coupon] EVEREADY 30W LED Hammer Bulb at Rs.237.",
-      "price": 237,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B076DNJMCV?tag=2244005-21",
-      "posted_at": "2026-10-30T03:30:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509597.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B076DNJMCV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B076DNJMCV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
