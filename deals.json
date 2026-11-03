@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T00:51:22Z",
+  "updated_at": "2026-11-03T01:21:21Z",
   "deals": [
+    {
+      "title": "@705",
+      "price": 705,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B078X9BV74?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T01:21:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510466.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B078X9BV74.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B078X9BV74.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells 8 in 1 Grooming Trimmer Kit @ Rs.849",
       "price": 849,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHYPH5J9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Dettol Body Wash, 500 ml 169₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRR82SVB?tag=2244005-21",
-      "posted_at": "2026-10-29T10:58:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRR82SVB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
