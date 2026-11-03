@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T04:21:45Z",
+  "updated_at": "2026-11-03T04:45:10Z",
   "deals": [
+    {
+      "title": "Carrier 1.5 Ton 5 Star Split AC @35490. Apply ₹3000 off Coupon + ₹7500 off with HDFC Credit Card",
+      "price": 35490,
+      "original_price": 7500,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GCDZ3BSK?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T04:45:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GCDZ3BSK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GCDZ3BSK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GCDZ3BSK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@1399",
       "price": 1399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BVBS2W1T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BVBS2W1T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Wagzo Car Media Player 🔥 6,999₹ 75 Apply 50% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FP98TCKJ?tag=2244005-21",
-      "posted_at": "2026-10-29T14:13:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FP98TCKJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FP98TCKJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FP98TCKJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
