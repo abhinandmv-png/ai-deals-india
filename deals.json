@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T08:36:29Z",
+  "updated_at": "2026-11-03T08:36:43Z",
   "deals": [
+    {
+      "title": "70mai A510 HDR 3K Dual Dash Cam @₹10,552 ₹1172 off with HDFC Credit Card",
+      "price": 10552,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVH2K929?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T08:36:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510529.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVH2K929.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVH2K929.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Silk Series Luna Opalware Dinner Set with Steel Spoon | 55 — ₹1,906.",
       "price": 1906,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DQKRHMHK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DQKRHMHK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". V-Guard Divino 15 Litre Water Heater for Home | White 6699",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08WRKSF9D?tag=2244005-21",
-      "posted_at": "2026-10-29T15:28:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08WRKSF9D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08WRKSF9D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08WRKSF9D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
