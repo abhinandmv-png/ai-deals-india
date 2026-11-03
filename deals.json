@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T09:06:28Z",
+  "updated_at": "2026-11-03T09:30:13Z",
   "deals": [
+    {
+      "title": "79",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GKPHGFQK?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T09:30:13Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GKPHGFQK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GKPHGFQK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GKPHGFQK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "74% off : Provogue Cascade Hard-Sided PP 75 Cm Trolley Bag Large Size @₹2,249",
       "price": 2249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FYGSLVRW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Samsung S26 Ultra 124999 Apply 15000 off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GL8G49LV?tag=2244005-21",
-      "posted_at": "2026-10-29T16:13:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GL8G49LV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GL8G49LV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GL8G49LV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
