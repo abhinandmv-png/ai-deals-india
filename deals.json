@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T02:06:21Z",
+  "updated_at": "2026-11-03T02:06:44Z",
   "deals": [
+    {
+      "title": "Lavie Sport Pixie 35L Magenta Backpack | Fits Upto 15 Inch — ₹682.",
+      "price": 682,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXVSDLV7?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T02:06:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510473.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXVSDLV7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXVSDLV7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah By Borosil Opalware Dinner Set 19 Pcs @843",
       "price": 843,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GD1R32YJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GD1R32YJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 249₹ Dove Nourishing Body Wash with Triple Hydration Serum | 825 ML",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07S7R626P?tag=2244005-21",
-      "posted_at": "2026-10-29T11:43:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509459.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07S7R626P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07S7R626P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
