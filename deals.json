@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T02:06:44Z",
+  "updated_at": "2026-11-03T02:36:22Z",
   "deals": [
+    {
+      "title": "1274 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CXPDQNBP?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T02:36:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510474.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CXPDQNBP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CXPDQNBP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lavie Sport Pixie 35L Magenta Backpack | Fits Upto 15 Inch — ₹682.",
       "price": 682,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHZNXKKQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHZNXKKQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Bajaj Style Mix 1000W 5 Jar Mixer Grinder 8938",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GD1R32YJ?tag=2244005-21",
-      "posted_at": "2026-10-29T11:43:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GD1R32YJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GD1R32YJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GD1R32YJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
