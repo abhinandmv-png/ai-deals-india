@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T02:45:08Z",
+  "updated_at": "2026-11-03T03:21:26Z",
   "deals": [
+    {
+      "title": "@441",
+      "price": 441,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BLBYWBP4?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T03:21:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510479.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BLBYWBP4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BLBYWBP4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Marks & Spencer Women Jeans @524",
       "price": 524,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DJ7VFKRN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DJ7VFKRN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sony E Mount FE 85mm F1.8 Full-Frame Lens 34990 Flat 7500 Off With HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B06VTFTZ17?tag=2244005-21",
-      "posted_at": "2026-10-29T11:58:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B06VTFTZ17.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B06VTFTZ17.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B06VTFTZ17.01.LZZZZZZZ.jpg"
       ]
     }
   ]
