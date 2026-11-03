@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T16:28:54Z",
+  "updated_at": "2026-11-03T16:36:57Z",
   "deals": [
+    {
+      "title": "2987",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DG5TKLGG?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T16:36:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DG5TKLGG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DG5TKLGG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DG5TKLGG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 65 inch (163cm) Crystal UHD 4K Vision AI 2026 Smart TV @53,990 (Effectively) Apply ₹1500 Coupon + ₹2500 Off With HDFC CC",
       "price": 53990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D676LFY6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D676LFY6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @9k 999 off with hdfc cc",
-      "price": 9,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BN287KYS?tag=2244005-21",
-      "posted_at": "2026-10-30T01:45:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509584.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BN287KYS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BN287KYS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
