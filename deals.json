@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T11:46:40Z",
+  "updated_at": "2026-11-03T12:01:29Z",
   "deals": [
+    {
+      "title": "2999",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHF11YGJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T12:01:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GHF11YGJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHF11YGJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHF11YGJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Samsung 32\" (80cm) M5 Smart Monitor 14,449 2,549 off with HDFC EMI",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYFYMLFX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYFYMLFX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sleepwell Dual Mattress Single Size 72x30x6 Inch @ ₹3,841 Get Flat ₹426 off with HDFC Cc + 3% off coupon",
-      "price": 3841,
-      "original_price": 3960,
-      "category": "Home",
-      "badge": "3% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G1MN4NNQ?tag=2244005-21",
-      "posted_at": "2026-10-29T18:39:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G1MN4NNQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G1MN4NNQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G1MN4NNQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
