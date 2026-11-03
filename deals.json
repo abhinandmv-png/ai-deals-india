@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T01:51:22Z",
+  "updated_at": "2026-11-03T02:06:21Z",
   "deals": [
+    {
+      "title": "Larah By Borosil Opalware Dinner Set 19 Pcs @843",
+      "price": 843,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MJJ38H?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T02:06:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510471.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MJJ38H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MJJ38H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 LG 8 Kg, 5 Star, Wi-Fi, Direct Drive Technology, Steam Wash Apply coupon + bank offer @26,490",
       "price": 26490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07S7R626P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07S7R626P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Daniel Hechter Paris Bercy Collection Chronograph Watch 2,343₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZTNVL2M?tag=2244005-21",
-      "posted_at": "2026-10-29T11:28:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509458.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZTNVL2M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZTNVL2M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
