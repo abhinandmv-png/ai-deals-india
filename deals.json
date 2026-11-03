@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T03:29:18Z",
+  "updated_at": "2026-11-03T03:36:22Z",
   "deals": [
+    {
+      "title": "60% Off : Biotique Face Wash 200ml @146",
+      "price": 146,
+      "original_price": 365,
+      "category": "Beauty",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07PRVXDGV?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T03:36:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510481.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07PRVXDGV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07PRVXDGV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iQOO 15R (12GB RAM, 256GB Storage) for ₹51,493 (Effectively) 📌Apply ₹6,000 off Coupon + Extra ₹2,699 Cashback with Amazon Pay ICICI Credit Card Better Than GIF Sale Deals! 🔥",
       "price": 51493,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFY1SYNJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFY1SYNJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AI+ Nova 2 Pro 5G (6GB/128GB ) at ₹13,999. *Extra 5% Cashback With Flipkart Axis & Flipkart SBI Cards. Market Rate ₹17,200+. Singer Tailor Mate Straight Stitch Sewing Machine with Free Arm at Rs.4290",
-      "price": 13999,
-      "original_price": 17200,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HBW3RKKC?tag=2244005-21",
-      "posted_at": "2026-10-29T12:39:21Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HBW3RKKC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HBW3RKKC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HBW3RKKC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
