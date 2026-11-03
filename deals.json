@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T12:31:33Z",
+  "updated_at": "2026-11-03T12:46:32Z",
   "deals": [
+    {
+      "title": ". Reebok Running Shoes Swift Run 1219",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08D3PQ8Z6?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T12:46:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08D3PQ8Z6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08D3PQ8Z6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08D3PQ8Z6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 475₹ Bajaj 1000 W Immersion Water Heater Rod | Nickel-Plated Heating Element",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09NM4DWFC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09NM4DWFC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3V1PHQR?tag=2244005-21",
-      "posted_at": "2026-10-29T18:44:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509545.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3V1PHQR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3V1PHQR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
