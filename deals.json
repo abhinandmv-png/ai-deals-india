@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T04:21:30Z",
+  "updated_at": "2026-11-03T04:21:45Z",
   "deals": [
+    {
+      "title": "@1399",
+      "price": 1399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHQ1ZHCZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T04:21:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510491.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHQ1ZHCZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHQ1ZHCZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : Comforter @499. Check All Colours :",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FP98TCKJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FP98TCKJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ZEBRONICS SILENCIO 111, Wireless Headphone at Rs.1,499",
-      "price": 1499,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4N3T2PH?tag=2244005-21",
-      "posted_at": "2026-10-29T14:09:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F4N3T2PH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4N3T2PH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4N3T2PH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
