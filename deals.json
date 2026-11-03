@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T15:09:59Z",
+  "updated_at": "2026-11-03T15:25:02Z",
   "deals": [
+    {
+      "title": ". Oral-B Precision Clean Sensitive Soft Manual Toothbrush For Adults, Ultra Soft 120₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B591M2JK?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T15:25:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510603.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B591M2JK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B591M2JK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Playware M Running Shoe 1,089₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5JVXW4Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5JVXW4Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[ Coupon + HDFC CC ] peps Springkoil Ortho Luxe 8 Inch Pocket Spring Latex Foam Mattress at Rs.17,478.",
-      "price": 17478,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FFH6P5SH?tag=2244005-21",
-      "posted_at": "2026-10-30T01:00:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509575.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FFH6P5SH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FFH6P5SH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
