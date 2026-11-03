@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-03T14:54:58Z",
+  "updated_at": "2026-11-03T15:09:59Z",
   "deals": [
+    {
+      "title": ". Reebok Playware M Running Shoe 1,089₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D6N74S4F?tag=premiumde066c-21",
+      "posted_at": "2026-11-03T15:09:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D6N74S4F.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D6N74S4F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D6N74S4F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Orient Electric 1200mm BLDC Ceiling Fan 2029 Apply Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FFH6P5SH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FFH6P5SH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nike Women Deodorant Spray Combo at Rs.284.",
-      "price": 284,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07S35H3DK?tag=2244005-21",
-      "posted_at": "2026-10-30T01:00:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509574.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07S35H3DK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07S35H3DK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
