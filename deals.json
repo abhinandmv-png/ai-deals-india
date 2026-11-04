@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T03:22:06Z",
+  "updated_at": "2026-11-04T03:22:17Z",
   "deals": [
+    {
+      "title": "Pigeon by Stovekraft Cast Iron Kadai with Glass Lid @817",
+      "price": 817,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CYSPGZSB?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T03:22:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510674.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CYSPGZSB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CYSPGZSB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Levi's Men's 511 Blue Slim Jeans — ₹679.",
       "price": 679,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097BH9MD5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097BH9MD5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "281",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D3X5PS5J?tag=2244005-21",
-      "posted_at": "2026-10-30T07:15:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509666.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D3X5PS5J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D3X5PS5J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
