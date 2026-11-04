@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T05:28:24Z",
+  "updated_at": "2026-11-04T05:43:27Z",
   "deals": [
+    {
+      "title": "Deal Price ₹20939",
+      "price": 20939,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0961X3R2H?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T05:43:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510692.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0961X3R2H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0961X3R2H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton 24 Hr Hot & Cold Insulated Bottle, 730ml @565.",
       "price": 565,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BM2ZMT8J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BM2ZMT8J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient 5.9 Litre Instant Water Geyser at 2700 Pay Using HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G3PFQRB2?tag=2244005-21",
-      "posted_at": "2026-10-30T09:45:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G3PFQRB2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G3PFQRB2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G3PFQRB2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
