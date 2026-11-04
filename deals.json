@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T15:24:06Z",
+  "updated_at": "2026-11-04T15:24:17Z",
   "deals": [
+    {
+      "title": "799",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F79NDZZK?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T15:24:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510807.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F79NDZZK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F79NDZZK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HP Everyday 16-inch Laptop Bag 🔥 541₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CG19FGQ5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CG19FGQ5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Hero MotoCorp HF Deluxe Drum Self Start Booking for Ex-Showroom 52677 6800 DISCOUNT WITH HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7XNZ6BG?tag=2244005-21",
-      "posted_at": "2026-10-30T18:46:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F7XNZ6BG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7XNZ6BG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7XNZ6BG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
