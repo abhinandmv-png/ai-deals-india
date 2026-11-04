@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T12:45:37Z",
+  "updated_at": "2026-11-04T13:00:35Z",
   "deals": [
+    {
+      "title": "73% Off : AAZEEM Microfibre Bedsheet @235.",
+      "price": 235,
+      "original_price": 870,
+      "category": "Home",
+      "badge": "73% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHNDNCCQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T13:00:35Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GHNDNCCQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHNDNCCQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHNDNCCQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "73% Off : Parachute Body Lotion 600ml @162.",
       "price": 162,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lumio Vision 7 II (55 inches) 4K Ultra-HD Smart QLED Google TV at Rs.33,199",
-      "price": 33199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFWJLX8L?tag=2244005-21",
-      "posted_at": "2026-10-30T16:54:44Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HFWJLX8L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFWJLX8L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFWJLX8L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
