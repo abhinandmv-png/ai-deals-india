@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T10:18:48Z",
+  "updated_at": "2026-11-04T10:18:54Z",
   "deals": [
+    {
+      "title": "45",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJY74J4V?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T10:18:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CJY74J4V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJY74J4V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJY74J4V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sample for ₹1 Apply Coupon (Account Specific)",
       "price": 1,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H2H6L87J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H2H6L87J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loot 49",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B097Q1YPHC?tag=2244005-21",
-      "posted_at": "2026-10-30T14:00:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509737.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B097Q1YPHC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B097Q1YPHC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
