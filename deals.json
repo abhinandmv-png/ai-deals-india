@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T15:54:04Z",
+  "updated_at": "2026-11-04T15:55:07Z",
   "deals": [
+    {
+      "title": ".. Lowest : LED Tea Light Candles (Set of 3 Pcs) – Only ₹339🤯 ✨Flameless, Smokeless & Unscented ✨Safe Decorative Lighting Alternative ✨Perfect for Diwali, Weddings & Home Décor Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 339,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C3D5TV4W?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T15:55:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510813.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C3D5TV4W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C3D5TV4W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bata Mens Barcelona E Sneaker 775₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FR9BXKJ3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FR9BXKJ3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loot : Washing Machine Dolly with Wheels at 499. 🏠 Move heavy appliances easily! ✅ Extendable & Adjustable Frame ✅ Smooth-rolling Wheels ✅ Perfect for Washing Machines & Dryers ✅ Also Suitable for Refrigerators 💪 Stro",
-      "price": null,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKNP1XJ1?tag=2244005-21",
-      "posted_at": "2026-10-30T19:30:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509812.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKNP1XJ1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKNP1XJ1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
