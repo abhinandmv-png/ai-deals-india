@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T12:19:05Z",
+  "updated_at": "2026-11-04T12:19:23Z",
   "deals": [
+    {
+      "title": "813",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CNCQM7X1?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T12:19:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510779.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CNCQM7X1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CNCQM7X1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1554",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08X1HCVWF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08X1HCVWF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispenser 34900 Apply 3000 Coupon + 7500 Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GR9W77F4?tag=2244005-21",
-      "posted_at": "2026-10-30T16:00:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GR9W77F4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GR9W77F4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GR9W77F4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
