@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T16:24:07Z",
+  "updated_at": "2026-11-04T16:34:52Z",
   "deals": [
+    {
+      "title": "Singer Blendprep Hand Blender 300W 3-in-1 Blender at Rs.1629",
+      "price": 1629,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GK1Z8VJK?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T16:34:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GK1Z8VJK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GK1Z8VJK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GK1Z8VJK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAAASSTT 💥 1,160₹ Reg: 2,600₹ Lotto Women's Hoop Star OG High Leather Sneaker",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTK5596V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTK5596V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Ultima Regal Smart Watch at Rs.2610.",
-      "price": 2610,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFLHYKRZ?tag=2244005-21",
-      "posted_at": "2026-10-31T01:05:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509821.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFLHYKRZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFLHYKRZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
