@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T14:49:26Z",
+  "updated_at": "2026-11-04T14:49:51Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Freak Pre-Workout at Rs.381",
+      "price": 381,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08R6T6C7S?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T14:49:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08R6T6C7S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08R6T6C7S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08R6T6C7S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loottt fasttt💥💥💥 Loot : Premium Mix Dry Fruits 1kg – Only ₹399🤯 ✨1kg Pack of Mixed Dry Fruits ✨Includes Almonds, Cashews, Pistachios, Raisins & Apricots ✨Perfect for Everyday Snacking, Trail Mix & Gifting Buy Now👇🏻 🛒 ",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08G8KFKMJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08G8KFKMJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosil Fluted Lavender Dinner Set, 25-Pieces, White at **₹1,771**. Apply ₹500 Off Coupon | Borosil Dinner Set Of 25 Pcs at 1272.",
-      "price": 1771,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07H7V5DVZ?tag=2244005-21",
-      "posted_at": "2026-10-30T18:39:45Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07H7V5DVZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07H7V5DVZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07H7V5DVZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
