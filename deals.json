@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T02:07:02Z",
+  "updated_at": "2026-11-04T02:07:12Z",
   "deals": [
+    {
+      "title": "55% Off : Pond's Bright Beauty Spot-less Glow Serum 30ml @269",
+      "price": 269,
+      "original_price": 598,
+      "category": "Beauty",
+      "badge": "55% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09FMM9V9N?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T02:07:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510668.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09FMM9V9N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09FMM9V9N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 INALSA Ceramic Air Fryer,5.5L,1600W,Non Toxic,AirCrisp Tech,TastyFry CDW5.5 3799",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMJLFCR7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMJLFCR7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @7710 Philips Stainless Steel Mixer Grinder HL7707/01, 750W, 4 Jars 400 off coupon 1189 off with hdfc cc",
-      "price": 7710,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07GL1976K?tag=2244005-21",
-      "posted_at": "2026-10-30T06:00:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509635.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07GL1976K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07GL1976K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
