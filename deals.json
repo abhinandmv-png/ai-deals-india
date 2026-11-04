@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T15:45:38Z",
+  "updated_at": "2026-11-04T15:54:04Z",
   "deals": [
+    {
+      "title": ". Bata Mens Barcelona E Sneaker 775₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMJQJ1KG?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T15:54:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510811.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMJQJ1KG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMJQJ1KG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Soap 125g(Pack Of 8) @184. Apply Coupon :",
       "price": 184,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKNP1XJ1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKNP1XJ1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Casio G-Shock DW-5600UE-1DR Digital Dial Resin Strap Men's Watch Shock 4,968 552 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D2J3JNFQ?tag=2244005-21",
-      "posted_at": "2026-10-30T19:30:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D2J3JNFQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D2J3JNFQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D2J3JNFQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
