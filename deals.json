@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T19:09:08Z",
+  "updated_at": "2026-11-04T19:09:21Z",
   "deals": [
+    {
+      "title": "🔥🔥 945₹ Logitech MK215 Wireless Keyboard and Mouse Combo",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B012MQS060?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T19:09:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510857.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B012MQS060.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B012MQS060.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "382",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BMLHNLDH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BMLHNLDH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Clovia Women's Cotton Printed T-Shirt & Basic Pyjama Set (LS0546D13_Black_L) 229",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09LR4HLMG?tag=2244005-21",
-      "posted_at": "2026-10-31T05:35:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509861.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09LR4HLMG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09LR4HLMG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
