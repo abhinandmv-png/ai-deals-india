@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T08:58:38Z",
+  "updated_at": "2026-11-04T09:13:28Z",
   "deals": [
+    {
+      "title": "Loot : Bosch 335L Triple Door Maxflex Refrigerator @27,240 • Apply ₹2000 Off Code at Checkout ➡️ FFGIF2000 • Apply ₹2500 Off Code at Checkout ➡️ BOSCH2500 • Flat ₹10,250 Off With HDFC CC",
+      "price": 27240,
+      "original_price": 2500,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMPXF2SY?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T09:13:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4761 529 off with hdfc cc",
       "price": 4761,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B078V8R9BS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B078V8R9BS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TinyHugs Baby Lotion, 200ml @ Rs.139",
-      "price": 139,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DN6HZ3L4?tag=2244005-21",
-      "posted_at": "2026-10-30T12:24:38Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DN6HZ3L4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DN6HZ3L4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DN6HZ3L4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
