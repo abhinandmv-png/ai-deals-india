@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T18:40:05Z",
+  "updated_at": "2026-11-04T18:54:14Z",
   "deals": [
+    {
+      "title": ". Belkin Powerbank Blue 20000 mah 1,299",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09NTNMXL8?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T18:54:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09NTNMXL8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09NTNMXL8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09NTNMXL8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "699 899",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09P8VB1QC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09P8VB1QC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥 HP A7E34AA USB 3.0Docking Station (Black) 3022 335 off with hdfc cc",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B078R44L1V?tag=2244005-21",
-      "posted_at": "2026-10-31T04:05:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B078R44L1V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B078R44L1V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B078R44L1V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
