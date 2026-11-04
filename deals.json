@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T09:43:29Z",
+  "updated_at": "2026-11-04T09:44:00Z",
   "deals": [
+    {
+      "title": "Loot 833",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D7PXK8TY?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T09:43:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D7PXK8TY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D7PXK8TY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D7PXK8TY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFYT2TYJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFYT2TYJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Newborn Baby Gift Set with Free Gift (Pack of 7) @ Rs.399 Regular Price 550+",
-      "price": 399,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G5JV6SPC?tag=2244005-21",
-      "posted_at": "2026-10-30T13:24:39Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G5JV6SPC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G5JV6SPC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G5JV6SPC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
