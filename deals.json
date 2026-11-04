@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T18:20:13Z",
+  "updated_at": "2026-11-04T18:24:09Z",
   "deals": [
+    {
+      "title": "146 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMZSM73Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T18:24:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510836.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMZSM73Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMZSM73Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SignoraWare Plastic Dinner Set (Set Of 32) at 1009.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5YVKXKP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5YVKXKP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil Opalware Dinner Set, 27 Pcs @1265",
-      "price": 1265,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TJWVHNP?tag=2244005-21",
-      "posted_at": "2026-10-31T03:05:42Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509837.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TJWVHNP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TJWVHNP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
