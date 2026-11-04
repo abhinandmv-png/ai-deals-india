@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T08:58:27Z",
+  "updated_at": "2026-11-04T08:58:38Z",
   "deals": [
+    {
+      "title": "Grab @4761 529 off with hdfc cc",
+      "price": 4761,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFC6VDFF?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T08:58:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510725.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFC6VDFF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFC6VDFF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Hair Dryer Deal Price ₹499",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DN6HZ3L4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DN6HZ3L4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "336 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D1VMWJV8?tag=2244005-21",
-      "posted_at": "2026-10-30T12:15:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509718.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D1VMWJV8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D1VMWJV8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
