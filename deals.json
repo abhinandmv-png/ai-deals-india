@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T18:39:25Z",
+  "updated_at": "2026-11-04T18:39:40Z",
   "deals": [
+    {
+      "title": ". Bajaj Waterproof 1500 Watts Immersion Rod Heater 499₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08MV82R99?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T18:39:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510842.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08MV82R99.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08MV82R99.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP Campus Laptop Backpack 391",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B5X5S8GY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B5X5S8GY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pepe Jeans Men's Regular Fit Mid Rise Jeans @971",
-      "price": 971,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJ9Q44VM?tag=2244005-21",
-      "posted_at": "2026-10-31T03:46:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CJ9Q44VM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJ9Q44VM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJ9Q44VM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
