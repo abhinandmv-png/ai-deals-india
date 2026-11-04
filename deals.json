@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T00:52:06Z",
+  "updated_at": "2026-11-04T01:07:01Z",
   "deals": [
+    {
+      "title": "Loot Other'olour costs more🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BZYRCS7Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T01:07:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510659.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BZYRCS7Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BZYRCS7Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "57% off : Kesh King Organic Onion Shampoo - 600Ml @ Rs.299",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQXJVVK2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQXJVVK2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@ 55,249 Seagate Expansion 20TB External Hard Drive HDD - USB 3.0, with Rescue Data Recovery Services (STKP20000400) Amazon's Choice",
-      "price": 55249,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B2PZWD81?tag=2244005-21",
-      "posted_at": "2026-10-30T05:30:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509623.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B2PZWD81.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B2PZWD81.01.LZZZZZZZ.jpg"
       ]
     }
   ]
