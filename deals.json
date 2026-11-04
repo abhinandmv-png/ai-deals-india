@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T19:05:02Z",
+  "updated_at": "2026-11-04T19:09:08Z",
   "deals": [
+    {
+      "title": "382",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4NCSQG1?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T19:09:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510856.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4NCSQG1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4NCSQG1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra Loot : Upto 75% Off On Dove Beauty Products. Cello Opalware Dinner Set Of 57Pcs at 3,118.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09LR4HLMG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09LR4HLMG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Neelam Stainless Steel Dinner Set (Set of 36 Pcs Diamond) 986₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TN2Z17R?tag=2244005-21",
-      "posted_at": "2026-10-31T05:35:42Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07TN2Z17R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TN2Z17R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TN2Z17R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
