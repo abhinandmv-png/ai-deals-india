@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T17:39:05Z",
+  "updated_at": "2026-11-04T17:54:05Z",
   "deals": [
+    {
+      "title": "14",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GF7PD1F5?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T17:54:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GF7PD1F5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GF7PD1F5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GF7PD1F5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "10",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D14S8VM6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D14S8VM6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB 87% off : Mumma's LIFE Stainless Steel Dinner Forks Set of 6 Piece @₹101",
-      "price": 101,
-      "original_price": 777,
-      "category": "Shopping",
-      "badge": "87% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H49KXF1Y?tag=2244005-21",
-      "posted_at": "2026-10-31T02:05:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509829.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H49KXF1Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H49KXF1Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
