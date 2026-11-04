@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T14:04:21Z",
+  "updated_at": "2026-11-04T14:19:15Z",
   "deals": [
+    {
+      "title": ". REDMI Watch Move 1.85 Premium AmoLED Smartwatch 2,199₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FSLSGHN8?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T14:19:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FSLSGHN8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FSLSGHN8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FSLSGHN8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "3652",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09XBH7SMM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09XBH7SMM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Lowest : 11W Rechargeable Emergency LED Bulb (B22D) – Only ₹189🤯 ✨Rechargeable Bulb for Power Cuts ✨Up to 4 Hours of Backup ✨Cool Daylight with B22D Base Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 189,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F9L9859S?tag=2244005-21",
-      "posted_at": "2026-10-30T17:45:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509777.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F9L9859S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F9L9859S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
