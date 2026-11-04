@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T06:43:24Z",
+  "updated_at": "2026-11-04T07:13:27Z",
   "deals": [
+    {
+      "title": "@4299",
+      "price": 4299,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQRSNTB5?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T07:13:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510710.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQRSNTB5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQRSNTB5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "24kt (999) - 1 g Gold Pendant at Rs.14,190 💥 Rs.1,250 Off with HDFC CC Link:",
       "price": 14190,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01NBX5RSB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01NBX5RSB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". OnePlus,Pad Lite (6GB + 128GB) 17249 Apply 2000 Off Coupon + 3250 Off With HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCTHQRVJ?tag=2244005-21",
-      "posted_at": "2026-10-30T10:45:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
