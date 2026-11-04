@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T05:43:27Z",
+  "updated_at": "2026-11-04T05:43:54Z",
   "deals": [
+    {
+      "title": "Washable Pet Bed (XS) @168.",
+      "price": 168,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FHB7SNVR?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T05:43:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FHB7SNVR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FHB7SNVR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FHB7SNVR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹20939",
       "price": 20939,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GBWXDJPB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GBWXDJPB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Men’s T Shirt at Rs.199 Size : XL",
-      "price": 199,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BM2ZMT8J?tag=2244005-21",
-      "posted_at": "2026-10-30T09:45:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BM2ZMT8J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BM2ZMT8J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BM2ZMT8J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
