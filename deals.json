@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T06:13:26Z",
+  "updated_at": "2026-11-04T06:43:24Z",
   "deals": [
+    {
+      "title": "24kt (999) - 1 g Gold Pendant at Rs.14,190 💥 Rs.1,250 Off with HDFC CC Link:",
+      "price": 14190,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZTGRS2S?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T06:43:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CZTGRS2S.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZTGRS2S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZTGRS2S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @9449 Off with hdfc cc",
       "price": 9449,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon Carbon Knife Set Of 6 Pcs @402.",
-      "price": 402,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CG239B3T?tag=2244005-21",
-      "posted_at": "2026-10-30T10:27:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CG239B3T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CG239B3T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CG239B3T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
