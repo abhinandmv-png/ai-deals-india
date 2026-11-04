@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T18:39:57Z",
+  "updated_at": "2026-11-04T18:40:05Z",
   "deals": [
+    {
+      "title": "699 899",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CCNNPJMY?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T18:40:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510846.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CCNNPJMY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CCNNPJMY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "699 1599",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B078R44L1V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B078R44L1V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo IdeaPad Slim 3 13th Gen Intel Core i5-13420H 15.3 inch at 52,690 Effective Get 14300 Discount Using HDFC Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGXVSQ9R?tag=2244005-21",
-      "posted_at": "2026-10-31T04:05:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509843.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGXVSQ9R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGXVSQ9R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
