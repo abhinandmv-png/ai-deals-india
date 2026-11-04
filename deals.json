@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T13:00:35Z",
+  "updated_at": "2026-11-04T13:07:24Z",
   "deals": [
+    {
+      "title": ".. Lowest : 45 Meter Multicolor LED String Lights – Only ₹325🤯 ✨45 Meter Long Fairy Lights with Big 8mm LEDs ✨8 Lighting Modes with 360° Glow ✨Waterproof Design for Indoor & Outdoor Decoration Buy Now👇🏻 🛒 BUY FAST BEFORE",
+      "price": 325,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08KNYZ1N5?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T13:07:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510787.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08KNYZ1N5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08KNYZ1N5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "73% Off : AAZEEM Microfibre Bedsheet @235.",
       "price": 235,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGRHHGBH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGRHHGBH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Karnage Pre workout at Rs.1029",
-      "price": 1029,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CY1ZZXTB?tag=2244005-21",
-      "posted_at": "2026-10-30T17:09:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
