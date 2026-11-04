@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T07:43:26Z",
+  "updated_at": "2026-11-04T07:58:29Z",
   "deals": [
+    {
+      "title": "Geonix Hercules Gaming Cabinet with 4 Pre-Installed ARGB Fans @1849.",
+      "price": 1849,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYG4PG8S?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T07:58:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510715.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYG4PG8S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYG4PG8S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Midea 1.36 Ton 3 Star Split AC at ‎23741 Apply ₹2000 Off Coupon + ₹5750 Off With HDFC CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXPHFMLX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXPHFMLX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". ASICS Men's Sports Shoes Sneaker 3,709₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G1K48XYZ?tag=2244005-21",
-      "posted_at": "2026-10-30T11:00:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509707.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G1K48XYZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G1K48XYZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
