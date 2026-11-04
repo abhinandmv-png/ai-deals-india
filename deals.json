@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T02:07:12Z",
+  "updated_at": "2026-11-04T02:22:02Z",
   "deals": [
+    {
+      "title": "Kenstar Infra LUMO 2000W Infrared Stove @1999",
+      "price": 1999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5KF92L2?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T02:22:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510669.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5KF92L2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5KF92L2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "55% Off : Pond's Bright Beauty Spot-less Glow Serum 30ml @269",
       "price": 269,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3VJ6RDT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3VJ6RDT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@54,140 🔥🔥 Samsung Galaxy Buds4 Pro (Black) in-Ear Wireless Earbuds with Hi-Fi Audio @14,759 1k off coupon 1639 off with hdfc cc",
-      "price": 54140,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMJLFCR7?tag=2244005-21",
-      "posted_at": "2026-10-30T06:15:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509646.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMJLFCR7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMJLFCR7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
