@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T01:51:59Z",
+  "updated_at": "2026-11-04T01:52:09Z",
   "deals": [
+    {
+      "title": "@799",
+      "price": 799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKBWTWZ8?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T01:52:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510664.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKBWTWZ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKBWTWZ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Saffola 25g High Protein Oats | 14g Fibre | 400g at 111/- Apply 57 coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B083X24CFF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B083X24CFF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Preethi MiniBlend, Blender Mixer Grinder, 2 Jars at Rs.2,064",
-      "price": 2064,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08L46ZKKZ?tag=2244005-21",
-      "posted_at": "2026-10-30T05:39:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08L46ZKKZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08L46ZKKZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08L46ZKKZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
