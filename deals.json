@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T07:58:29Z",
+  "updated_at": "2026-11-04T08:13:24Z",
   "deals": [
+    {
+      "title": "TOSAA Non-Stick Fry Pan @179. Apply Coupon",
+      "price": 179,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CFXP3QX7?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T08:13:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CFXP3QX7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CFXP3QX7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CFXP3QX7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Geonix Hercules Gaming Cabinet with 4 Pre-Installed ARGB Fans @1849.",
       "price": 1849,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H1CNPL86.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H1CNPL86.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP K270 Wireless Keyboard 🔥 499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXPHFMLX?tag=2244005-21",
-      "posted_at": "2026-10-30T11:00:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509708.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXPHFMLX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXPHFMLX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
