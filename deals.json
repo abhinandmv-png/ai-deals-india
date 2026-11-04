@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T14:04:15Z",
+  "updated_at": "2026-11-04T14:04:21Z",
   "deals": [
+    {
+      "title": "3652",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRKX62FV?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T14:04:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DRKX62FV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRKX62FV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRKX62FV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bajaj Robusta Plus 1200MM Marathon Blue Ceiling Fan 2191",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9L9859S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9L9859S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Loot Deal** : Bosch 368L, Double Door Refrigerator with 2.5 L Water Dispenser @ Rs.29,740* Apply ₹2000 Off Code : `FFGIF2000` Apply ₹1000 Off Code : `EARLYGIF1000` Flat ₹7250 Off With HDFC CC",
-      "price": 29740,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPQR66B7?tag=2244005-21",
-      "posted_at": "2026-10-30T17:39:44Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPQR66B7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPQR66B7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPQR66B7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
