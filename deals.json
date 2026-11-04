@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T08:44:05Z",
+  "updated_at": "2026-11-04T08:58:27Z",
   "deals": [
+    {
+      "title": "Havells Hair Dryer Deal Price ₹499",
+      "price": 499,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5L55GJY?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T08:58:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510723.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5L55GJY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5L55GJY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "860/- Size: 11 UK",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D1VMWJV8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D1VMWJV8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 165₹ Garnier Bright Complete Vitamin C Face Wash for Brightness & Glow, 160g",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G4WQX1WR?tag=2244005-21",
-      "posted_at": "2026-10-30T12:00:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509717.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G4WQX1WR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G4WQX1WR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
