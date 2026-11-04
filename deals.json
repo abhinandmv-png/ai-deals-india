@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-04T16:34:52Z",
+  "updated_at": "2026-11-04T17:04:54Z",
   "deals": [
+    {
+      "title": "Spigen Audio Newly Launched Wireless Over Ear Headphones at Rs.2,374",
+      "price": 2374,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGX1VCWX?tag=premiumde066c-21",
+      "posted_at": "2026-11-04T17:04:54Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DGX1VCWX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGX1VCWX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGX1VCWX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Blendprep Hand Blender 300W 3-in-1 Blender at Rs.1629",
       "price": 1629,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BW9S5ZZB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BW9S5ZZB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "[Coupon + HDFC CC ] Sony New Alpha camera at Rs.60,990.",
-      "price": 60990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTK5596V?tag=2244005-21",
-      "posted_at": "2026-10-31T01:05:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509822.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTK5596V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTK5596V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
