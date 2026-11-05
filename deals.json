@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T05:00:49Z",
+  "updated_at": "2026-11-05T05:08:52Z",
   "deals": [
+    {
+      "title": "Office Chair at Rs.2875",
+      "price": 2875,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B6CGL8S4?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T05:08:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510910.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B6CGL8S4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B6CGL8S4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "67% Off : FACES CANADA Glow Night Cream @99",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3JKY28G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3JKY28G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : 8-in-1 Stainless Steel Grooming Kit – Only ₹213🤯 🎟️ 5% Coupon Available! ✨8-in-1 Kit for Nail Care & Maintenance ✨Rust-Resistant Stainless Steel Tools ✨Compact Travel Case for Men & Women Buy N",
-      "price": null,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK8G6NXQ?tag=2244005-21",
-      "posted_at": "2026-10-31T09:15:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509896.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK8G6NXQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK8G6NXQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
