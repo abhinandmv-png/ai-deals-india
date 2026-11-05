@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T07:45:53Z",
+  "updated_at": "2026-11-05T08:06:07Z",
   "deals": [
+    {
+      "title": "🔥🔥🔥Samsung Smart Choice 458 L Double Door, Refrigerator at 46990 ✅ APPLY 3000 OFF COUPON + 10000 OFF WITH HDFC CC 👉🏻",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GL863BDD?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T08:06:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510923.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GL863BDD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GL863BDD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Spykar jeans 90% off @ 399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CRL8VQ57.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CRL8VQ57.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amazon: Flat 36% OFF on Wipro Elato Sandwich Maker @1979 Link : (+Apply Coupon • 180° Open Grill • Auto Cutoff • 2-Year Warranty)",
-      "price": 1979,
-      "original_price": 3092,
-      "category": "Shopping",
-      "badge": "36% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CSFP59JG?tag=2244005-21",
-      "posted_at": "2026-10-31T12:01:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509947.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CSFP59JG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CSFP59JG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
