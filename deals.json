@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T18:06:20Z",
+  "updated_at": "2026-11-05T18:06:27Z",
   "deals": [
+    {
+      "title": ". ASUS Vivobook 15 (2026)With ASUS Care 64,989",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HKJ9BH53?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T18:06:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HKJ9BH53.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HKJ9BH53.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HKJ9BH53.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GP1Z9NP8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GP1Z9NP8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : One94Store 20-Meter 56 LED String Lights – Only ₹99🤯 ✨Warm White Fairy Lights with Copper Wire ✨Waterproof Design for Indoor & Outdoor Decor ✨Perfect for Balconies, Gardens, Diwali & Christmas ",
-      "price": 99,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09DDGYBWQ?tag=2244005-21",
-      "posted_at": "2026-10-31T16:13:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510025.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09DDGYBWQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09DDGYBWQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
