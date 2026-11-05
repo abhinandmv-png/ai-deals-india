@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T00:39:24Z",
+  "updated_at": "2026-11-05T01:45:52Z",
   "deals": [
+    {
+      "title": "JBL Commercial Cssg20 On-Wired Microphone @1540",
+      "price": 1540,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09C8PB8XT?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T01:45:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09C8PB8XT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09C8PB8XT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09C8PB8XT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Casio Men's Analog Gold Dial Watch at ₹3,238 💥 Collect ₹359 Cashback Coupon + ₹399 off with HDFC Credit Card Link:",
       "price": 3238,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DR8WB1KF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DR8WB1KF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "149 Pack Of 2 Men Boxer",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TKD2DFQ?tag=2244005-21",
-      "posted_at": "2026-10-31T06:31:25Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07TKD2DFQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TKD2DFQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TKD2DFQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
