@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T09:06:18Z",
+  "updated_at": "2026-11-05T09:15:54Z",
   "deals": [
+    {
+      "title": "Tommy Hilfiger Men Underwear @399.",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8R6LTT3?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T09:15:53Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F8R6LTT3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8R6LTT3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8R6LTT3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nike Loot 499 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HC3XX2WG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HC3XX2WG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : House Wrap Aluminium Foil Paper (25m, 11 Microns) – Only ₹159🤯 ✨25-Meter Aluminium Foil Roll ✨11 Microns Thickness ✨Perfect for Wrapping & Storing Food Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 159,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1CXLM52?tag=2244005-21",
-      "posted_at": "2026-10-31T13:15:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509958.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1CXLM52.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1CXLM52.01.LZZZZZZZ.jpg"
       ]
     }
   ]
