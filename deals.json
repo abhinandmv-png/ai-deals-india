@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T13:06:13Z",
+  "updated_at": "2026-11-05T13:18:40Z",
   "deals": [
+    {
+      "title": "F Gear Arashi Navy 35L School Backpack - with 4 Compartments — ₹499.",
+      "price": 499,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYHWWXWF?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T13:18:39Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GYHWWXWF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYHWWXWF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYHWWXWF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. 45% off : Optimist 5-Star Wi-Fi Inverter AC – 1.39 Ton @ ₹38,990 + Bank Offers Link: (In-App Gas Level Indicator | 5-Year Compressor Warranty)",
       "price": 38990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HPY39985.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HPY39985.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥🔥Lenovo Tab (Smartchoice) 4 GB RAM + 64 GB ROM @₹10,810 Apply 1500 off Coupon + 2589 off with HDFC CC 👉🏻",
-      "price": 10810,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDWFRC48?tag=2244005-21",
-      "posted_at": "2026-10-31T14:01:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509979.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDWFRC48.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDWFRC48.01.LZZZZZZZ.jpg"
       ]
     }
   ]
