@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T19:18:44Z",
+  "updated_at": "2026-11-05T19:18:53Z",
   "deals": [
+    {
+      "title": "Pigeon 3 Liters Silver Induction Pressure Cooker — **₹669**.",
+      "price": 669,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08RWL4G9M?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T19:18:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08RWL4G9M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08RWL4G9M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08RWL4G9M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi Air Purifier 6 at 10990",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F1MNBW8G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F1MNBW8G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TCL 189 cm (75 inches) 4K Ultra HD Smart QLED Google TV ✅Deal Price: **₹56,240** ❌MRP: ₹1,61,990 Discount: **-65%** 👉",
-      "price": null,
-      "original_price": 161990,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G44MZWQV?tag=53twge73y-21",
-      "posted_at": "2026-10-31T17:28:48Z",
-      "source": "Telegram",
-      "image": "https://m.media-amazon.com/images/P/B0G44MZWQV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G44MZWQV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G44MZWQV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
