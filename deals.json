@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T02:45:48Z",
+  "updated_at": "2026-11-05T02:53:51Z",
   "deals": [
+    {
+      "title": "RR Signature Vento Fresh Luxura 150 mm Exhaust Fan For — ₹699.",
+      "price": 699,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DK9XXKJC?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T02:53:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510888.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DK9XXKJC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DK9XXKJC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Woodland Men's Slip-On Slide Sandal @309",
       "price": 309,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGVLW9MN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGVLW9MN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "47",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B004JVYHLE?tag=2244005-21",
-      "posted_at": "2026-10-31T07:30:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B004JVYHLE.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B004JVYHLE.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B004JVYHLE.01.LZZZZZZZ.jpg"
       ]
     }
   ]
