@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T18:51:18Z",
+  "updated_at": "2026-11-05T18:51:26Z",
   "deals": [
+    {
+      "title": ". Corsair HS35 v2 On-Ear Headphones 1,236",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CX4YMGXH?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T18:51:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CX4YMGXH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CX4YMGXH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CX4YMGXH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "599",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09L7YNK87.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09L7YNK87.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 302L, 8-in-1 Convertible Triple Door Refrigerator @ Rs.24,240 • Apply ₹2500 Coupon • Apply ₹2500 Off Code at Checkout ➡️ `BOSCH2500` • ₹7750 Off With HDFC CC",
-      "price": 24240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9FFQ1ZC?tag=premiumde066c-21",
-      "posted_at": "2026-10-31T16:46:47Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
