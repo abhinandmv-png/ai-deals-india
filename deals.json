@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T16:33:49Z",
+  "updated_at": "2026-11-05T16:36:17Z",
   "deals": [
+    {
+      "title": ".. Gesto 25 Meter LED String Lights - Multicolor Led Fairy Lights for Decoration with 8 Modes Changer at ₹175.",
+      "price": 175,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08KQ42KGD?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T16:36:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08KQ42KGD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08KQ42KGD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08KQ42KGD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iQOO Z11xa 5G Smartphone - with 8GB 128GB 7200mAh — **₹23,998**. Apply ₹5000 Off Coupon",
       "price": 23998,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7XW13WJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7XW13WJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haier 540 L 3 Star Frost Free Inverter Side by Side Refrigerator at 43,240 Effective Apply Rs.2000 Coupon + Apply Rs.3000 OFF Code at Checkout : DIWALI3000 + Get Rs.9750 OFF With HDFC CC",
-      "price": null,
-      "original_price": 3000,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GP6V371Z?tag=2244005-21",
-      "posted_at": "2026-10-31T15:27:16Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GP6V371Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GP6V371Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GP6V371Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
