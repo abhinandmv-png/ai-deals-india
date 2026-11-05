@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T17:36:18Z",
+  "updated_at": "2026-11-05T17:48:44Z",
   "deals": [
+    {
+      "title": "Cutting EDGE 2X Series 4.5L Airtight Modular Container, Set of 2 (Dark Red) at 169",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B094YPGZ7N?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T17:48:44Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B094YPGZ7N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B094YPGZ7N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B094YPGZ7N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". boAt Soundbar 1699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJZZNQHT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJZZNQHT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 100₹ Portronics Toad 101 Wired Optical Mouse with 1200 DPI, Plug & Play",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRKSQ7Z2?tag=2244005-21",
-      "posted_at": "2026-10-31T15:58:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510022.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRKSQ7Z2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRKSQ7Z2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
