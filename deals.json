@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T13:18:40Z",
+  "updated_at": "2026-11-05T14:18:40Z",
   "deals": [
+    {
+      "title": "**Sony HT-S400 2.1ch soundbar with Powerful @ ₹12,890** Flat ₹2,098 off with HDFC EMI + ₹1000 off coupon",
+      "price": 12890,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09SQWQ4TC?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T14:18:40Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09SQWQ4TC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "F Gear Arashi Navy 35L School Backpack - with 4 Compartments — ₹499.",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BGHCNVD6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BGHCNVD6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab 1799 REGULAR 1400",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HPY39985?tag=2244005-21",
-      "posted_at": "2026-10-31T14:15:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HPY39985.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HPY39985.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HPY39985.01.LZZZZZZZ.jpg"
       ]
     }
   ]
