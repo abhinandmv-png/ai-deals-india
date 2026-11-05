@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T11:51:10Z",
+  "updated_at": "2026-11-05T12:06:10Z",
   "deals": [
+    {
+      "title": ". Greenchef Jawa 600W Mixer Grinder with 3 Stainless Steel Jars 1403",
+      "price": 1403,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS2JV1SW?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T12:06:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GS2JV1SW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS2JV1SW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS2JV1SW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Royal Enfield Classic 350 2,00,320 Flat 12,000 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CX4YC475.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CX4YC475.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nike Men's SB Alleyoop Sneakers at 3247",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0832XKFYN?tag=2244005-21",
-      "posted_at": "2026-10-31T13:45:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0832XKFYN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0832XKFYN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0832XKFYN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
