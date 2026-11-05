@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T05:38:50Z",
+  "updated_at": "2026-11-05T05:50:04Z",
   "deals": [
+    {
+      "title": "**Amazon Fire TV Stick 4K Select @ ₹3,999**",
+      "price": 3999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CN3ZGJ6H?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T05:50:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CN3ZGJ6H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CN3ZGJ6H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CN3ZGJ6H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi 80 cm (32 inch) Smartchoice F Series HD Ready Smart LED Fire TV — ₹9,978. Loot : Xiaomi 32 Inch Smart LED TV at 9978 + ₹300 Cashback Apply ₹441 Coupon + ₹2330 With HDFC CC.",
       "price": 9978,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HF7T1M74.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HF7T1M74.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Portronics Car Power 65 Pro 65W Fast Car Charger 849",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HH8R37G5?tag=2244005-21",
-      "posted_at": "2026-10-31T10:00:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HH8R37G5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HH8R37G5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HH8R37G5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
