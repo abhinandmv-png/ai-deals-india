@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T10:36:08Z",
+  "updated_at": "2026-11-05T11:51:10Z",
   "deals": [
+    {
+      "title": ". Royal Enfield Classic 350 2,00,320 Flat 12,000 off with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FR95P9CP?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T11:51:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FR95P9CP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FR95P9CP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FR95P9CP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "243",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0832XKFYN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0832XKFYN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : DutchDream Women’s Full Sleeve Knitted Button Cardigan – Only ₹749🤯 ✨Soft Knitted Fabric ✨Full Sleeves with Button-Down Design ✨Perfect for Layering & Everyday Wear Buy Now👇🏻 🛒 BUY FAST BEFORE PRI",
-      "price": 749,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HB4JWPNF?tag=2244005-21",
-      "posted_at": "2026-10-31T13:45:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509967.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HB4JWPNF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HB4JWPNF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
