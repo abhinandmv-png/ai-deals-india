@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T17:48:44Z",
+  "updated_at": "2026-11-05T18:06:20Z",
   "deals": [
+    {
+      "title": "199",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08G29ZN43?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T18:06:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510963.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08G29ZN43.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08G29ZN43.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cutting EDGE 2X Series 4.5L Airtight Modular Container, Set of 2 (Dark Red) at 169",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09DDGYBWQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09DDGYBWQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. ✅ Flash Sale : Boltt ACE 5G @ ₹11,499. *Extra 5% Off With Flipkart Axis & Flipkart SBI Cards. .. Loottt fasttt💥💥💥 Loot : ZAIRA Hair Oil Applicator Comb with Refillable Reservoir – Only ₹214🤯 🎟️25% Coupon Available! ✨R",
-      "price": 11499,
-      "original_price": 12104,
-      "category": "Beauty",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJZZNQHT?tag=2244005-21",
-      "posted_at": "2026-10-31T15:58:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510024.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJZZNQHT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJZZNQHT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
