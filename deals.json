@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T18:36:25Z",
+  "updated_at": "2026-11-05T18:36:32Z",
   "deals": [
+    {
+      "title": ". Symbol Men's Stretchable Cargo Jogger Pants 379",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0991FWG66?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T18:36:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0991FWG66.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0991FWG66.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0991FWG66.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lenovo IdeaPad Slim 3, Intel Core Ultra 5 (16GB RAM, 512GB SSD) Laptop 68240 Apply 5000 off Coupon + 16750 off with HDFC Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FYGSLVRW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sample LOOOTT 💥 1₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FG82WLD8?tag=premiumde066c-21",
-      "posted_at": "2026-10-31T16:31:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FG82WLD8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FG82WLD8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FG82WLD8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
