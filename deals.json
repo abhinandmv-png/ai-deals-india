@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T03:08:52Z",
+  "updated_at": "2026-11-05T03:30:48Z",
   "deals": [
+    {
+      "title": "Hindware Smart Kitchen Chimney @7690",
+      "price": 7690,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CSD8PG75?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T03:30:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CSD8PG75.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CSD8PG75.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CSD8PG75.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "362",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFSTXB48.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFSTXB48.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Michael Kors Panorama Gold Automatic Stainless Steel Watch MK9218 7000 Apply Coupon + Get 1333 Cashback",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F358W7KW?tag=2244005-21",
-      "posted_at": "2026-10-31T07:45:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F358W7KW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F358W7KW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F358W7KW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
