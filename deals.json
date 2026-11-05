@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T03:54:06Z",
+  "updated_at": "2026-11-05T04:02:48Z",
   "deals": [
+    {
+      "title": "99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D314FYDY?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T04:02:48Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D314FYDY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D314FYDY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D314FYDY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo IdeaPad Slim 3, AMD Ryzen 5 (16GB RAM, 512GB SSD) Laptop at ₹ 49940 Apply ₹4000 Off Coupon + ₹7050 Off With HDFC Credit Card",
       "price": 49940,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F2MYXHL8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F2MYXHL8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCFH8YFG?tag=2244005-21",
-      "posted_at": "2026-10-31T09:00:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509893.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCFH8YFG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCFH8YFG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
