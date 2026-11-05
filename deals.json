@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T18:51:33Z",
+  "updated_at": "2026-11-05T18:51:49Z",
   "deals": [
+    {
+      "title": ". Carrier 1.5 Ton 3 Star Flexicool Inverter Split AC 30240 Apply 1000 Off Coupon + 3750 Off With HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HDTPQDRJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T18:51:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HDTPQDRJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HDTPQDRJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HDTPQDRJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "50% Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTN4ZKXZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTN4ZKXZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "OnePlus,Pad Lite, 11-inch (27.94 CM), LCD, 6GB RAM, 128GB ROM — **₹17,949**. **Apply ₹2000 Off Coupon** + **₹2750 Off with HDFC Credit Card**",
-      "price": 17949,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCTHQRVJ?tag=premiumde066c-21",
-      "posted_at": "2026-10-31T17:01:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCTHQRVJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCTHQRVJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
