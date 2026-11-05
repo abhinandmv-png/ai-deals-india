@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T12:06:17Z",
+  "updated_at": "2026-11-05T12:21:11Z",
   "deals": [
+    {
+      "title": ". Lenovo IdeaCentre AIO Ryzen 5 All-in-One Desktop (8GB RAM/512GB SSD) 53940 Apply 3000 off Coupon + 9050 off with HDFC Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HC6SQ7GX?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T12:21:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HC6SQ7GX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HC6SQ7GX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HC6SQ7GX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "95 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKD9X9FC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKD9X9FC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Nilkamal Sierra Velvet Fabric Manual Recliner (1 Seater) – Only ₹14999🤯 ✨Premium Velvet Fabric Upholstery ✨Comfortable Manual Reclining Mechanism ✨Elegant Single-Seater Sofa in Grey Buy Now👇🏻 🛒 BUY FAST BEFORE P",
-      "price": 14999,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BVRGMDPQ?tag=2244005-21",
-      "posted_at": "2026-10-31T14:00:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509975.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
