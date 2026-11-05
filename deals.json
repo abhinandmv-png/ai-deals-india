@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T15:21:15Z",
+  "updated_at": "2026-11-05T15:30:59Z",
   "deals": [
+    {
+      "title": "Godrej Ninja Adult Dry Dog Food, Chicken & Multigrain, 400g — ₹50. Godrej Ninja Adult Dry Dog Food, 400g at 50 + Coupon.",
+      "price": 50,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4ZC3P6P?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T15:30:58Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H4ZC3P6P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4ZC3P6P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4ZC3P6P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. *Loot* : Extend Play Time with Urjas Delay Spray at 239.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWDBPQ2M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWDBPQ2M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "74% off : SNITCH Loop Set of 3 Suitcase & Free Shoe Bag @₹3,699",
-      "price": 3699,
-      "original_price": 14227,
-      "category": "Fashion",
-      "badge": "74% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H1QNC1HS?tag=2244005-21",
-      "posted_at": "2026-10-31T14:26:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509988.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H1QNC1HS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H1QNC1HS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
