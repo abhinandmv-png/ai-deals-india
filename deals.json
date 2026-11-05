@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T02:15:46Z",
+  "updated_at": "2026-11-05T02:45:48Z",
   "deals": [
+    {
+      "title": "Woodland Men's Slip-On Slide Sandal @309",
+      "price": 309,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B5PR4F13?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T02:45:47Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B5PR4F13.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B5PR4F13.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B5PR4F13.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pepe Jeans Boys Jeans @309",
       "price": 309,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B004JVYHLE.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B004JVYHLE.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Gillette Fusion5 Razors at Rs.360 Link :",
-      "price": 360,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B001XURGVM?tag=2244005-21",
-      "posted_at": "2026-10-31T07:10:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B001XURGVM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B001XURGVM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B001XURGVM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
