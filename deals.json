@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T09:15:54Z",
+  "updated_at": "2026-11-05T09:18:36Z",
   "deals": [
+    {
+      "title": "Haier 8 Kg, 5star Fully Automatic Top Load Washing Machine @ ₹14,791 Flat ₹2,199 off with HDFC EMI",
+      "price": 14791,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXV1R1R4?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T09:18:36Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DXV1R1R4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXV1R1R4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXV1R1R4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tommy Hilfiger Men Underwear @399.",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CVH2K929.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CVH2K929.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Electric Kid’s Ride-On @2448.",
-      "price": 2448,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HC3XX2WG?tag=2244005-21",
-      "posted_at": "2026-10-31T13:30:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509962.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HC3XX2WG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HC3XX2WG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
