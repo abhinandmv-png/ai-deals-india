@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T04:15:49Z",
+  "updated_at": "2026-11-05T05:00:49Z",
   "deals": [
+    {
+      "title": "67% Off : FACES CANADA Glow Night Cream @99",
+      "price": 99,
+      "original_price": 300,
+      "category": "Beauty",
+      "badge": "67% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNN1MG1L?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T05:00:49Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FNN1MG1L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNN1MG1L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNN1MG1L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "49",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HK8G6NXQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HK8G6NXQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "97 Apply 25% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "25% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07S2SKYTH?tag=2244005-21",
-      "posted_at": "2026-10-31T09:01:37Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07S2SKYTH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07S2SKYTH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07S2SKYTH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
