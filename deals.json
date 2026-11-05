@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T19:06:19Z",
+  "updated_at": "2026-11-05T19:18:44Z",
   "deals": [
+    {
+      "title": "Xiaomi Air Purifier 6 at 10990",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C1P65Y4H?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T19:18:44Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C1P65Y4H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C1P65Y4H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C1P65Y4H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Hero MotoCorp XTREME 125R ABS 86990 Apply 3000 Coupon + 7000 Off With All Bank Cards",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G44MZWQV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G44MZWQV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". LG 27 Inch Ultragear FHD IPS Gaming Monitor 8999 999 Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFSLVGBK?tag=premiumde066c-21",
-      "posted_at": "2026-10-31T17:16:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HFSLVGBK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFSLVGBK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFSLVGBK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
