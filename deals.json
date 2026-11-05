@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T09:18:36Z",
+  "updated_at": "2026-11-05T10:21:09Z",
   "deals": [
+    {
+      "title": ". Polycab Wizzy Vibe 1200mm 5-Star BLDC Ceiling fan 2299",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCVHL359?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T10:21:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HCVHL359.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCVHL359.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCVHL359.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Haier 8 Kg, 5star Fully Automatic Top Load Washing Machine @ ₹14,791 Flat ₹2,199 off with HDFC EMI",
       "price": 14791,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BYZHDRN6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BYZHDRN6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "70mai A510 HDR 3K Dual Dash Cam, BITA 2026 @₹10,620 ₹1179 off with HDFC Credit Card",
-      "price": 10620,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CVH2K929?tag=2244005-21",
-      "posted_at": "2026-10-31T13:30:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509963.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CVH2K929.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CVH2K929.01.LZZZZZZZ.jpg"
       ]
     }
   ]
