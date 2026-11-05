@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T16:36:17Z",
+  "updated_at": "2026-11-05T17:06:20Z",
   "deals": [
+    {
+      "title": ". Morphy Richards AT 200 Bread Toaster 1,599",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BKT4S4GG?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T17:06:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BKT4S4GG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BKT4S4GG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BKT4S4GG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Gesto 25 Meter LED String Lights - Multicolor Led Fairy Lights for Decoration with 8 Modes Changer at ₹175.",
       "price": 175,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Van Heusen Women's Handbag With Double Strap at 879",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7XW13WJ?tag=2244005-21",
-      "posted_at": "2026-10-31T15:28:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F7XW13WJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7XW13WJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7XW13WJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
