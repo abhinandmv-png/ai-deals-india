@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T12:06:10Z",
+  "updated_at": "2026-11-05T12:06:17Z",
   "deals": [
+    {
+      "title": "95 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00D1DCIFI?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T12:06:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B00D1DCIFI.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00D1DCIFI.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00D1DCIFI.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Greenchef Jawa 600W Mixer Grinder with 3 Stainless Steel Jars 1403",
       "price": 1403,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BVRGMDPQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BVRGMDPQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Corsair HS35 v2(Universal 3.5mm connectivity Headphones - with PC,Xbox,PS, 50mm Audio — ₹1,524.",
-      "price": 1524,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CX4YC475?tag=2244005-21",
-      "posted_at": "2026-10-31T13:46:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_509972.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CX4YC475.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CX4YC475.01.LZZZZZZZ.jpg"
       ]
     }
   ]
