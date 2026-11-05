@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-05T14:18:40Z",
+  "updated_at": "2026-11-05T14:48:42Z",
   "deals": [
+    {
+      "title": "Xiaomi (189 cm) 75 inch Smartchoice X Pro 4K QLED at 59749 Get 9750 Discount Using HDFc CC Link :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GLFVTCC7?tag=premiumde066c-21",
+      "posted_at": "2026-11-05T14:48:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GLFVTCC7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GLFVTCC7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GLFVTCC7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Sony HT-S400 2.1ch soundbar with Powerful @ ₹12,890** Flat ₹2,098 off with HDFC EMI + ₹1000 off coupon",
       "price": 12890,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9SJSNXQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9SJSNXQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "WONDERCHEF Nutri-Blend 1000W Juicer Mixer Grinder, 3 Jars @5039* Flat ₹560 Off With SBI Credit Card Grab : Handmade Wood Lotus Hangings for Diwali ( Pack of 6) @ 207 Apply Coupon :",
-      "price": 5039,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BGHCNVD6?tag=2244005-21",
-      "posted_at": "2026-10-31T14:25:19Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146807.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BGHCNVD6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BGHCNVD6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
