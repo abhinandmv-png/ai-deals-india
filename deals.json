@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T08:30:51Z",
+  "updated_at": "2026-11-06T08:45:49Z",
   "deals": [
+    {
+      "title": "Fastrack Women’s Watch at Rs.875 Apply 10% Coupon",
+      "price": 875,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHN77RTL?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T08:45:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511038.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHN77RTL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHN77RTL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot For Needy 🔥🔥 LG 790L Wi-Fi Convertible, Side By Side Refrigerator @1,03,990 Apply ₹3000 Coupon + ₹18,000 Off With Axis/HDFC CC",
       "price": 103990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MJCCTW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MJCCTW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "adidas Mens Run Casual Shoes @1050",
-      "price": 1050,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNHFX38R?tag=53twge73y-21",
-      "posted_at": "2026-11-01T04:15:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510100.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNHFX38R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNHFX38R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
