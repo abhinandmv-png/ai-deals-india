@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T06:00:52Z",
+  "updated_at": "2026-11-06T06:45:51Z",
   "deals": [
+    {
+      "title": "66 Cms Suitcase at Rs.1519",
+      "price": 1519,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLYJ6H77?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T06:45:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511018.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLYJ6H77.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLYJ6H77.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "79% off : Lifelong PVA Floor Mop with Durable Sponge Head @₹520",
       "price": 520,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07L3YNL2V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07L3YNL2V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "53% Off : Haldiram's Kaju Katli Gift Pack 400g @475.",
-      "price": 475,
-      "original_price": 1011,
-      "category": "Shopping",
-      "badge": "53% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK86ZNR4?tag=53twge73y-21",
-      "posted_at": "2026-10-31T23:57:14Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK86ZNR4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
