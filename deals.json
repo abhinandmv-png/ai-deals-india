@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T13:01:29Z",
+  "updated_at": "2026-11-06T13:06:45Z",
   "deals": [
+    {
+      "title": ". TCL 139 cm (55 inches) Smartchoice 4K Ultra HD Smart QLED Google TV 32,190 Apply 1,750 coupon + 7,750 off with IDFC FIRST CC + Collect 300 Prime cashback",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVJSTKS6?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T13:06:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GVJSTKS6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVJSTKS6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVJSTKS6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@ 8749 Apply 5k cpn",
       "price": 8749,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FG7J7626.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FG7J7626.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Singer 1310 Automatic Zig Zag Electric Sewing Machine at Rs.9989 + Bank Offer**",
-      "price": 9989,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3NZ4TRV?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T08:23:35Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H3NZ4TRV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3NZ4TRV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3NZ4TRV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
