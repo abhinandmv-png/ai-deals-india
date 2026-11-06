@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T13:36:57Z",
+  "updated_at": "2026-11-06T13:49:01Z",
   "deals": [
+    {
+      "title": "Grab : Singer Instant Water Heater | 3000W at Rs.3199",
+      "price": 3199,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FYGSLVRW?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T13:49:01Z",
+      "source": "Premium Deals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_147144.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FYGSLVRW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Zebronics USB Extension Cable, 1.5 Meter 109₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHYPH5J9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi (139 cm) 55 inch Smartchoice FX Pro 4K QLED 34W — **₹27,874**. ₹7625 Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F3JL33DW?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T08:53:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F3JL33DW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F3JL33DW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F3JL33DW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
