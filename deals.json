@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T07:48:53Z",
+  "updated_at": "2026-11-06T08:15:49Z",
   "deals": [
+    {
+      "title": "Hot Wheels Batman Cars (Pack of 10) at Rs.1499",
+      "price": 1499,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCVZKKX3?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T08:15:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511031.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCVZKKX3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCVZKKX3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ZEBRONICS Prima, Portable Bluetooth Speaker @ ₹4,680 Flat ₹519 off with HDFC Cc",
       "price": 4680,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FN7X7QJR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FN7X7QJR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "195",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CMTPQ59R?tag=53twge73y-21",
-      "posted_at": "2026-11-01T03:57:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CMTPQ59R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CMTPQ59R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CMTPQ59R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
