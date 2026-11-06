@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T12:15:51Z",
+  "updated_at": "2026-11-06T12:30:52Z",
   "deals": [
+    {
+      "title": "1337",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC1Z4WDG?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T12:30:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FC1Z4WDG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC1Z4WDG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC1Z4WDG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". IFB 9Kg 5 Star, WiFi Enabled, Ai Powered Front Load Washing Machine 29240 Apply 1000 Off Code at Checkout ➡️ IFB1000 8750 Off With HDFC/Axis CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GX5VFHMS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GX5VFHMS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haldiram's Haldirams Mithas Besan Ladoo - Dry Fruit, 400grams @ Rs.154",
-      "price": 154,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0765ZTQ78?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:39:00Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0765ZTQ78.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0765ZTQ78.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0765ZTQ78.01.LZZZZZZZ.jpg"
       ]
     }
   ]
