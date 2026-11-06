@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T07:01:16Z",
+  "updated_at": "2026-11-06T07:15:49Z",
   "deals": [
+    {
+      "title": "69% off : Provogue Lumina Hard-Sided PP 65 Cm Trolley Bags @₹2,499",
+      "price": 2499,
+      "original_price": 8061,
+      "category": "Fashion",
+      "badge": "69% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F59QPHTV?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T07:15:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511024.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F59QPHTV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F59QPHTV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iPad Air M3 13 inch 512GB WIFI + 5G 104900 Old price stock",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BJLBYDFR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BJLBYDFR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kellogg's Multigrain Plus Corn Flakes 450gm @134",
-      "price": 134,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC2W7BG4?tag=53twge73y-21",
-      "posted_at": "2026-11-01T03:27:19Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FC2W7BG4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC2W7BG4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC2W7BG4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
