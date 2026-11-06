@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T12:31:24Z",
+  "updated_at": "2026-11-06T12:45:51Z",
   "deals": [
+    {
+      "title": ". Solimo 3 Pcs Non Stick Cookware Set 752",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07P5SX4KP?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T12:45:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07P5SX4KP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07P5SX4KP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07P5SX4KP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro Northwest Venia 6A Bell Push, White (pack of 10) @229",
       "price": 229,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CTZX85DY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CTZX85DY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bikano Royal Gulab Jamun, 1 Kg @ Rs.165 + **Coupon**.",
-      "price": 165,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CFFNH13X?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:39:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
