@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T05:01:09Z",
+  "updated_at": "2026-11-06T05:04:45Z",
   "deals": [
+    {
+      "title": "Reebok Men Tracktop @1499",
+      "price": 1499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G31GX9DB?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T05:04:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511003.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G31GX9DB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G31GX9DB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "128 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B098B1NMB1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B098B1NMB1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAASSTT 💥 437₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CLS3QYYP?tag=53twge73y-21",
-      "posted_at": "2026-10-31T19:16:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CLS3QYYP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CLS3QYYP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CLS3QYYP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
