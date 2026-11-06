@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T00:51:24Z",
+  "updated_at": "2026-11-06T01:36:23Z",
   "deals": [
+    {
+      "title": "tu casa Table Lamp at Rs.355.",
+      "price": 355,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08X4J2LFM?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T01:36:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08X4J2LFM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08X4J2LFM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08X4J2LFM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lavie Sport Doddle 35L Teal Backpack at Rs.669.",
       "price": 669,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07BY89TQY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07BY89TQY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LOOTT 💥 MICHAEL KORS Apply Coupon: LUXEXCLUSIVE . Hero Rove IC 24T Single Speed Mountain Bicycle for Mens 4,471₹ 1,268₹ Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSW9X456?tag=53twge73y-21",
-      "posted_at": "2026-10-31T18:27:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510045.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSW9X456.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSW9X456.01.LZZZZZZZ.jpg"
       ]
     }
   ]
