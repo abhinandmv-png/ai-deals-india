@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T09:48:57Z",
+  "updated_at": "2026-11-06T10:00:52Z",
   "deals": [
+    {
+      "title": "@399",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWN14N9F?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T10:00:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511050.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWN14N9F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWN14N9F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Wipro Elato Dry Iron @ Rs.599 Link :",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply ₹3000 Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FFS8HL74?tag=53twge73y-21",
-      "posted_at": "2026-11-01T05:30:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510108.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FFS8HL74.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FFS8HL74.01.LZZZZZZZ.jpg"
       ]
     }
   ]
