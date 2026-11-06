@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T13:06:45Z",
+  "updated_at": "2026-11-06T13:21:53Z",
   "deals": [
+    {
+      "title": "1099",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G3VX4XT1?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T13:21:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511086.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G3VX4XT1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G3VX4XT1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TCL 139 cm (55 inches) Smartchoice 4K Ultra HD Smart QLED Google TV 32,190 Apply 1,750 coupon + 7,750 off with IDFC FIRST CC + Collect 300 Prime cashback",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXWWSPX5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXWWSPX5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Pampers Premium Baby Diapers (M, 104 Counts) at 1529.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FG7J7626?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T08:38:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510138.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FG7J7626.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FG7J7626.01.LZZZZZZZ.jpg"
       ]
     }
   ]
