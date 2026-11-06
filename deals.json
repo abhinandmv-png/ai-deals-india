@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T17:29:17Z",
+  "updated_at": "2026-11-06T17:34:14Z",
   "deals": [
+    {
+      "title": "wipro 6W Alpha Downlight for Junction Box, 3 inch Cutout, Pack of 20 at **₹1,146**.",
+      "price": 1146,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVTNX62C?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T17:34:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CVTNX62C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVTNX62C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVTNX62C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1879",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CHRKX49F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CHRKX49F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAASSTT 💥 889₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPDVCVMQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T13:15:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510188.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPDVCVMQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPDVCVMQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
