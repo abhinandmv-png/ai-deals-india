@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T06:45:51Z",
+  "updated_at": "2026-11-06T06:46:00Z",
   "deals": [
+    {
+      "title": "999/",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FWRLQND8?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T06:46:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511019.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FWRLQND8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FWRLQND8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "66 Cms Suitcase at Rs.1519",
       "price": 1519,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D3F555TY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D3F555TY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot For Needy | Apple iPhone 17 (256GB) @82,999*. *Flat ₹9000 Off By SBI Credit Card. 54% off : TRESemme Hairfall Defense+ Shampoo 1L @ Rs.479",
-      "price": 82999,
-      "original_price": 180433,
-      "category": "Electronics",
-      "badge": "54% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07L3YNL2V?tag=53twge73y-21",
-      "posted_at": "2026-11-01T00:12:10Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07L3YNL2V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07L3YNL2V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07L3YNL2V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
