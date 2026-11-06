@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T14:22:01Z",
+  "updated_at": "2026-11-06T14:51:49Z",
   "deals": [
+    {
+      "title": ". Longway Luminair 1200mm BLDC Ceiling Fan Remote Control 4,772₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HC3CWFRP?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T14:51:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HC3CWFRP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HC3CWFRP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HC3CWFRP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 167₹ EVEREADY 9W LED Bulb, Cool Day Light (6500K), B22 Base, Pack of 4",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/2048171060.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/2048171060.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi Power Bank 4i 20000mah 33w Super Charging Pd Smart 12 Layer Protectiontype C Input Outputtriple Output Portssupports Androidapple Tablets Earbudswatchmi Powerbankblack ✅Deal Price: **₹1,999** ❌MRP: ₹3,999 Discount",
-      "price": null,
-      "original_price": 3999,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCZ3WDTB?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T09:39:42Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_225.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCZ3WDTB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCZ3WDTB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
