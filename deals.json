@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T11:49:05Z",
+  "updated_at": "2026-11-06T12:15:51Z",
   "deals": [
+    {
+      "title": ". IFB 9Kg 5 Star, WiFi Enabled, Ai Powered Front Load Washing Machine 29240 Apply 1000 Off Code at Checkout ➡️ IFB1000 8750 Off With HDFC/Axis CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8QV7RCR?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T12:15:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F8QV7RCR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8QV7RCR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8QV7RCR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Shoe Cleaning Kit With Brush at Rs.254 + Coupon.",
       "price": 254,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0765ZTQ78.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0765ZTQ78.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Canon PIXMA MegaTank GM2070- Single Function, Wi-Fi, Monochrome, Ink Tank — ₹4,171.",
-      "price": 4171,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TKFBKHC?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:38:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510128.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TKFBKHC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TKFBKHC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
