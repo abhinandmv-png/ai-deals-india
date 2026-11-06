@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T10:15:51Z",
+  "updated_at": "2026-11-06T10:18:57Z",
   "deals": [
+    {
+      "title": "Wipro Elato Sandwich Maker @ Rs.1999 Link :",
+      "price": 1999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4VNZDM9?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T10:18:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H4VNZDM9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4VNZDM9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4VNZDM9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 90% Off On Indo Era Women Grab @6336 Razer Barracuda X Chroma Smartchoice Wireless Gaming Headset",
       "price": 6336,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F1YH199M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F1YH199M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 💻HP 15, INTEL CORE 5 120U (14TH GEN) 8GB DDR4, 512GB SSD, FHD LAPTOP @ 53440 APPLY 1000 OFF COUPON + 10550 OFF WITH HDFC CC 👉🏻",
-      "price": 53440,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GZ3FBR3W?tag=53twge73y-21",
-      "posted_at": "2026-11-01T05:30:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GZ3FBR3W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GZ3FBR3W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GZ3FBR3W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
