@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T14:51:57Z",
+  "updated_at": "2026-11-06T15:06:48Z",
   "deals": [
+    {
+      "title": ". Puma Unisex Adult Cell Scion Running Shoe 1,254₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09YJ57SB3?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T15:06:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09YJ57SB3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09YJ57SB3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09YJ57SB3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAAAAASSSTTTT 🔥 800₹ Reg: 2K+ Reebok Reeduo Running Shoes",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08ZJG6TVT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08ZJG6TVT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lakme Fluid SPF 50 PA++++ in-Vivo Tested Sunscreen - 1% — **₹161**. Apply 5% Off Coupon",
-      "price": 161,
-      "original_price": 169,
-      "category": "Shopping",
-      "badge": "5% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSHTZFTP?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T09:53:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DSHTZFTP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSHTZFTP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSHTZFTP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
