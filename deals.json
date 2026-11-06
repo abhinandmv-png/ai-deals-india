@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T10:18:57Z",
+  "updated_at": "2026-11-06T10:30:51Z",
   "deals": [
+    {
+      "title": ". Tata Classic Instant Coffee, 90g Jar 175",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09N2TK64V?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T10:30:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09N2TK64V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro Elato Sandwich Maker @ Rs.1999 Link :",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DHH97DM5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DHH97DM5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "new balance Men's Arch Graphic T-Shirt,Blue,S — ₹579.",
-      "price": 579,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F1YH199M?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T06:08:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510117.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F1YH199M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F1YH199M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
