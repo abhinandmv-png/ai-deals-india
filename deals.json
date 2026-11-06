@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T18:44:14Z",
+  "updated_at": "2026-11-06T19:14:06Z",
   "deals": [
+    {
+      "title": ". Havells Delite Water Purifier 10,148₹ Apply 25% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "25% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CKVLCMJZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T19:14:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CKVLCMJZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CKVLCMJZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CKVLCMJZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Disney 350 GSM 100% Cotton Kids Bath Towel 229",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNCV2F9V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNCV2F9V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Saffola Mustard Oil 4L @658* Apply Coupon > Buy 4 Qty. Final Payment Rs.748-90 Cashback At Checkout.",
-      "price": 658,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVLN496Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T13:45:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DVLN496Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVLN496Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVLN496Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
