@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T11:30:53Z",
+  "updated_at": "2026-11-06T11:48:58Z",
   "deals": [
+    {
+      "title": "Grab : Wipro Elato Dry Iron @ Rs.699 Link :",
+      "price": 699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FS23BM1Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T11:48:58Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FS23BM1Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FS23BM1Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FS23BM1Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4M8Z1NL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4M8Z1NL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pack of 12 Containers at Rs.208",
-      "price": 208,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08SLF5DQZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:23:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08SLF5DQZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08SLF5DQZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08SLF5DQZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
