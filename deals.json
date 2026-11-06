@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T18:44:07Z",
+  "updated_at": "2026-11-06T18:44:14Z",
   "deals": [
+    {
+      "title": ". Disney 350 GSM 100% Cotton Kids Bath Towel 229",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B076Q5BGV7?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T18:44:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B076Q5BGV7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B076Q5BGV7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B076Q5BGV7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". BoroPlus Soft Light Moisturising Cream 50 ml 49",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVLN496Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVLN496Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Acer Aspire One, AMD Ryzen 5 Laptop @46,990. Flat ₹6300 Off With HDFC CC.",
-      "price": 46990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H46H6JK8?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T13:45:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H46H6JK8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
