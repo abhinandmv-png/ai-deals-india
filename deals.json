@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T11:15:58Z",
+  "updated_at": "2026-11-06T11:30:53Z",
   "deals": [
+    {
+      "title": "1499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F142WJDY?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T11:30:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511070.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F142WJDY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F142WJDY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Casio Men Analog Turquoise Dial Men Watch 2397",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08SLF5DQZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08SLF5DQZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "76% off : SNITCH Loop Set of 3 Suitcase & Free Shoe Bag @₹3,329",
-      "price": 3329,
-      "original_price": 13871,
-      "category": "Fashion",
-      "badge": "76% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GY1419PY?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:09:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510124.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GY1419PY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GY1419PY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
