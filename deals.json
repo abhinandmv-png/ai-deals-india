@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T18:14:04Z",
+  "updated_at": "2026-11-06T18:44:07Z",
   "deals": [
+    {
+      "title": ". BoroPlus Soft Light Moisturising Cream 50 ml 49",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMCW69WH?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T18:44:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMCW69WH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Ant Esports GM810 PRO V2 Wireless Optical Gaming Mouse, 2.4G + Bluetooth 649₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H46H6JK8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H46H6JK8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "64% Off : Nivea Body Lotion 400 ml @258.",
-      "price": 258,
-      "original_price": 717,
-      "category": "Shopping",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B019XY4FOU?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T13:45:17Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B019XY4FOU.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B019XY4FOU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B019XY4FOU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
