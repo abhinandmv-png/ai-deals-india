@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T12:30:52Z",
+  "updated_at": "2026-11-06T12:31:24Z",
   "deals": [
+    {
+      "title": "Wipro Northwest Venia 6A Bell Push, White (pack of 10) @229",
+      "price": 229,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BNNJ45TF?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T12:31:23Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BNNJ45TF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BNNJ45TF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BNNJ45TF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1337",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "71% off : Skybags Check-in Trolley Bag 75cm @ Rs.2,033",
-      "price": 2033,
-      "original_price": 7010,
-      "category": "Fashion",
-      "badge": "71% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GX5VFHMS?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:39:08Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GX5VFHMS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GX5VFHMS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GX5VFHMS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
