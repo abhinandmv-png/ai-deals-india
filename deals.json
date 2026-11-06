@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T14:51:49Z",
+  "updated_at": "2026-11-06T14:51:57Z",
   "deals": [
+    {
+      "title": "FAAAAASSSTTTT 🔥 800₹ Reg: 2K+ Reebok Reeduo Running Shoes",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH9TZHHG?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T14:51:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511100.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH9TZHHG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH9TZHHG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Longway Luminair 1200mm BLDC Ceiling Fan Remote Control 4,772₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSHTZFTP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSHTZFTP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 86% Off On Uppercase & Mokobara Trolleys & Bags Starts @1599.",
-      "price": 1599,
-      "original_price": 11421,
-      "category": "Fashion",
-      "badge": "86% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/2048171060?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T09:53:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510151.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/2048171060.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/2048171060.01.LZZZZZZZ.jpg"
       ]
     }
   ]
