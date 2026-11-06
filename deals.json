@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T08:15:49Z",
+  "updated_at": "2026-11-06T08:30:51Z",
   "deals": [
+    {
+      "title": "Loot For Needy 🔥🔥 LG 790L Wi-Fi Convertible, Side By Side Refrigerator @1,03,990 Apply ₹3000 Coupon + ₹18,000 Off With Axis/HDFC CC",
+      "price": 103990,
+      "original_price": 18000,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3ZG11ZV?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T08:30:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511037.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3ZG11ZV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3ZG11ZV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hot Wheels Batman Cars (Pack of 10) at Rs.1499",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNHFX38R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNHFX38R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "adidas Mens Run Casual Shoes @1050",
-      "price": 1050,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FN7X7QJR?tag=53twge73y-21",
-      "posted_at": "2026-11-01T03:57:26Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FN7X7QJR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FN7X7QJR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FN7X7QJR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
