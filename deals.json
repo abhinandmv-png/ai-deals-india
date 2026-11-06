@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T10:00:52Z",
+  "updated_at": "2026-11-06T10:15:51Z",
   "deals": [
+    {
+      "title": "Upto 90% Off On Indo Era Women Grab @6336 Razer Barracuda X Chroma Smartchoice Wireless Gaming Headset",
+      "price": 6336,
+      "original_price": 63360,
+      "category": "Shopping",
+      "badge": "90% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGH2D1NJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T10:15:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511054.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGH2D1NJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGH2D1NJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GZ3FBR3W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GZ3FBR3W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 302L, 8-in-1 Convertible Triple Door Refrigerator for ₹24,240 (Effectively) 📌 Apply ₹2,500 off Coupon + Apply ₹2500 Off Code at Checkout ➤ BOSCH2500 📌 ₹7,750 off with HDFC Credit Card EMI",
-      "price": 24240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9FFQ1ZC?tag=53twge73y-21",
-      "posted_at": "2026-11-01T05:30:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510109.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
