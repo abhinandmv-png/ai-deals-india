@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T16:44:07Z",
+  "updated_at": "2026-11-06T16:49:09Z",
   "deals": [
+    {
+      "title": "Laptop Cooling Pad, 5 Quiet Fans @ ₹1,125 Apply 10% off coupon",
+      "price": 1125,
+      "original_price": 1250,
+      "category": "Electronics",
+      "badge": "10% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CL7FZ5NV?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T16:49:08Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CL7FZ5NV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CL7FZ5NV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CL7FZ5NV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 394₹ Adidas Men's Solid Regular Fit Polo",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HBW3RKKC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HBW3RKKC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Origami Soft Facial Tissue ( Pack of 6 , 100 Pulls each) @ 99 Regular price 200+",
-      "price": 99,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDKV3CK1?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T12:45:26Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146876.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDKV3CK1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDKV3CK1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
