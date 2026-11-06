@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T10:30:51Z",
+  "updated_at": "2026-11-06T10:45:49Z",
   "deals": [
+    {
+      "title": "Saffola Wild Forest Organic Honey, 500g 183 Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09KV1R96H?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T10:45:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09KV1R96H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09KV1R96H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09KV1R96H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Tata Classic Instant Coffee, 90g Jar 175",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F79SG4KF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F79SG4KF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy Tab S10 Plus S Pen, 12 GB RAM, 256 GB Storage, Wi-Fi Tablet, @₹73,949 ₹6950 off with HDFC Credit Card",
-      "price": 73949,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DHH97DM5?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T06:38:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510119.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DHH97DM5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DHH97DM5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
