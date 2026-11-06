@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T12:49:00Z",
+  "updated_at": "2026-11-06T13:00:55Z",
   "deals": [
+    {
+      "title": "🔥🔥 579₹ HAMMER Drop X1 5W Bluetooth Speaker with Twin Pairing, Bluetooth v6.0, 32 Hours Playtime, 52mm Drivers (Beige)",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMD8G6HY?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T13:00:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511081.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMD8G6HY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMD8G6HY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Urbanova Pro Ergonomic Office Chair at 4949 Apply 3000 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CSPG8D76.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CSPG8D76.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "249 All colours & size available",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNK7TFLH?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T07:53:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510133.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNK7TFLH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNK7TFLH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
