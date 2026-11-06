@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T07:00:45Z",
+  "updated_at": "2026-11-06T07:00:57Z",
   "deals": [
+    {
+      "title": "Signoraware Glass Square Containers (320 ml x 2) @335.",
+      "price": 335,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLVJY43V?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T07:00:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511022.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLVJY43V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLVJY43V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Reg 600",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08G8J3WYR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08G8J3WYR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TrustBasket Fork - Durable Garden Fork & Weeding Tool | Garden Tools for Soil — ₹50.",
-      "price": 50,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0943WMTXQ?tag=53twge73y-21",
-      "posted_at": "2026-11-01T02:29:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0943WMTXQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0943WMTXQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0943WMTXQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
