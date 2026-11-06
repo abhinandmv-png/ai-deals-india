@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T16:14:04Z",
+  "updated_at": "2026-11-06T16:14:11Z",
   "deals": [
+    {
+      "title": "7",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCC683MC?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T16:14:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HCC683MC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCC683MC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCC683MC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 💥 599₹ 🔥🔥 629₹ Portronics Harmonics Z11 Bluetooth Wireless in Ear Earphones",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFVXMLC5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFVXMLC5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Lino PerrosAvril Jenna Tote Bag 1958",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FM8GV72M?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T11:30:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510172.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FM8GV72M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FM8GV72M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
