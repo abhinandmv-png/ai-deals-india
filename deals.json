@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T09:31:51Z",
+  "updated_at": "2026-11-06T09:33:57Z",
   "deals": [
+    {
+      "title": "Qubo Car Dashcam Pro 3K Sony STARVIS 2 IMX675 Sensor @ ₹10,490 + Bank Offer",
+      "price": 10490,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G64T8HFX?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T09:33:57Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G64T8HFX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G64T8HFX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G64T8HFX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2402",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FSDWNRJM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FSDWNRJM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot Deal : Flat 76% Off On Van Heusen Slingbag & Handbags.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "76% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/lK6ZNbkHxm?tag=53twge73y-21",
-      "posted_at": "2026-11-01T04:27:16Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/LK6ZNBKHXM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/lK6ZNbkHxm.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/lK6ZNbkHxm.01.LZZZZZZZ.jpg"
       ]
     }
   ]
