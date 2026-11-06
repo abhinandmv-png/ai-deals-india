@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T15:22:00Z",
+  "updated_at": "2026-11-06T15:36:53Z",
   "deals": [
+    {
+      "title": ". amazon basics 16-Inch Table Fan - with Tilting Head 1,192₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GN98K98J?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T15:36:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511107.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GN98K98J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GN98K98J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Treo By Milton Opalware Dinner Set Of 18 1,199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GF2QG5K3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GF2QG5K3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot Deal : IFB 187L 5 Star Advanced Inverter Refrigerator @12,441* • Apply ₹1500 Coupon • Apply ₹1001 Off Code at Checkout ➡️ DIWALI1001 • ₹3048 Off With HDFC CC",
-      "price": 12441,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GW2JYSDR?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T10:09:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GW2JYSDR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GW2JYSDR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GW2JYSDR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
