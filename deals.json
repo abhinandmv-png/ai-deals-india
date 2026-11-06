@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T03:06:27Z",
+  "updated_at": "2026-11-06T03:19:48Z",
   "deals": [
+    {
+      "title": "@2499",
+      "price": 2499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G3VV1122?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T03:19:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510993.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G3VV1122.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G3VV1122.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ACTIVA Easy Mix Nutri 4 Jar Mixer Grinder, 500 Watt — ₹498.",
       "price": 498,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GLFVTCC7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GLFVTCC7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Insta360 X5 Essentials Bundle - Waterproof 8K 360° Action Camera 50440 Apply 2000 off Coupon + 8500 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F9Z1ZFD6?tag=53twge73y-21",
-      "posted_at": "2026-10-31T18:42:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F9Z1ZFD6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F9Z1ZFD6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F9Z1ZFD6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
