@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T04:04:54Z",
+  "updated_at": "2026-11-06T04:21:31Z",
   "deals": [
+    {
+      "title": "71% Off : Fiama Shower Gel, 750ml @220.",
+      "price": 220,
+      "original_price": 759,
+      "category": "Shopping",
+      "badge": "71% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B098LR2L3K?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T04:21:30Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B098LR2L3K.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B098LR2L3K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B098LR2L3K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Chopper at Rs.227 Apply 20% Coupon",
       "price": 227,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DD45WVCM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DD45WVCM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CX91GCTX?tag=53twge73y-21",
-      "posted_at": "2026-10-31T19:04:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CX91GCTX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CX91GCTX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CX91GCTX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
