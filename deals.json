@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T13:36:46Z",
+  "updated_at": "2026-11-06T13:36:57Z",
   "deals": [
+    {
+      "title": ". Zebronics USB Extension Cable, 1.5 Meter 109₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GDG2JFDK?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T13:36:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511088.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GDG2JFDK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GDG2JFDK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". OnePlus 100W Ultra Fast Charging Adapter 539",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3JL33DW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3JL33DW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifelong Gun massager @799",
-      "price": 799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C9DX5RFY?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T08:53:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510141.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C9DX5RFY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C9DX5RFY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
