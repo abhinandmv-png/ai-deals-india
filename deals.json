@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T14:21:52Z",
+  "updated_at": "2026-11-06T14:22:01Z",
   "deals": [
+    {
+      "title": "🔥🔥 167₹ EVEREADY 9W LED Bulb, Cool Day Light (6500K), B22 Base, Pack of 4",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0743925GM?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T14:22:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511096.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0743925GM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0743925GM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bajaj Armor Series Contempo Neo 15L Storage Water Heater For Home (15 Litre) 8999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCZ3WDTB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCZ3WDTB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥🔥💣 IFB 222L 4 Star Advanced Inverter Refrigerator at just 14,040 Apply ₹2000 Off Code at Checkout ➡️ DIWALI12000 ➕ 4250 Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYFYMLFX?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T09:39:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510149.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYFYMLFX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYFYMLFX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
