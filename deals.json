@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T17:29:05Z",
+  "updated_at": "2026-11-06T17:29:17Z",
   "deals": [
+    {
+      "title": "1879",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRNQJBWB?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T17:29:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511133.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRNQJBWB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRNQJBWB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "7689 With Bank Offer Sony HT-S100F 2.0 Ch Dolby Audio Soundbar with Bass Reflex Speaker",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPDVCVMQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPDVCVMQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient Electric Apex-FX 1200mm Ceiling Fan for Home| BEE 1 — **₹1,259**. Apply 10% off coupon",
-      "price": 1259,
-      "original_price": 1399,
-      "category": "Home",
-      "badge": "10% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BMVLRSN3?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T13:02:01Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BMVLRSN3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BMVLRSN3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BMVLRSN3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
