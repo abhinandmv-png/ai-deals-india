@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T15:21:52Z",
+  "updated_at": "2026-11-06T15:22:00Z",
   "deals": [
+    {
+      "title": ". Treo By Milton Opalware Dinner Set Of 18 1,199",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G81B45DC?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T15:22:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0G81B45DC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G81B45DC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G81B45DC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Wonderchef Whiskey Tumbler 320 ml (Set Of 6) 399₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GW2JYSDR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GW2JYSDR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Singer Auro 1000 Watts Dry Iron at Rs.499",
-      "price": 499,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HLDWZMBT?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T10:08:43Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HLDWZMBT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HLDWZMBT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HLDWZMBT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
