@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T07:15:49Z",
+  "updated_at": "2026-11-06T07:34:03Z",
   "deals": [
+    {
+      "title": "CELLO Midas Casserole, 1.5 Ltr at 479.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQTGZD73?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T07:34:02Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CQTGZD73.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQTGZD73.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQTGZD73.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "69% off : Provogue Lumina Hard-Sided PP 65 Cm Trolley Bags @₹2,499",
       "price": 2499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GR8Y8S9L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GR8Y8S9L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Treo by Milton Glass Tiffin with Bag, Set of 8 @901",
-      "price": 901,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BJLBYDFR?tag=53twge73y-21",
-      "posted_at": "2026-11-01T03:30:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510092.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BJLBYDFR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BJLBYDFR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
