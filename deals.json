@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T01:36:23Z",
+  "updated_at": "2026-11-06T01:46:06Z",
   "deals": [
+    {
+      "title": "54% Off : Himalaya Total Care Baby Pants Diaper Size S, 80Pcs @575",
+      "price": 575,
+      "original_price": 1250,
+      "category": "Fashion",
+      "badge": "54% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09JP8Z628?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T01:46:05Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09JP8Z628.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09JP8Z628.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09JP8Z628.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "tu casa Table Lamp at Rs.355.",
       "price": 355,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B072SCJG5D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B072SCJG5D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07BY89TQY?tag=53twge73y-21",
-      "posted_at": "2026-10-31T18:42:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07BY89TQY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07BY89TQY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07BY89TQY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
