@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T16:14:27Z",
+  "updated_at": "2026-11-06T16:29:40Z",
   "deals": [
+    {
+      "title": ". Crompton Ameo Edge 5L Digital Air Fryer 4,769₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HF8GZC9W?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T16:29:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511119.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HF8GZC9W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HF8GZC9W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Portronics 2500W Power Plate Pro 4-in-1 569",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DN6HZ3L4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DN6HZ3L4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 1,368₹ Adidas Pomazor M Running Shoe",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C4DPXYZS?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T12:15:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510178.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C4DPXYZS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C4DPXYZS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
