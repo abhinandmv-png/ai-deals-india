@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T16:14:19Z",
+  "updated_at": "2026-11-06T16:14:27Z",
   "deals": [
+    {
+      "title": ". Portronics 2500W Power Plate Pro 4-in-1 569",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GNZ98CRX?tag=premiumde066c-21",
+      "posted_at": "2026-11-06T16:14:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511117.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GNZ98CRX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GNZ98CRX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Spacewood Denver Engineered Wood Bed Side Table 1220",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C4DPXYZS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C4DPXYZS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". PHILIPS Air Fryer 4.1 Litre 2788 Apply Coupon + Bank Offee",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09CTWFV5W?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T12:00:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09CTWFV5W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
