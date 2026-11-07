@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T03:44:12Z",
+  "updated_at": "2026-11-07T04:44:16Z",
   "deals": [
+    {
+      "title": "Singer Cheffy Mix Mixer Grinder | Sleek Design at Rs.2,259",
+      "price": 2259,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNCV2F9V?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T04:44:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511178.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNCV2F9V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNCV2F9V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Opalware Dinner Set 36Pcs @1721",
       "price": 1721,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBRVY484.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBRVY484.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Misamo Enterprise PVC Wall Hooks, Pack of 15, Transparent 130₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09SLQPK3T?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T15:15:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09SLQPK3T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09SLQPK3T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09SLQPK3T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
