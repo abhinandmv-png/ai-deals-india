@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T15:32:39Z",
+  "updated_at": "2026-11-07T15:38:55Z",
   "deals": [
+    {
+      "title": "🔥🔥 249₹ Fitness Mantra® 4mm Marble Design Anti Skid Yoga Mat",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BHQNTVVC?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T15:38:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511273.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BHQNTVVC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BHQNTVVC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nike Mens Court Vision Lo Fl Sneakers at 3647",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GSB3F7T8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GSB3F7T8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥💥 Lenovo Idea Tab with Tab Pen | WiFi+5G 6GB RAM + 128GB ROM 18698 Apply 1500 off Coupon + 2800 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HBBGL6C2?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T09:55:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510350.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HBBGL6C2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HBBGL6C2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
