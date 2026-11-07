@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T15:38:55Z",
+  "updated_at": "2026-11-07T15:39:09Z",
   "deals": [
+    {
+      "title": "569",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS8WKBTZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T15:39:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511275.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS8WKBTZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS8WKBTZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 249₹ Fitness Mantra® 4mm Marble Design Anti Skid Yoga Mat",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CX91GCTX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CX91GCTX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Lavie Sport Botanica Laptop Backpack 670₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSB3F7T8?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T10:24:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510351.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSB3F7T8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSB3F7T8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
