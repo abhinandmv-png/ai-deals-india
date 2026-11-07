@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T13:09:06Z",
+  "updated_at": "2026-11-07T13:09:24Z",
   "deals": [
+    {
+      "title": ". Havells Ventil Air DSP 230mm Exhaust Fan 1189",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B091FBFFMM?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T13:09:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511253.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B091FBFFMM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B091FBFFMM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 1,349₹ RR Signature Dhoom 1200MM Star-rated BEE Certified Energy",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F8BXYJBR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F8BXYJBR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Zebronics Juke Bar 9560 950W Soundbar 2026 Launch at Rs.24,199 Flat ₹1,800 off with HDFC Cc",
-      "price": 24199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GW8LHNQG?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T05:16:55Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GW8LHNQG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GW8LHNQG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GW8LHNQG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
