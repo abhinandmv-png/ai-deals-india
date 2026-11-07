@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T11:23:48Z",
+  "updated_at": "2026-11-07T11:38:48Z",
   "deals": [
+    {
+      "title": ". AristocratCadet Polyester 62 Cms Wheel Travel Duffle Bag 1029",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S6CGNLB?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T11:38:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07S6CGNLB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S6CGNLB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S6CGNLB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". PUMA Men's ATTACANTO TT Football Shoe 1,079₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09Z6TJP7Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09Z6TJP7Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "adidas Men Infynyte Run M, Casual Shoes, Green, 9 — ₹961.",
-      "price": 961,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FN7YXQF5?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T02:04:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510267.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FN7YXQF5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FN7YXQF5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
