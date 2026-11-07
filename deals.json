@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T07:49:14Z",
+  "updated_at": "2026-11-07T08:01:33Z",
   "deals": [
+    {
+      "title": "467",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BPCQBCNP?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T08:01:32Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0BPCQBCNP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BPCQBCNP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BPCQBCNP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bikano Royal Gulab Jamun 1Kg @ Rs.153 Buy 4 Get ₹90 Cashback = Effective Price ₹133 each.",
       "price": 153,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CL439N4X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CL439N4X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Grab : Quadro Cosco King Size Bed with Hydraulic Storage – Only ₹24,999🤯 ✨Hydraulic Storage for Extra Space ✨Engineered Wood Construction in Brown Finish ✨1 Year Warranty Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 24999,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08CDLL4KG?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T16:18:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510218.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08CDLL4KG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08CDLL4KG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
