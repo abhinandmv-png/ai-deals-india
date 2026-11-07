@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T13:38:55Z",
+  "updated_at": "2026-11-07T13:53:51Z",
   "deals": [
+    {
+      "title": ". Spotzero By Milton Non-Scratch Steel Wire Dish Cloth (Pack of 6) 75",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9YQF74H?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T13:53:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F9YQF74H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9YQF74H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9YQF74H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Park Avenue Allure Women EDP 100ml 255",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6Q4B3BH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6Q4B3BH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "62% Off : Fair & Handsome Instant Radiance Face Wash @123",
-      "price": 123,
-      "original_price": 324,
-      "category": "Beauty",
-      "badge": "62% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B4GYZ4FR?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T06:29:51Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B4GYZ4FR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B4GYZ4FR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B4GYZ4FR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
