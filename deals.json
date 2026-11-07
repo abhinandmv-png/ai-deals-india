@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T10:09:10Z",
+  "updated_at": "2026-11-07T10:09:17Z",
   "deals": [
+    {
+      "title": ". IFB 222L 4 Star Advanced Inverter Refrigerator 14490 Apply 1000 Off Code at Checkout IFB1000 5500 Off With Axis/HDFC CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYFYMLFX?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T10:09:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GYFYMLFX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYFYMLFX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYFYMLFX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @5999 Eureka Forbes Cyclo Vac -24 kPa High Suction Vacuum Cleaner",
       "price": 5999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F21D1LPG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F21D1LPG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony Wired Aluminium Chassis Gaming Keyboard at 9,375. *Flat ₹1,041 Off With HDFC Credit Card. Effective Price. Lowest Price Ever | Average Price ₹23,000+.",
-      "price": 23000,
-      "original_price": 23000,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJ2X9S8B?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T19:01:55Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FJ2X9S8B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJ2X9S8B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJ2X9S8B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
