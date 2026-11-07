@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T03:20:00Z",
+  "updated_at": "2026-11-07T03:44:12Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Opalware Dinner Set 36Pcs @1721",
+      "price": 1721,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MGYCBL?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T03:44:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511171.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MGYCBL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MGYCBL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bata Mens Kent Slipon E Loafer @640",
       "price": 640,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09SLQPK3T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09SLQPK3T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Park Avenue Allure Women EDP 100ml | Long Lasting Perfume at **₹256**.",
-      "price": 256,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLY9B57H?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T14:45:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLY9B57H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
