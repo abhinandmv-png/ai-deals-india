@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T02:59:25Z",
+  "updated_at": "2026-11-07T03:20:00Z",
   "deals": [
+    {
+      "title": "Bata Mens Kent Slipon E Loafer @640",
+      "price": 640,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G5PNW5G7?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T03:20:00Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G5PNW5G7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G5PNW5G7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G5PNW5G7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Ceramic Hair Straightener @₹641",
       "price": 641,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLY9B57H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : TinyHugs Diaper Rash Cream for Babies, 50g @ Rs.139",
-      "price": 139,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DN6KPFXY?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T14:45:46Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DN6KPFXY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DN6KPFXY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DN6KPFXY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
