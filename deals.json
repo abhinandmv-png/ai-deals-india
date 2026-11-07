@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T08:34:14Z",
+  "updated_at": "2026-11-07T08:42:07Z",
   "deals": [
+    {
+      "title": "PHILIPS HL7505 500W Mixer Grinder at ₹2,299",
+      "price": 2299,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07GNK7JXK?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T08:42:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511209.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07GNK7JXK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07GNK7JXK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Singer Shakti Press Heavy Weight Dry Iron | 1000W Power at Rs.899",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H8NTGCS8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H8NTGCS8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Lowest : 100% Pure Brass Kalpavriksha Diya – Only ₹899🤯 ✨100% Pure Brass Handcrafted Diya ✨Tree of Life Design for Puja & Decoration ✨Perfect for Mandir, Home & Office Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 899,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FS7HDJ2Y?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T16:48:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510220.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FS7HDJ2Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FS7HDJ2Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
