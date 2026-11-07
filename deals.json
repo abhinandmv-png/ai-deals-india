@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T11:09:19Z",
+  "updated_at": "2026-11-07T11:23:48Z",
   "deals": [
+    {
+      "title": ". PUMA Men's ATTACANTO TT Football Shoe 1,079₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4XL4NMM?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T11:23:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F4XL4NMM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4XL4NMM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4XL4NMM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Himalaya Total Care Super Absorb Baby Pants Diaper | Size S (Small) 168 Count 1,132₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FN7YXQF5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FN7YXQF5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Parachute SkinPure Body Lotion - with Vitamin C & Virgin — ₹139.",
-      "price": 139,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCFSX424?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T01:19:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FCFSX424.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCFSX424.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCFSX424.01.LZZZZZZZ.jpg"
       ]
     }
   ]
