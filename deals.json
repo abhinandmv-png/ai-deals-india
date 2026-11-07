@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T04:44:16Z",
+  "updated_at": "2026-11-07T04:46:28Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Opalware Dinner Set Of 63 @2921.",
+      "price": 2921,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MKX1DW?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T04:46:28Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C7MKX1DW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MKX1DW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MKX1DW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Cheffy Mix Mixer Grinder | Sleek Design at Rs.2,259",
       "price": 2259,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPQ7GR81.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Redmi Pad 2, 11-inch 4GB RAM, 128GB ROM 13750 3749 off with HDFC Debit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBRVY484?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T15:15:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510203.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBRVY484.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBRVY484.01.LZZZZZZZ.jpg"
       ]
     }
   ]
