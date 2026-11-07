@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T18:57:19Z",
+  "updated_at": "2026-11-07T19:23:58Z",
   "deals": [
+    {
+      "title": "92",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJG88RLB?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T19:23:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511298.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJG88RLB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJG88RLB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "VGR Professional Hair Trimmer @729.",
       "price": 729,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C33XXS56.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C33XXS56.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLO Glassy Mix Lunch Box with Jacket @ 539",
-      "price": 539,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXPS2LP2?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T12:32:01Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DXPS2LP2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXPS2LP2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXPS2LP2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
