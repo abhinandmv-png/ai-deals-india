@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T08:42:07Z",
+  "updated_at": "2026-11-07T08:42:19Z",
   "deals": [
+    {
+      "title": "1",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HN7MY9MK?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T08:42:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511210.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HN7MY9MK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HN7MY9MK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PHILIPS HL7505 500W Mixer Grinder at ₹2,299",
       "price": 2299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09FN1TRL1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09FN1TRL1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Lowest : LED Pixel String Light Pack of 10 – Only ₹649🤯 ✨10-Pack of 36 Ft Copper Wire Fairy Lights ✨Bright Warm White LED Lights ✨Perfect for Diwali, Christmas, Weddings & Parties Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHA",
-      "price": 649,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8NTGCS8?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T17:03:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510223.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8NTGCS8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8NTGCS8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
