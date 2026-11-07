@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T09:27:19Z",
+  "updated_at": "2026-11-07T09:40:17Z",
   "deals": [
+    {
+      "title": "pTron 20000mAh Powerbank w/ 22.5W Fast Charging at ₹1,099",
+      "price": 1099,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GFMVCVL2?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T09:40:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511217.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GFMVCVL2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GFMVCVL2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 80 cms (32 inches) TV @13249 Only (Apply coupon & EMI Offer)",
       "price": 13249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/tv9p7YxE1c.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/tv9p7YxE1c.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Kamiliant by American Tourister Set of 3 Trolley Bags 3504",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPQR8MNP?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T18:34:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GPQR8MNP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPQR8MNP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPQR8MNP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
