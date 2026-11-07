@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T10:08:59Z",
+  "updated_at": "2026-11-07T10:09:10Z",
   "deals": [
+    {
+      "title": "Grab @5999 Eureka Forbes Cyclo Vac -24 kPa High Suction Vacuum Cleaner",
+      "price": 5999,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FMS1V1SW?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T10:09:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511224.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FMS1V1SW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FMS1V1SW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4900🔥🔥 boAt Smartchoice Aavante 2.1 1600D/Orion Plus, Dolby Audio,",
       "price": 4900,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJ2X9S8B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJ2X9S8B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 43 inch LED TV at Rs.20990 **Apply Coupon + Pay with HDFC Credit Card**",
-      "price": 20990,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F84DKX8K?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T19:01:48Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F84DKX8K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F84DKX8K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F84DKX8K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
