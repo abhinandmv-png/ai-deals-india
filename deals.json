@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T18:53:54Z",
+  "updated_at": "2026-11-07T18:54:00Z",
   "deals": [
+    {
+      "title": ". Parachute SkinPure Body Lotion 400ml 139₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCFSX424?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T18:54:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FCFSX424.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCFSX424.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCFSX424.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Tommy Hilfiger Backpack 1049",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/4LeoeGeVPr.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/4LeoeGeVPr.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 💥💥💥 24,240₹ 5,000₹ Coupon + HDFC Credit Card IFB 285 L Frost Free Double Door Top Mount 2 Star Refrigerator (Eco-Cool IFBFF-3362IRGT)",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4PH6DFZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T11:54:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510370.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4PH6DFZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4PH6DFZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
