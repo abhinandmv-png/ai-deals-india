@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T09:40:17Z",
+  "updated_at": "2026-11-07T09:40:28Z",
   "deals": [
+    {
+      "title": "Faber Pluto 60 cm 1000 m³/hr Wall Mounted Kitchen at ₹5,611",
+      "price": 5611,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXYM7YN9?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T09:40:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511220.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXYM7YN9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXYM7YN9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "pTron 20000mAh Powerbank w/ 22.5W Fast Charging at ₹1,099",
       "price": 1099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Flat 50-64% Off On GUESS Watches + 10% HDFC CC Discount.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/tv9p7YxE1c?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T18:46:48Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/TV9P7YXE1C.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/tv9p7YxE1c.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/tv9p7YxE1c.01.LZZZZZZZ.jpg"
       ]
     }
   ]
