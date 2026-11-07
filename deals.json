@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T09:53:50Z",
+  "updated_at": "2026-11-07T10:01:33Z",
   "deals": [
+    {
+      "title": "90",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GLH8BWM6?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T10:01:33Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GLH8BWM6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GLH8BWM6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GLH8BWM6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @13240",
       "price": 13240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZ8NBBQ3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZ8NBBQ3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". GAP Hooded Sweatshirt 🔥 921₹ . Solimo Stainless Steel Insulated Cola Bottle (1000ml) 462₹ Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCG5GBYV?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T18:49:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DCG5GBYV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCG5GBYV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCG5GBYV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
