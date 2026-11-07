@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-06T19:29:12Z",
+  "updated_at": "2026-11-07T00:59:08Z",
   "deals": [
+    {
+      "title": "Red Tape Men T-Shirt at Rs.285.",
+      "price": 285,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09QYW5Y7P?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T00:59:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09QYW5Y7P.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09QYW5Y7P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09QYW5Y7P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2287 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G3GRQMC4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Newborn Baby Gift Set with Free Gift (Pack of 7) @ Rs.399",
-      "price": 399,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G5JV6SPC?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T13:45:48Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146884.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G5JV6SPC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G5JV6SPC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
