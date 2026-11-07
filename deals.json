@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T13:23:49Z",
+  "updated_at": "2026-11-07T13:38:55Z",
   "deals": [
+    {
+      "title": ". Park Avenue Allure Women EDP 100ml 255",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLY9B57H?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T13:38:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLY9B57H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Men's Enzo Magnus Running Shoe 1650",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B4GYZ4FR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B4GYZ4FR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @10,206 Philips 1000 Series Airfryer Double Drawer with Removable Divider - 7.1L,",
-      "price": 10206,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKKH9H5V?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T06:04:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510295.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKKH9H5V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKKH9H5V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
