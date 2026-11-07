@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T05:59:17Z",
+  "updated_at": "2026-11-07T06:49:12Z",
   "deals": [
+    {
+      "title": "Whirlpool 411L 2 Star Frost Free Double Door Refrigerator at Rs.30144 Flat ₹12750 off with HDFC Credit Card",
+      "price": 30144,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMG7B9G8?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T06:49:11Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GMG7B9G8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMG7B9G8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMG7B9G8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 @16282 Apply coupon + bank offer Lumio Arc 5 Portable Home Projector",
       "price": 16282,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DN6P42NC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DN6P42NC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Vivel Cool Mint, Soft Fresh Skin Soap, 600g (150g - Pack of 4) 115₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B086LNGH5C?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T15:30:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510209.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B086LNGH5C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B086LNGH5C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
