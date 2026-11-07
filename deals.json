@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T02:16:28Z",
+  "updated_at": "2026-11-07T02:59:13Z",
   "deals": [
+    {
+      "title": "Grab faaaast 🔥 @1136 French Connection Gazellle Blue Round Analog Watch Other colour costs more 🔥",
+      "price": 1136,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C6GYRZ5T?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T02:59:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511166.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C6GYRZ5T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C6GYRZ5T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon By Stovekraft Induction Cooktop 1800 Watts @1799",
       "price": 1799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G47Y5VNN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G47Y5VNN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP 15, AMD Ryzen 5 7520U (16GB DDR4, 512GB SSD) 53440 Apply 1000 Coupon + 10550 Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTVDH4G2?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T14:45:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTVDH4G2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
