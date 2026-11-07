@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T04:46:28Z",
+  "updated_at": "2026-11-07T05:49:13Z",
   "deals": [
+    {
+      "title": "Marks & Spencer Women Trouser at 599",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BSGTBSJH?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T05:49:12Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BSGTBSJH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BSGTBSJH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BSGTBSJH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Opalware Dinner Set Of 63 @2921.",
       "price": 2921,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07L3YNL2V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07L3YNL2V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Singer Shakti Press Heavy Weight Dry Iron | 1000W Power at Rs.898",
-      "price": 898,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPQ7GR81?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T15:15:51Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPQ7GR81.01.LZZZZZZZ.jpg"
       ]
     }
   ]
