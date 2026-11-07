@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T12:09:22Z",
+  "updated_at": "2026-11-07T12:34:21Z",
   "deals": [
+    {
+      "title": "Xiaomi (108 cm) 43 inch FX 4K QD-Mini LED Smart Fire TV @ ₹24,999 Flat ₹3,000 off with HDFC EMI",
+      "price": 24999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2BYVZWM?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T12:34:21Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H2BYVZWM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2BYVZWM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2BYVZWM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Glamax 9W B22 WiFi LED Smart Bulb 349",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B17KQD58.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B17KQD58.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "80% off : Lifelong Foldable Alloy Steel Cloth Drying Stand @999",
-      "price": 999,
-      "original_price": 4995,
-      "category": "Shopping",
-      "badge": "80% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FG35R69G?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T03:49:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FG35R69G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FG35R69G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FG35R69G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
