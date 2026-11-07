@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T00:59:24Z",
+  "updated_at": "2026-11-07T02:14:12Z",
   "deals": [
+    {
+      "title": "Himalaya Total Care Super Absorb Diaper, Size M 76Pcs @599",
+      "price": 599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BH9CB1?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T02:14:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511162.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BH9CB1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "IFB 8 Kg 5 Star, WiFi Enabled, Ai Powered Fully Automatic Front Load Washing Machine at ₹26,739 💥 • Apply ₹2,000 off Coupon • Apply ₹1,000 off Code at Checkout ➤ IFB1000 • ₹7,250 off with HDFC & Axis Credit Card Link:",
       "price": 26739,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Grab : Livein Essential Orthopedic Memory Foam Mattress (Double Bed, 6 Inch) – Only ₹12,000🤯 ✨Pressure-Relieving Memory Foam ✨Medium-Firm Comfort with Anti-Microbial Fabric ✨72 × 48 × 6 Inch Double Bed Mattress Buy No",
-      "price": 12000,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0892X5WWJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T14:30:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510196.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0892X5WWJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0892X5WWJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
