@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T02:14:12Z",
+  "updated_at": "2026-11-07T02:16:28Z",
   "deals": [
+    {
+      "title": "Pigeon By Stovekraft Induction Cooktop 1800 Watts @1799",
+      "price": 1799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0832W3B7Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T02:16:27Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0832W3B7Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0832W3B7Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0832W3B7Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Total Care Super Absorb Diaper, Size M 76Pcs @599",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTVDH4G2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTVDH4G2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Prestige Iris 750 Watt Mixer Grinder with 4 Jars (3 Stainless Steel + 1 at Rs.**2,699**.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T14:31:21Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
