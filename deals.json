@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T12:49:17Z",
+  "updated_at": "2026-11-07T12:49:24Z",
   "deals": [
+    {
+      "title": "Bosch 302L, MaxFlex Convert Triple Door Refrigerator @30,240* Flat ₹7750 Off With HDFC/Axis CC",
+      "price": 30240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9T73HJ7?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T12:49:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9T73HJ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "66% Off : Dettol Body Wash, 500 ml @159. **Buy Max Qty** :",
       "price": 159,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7HTN9G4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7HTN9G4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "64% Off : TRESemme Shampoo 1L @499.",
-      "price": 499,
-      "original_price": 1386,
-      "category": "Beauty",
-      "badge": "64% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C45WQNND?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T03:49:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C45WQNND.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C45WQNND.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C45WQNND.01.LZZZZZZZ.jpg"
       ]
     }
   ]
