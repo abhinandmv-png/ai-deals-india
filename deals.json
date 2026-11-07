@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T15:04:27Z",
+  "updated_at": "2026-11-07T15:04:34Z",
   "deals": [
+    {
+      "title": "Lux Bodywash 400 ml at 149",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRN72TPX?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T15:04:33Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BRN72TPX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRN72TPX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRN72TPX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Panasonic Dura Saver 9W Bulb (Pack Of 4) at 162",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HBR1NLVS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HBR1NLVS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Halonix 8.5 Watt B22 LED White Rechargeable Bulb 159₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C1ZPP3V1?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T09:08:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C1ZPP3V1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C1ZPP3V1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C1ZPP3V1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
