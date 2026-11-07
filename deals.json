@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T13:08:57Z",
+  "updated_at": "2026-11-07T13:09:06Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 1,349₹ RR Signature Dhoom 1200MM Star-rated BEE Certified Energy",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BQ6PC6GY?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T13:09:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511251.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BQ6PC6GY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BQ6PC6GY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Haier 598L 3-Door Side by Side Refrigerator 56240 Apply 2000 Coupon Apply 2000 Off Code at Checkout ➡️ DHAMAKA2000 15,750 / 12750 Off With HDFC/Axis CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GW8LHNQG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GW8LHNQG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony New Alpha ILCE-6100K |APS-C Mirrorless with SELP1650 (Ver 2) Power Zoom lens at 50,740 Effectively Link : Apply ₹1,000 off Coupon + ₹11,250 off with HDFC Credit Card EMI",
-      "price": null,
-      "original_price": 11250,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTK2KCPQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T04:46:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DTK2KCPQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTK2KCPQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTK2KCPQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
