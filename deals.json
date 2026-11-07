@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T08:42:19Z",
+  "updated_at": "2026-11-07T08:57:06Z",
   "deals": [
+    {
+      "title": "Spykar Men Shirts @598",
+      "price": 598,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CGTZ8ZVN?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T08:57:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511211.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CGTZ8ZVN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CGTZ8ZVN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGQ16G2Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGQ16G2Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Ponds Triple Vitamin Moisturising Body Lotion, 600ml 338₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09FN1TRL1?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T17:18:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09FN1TRL1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09FN1TRL1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09FN1TRL1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
