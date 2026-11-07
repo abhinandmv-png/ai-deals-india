@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T12:49:30Z",
+  "updated_at": "2026-11-07T13:08:50Z",
   "deals": [
+    {
+      "title": ". Lee Cooper Analog Black Round Dial Men's Watch 3507",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BB22GCZ7?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T13:08:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511249.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BB22GCZ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BB22GCZ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab : Singer Nexchop Mini Single Speed Electric Chopper 350W | 700ml Bow at Rs.1149",
       "price": 1149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B086Q88V9H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B086Q88V9H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "56% Off : Fiama Gel Bar (125g Pack Of 8) @299.",
-      "price": 299,
-      "original_price": 680,
-      "category": "Shopping",
-      "badge": "56% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09G33GLP8?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T04:14:55Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09G33GLP8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
