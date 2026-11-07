@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T14:38:52Z",
+  "updated_at": "2026-11-07T14:53:55Z",
   "deals": [
+    {
+      "title": "628 Fk Minutes 🔥🔥 549₹ Orient Electric Fabriknight DIFK10BP 1000 W Dry Iron",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKTHCK47?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T14:53:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511266.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKTHCK47.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKTHCK47.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TVS Racing Titan Series Full Face Helmet 1670",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G9PSL22P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G9PSL22P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 215 L, 5 Star, Digital Inverter Refrigerator at ₹17,890. Apply ₹750 coupon + ₹2250 Off With HDFC CC EMI.",
-      "price": 17890,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8JVRTGK?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T08:01:57Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G8JVRTGK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8JVRTGK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8JVRTGK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
