@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T10:01:33Z",
+  "updated_at": "2026-11-07T10:08:59Z",
   "deals": [
+    {
+      "title": "Grab @4900🔥🔥 boAt Smartchoice Aavante 2.1 1600D/Orion Plus, Dolby Audio,",
+      "price": 4900,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDFRGWLQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T10:08:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511223.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDFRGWLQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDFRGWLQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "90",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F84DKX8K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F84DKX8K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". GAP Hooded Sweatshirt 🔥 921₹ . Orient Electric Fabriglide 1000W Electric Dry Iron 579₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZ8NBBQ3?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T18:50:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510247.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZ8NBBQ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZ8NBBQ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
