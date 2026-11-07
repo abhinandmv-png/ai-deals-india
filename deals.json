@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T12:49:24Z",
+  "updated_at": "2026-11-07T12:49:30Z",
   "deals": [
+    {
+      "title": "Grab : Singer Nexchop Mini Single Speed Electric Chopper 350W | 700ml Bow at Rs.1149",
+      "price": 1149,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHYPH5J9?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T12:49:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHYPH5J9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bosch 302L, MaxFlex Convert Triple Door Refrigerator @30,240* Flat ₹7750 Off With HDFC/Axis CC",
       "price": 30240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09G33GLP8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09G33GLP8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Upto 90% Off On Trendy Men’s Casual Shirts Starts at ₹209. Portronics Ki-Pad 3 USB Wired Keyboard with Large Keycaps, Noise-Free Typing at 399",
-      "price": 209,
-      "original_price": 2090,
-      "category": "Electronics",
-      "badge": "90% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D7HTN9G4?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T04:04:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510281.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D7HTN9G4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D7HTN9G4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
