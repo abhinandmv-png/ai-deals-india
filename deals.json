@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T08:12:17Z",
+  "updated_at": "2026-11-07T08:34:14Z",
   "deals": [
+    {
+      "title": "Grab : Singer Shakti Press Heavy Weight Dry Iron | 1000W Power at Rs.899",
+      "price": 899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPQ7GR81?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T08:34:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPQ7GR81.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @1349",
       "price": 1349,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FS7HDJ2Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FS7HDJ2Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Crompton 1200W Steam Iron @899.",
-      "price": 899,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVC3RQ41?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T16:46:45Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DVC3RQ41.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVC3RQ41.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVC3RQ41.01.LZZZZZZZ.jpg"
       ]
     }
   ]
