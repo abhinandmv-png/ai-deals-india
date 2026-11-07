@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T00:59:08Z",
+  "updated_at": "2026-11-07T00:59:17Z",
   "deals": [
+    {
+      "title": "boAt Rockerz 255 Pro+,neckband at Rs.899.",
+      "price": 899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08TTXNZ4Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T00:59:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511160.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08TTXNZ4Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08TTXNZ4Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Red Tape Men T-Shirt at Rs.285.",
       "price": 285,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F1MNBW8G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F1MNBW8G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Orient Electric 5.9 Ltr Instaflo Water Geyser 2699 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G3GRQMC4?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T14:00:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G3GRQMC4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
