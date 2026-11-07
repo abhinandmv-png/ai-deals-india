@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T16:08:52Z",
+  "updated_at": "2026-11-07T16:17:43Z",
   "deals": [
+    {
+      "title": "Reebok Supreme Casual Shoes at 1140.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D9782QSX?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T16:17:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D9782QSX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D9782QSX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D9782QSX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Nescafe 3-in-1 Original Coffee Mix Sachets (17.5g X Pack of 24 Sticks) 299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BH4GVJZQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BH4GVJZQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 799₹ pTron Newly Launched Fusion Tunes 10W Mini Bluetooth Speaker",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D771Y8WP?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T11:09:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510362.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D771Y8WP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D771Y8WP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
