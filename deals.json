@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T15:04:34Z",
+  "updated_at": "2026-11-07T15:08:50Z",
   "deals": [
+    {
+      "title": ". Godrej 600 LTR 5 Years Comprehensive Warranty Side by Side Refrigerator 47,240 22,750 Off With HDFC/AXIS EMI",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8VHRFBX?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T15:08:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F8VHRFBX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8VHRFBX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8VHRFBX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lux Bodywash 400 ml at 149",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HPMG527C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HPMG527C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AJIO : Upto 85% Off : Mens Jeans MasterLink : Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Snitch : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans : .. Loot 189 :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HBR1NLVS?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T09:24:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510338.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HBR1NLVS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HBR1NLVS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
