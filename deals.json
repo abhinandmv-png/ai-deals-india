@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-07T07:19:16Z",
+  "updated_at": "2026-11-07T07:49:14Z",
   "deals": [
+    {
+      "title": "Bikano Royal Gulab Jamun 1Kg @ Rs.153 Buy 4 Get ₹90 Cashback = Effective Price ₹133 each.",
+      "price": 153,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CFFNH13X?tag=premiumde066c-21",
+      "posted_at": "2026-11-07T07:49:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Steaminator 2600W Steam Generator Iron | 1.5L Tank at Rs.6490",
       "price": 6490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08CDLL4KG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08CDLL4KG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Min 60% Off On PUMA. Shoes : Men : Women : Kids : Nike Unisex Kids Sneakers at ₹1,897",
-      "price": 1897,
-      "original_price": 4742,
-      "category": "Fashion",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C4PJF7CK?tag=premiumde066c-21",
-      "posted_at": "2026-11-01T16:00:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C4PJF7CK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C4PJF7CK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C4PJF7CK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
