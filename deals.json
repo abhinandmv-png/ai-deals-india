@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T05:57:16Z",
+  "updated_at": "2026-11-08T06:09:14Z",
   "deals": [
+    {
+      "title": "Allen Cooper Solid Sweater for Men at 565 Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09JC2JVWN?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T06:09:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511325.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09JC2JVWN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09JC2JVWN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "IFB 187L 5 Star Advanced Inverter Refrigerator at Rs.13,541 Apply ₹1500 Coupon + ₹3449 Off With HDFC/Axis CC",
       "price": 13541,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GRCVWGFR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GRCVWGFR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "50% Off : Real Greetings Vitamin Boost Pack 3x1L @250.",
-      "price": 250,
-      "original_price": 500,
-      "category": "Shopping",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKJ4VXMH?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T14:30:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DKJ4VXMH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKJ4VXMH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKJ4VXMH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
