@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T14:39:42Z",
+  "updated_at": "2026-11-08T14:52:57Z",
   "deals": [
+    {
+      "title": "1495",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXQ1V29L?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T14:52:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DXQ1V29L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXQ1V29L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXQ1V29L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Thermosteel Water Bottle 715 ml @499.",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HL8G6J5Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HL8G6J5Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Unisex-Adult X-Cell Nova FS Shoes 2,331",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DJ8ZMPJN?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T18:51:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DJ8ZMPJN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DJ8ZMPJN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DJ8ZMPJN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
