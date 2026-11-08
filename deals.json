@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T10:14:00Z",
+  "updated_at": "2026-11-08T10:29:22Z",
   "deals": [
+    {
+      "title": "937",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097D69GJ1?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T10:29:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511372.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097D69GJ1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097D69GJ1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lee Cooper Mens Shoes 1,050",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJRWQV1M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJRWQV1M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 596₹ wipro D913065 30 Watts Flood Light, Cool Day White, Square",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07JGCCBDF?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T17:27:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510429.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07JGCCBDF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07JGCCBDF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
