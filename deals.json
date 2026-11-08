@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T14:26:05Z",
+  "updated_at": "2026-11-08T14:37:54Z",
   "deals": [
+    {
+      "title": "199",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09H357C9M?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T14:37:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09H357C9M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09H357C9M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09H357C9M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Men's Walking Shoes 🔥 910₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXSTDXJW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXSTDXJW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Jack and Jones Tshirts at 70% off",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/GSXBE5aPfa?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T18:35:58Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/GSXBE5APFA.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/GSXBE5aPfa.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/GSXBE5aPfa.01.LZZZZZZZ.jpg"
       ]
     }
   ]
