@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T19:22:59Z",
+  "updated_at": "2026-11-08T19:38:02Z",
   "deals": [
+    {
+      "title": "🔥🔥 483₹ Lavie Sport Unisex 1.5 Compartment Business Pro Laptop Bag Slim Sleeve (Black)",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTLNW9QM?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T19:38:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511449.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTLNW9QM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTLNW9QM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07PRVXDGV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07PRVXDGV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "iQOO 15R (12GB RAM, 256GB Storage) for ₹51,493 (Effectively) 📌Apply ₹6,000 off Coupon + Extra ₹2,699 Cashback with Amazon Pay ICICI Credit Card Better Than GIF Sale Deals! 🔥",
-      "price": 51493,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HC9TXP1Y?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T03:29:18Z",
-      "source": "Telegram",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1004430145149_228.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HC9TXP1Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HC9TXP1Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
