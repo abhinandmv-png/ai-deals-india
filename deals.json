@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T14:25:50Z",
+  "updated_at": "2026-11-08T14:25:57Z",
   "deals": [
+    {
+      "title": ". Samsung Galaxy Tab S10 Lite 29249 1750 Off With IDFC & RBL Credit Cards",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T14:25:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Fire-boltt Aero Shadow TWS Earbuds Custom EQ 873",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C8HJWJPC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C8HJWJPC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1247",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CX96K8KD?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T18:21:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CX96K8KD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CX96K8KD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CX96K8KD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
