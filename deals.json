@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T04:31:46Z",
+  "updated_at": "2026-11-08T04:39:05Z",
   "deals": [
+    {
+      "title": "GIZGA essentials 15L Laptop Backpack at 306/",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GN9DTN5H?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T04:39:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511315.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GN9DTN5H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GN9DTN5H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Haldiram's Kaju Katli Gift Pack 400g @485",
       "price": 485,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4RFMPWY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4RFMPWY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 199₹ GM 3206 G-On Extension Board with 2 International Sockets | 2.5M Extension Cord",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B014E12F7Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T13:39:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510391.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B014E12F7Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B014E12F7Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
