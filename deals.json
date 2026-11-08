@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T09:13:47Z",
+  "updated_at": "2026-11-08T09:58:46Z",
   "deals": [
+    {
+      "title": "iQOO Z11 5G at ₹31,999 Apply ₹4,000 Coupon ₹4,000 off IDFC /HDFC/SBI Credit Card",
+      "price": 31999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCNC1Z9X?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T09:58:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HCNC1Z9X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCNC1Z9X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCNC1Z9X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @9k Zebronics Juke Bar 9330 500W Soundbar 2026 Launch Apply bank offer",
       "price": 9,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3V52R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C2Q3V52R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Daniel Hechter Paris Cite Collection Watch 1,815 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FP2S4JBN?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T16:42:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FP2S4JBN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FP2S4JBN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FP2S4JBN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
