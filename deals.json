@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T14:37:54Z",
+  "updated_at": "2026-11-08T14:38:00Z",
   "deals": [
+    {
+      "title": "30",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D73TGLR8?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T14:37:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D73TGLR8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D73TGLR8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D73TGLR8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPSZB4SD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPSZB4SD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "99",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXSTDXJW?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T18:36:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FXSTDXJW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXSTDXJW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXSTDXJW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
