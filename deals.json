@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T02:57:15Z",
+  "updated_at": "2026-11-08T03:24:00Z",
   "deals": [
+    {
+      "title": "Pigeon Handy Chopper at ₹207.",
+      "price": 207,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07GS7NYJJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T03:23:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07GS7NYJJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07GS7NYJJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07GS7NYJJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo IdeaPad Slim 3 Smartchoice (8GB RAM/512GB SSD) @ Rs.51,240 **(Effective Price**) **Apply Rs.1000 Off Coupon + Rs.3750 Instant Discount On IDFC CC**",
       "price": 51240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00W1G5KQU.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00W1G5KQU.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3577",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DG8P3DKV?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T13:14:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DG8P3DKV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DG8P3DKV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DG8P3DKV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
