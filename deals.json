@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T03:24:07Z",
+  "updated_at": "2026-11-08T03:54:01Z",
   "deals": [
+    {
+      "title": "iPhone Lightning Cable (Pack of 2) at Rs.175",
+      "price": 175,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08H8SZKK8?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T03:54:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08H8SZKK8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08H8SZKK8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08H8SZKK8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70% Off: Puma Unisex-Adult Redeem Pro Racer Running Shoe at ₹2,249 💥 Link:",
       "price": 2249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DDHNX5W4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DDHNX5W4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Lowest : Solar Fairy String Lights (39 Ft, 120 LEDs) – Only ₹399🤯 ✨Solar-Powered with 800 mAh Rechargeable Battery ✨IP65 Waterproof Design with 8 Lighting Modes ✨Perfect for Gardens, Diwali & Home Décor Buy Now👇🏻 🛒 BU",
-      "price": 399,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B084ZNM4PM?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T13:24:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510386.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B084ZNM4PM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B084ZNM4PM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
