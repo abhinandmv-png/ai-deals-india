@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T03:54:14Z",
+  "updated_at": "2026-11-08T04:31:46Z",
   "deals": [
+    {
+      "title": "Haldiram's Kaju Katli Gift Pack 400g @485",
+      "price": 485,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HK86ZNR4?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T04:31:46Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HK86ZNR4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Tommy Hilfiger Backpack @ 1049 Reg Price Double",
       "price": 1049,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B014E12F7Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B014E12F7Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "POPCORN & COMPANY Cheesy Sriracha Popcorn Sampler Pack 15GM 1₹ Coupon Prime Users Specific Check In Your Account",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKSCFXMJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T13:39:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HKSCFXMJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKSCFXMJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKSCFXMJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
