@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T06:42:16Z",
+  "updated_at": "2026-11-08T07:01:51Z",
   "deals": [
+    {
+      "title": "74% Off : BoroPlus Moisturising Cream, 300ml @128. Buy Max Qty :",
+      "price": 128,
+      "original_price": 492,
+      "category": "Beauty",
+      "badge": "74% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B8QC4TXG?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T07:01:51Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B8QC4TXG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B8QC4TXG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B8QC4TXG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dabur Sundarban Honey - 500g @299",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HLDPQ73P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HLDPQ73P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". JBL Cinema SB190 Deep Bass, Dolby Atmos Soundbar 6,845 760 off with HDFC Cc",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B1J8SXLC?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T14:54:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0B1J8SXLC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B1J8SXLC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B1J8SXLC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
