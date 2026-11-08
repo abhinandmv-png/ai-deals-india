@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T09:58:46Z",
+  "updated_at": "2026-11-08T10:13:44Z",
   "deals": [
+    {
+      "title": ". Pepe Jeans Women’s Synthetic Pullover 459₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08L6P32R7?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T10:13:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08L6P32R7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08L6P32R7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08L6P32R7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iQOO Z11 5G at ₹31,999 Apply ₹4,000 Coupon ₹4,000 off IDFC /HDFC/SBI Credit Card",
       "price": 31999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07DPRHCH5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07DPRHCH5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Philips 10 Watt LED Bulb 🔥 76₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C2Q3V52R?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T16:42:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510423.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3V52R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C2Q3V52R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
