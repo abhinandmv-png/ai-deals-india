@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T17:37:56Z",
+  "updated_at": "2026-11-08T17:53:05Z",
   "deals": [
+    {
+      "title": ". Parker Vector Standard Roller Ball Pen (Blue) 262₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00LZPR246?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T17:53:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511431.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00LZPR246.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00LZPR246.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Acer PM161QT 15.6 Inch Full HD IPS Portable Touch Monitor 9,912",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXVSDLV7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXVSDLV7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah By Borosil Opalware Dinner Set 19 Pcs @843",
-      "price": 843,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MJJ38H?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T02:06:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510471.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MJJ38H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MJJ38H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
