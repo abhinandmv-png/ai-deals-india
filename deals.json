@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T18:07:58Z",
+  "updated_at": "2026-11-08T18:37:58Z",
   "deals": [
+    {
+      "title": "2499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZ57WW1Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T18:37:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GZ57WW1Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZ57WW1Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZ57WW1Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "400 Adhi Avvadhamma 🤣",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G1MXSVSP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G1MXSVSP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1274 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CXPDQNBP?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T02:36:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510474.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CXPDQNBP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CXPDQNBP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
