@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T14:38:00Z",
+  "updated_at": "2026-11-08T14:38:30Z",
   "deals": [
+    {
+      "title": "Loot 99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07Z3N8NQV?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T14:38:29Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07Z3N8NQV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07Z3N8NQV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07Z3N8NQV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "30",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FV8Z9P77.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FV8Z9P77.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Flowfurl Knit Running Shoes 1,433₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPSZB4SD?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T18:36:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CPSZB4SD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPSZB4SD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPSZB4SD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
