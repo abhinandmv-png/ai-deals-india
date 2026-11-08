@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T07:58:37Z",
+  "updated_at": "2026-11-08T07:58:48Z",
   "deals": [
+    {
+      "title": "@584",
+      "price": 584,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09NXVL64J?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T07:58:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09NXVL64J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09NXVL64J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09NXVL64J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Parker Vector Standard Chrome Trim Roller Ball Pen (Black Body, Blue Ink) @249.",
       "price": 249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZTSWMZZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZTSWMZZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 2,895₹ CELLBELL Desire C104 Mesh Mid Back Chair",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08XBGZ4R6?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T15:54:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510414.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08XBGZ4R6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08XBGZ4R6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
