@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T03:24:00Z",
+  "updated_at": "2026-11-08T03:24:07Z",
   "deals": [
+    {
+      "title": "70% Off: Puma Unisex-Adult Redeem Pro Racer Running Shoe at ₹2,249 💥 Link:",
+      "price": 2249,
+      "original_price": 7497,
+      "category": "Fashion",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H27HR7WK?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T03:24:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H27HR7WK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H27HR7WK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H27HR7WK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon Handy Chopper at ₹207.",
       "price": 207,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B084ZNM4PM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B084ZNM4PM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Origami Toilet 3 Ply Tissue Paper (Pack of 12 , 160 Pulls Each) @ 219 Regular price 300+",
-      "price": 219,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00W1G5KQU?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T13:17:08Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_146938.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00W1G5KQU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00W1G5KQU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
