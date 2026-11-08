@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T14:25:57Z",
+  "updated_at": "2026-11-08T14:26:05Z",
   "deals": [
+    {
+      "title": ". Reebok Men's Walking Shoes 🔥 910₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B5HJ82WJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T14:26:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511405.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B5HJ82WJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B5HJ82WJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Samsung Galaxy Tab S10 Lite 29249 1750 Off With IDFC & RBL Credit Cards",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/GSXBE5aPfa.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/GSXBE5aPfa.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Havells 1000Watts Dry Iron 🔥 459₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C8HJWJPC?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T18:21:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510437.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C8HJWJPC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C8HJWJPC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
