@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T15:22:53Z",
+  "updated_at": "2026-11-08T15:37:57Z",
   "deals": [
+    {
+      "title": ". Casio Analog White Dial Men Watch 1747",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWXMP9RX?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T15:37:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511415.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWXMP9RX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWXMP9RX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Mens FLYLITE LSS Voyager M Running Shoe 1449",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCTZN41N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCTZN41N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Spykar Men's Shirt 🔥 625₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D8J34TVP?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T19:36:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510457.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D8J34TVP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D8J34TVP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
