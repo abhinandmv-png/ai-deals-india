@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T04:39:05Z",
+  "updated_at": "2026-11-08T04:54:04Z",
   "deals": [
+    {
+      "title": "Grab🔥🔥 @71240 14,750 off with hdfc cc Haier 520 L 3 Star Lumiere Frost Free Triple Inverter French Door Side by Side Refrigerator",
+      "price": 71240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GP6ZVL2S?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T04:54:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511317.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GP6ZVL2S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GP6ZVL2S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GIZGA essentials 15L Laptop Backpack at 306/",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7CXCWC1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7CXCWC1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Afghani Anjeer 1Kg at Rs.375. *Buy Max Quantity",
-      "price": 375,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G4RFMPWY?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T13:47:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G4RFMPWY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G4RFMPWY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G4RFMPWY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
