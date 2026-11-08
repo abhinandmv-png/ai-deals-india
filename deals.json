@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T07:54:12Z",
+  "updated_at": "2026-11-08T07:54:24Z",
   "deals": [
+    {
+      "title": "Titan Karishma Analog Champagne Dial Women's Watch at ₹1,935 Apply coupon",
+      "price": 1935,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07CR1JQBY?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T07:54:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511343.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07CR1JQBY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07CR1JQBY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @3849 BUMTUM Luxury Baby Stroller",
       "price": 3849,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJS2RGB4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJS2RGB4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 93% Off - Red Tape Men's Sports Shoes Hero MotoCorp Pleasure at ‎₹68,080 *Apply ₹2500 Off Coupon + ₹10,050 Off With HDFC Credit Cards*. Simply Book Online Through Amazon & Collect Your Bike From The Nearest Availabl",
-      "price": 68080,
-      "original_price": 972571,
-      "category": "Fashion",
-      "badge": "93% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGY6XWNQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T15:47:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FGY6XWNQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGY6XWNQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGY6XWNQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
