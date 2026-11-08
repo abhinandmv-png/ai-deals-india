@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T08:58:45Z",
+  "updated_at": "2026-11-08T09:13:47Z",
   "deals": [
+    {
+      "title": "Grab @9k Zebronics Juke Bar 9330 500W Soundbar 2026 Launch Apply bank offer",
+      "price": 9,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVYJ9G96?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T09:13:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511358.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVYJ9G96.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVYJ9G96.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@1117",
       "price": 1117,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FP2S4JBN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FP2S4JBN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "119",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01M9FZCY9?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T16:24:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B01M9FZCY9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01M9FZCY9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01M9FZCY9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
