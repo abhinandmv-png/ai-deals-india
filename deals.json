@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T15:54:42Z",
+  "updated_at": "2026-11-08T16:22:59Z",
   "deals": [
+    {
+      "title": ". L’Oreal Paris Conditioner, 386ml 296",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CW1TCKXV?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T16:22:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CW1TCKXV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CW1TCKXV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CW1TCKXV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cello Taper Fry Pan 22cm @455.",
       "price": 455,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNRF626K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNRF626K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Preethi MiniBlend Plus Blender, 3 Jars, 25000 RPM for Blend, Grind @ Rs.2599",
-      "price": 2599,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08L4CVY3G?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T00:44:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08L4CVY3G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08L4CVY3G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08L4CVY3G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
