@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T08:28:48Z",
+  "updated_at": "2026-11-08T08:58:45Z",
   "deals": [
+    {
+      "title": "@1117",
+      "price": 1117,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BLNS5712?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T08:58:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511356.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BLNS5712.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BLNS5712.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sanusi Ceiling Fan @ 1029 Apply ₹258 Off Coupon Lifelong Gun Massager with 7 heads @799",
       "price": 1029,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01M9FZCY9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01M9FZCY9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "403",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09R9P7ZTR?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T16:09:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09R9P7ZTR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09R9P7ZTR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09R9P7ZTR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
