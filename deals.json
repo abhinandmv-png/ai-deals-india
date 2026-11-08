@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T07:01:57Z",
+  "updated_at": "2026-11-08T07:09:08Z",
   "deals": [
+    {
+      "title": "@2499",
+      "price": 2499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HKD9X9FC?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T07:09:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511333.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HKD9X9FC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HKD9X9FC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "29",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BJ2SNDH6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BJ2SNDH6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Giordano Watch A1053 2,899",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01N9K8X3U?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T15:24:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B01N9K8X3U.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01N9K8X3U.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01N9K8X3U.01.LZZZZZZZ.jpg"
       ]
     }
   ]
