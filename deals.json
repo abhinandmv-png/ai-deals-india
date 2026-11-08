@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T18:38:06Z",
+  "updated_at": "2026-11-08T18:53:32Z",
   "deals": [
+    {
+      "title": "789",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRCPK5KM?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T18:53:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511441.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRCPK5KM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRCPK5KM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". NIVEA Natural Glow Cell Repair Body Lotion, 400ml 290₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BLBYWBP4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BLBYWBP4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Marks & Spencer Women Jeans @524",
-      "price": 524,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQJGSGPT?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T02:45:08Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FQJGSGPT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQJGSGPT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQJGSGPT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
