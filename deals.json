@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T06:39:07Z",
+  "updated_at": "2026-11-08T06:42:16Z",
   "deals": [
+    {
+      "title": "Dabur Sundarban Honey - 500g @299",
+      "price": 299,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BH8XP25J?tag=premiumde066c-21",
+      "posted_at": "2026-11-08T06:42:16Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BH8XP25J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BH8XP25J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BH8XP25J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "57% Off On Greenchef 2-burners Gas Stove at Rs.1199 18% off: Apple iPad 11″: A16 chip, 27.69 cm (11″) 128GB Rs4000 off with Amzn Pay ICICI cc ➕ Collect Rs300 Prime cashback",
       "price": 1199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B1J8SXLC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B1J8SXLC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Real Mass Gainer [ Rich Chocolate] at Rs.599",
-      "price": 599,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07X8FWFMB?tag=premiumde066c-21",
-      "posted_at": "2026-11-02T14:47:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07X8FWFMB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07X8FWFMB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07X8FWFMB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
