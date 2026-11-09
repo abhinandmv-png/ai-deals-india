@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T18:50:22Z",
+  "updated_at": "2026-11-09T18:50:31Z",
   "deals": [
+    {
+      "title": ". Philips 10-watt LED Bulb 🔥 59₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C2Q3V52R?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T18:50:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511615.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3V52R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C2Q3V52R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TVS Racing Titan Series Full Face Helmet for Men 1742",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G7X6BCQS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G7X6BCQS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Washable Pet Bed (XS) @168.",
-      "price": 168,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHB7SNVR?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T05:43:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FHB7SNVR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHB7SNVR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHB7SNVR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
