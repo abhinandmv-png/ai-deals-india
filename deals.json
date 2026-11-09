@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T03:08:04Z",
+  "updated_at": "2026-11-09T03:08:17Z",
   "deals": [
+    {
+      "title": "Aristocrat 52 cms Travel Duffle at arms.899.",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S9GSXVQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T03:08:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511463.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S9GSXVQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S9GSXVQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt (2026 Launch) 20000 mAh 22.5W Fast Charging Power Bank at Rs.1399.",
       "price": 1399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHQ1ZHCZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHQ1ZHCZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Comforter @499. Check All Colours :",
-      "price": 499,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGRGP7T8?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T04:21:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HGRGP7T8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGRGP7T8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGRGP7T8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
