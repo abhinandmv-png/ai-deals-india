@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T16:35:19Z",
+  "updated_at": "2026-11-09T16:41:21Z",
   "deals": [
+    {
+      "title": "IFB 24L Solo Microwave Oven with 69 Auto Cook @ ₹7,990 Apply ₹500 off coupon",
+      "price": 7990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CGN8FMJ8?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T16:41:20Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CGN8FMJ8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CGN8FMJ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CGN8FMJ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Polycab Aerorush 1200mm 5-Star BLDC Ceiling fan for Home with Remote 3099",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09FMM9V9N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09FMM9V9N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥🔥 INALSA Ceramic Air Fryer,5.5L,1600W,Non Toxic,AirCrisp Tech,TastyFry CDW5.5 3799",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FKGLDCV5?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T02:07:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510667.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FKGLDCV5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FKGLDCV5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
