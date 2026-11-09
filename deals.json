@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T04:38:08Z",
+  "updated_at": "2026-11-09T04:53:09Z",
   "deals": [
+    {
+      "title": "Grab @675",
+      "price": 675,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07X4SVD7R?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T04:53:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511477.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07X4SVD7R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07X4SVD7R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @5841🔥🔥 RR Signature Prismiq 15L Storage Water Heater",
       "price": 5841,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSZ4Y2H6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSZ4Y2H6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : HARLEY-DAVIDSON X440 Vivid Motorcycle 440cc @ 2,00,950 (Effectively) Apply 15000 Coupon + 19,050 Off Using CC",
-      "price": 200950,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDGY3Q18?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T07:51:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FDGY3Q18.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDGY3Q18.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDGY3Q18.01.LZZZZZZZ.jpg"
       ]
     }
   ]
