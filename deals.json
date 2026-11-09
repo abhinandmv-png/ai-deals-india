@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T18:19:51Z",
+  "updated_at": "2026-11-09T18:20:00Z",
   "deals": [
+    {
+      "title": "🔥🔥 1,315₹ SINGER Magwave 2000W Room Heater with 2 Heat Settings",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BK5CCTBN?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T18:20:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511602.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BK5CCTBN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BK5CCTBN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Men's Enzo Run Running Shoe 1,950₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B092R2G7FF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B092R2G7FF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosilicate Glass Lunch Box @400.",
-      "price": 400,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DTTZ8MN9?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T03:43:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510680.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DTTZ8MN9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DTTZ8MN9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
