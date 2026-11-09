@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-08T19:38:02Z",
+  "updated_at": "2026-11-09T02:08:04Z",
   "deals": [
+    {
+      "title": "Water Dental Flosser for Teeth at Rs.498.",
+      "price": 498,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMNR633Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T02:08:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511453.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMNR633Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMNR633Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 483₹ Lavie Sport Unisex 1.5 Compartment Business Pro Laptop Bag Slim Sleeve (Black)",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HG148NVM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HG148NVM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "60% Off : Biotique Face Wash 200ml @146",
-      "price": 146,
-      "original_price": 365,
-      "category": "Beauty",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07PRVXDGV?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T03:36:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510481.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07PRVXDGV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07PRVXDGV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
