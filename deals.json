@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T18:41:27Z",
+  "updated_at": "2026-11-09T18:49:49Z",
   "deals": [
+    {
+      "title": ". Dabur Gulabari Shower Gel, 250ml 81₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJLY8XS3?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T18:49:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CJLY8XS3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJLY8XS3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJLY8XS3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Baby Boy 100% Cotton Sleeveless T-Shirt & Shorts Set Pack of 3 at 281",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FX9R121C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FX9R121C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy Tab S10 FE (8 GB RAM, 128 GB) at Rs.36,699 💥 Link: 📌 Apply ₹3000 Coupon + ₹4300 Off with HDFC CC",
-      "price": 36699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F29P9CKJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T04:58:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510685.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F29P9CKJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F29P9CKJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
