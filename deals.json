@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T11:08:14Z",
+  "updated_at": "2026-11-09T11:23:16Z",
   "deals": [
+    {
+      "title": "99",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FVXNFQZ7?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T11:23:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511542.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FVXNFQZ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FVXNFQZ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bata Men’s Slip-on Formal Shoes 659",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "256",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F2TS5991?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T16:06:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F2TS5991.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F2TS5991.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F2TS5991.01.LZZZZZZZ.jpg"
       ]
     }
   ]
