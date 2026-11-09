@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T09:55:02Z",
+  "updated_at": "2026-11-09T09:58:14Z",
   "deals": [
+    {
+      "title": "Aristocrat Combat Check-in Trolley Bag, 73 Cm Large Hardside Luggage at 1815",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F946BX4T?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T09:58:14Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0F946BX4T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F946BX4T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F946BX4T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply ₹9000 Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08645RXJ6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08645RXJ6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". NIVEA Men Body Wash, Active Clean (250ml) 166",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00XRJBOBA?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T14:09:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00XRJBOBA.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00XRJBOBA.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00XRJBOBA.01.LZZZZZZZ.jpg"
       ]
     }
   ]
