@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T02:08:04Z",
+  "updated_at": "2026-11-09T02:08:15Z",
   "deals": [
+    {
+      "title": "Home Centre | Helios Kohi Coffee Table at Rs.2131",
+      "price": 2131,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0971GNY2S?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T02:08:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511455.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0971GNY2S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0971GNY2S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Water Dental Flosser for Teeth at Rs.498.",
       "price": 498,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4HP1B43.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4HP1B43.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Essential Plus Stainless Steel Stripe Hot Pot 1500ml at 549 Appl 250 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HG148NVM?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T03:36:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510483.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HG148NVM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HG148NVM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
