@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T12:53:28Z",
+  "updated_at": "2026-11-09T13:08:14Z",
   "deals": [
+    {
+      "title": "104",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GLQ8WVD6?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T13:08:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GLQ8WVD6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GLQ8WVD6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GLQ8WVD6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Mens Rout 2 M Running Shoe 1,385₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHTR93TV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHTR93TV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "269",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GJDDLMVZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T18:06:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510623.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GJDDLMVZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GJDDLMVZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
