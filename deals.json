@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T13:08:14Z",
+  "updated_at": "2026-11-09T13:23:15Z",
   "deals": [
+    {
+      "title": ". Haldirams Mithas Ladoo 400gm 175₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07PNBHX46?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T13:23:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07PNBHX46.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07PNBHX46.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07PNBHX46.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "104",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GW2WQBKT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GW2WQBKT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Axe Dark Temptation 3 In 1 Body Wash 90₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHTR93TV?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T18:07:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BHTR93TV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHTR93TV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHTR93TV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
