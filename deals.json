@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T17:35:03Z",
+  "updated_at": "2026-11-09T17:41:22Z",
   "deals": [
+    {
+      "title": "IFB 187L 4 Star Single Door Refrigerator at Rs.16,990 Apply ₹1,000 off coupon",
+      "price": 16990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYFYKL7L?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T17:41:22Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GYFYKL7L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYFYKL7L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYFYKL7L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Livpure Smart Orthopedic Mattress 6899 1000 Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHFS8GMH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHFS8GMH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon by Stovekraft Cast Iron Kadai with Glass Lid @817",
-      "price": 817,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CYSPGZSB?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T03:22:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510674.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CYSPGZSB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CYSPGZSB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
