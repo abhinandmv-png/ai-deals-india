@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T04:23:08Z",
+  "updated_at": "2026-11-09T04:26:16Z",
   "deals": [
+    {
+      "title": "Fabric Cushion Seat at Rs.682",
+      "price": 682,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7BP6PX7?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T04:26:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511475.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7BP6PX7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7BP6PX7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@2499",
       "price": 2499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09FFCRQQF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09FFCRQQF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹3299 Apply coupon Loot : Upto 70% Off On L'Oréal Paris & Garnier Beauty Products Armani Exchange A|X Dive-Inspired Stainless Steel Men's Watch at Rs.8,998 💥 Link: Rs.999 Off with HDFC CC",
-      "price": 3299,
-      "original_price": 8998,
-      "category": "Electronics",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D854LQLS?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T07:06:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510515.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D854LQLS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D854LQLS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
