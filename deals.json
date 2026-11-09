@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T03:08:17Z",
+  "updated_at": "2026-11-09T03:23:07Z",
   "deals": [
+    {
+      "title": "[ Coupon + HDFC CC ] 🔥🔥 Interio by Godrej Sleep Essential King Bed Spring Mattress at Rs. 30240",
+      "price": 30240,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08WK1FK7L?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T03:23:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511465.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08WK1FK7L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08WK1FK7L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat 52 cms Travel Duffle at arms.899.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GCDZ3BSK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GCDZ3BSK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@1399",
-      "price": 1399,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHQ1ZHCZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T04:21:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510491.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHQ1ZHCZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHQ1ZHCZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
