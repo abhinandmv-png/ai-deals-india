@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T17:05:18Z",
+  "updated_at": "2026-11-09T17:20:20Z",
   "deals": [
+    {
+      "title": ". Reebok Men T-Shirt 🔥 449₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CN19PHHM?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T17:20:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511594.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CN19PHHM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CN19PHHM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097GMVVVL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097GMVVVL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kenstar Infra LUMO 2000W Infrared Stove @1999",
-      "price": 1999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5KF92L2?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T02:22:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510669.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5KF92L2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5KF92L2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
