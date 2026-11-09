@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T05:28:04Z",
+  "updated_at": "2026-11-09T05:28:11Z",
   "deals": [
+    {
+      "title": "Havells Gatik Pro 400mm BLDC Pedestal Fan @2850 Apply 15% Off Coupon:",
+      "price": 2850,
+      "original_price": 3353,
+      "category": "Home",
+      "badge": "15% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYX5TFJ5?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T05:28:10Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GYX5TFJ5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYX5TFJ5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYX5TFJ5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Maybelline New York Colossal Bold Eyeliner @99.",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKPHGFQK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKPHGFQK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "74% off : Provogue Cascade Hard-Sided PP 75 Cm Trolley Bag Large Size @₹2,249",
-      "price": 2249,
-      "original_price": 8650,
-      "category": "Fashion",
-      "badge": "74% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXV5FRYN?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T09:06:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510535.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXV5FRYN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXV5FRYN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
