@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T06:23:13Z",
+  "updated_at": "2026-11-09T06:28:04Z",
   "deals": [
+    {
+      "title": "Orient Electric Eternal 9W LED Ceiling Light at 125",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D4V271TT?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T06:28:04Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D4V271TT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D4V271TT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D4V271TT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4799 Levoit Core Mini Air Purifier For Home",
       "price": 4799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWTNZRP1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWTNZRP1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Haier 520L Triple Inverter French Door Side by Side Refrigerator 65,240 Apply 3,000 Coupon + 12,750 Off With HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWMFZ5SX?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T11:01:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510558.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWMFZ5SX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWMFZ5SX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
