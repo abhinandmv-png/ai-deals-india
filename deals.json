@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T17:20:20Z",
+  "updated_at": "2026-11-09T17:34:48Z",
   "deals": [
+    {
+      "title": ". Spacewood Study Desk with Storage, 3 Year Warranty 4,399₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GN8V6W21?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T17:34:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GN8V6W21.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GN8V6W21.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GN8V6W21.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Men T-Shirt 🔥 449₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08JLXKSDZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08JLXKSDZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Safari Roma Hard Luggage at Rs.1799.",
-      "price": 1799,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B097GMVVVL?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T02:37:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510670.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B097GMVVVL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B097GMVVVL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
