@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T15:08:19Z",
+  "updated_at": "2026-11-09T15:23:15Z",
   "deals": [
+    {
+      "title": ". Puma Unisex Adult Flair 2 Running Shoe 1,608",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BDY75Y8B?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T15:23:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BDY75Y8B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BDY75Y8B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BDY75Y8B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 199₹ Ant Value FKBRI01 Ultra-Slim Compact USB Wired Keyboard for Mac and PC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BZYRCS7Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BZYRCS7Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "57% off : Kesh King Organic Onion Shampoo - 600Ml @ Rs.299",
-      "price": 299,
-      "original_price": 695,
-      "category": "Beauty",
-      "badge": "57% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09M6WYGL8?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T00:52:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09M6WYGL8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09M6WYGL8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09M6WYGL8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
