@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T12:38:26Z",
+  "updated_at": "2026-11-09T12:53:17Z",
   "deals": [
+    {
+      "title": ". Atomberg Renesa Smart Elite 600mm BLDC Ceiling Fan 2999",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7XZH9P4?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T12:53:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511552.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7XZH9P4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Orient Electric Instaflo Neo Geyser 5.9 Litre Instant Water Heater 3,799₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BZQJFZSW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BZQJFZSW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Samsung 55-inch Mini LED 4K Vision AI Smart TV 38490 Apply 3500 Coupon + 5500 Off With HDFC CC EMI",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXV5313B?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T17:07:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GXV5313B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXV5313B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXV5313B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
