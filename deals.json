@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T06:38:07Z",
+  "updated_at": "2026-11-09T06:53:10Z",
   "deals": [
+    {
+      "title": "Loot if Needed IFB 206L 5 Star Advanced Inverter Refrigerator @17,716 Flat ₹3274 Off With Axis/HDFC CC",
+      "price": 17716,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GW2Q1JV7?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T06:53:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511494.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GW2Q1JV7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GW2Q1JV7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "100",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08N6DMG3N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08N6DMG3N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 198₹ Pigeon by Stovekraft Inox Hydra Plus Stainless Steel Drinking Water Bottle 900 ml - Silver",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHSHJZ33?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T11:16:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510562.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHSHJZ33.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHSHJZ33.01.LZZZZZZZ.jpg"
       ]
     }
   ]
