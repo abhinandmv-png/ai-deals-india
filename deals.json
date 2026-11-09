@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T08:55:02Z",
+  "updated_at": "2026-11-09T08:55:09Z",
   "deals": [
+    {
+      "title": "Loot 90",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CBKJXDCH?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T08:55:09Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CBKJXDCH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CBKJXDCH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CBKJXDCH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 45",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7HC4YZQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7HC4YZQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Running Shoes Swift Run 1219",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08D3PQ8Z6?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T12:46:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08D3PQ8Z6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08D3PQ8Z6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08D3PQ8Z6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
