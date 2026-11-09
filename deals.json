@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T04:26:16Z",
+  "updated_at": "2026-11-09T04:38:08Z",
   "deals": [
+    {
+      "title": "Grab @5841🔥🔥 RR Signature Prismiq 15L Storage Water Heater",
+      "price": 5841,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2T27KWC?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T04:38:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511476.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2T27KWC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2T27KWC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fabric Cushion Seat at Rs.682",
       "price": 682,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDGY3Q18.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDGY3Q18.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Women’s Sweatshirt at Rs.569",
-      "price": 569,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09FFCRQQF?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T07:21:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510519.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09FFCRQQF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09FFCRQQF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
