@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T05:08:08Z",
+  "updated_at": "2026-11-09T05:23:09Z",
   "deals": [
+    {
+      "title": "3557 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DG8P3DKV?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T05:23:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511480.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DG8P3DKV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DG8P3DKV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Orchid 15.5 Litre Inner Steel Casserole, Dark Brown, 15.5 Litres — ₹1,748.",
       "price": 1748,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/A2J1QEYPGB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/A2J1QEYPGB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "797 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F434CCFJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T08:36:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510530.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F434CCFJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F434CCFJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
