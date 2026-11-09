@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T17:41:22Z",
+  "updated_at": "2026-11-09T17:56:25Z",
   "deals": [
+    {
+      "title": "Crompton Arno Neo 15-L 5 Star Rated Storage Water Heater @ ₹5,899",
+      "price": 5899,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08GSQXLJ2?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T17:56:24Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B08GSQXLJ2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08GSQXLJ2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08GSQXLJ2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "IFB 187L 4 Star Single Door Refrigerator at Rs.16,990 Apply ₹1,000 off coupon",
       "price": 16990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B013OU6U4C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B013OU6U4C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 Cruise 1.5 Ton 3 Star Inverter Split AC with 7-Stage Air Filtration @ 26,240. 2750 Off with HDFC CC",
-      "price": 26240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHFS8GMH?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T03:22:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GHFS8GMH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHFS8GMH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHFS8GMH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
