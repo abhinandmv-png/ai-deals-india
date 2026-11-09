@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T12:08:13Z",
+  "updated_at": "2026-11-09T12:13:12Z",
   "deals": [
+    {
+      "title": "amazon basics Back Case Cover for iPhone 15 Pro Max at 85",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJ2P9XRF?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T12:13:11Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CJ2P9XRF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJ2P9XRF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJ2P9XRF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". LG 27GS50F 68.6cm (27 Inch) Ultragear FHD Gaming Monitor 11,739",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FPWJX447.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FPWJX447.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2987",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DG5TKLGG?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T16:36:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DG5TKLGG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DG5TKLGG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DG5TKLGG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
