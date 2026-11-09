@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T04:08:08Z",
+  "updated_at": "2026-11-09T04:08:21Z",
   "deals": [
+    {
+      "title": "Office Chair at Rs.2895",
+      "price": 2895,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08XBGZ4R6?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T04:08:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511472.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08XBGZ4R6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08XBGZ4R6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cello Opalware Dinner Set 49Pcs @2112",
       "price": 2112,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPVX566R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPVX566R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 7 kg 5 Star Fully Automatic Top Load Washing Machine @ ₹14,791 Link : Get Flat ₹2,199 off with HDFC EMI + ₹500 off coupon",
-      "price": 14791,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GCNSBMR3?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T05:51:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GCNSBMR3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GCNSBMR3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GCNSBMR3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
