@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T18:49:56Z",
+  "updated_at": "2026-11-09T18:50:05Z",
   "deals": [
+    {
+      "title": ". Larah by Borosil Lavender Opalware Dinner Set, 12 Pieces 690₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07TD6FYY2?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T18:50:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511611.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07TD6FYY2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07TD6FYY2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Men's Slim Fit T-Shirt 389₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0961X3R2H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0961X3R2H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton 24 Hr Hot & Cold Insulated Bottle, 730ml @565.",
-      "price": 565,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F1T7BKBH?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T05:28:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510689.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F1T7BKBH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F1T7BKBH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
