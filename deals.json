@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T15:23:15Z",
+  "updated_at": "2026-11-09T15:38:15Z",
   "deals": [
+    {
+      "title": "30",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D73RGQMV?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T15:38:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D73RGQMV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D73RGQMV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D73RGQMV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Unisex Adult Flair 2 Running Shoe 1,608",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GGJ2TH8Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GGJ2TH8Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot Other'olour costs more🔥",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BZYRCS7Y?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T01:07:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510659.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BZYRCS7Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BZYRCS7Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
