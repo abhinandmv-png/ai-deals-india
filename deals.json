@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T08:38:15Z",
+  "updated_at": "2026-11-09T08:55:02Z",
   "deals": [
+    {
+      "title": "Loot 45",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B003WR2T5W?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T08:55:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B003WR2T5W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B003WR2T5W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B003WR2T5W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON Lunch Box with Insulated Jacket & Water Bottle @251.",
       "price": 251,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08D3PQ8Z6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08D3PQ8Z6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 475₹ Bajaj 1000 W Immersion Water Heater Rod | Nickel-Plated Heating Element",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00KA7VUD4?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T12:31:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510580.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00KA7VUD4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00KA7VUD4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
