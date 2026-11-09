@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T06:08:32Z",
+  "updated_at": "2026-11-09T06:23:13Z",
   "deals": [
+    {
+      "title": "Grab @4799 Levoit Core Mini Air Purifier For Home",
+      "price": 4799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CG1N11DV?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T06:23:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511492.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CG1N11DV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CG1N11DV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab Deal🔥 boAt Partypal 600,Animated Text Display,Wireless Karaoke MIC, LED 220 W at 10,709 Apply 4000 Coupon + Get 1190 Discount Using SBI CC Link : GameSir Newly Launches Astro Junior Premium @699",
       "price": 699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWMFZ5SX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWMFZ5SX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". RR Signature Raptor 1200mm BLDC Designer Ceiling Fan 2,899₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC2NLJTF?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T11:01:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510556.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC2NLJTF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
