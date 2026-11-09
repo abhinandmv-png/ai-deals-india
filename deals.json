@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T09:53:33Z",
+  "updated_at": "2026-11-09T09:55:02Z",
   "deals": [
+    {
+      "title": "Apply ₹9000 Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3ZXG5HM?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T09:55:02Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H3ZXG5HM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3ZXG5HM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3ZXG5HM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Razer DeathAdder Essential White Edition - 6400 DPI Ergonomic Wired Gaming Mouse at 1299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00XRJBOBA.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00XRJBOBA.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "399",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BQC1FP31?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T13:54:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510592.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BQC1FP31.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BQC1FP31.01.LZZZZZZZ.jpg"
       ]
     }
   ]
