@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T11:23:16Z",
+  "updated_at": "2026-11-09T12:08:13Z",
   "deals": [
+    {
+      "title": ". LG 27GS50F 68.6cm (27 Inch) Ultragear FHD Gaming Monitor 11,739",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGTDL3L3?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T12:08:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DGTDL3L3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGTDL3L3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGTDL3L3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DG5TKLGG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DG5TKLGG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 65 inch (163cm) Crystal UHD 4K Vision AI 2026 Smart TV @53,990 (Effectively) Apply ₹1500 Coupon + ₹2500 Off With HDFC CC",
-      "price": 53990,
-      "original_price": 2500,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GZKCC5TZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T16:28:53Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
