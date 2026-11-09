@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T03:41:09Z",
+  "updated_at": "2026-11-09T04:08:08Z",
   "deals": [
+    {
+      "title": "Cello Opalware Dinner Set 49Pcs @2112",
+      "price": 2112,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C74KWZW9?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T04:08:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511471.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C74KWZW9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C74KWZW9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLO San Oasis Whiskey Rocks Glass Set of 6 Pcs, 385ml @243.",
       "price": 243,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GCNSBMR3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GCNSBMR3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bergner Argent Elements Triply Stainless Steel 3.5 L Outer Lid Pressure Pan @2899",
-      "price": 2899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFW3HRS1?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T05:21:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510496.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFW3HRS1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFW3HRS1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
