@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T12:53:17Z",
+  "updated_at": "2026-11-09T12:53:28Z",
   "deals": [
+    {
+      "title": ". Reebok Mens Rout 2 M Running Shoe 1,385₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D96D2LJY?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T12:53:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511553.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D96D2LJY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D96D2LJY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Atomberg Renesa Smart Elite 600mm BLDC Ceiling Fan 2999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GJDDLMVZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GJDDLMVZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Trackracer 2.0 Sneaker 🔥 1,343₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BZQJFZSW?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T17:51:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510621.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BZQJFZSW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BZQJFZSW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
