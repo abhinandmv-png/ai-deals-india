@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T05:43:04Z",
+  "updated_at": "2026-11-09T06:08:10Z",
   "deals": [
+    {
+      "title": "Larah by Borosil 33pcs Dinner Set @1361.",
+      "price": 1361,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MVCBMW?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T06:08:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511485.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MVCBMW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MVCBMW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt 2026 Launch Stone Edge w/Bass Boost Mode at Rs.2,999",
       "price": 2999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GW2YHFCX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GW2YHFCX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Jivo Cold Pressed Kachi Ghani Mustard Oil 4 Litre 671 Buy 4 Qty & Get 90 CB At Checkout",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NYCSQLF?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T10:31:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09NYCSQLF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09NYCSQLF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09NYCSQLF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
