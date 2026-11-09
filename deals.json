@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T05:38:09Z",
+  "updated_at": "2026-11-09T05:38:16Z",
   "deals": [
+    {
+      "title": "Wall Hooks (Pack of 10) at Rs.90",
+      "price": 90,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMTXKDM4?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T05:38:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CMTXKDM4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMTXKDM4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMTXKDM4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "894",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKG8C6ZB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKG8C6ZB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 149",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B081856FC3?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T10:07:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B081856FC3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B081856FC3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B081856FC3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
