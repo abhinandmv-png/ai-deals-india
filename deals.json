@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T17:34:55Z",
+  "updated_at": "2026-11-09T17:35:03Z",
   "deals": [
+    {
+      "title": ". Livpure Smart Orthopedic Mattress 6899 1000 Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BG324SM9?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T17:35:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BG324SM9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BG324SM9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BG324SM9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "158",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CYSPGZSB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CYSPGZSB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Levi's Men's 511 Blue Slim Jeans — ₹679.",
-      "price": 679,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BZ42QWQC?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T03:22:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510673.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BZ42QWQC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BZ42QWQC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
