@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T06:53:10Z",
+  "updated_at": "2026-11-09T06:56:15Z",
   "deals": [
+    {
+      "title": "GRAB : 80-87% Off On Rangriti Women Clothing.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "87% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/CKvwefhaF2?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T06:56:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511496.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/CKvwefhaF2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/CKvwefhaF2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot if Needed IFB 206L 5 Star Advanced Inverter Refrigerator @17,716 Flat ₹3274 Off With Axis/HDFC CC",
       "price": 17716,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09GG56LM1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09GG56LM1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Preethi Alya 2 Burner Glass Top Gas Stove 2765",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08N6DMG3N?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T11:16:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510563.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08N6DMG3N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08N6DMG3N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
