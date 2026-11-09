@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T18:50:31Z",
+  "updated_at": "2026-11-09T19:04:56Z",
   "deals": [
+    {
+      "title": ". Tata Coffee Grand Original 50g Jar Instant Pure Coffee 245₹",
+      "price": null,
+      "original_price": 50,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09P8VB1QC?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T19:04:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09P8VB1QC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09P8VB1QC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09P8VB1QC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Philips 10-watt LED Bulb 🔥 59₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CZTGRS2S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CZTGRS2S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @9449 Off with hdfc cc",
-      "price": 9449,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G7X6BCQS?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T06:13:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510697.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G7X6BCQS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G7X6BCQS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
