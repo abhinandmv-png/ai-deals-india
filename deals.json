@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T07:53:29Z",
+  "updated_at": "2026-11-09T08:09:57Z",
   "deals": [
+    {
+      "title": "1607",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDX32GYL?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T08:09:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FDX32GYL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDX32GYL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDX32GYL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Men’s Boxers (Pack of 3) at Rs.379",
       "price": 379,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHF11YGJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHF11YGJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Samsung 32\" (80cm) M5 Smart Monitor 14,449 2,549 off with HDFC EMI",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FK5JR8ZR?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T11:46:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FK5JR8ZR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FK5JR8ZR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
