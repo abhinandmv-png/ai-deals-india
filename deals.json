@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T16:26:21Z",
+  "updated_at": "2026-11-09T16:35:19Z",
   "deals": [
+    {
+      "title": ". Polycab Aerorush 1200mm 5-Star BLDC Ceiling fan for Home with Remote 3099",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCVJNGD3?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T16:35:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511586.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCVJNGD3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCVJNGD3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[In stock] iPhone Duo (256 GB) at 2,99,900",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKGLDCV5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKGLDCV5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥 @699",
-      "price": 699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B097JJ2CK6?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T01:52:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510665.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B097JJ2CK6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B097JJ2CK6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
