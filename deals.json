@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T13:38:46Z",
+  "updated_at": "2026-11-09T13:53:18Z",
   "deals": [
+    {
+      "title": ". Mochi Men Leather Formal Shoes 1709",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVX5H2WV?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T13:53:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511564.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVX5H2WV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVX5H2WV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "43",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXL3RMY9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXL3RMY9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Calvin Klein Eau De Toilette 760₹ Apply 20% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "20% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CN7BR4KP?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T18:52:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CN7BR4KP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CN7BR4KP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CN7BR4KP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
