@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T02:38:06Z",
+  "updated_at": "2026-11-09T03:08:04Z",
   "deals": [
+    {
+      "title": "boAt (2026 Launch) 20000 mAh 22.5W Fast Charging Power Bank at Rs.1399.",
+      "price": 1399,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYRKTVKB?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T03:08:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511462.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYRKTVKB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYRKTVKB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLO Glassy Mix Lunch Box — ₹599.",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HGRGP7T8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HGRGP7T8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : Judge by Prestige 500W Mixer Grinder (3 Jars) @1556.",
-      "price": 1556,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKBL94S3?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T04:21:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510489.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKBL94S3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKBL94S3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
