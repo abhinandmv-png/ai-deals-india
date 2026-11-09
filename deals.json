@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T04:13:03Z",
+  "updated_at": "2026-11-09T04:23:08Z",
   "deals": [
+    {
+      "title": "@2499",
+      "price": 2499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08SMPC12X?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T04:23:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511473.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08SMPC12X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08SMPC12X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Neom Mixer Grinder 4 Jar, 550W at 2704",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D854LQLS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D854LQLS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wildcraft Wiki 1 30L Laptop Backpack at 450 Link :",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FK2PSCTD?tag=premiumde066c-21",
-      "posted_at": "2026-11-03T06:52:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510511.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FK2PSCTD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FK2PSCTD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
