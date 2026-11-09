@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T17:34:48Z",
+  "updated_at": "2026-11-09T17:34:55Z",
   "deals": [
+    {
+      "title": "158",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVSZ45YR?tag=premiumde066c-21",
+      "posted_at": "2026-11-09T17:34:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DVSZ45YR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVSZ45YR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVSZ45YR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Spacewood Study Desk with Storage, 3 Year Warranty 4,399₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BZ42QWQC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BZ42QWQC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Mamaearth Fruit Punch Toothpaste 50g @92",
-      "price": 92,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08JLXKSDZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T02:45:29Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08JLXKSDZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08JLXKSDZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08JLXKSDZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
