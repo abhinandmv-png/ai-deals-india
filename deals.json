@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T07:29:13Z",
+  "updated_at": "2026-11-10T07:40:18Z",
   "deals": [
+    {
+      "title": "Symbol Men's Jogger Pants @349.",
+      "price": 349,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09MDM8LZS?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T07:40:17Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09MDM8LZS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09MDM8LZS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09MDM8LZS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@2379",
       "price": 2379,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBBLBDRK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBBLBDRK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "813",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CNCQM7X1?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T12:19:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510779.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CNCQM7X1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CNCQM7X1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
