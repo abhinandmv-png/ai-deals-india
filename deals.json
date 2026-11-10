@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T07:00:21Z",
+  "updated_at": "2026-11-10T07:14:12Z",
   "deals": [
+    {
+      "title": "@2499",
+      "price": 2499,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVQDJCYL?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T07:14:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511680.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVQDJCYL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVQDJCYL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @2319",
       "price": 2319,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H7S87WRH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H7S87WRH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Hero MotoCorp GLAMOUR X Disc Brake @ Rs.**83,783**. Apply ₹4000 Coupon + Pay Using HDFC CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRJYMNHV?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T11:56:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FRJYMNHV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRJYMNHV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRJYMNHV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
