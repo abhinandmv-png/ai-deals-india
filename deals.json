@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T15:10:08Z",
+  "updated_at": "2026-11-10T15:24:51Z",
   "deals": [
+    {
+      "title": ". Himalaya Total Care Baby Pants Diapers, Small, 84 Count 549",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BJ2886?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T15:24:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H6BJ2886.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BJ2886.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BJ2886.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sony Wired Headphone 🔥 549₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08CKXD54B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08CKXD54B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "599",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DX79G98Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T17:54:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510830.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DX79G98Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DX79G98Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
