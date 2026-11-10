@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T09:44:16Z",
+  "updated_at": "2026-11-10T09:59:14Z",
   "deals": [
+    {
+      "title": "Purepet cat food 6kg @ 444 54% Off",
+      "price": 44454,
+      "original_price": 96639,
+      "category": "Grocery",
+      "badge": "54% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BMGP6N59?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T09:59:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BMGP6N59.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BMGP6N59.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BMGP6N59.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab faaaast 🔥 Sony 139 cm (55 inches) Smartchoice BRAVIA 3II Ultra HD Smart LED Google TV K-55XR30M2 78,240 6750 off with hdfc cc",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FSLSGHN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FSLSGHN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3652",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DRKX62FV?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T14:04:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DRKX62FV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRKX62FV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRKX62FV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
