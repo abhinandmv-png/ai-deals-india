@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T06:14:21Z",
+  "updated_at": "2026-11-10T06:14:35Z",
   "deals": [
+    {
+      "title": "Deal Price ₹506🔥🔥",
+      "price": 506,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CR79RSND?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T06:14:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511663.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CR79RSND.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CR79RSND.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹625",
       "price": 625,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CJY74J4V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CJY74J4V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sample for ₹1 Apply Coupon (Account Specific)",
-      "price": 1,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F62FG2JP?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T10:18:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F62FG2JP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F62FG2JP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F62FG2JP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
