@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T05:44:25Z",
+  "updated_at": "2026-11-10T05:44:34Z",
   "deals": [
+    {
+      "title": "Jabra Link 265 USB/QD Training Cable for ₹2,728 (Effectively) Apply ₹3,000 off coupon",
+      "price": 2728,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00IYF6C4Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T05:44:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511659.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00IYF6C4Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00IYF6C4Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab For Needy : Air Purifier @12499. Apply ₹500 Off Coupon : Regular Price ₹19999.",
       "price": 12499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDKJB556.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDKJB556.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 833",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D7PXK8TY?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T09:43:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D7PXK8TY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D7PXK8TY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D7PXK8TY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
