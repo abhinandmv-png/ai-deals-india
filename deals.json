@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T05:44:12Z",
+  "updated_at": "2026-11-10T05:44:25Z",
   "deals": [
+    {
+      "title": "Grab For Needy : Air Purifier @12499. Apply ₹500 Off Coupon : Regular Price ₹19999.",
+      "price": 12499,
+      "original_price": 19999,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFW15QRS?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T05:44:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511658.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFW15QRS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFW15QRS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Kitchen Storage Set Of 6 — ₹499.",
       "price": 499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7PXK8TY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7PXK8TY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHKJ3NGX?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T09:43:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510734.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHKJ3NGX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHKJ3NGX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
