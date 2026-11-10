@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-09T19:04:56Z",
+  "updated_at": "2026-11-10T01:19:56Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Dinner Set at Rs.2396.",
+      "price": 2396,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MGCR9N?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T01:19:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511629.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MGCR9N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MGCR9N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Tata Coffee Grand Original 50g Jar Instant Pure Coffee 245₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CQRSNTB5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CQRSNTB5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "24kt (999) - 1 g Gold Pendant at Rs.14,190 💥 Rs.1,250 Off with HDFC CC Link:",
-      "price": 14190,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZTGRS2S?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T06:43:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CZTGRS2S.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZTGRS2S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZTGRS2S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
