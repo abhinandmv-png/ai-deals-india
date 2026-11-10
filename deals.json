@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T15:09:57Z",
+  "updated_at": "2026-11-10T15:10:08Z",
   "deals": [
+    {
+      "title": ". Sony Wired Headphone 🔥 549₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00KGZZ824?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T15:10:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511753.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00KGZZ824.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00KGZZ824.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 💥 597₹ Gear Keep It Real 32 Ltrs Matte Green-Orange School Standard Backpack",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DX79G98Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DX79G98Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "14",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GF7PD1F5?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T17:54:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GF7PD1F5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GF7PD1F5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GF7PD1F5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
