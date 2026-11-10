@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T04:44:15Z",
+  "updated_at": "2026-11-10T04:59:12Z",
   "deals": [
+    {
+      "title": "Milton Artis Mixer Grinder, ISI Certified, Grindstone Blade Technology, 3 Jar, 800 W (21000 RPM) at 2720",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FD42TPGW?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T04:59:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511652.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FD42TPGW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FD42TPGW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Marks & Spencer Women Trouser — ₹599.",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08NQZZXS7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08NQZZXS7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Campus Core 16 Laptop Backpack at 317/",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDKLVCMS?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T09:28:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510730.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDKLVCMS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDKLVCMS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
