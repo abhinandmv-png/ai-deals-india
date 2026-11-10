@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T14:55:31Z",
+  "updated_at": "2026-11-10T14:56:45Z",
   "deals": [
+    {
+      "title": "RR Signature Raptor 1200mm BLDC Designer Ceiling Fan at 2699",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC2N2PQB?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T14:56:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FC2N2PQB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC2N2PQB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC2N2PQB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bosch Professional 21mm HSS Bi-Metal Holesaw Pack, Pack Of 1 Adapter 69₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4X6TTWD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4X6TTWD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 43 inch 4K TV at 25175* Apply Coupon + *Pay with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXB76VRW?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T17:19:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GXB76VRW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXB76VRW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXB76VRW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
