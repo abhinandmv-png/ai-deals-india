@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T18:29:19Z",
+  "updated_at": "2026-11-10T18:29:31Z",
   "deals": [
+    {
+      "title": ". Wonderchef Oven Toaster Griller (OTG) 10L 1763",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FV38CM9M?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:29:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511786.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FV38CM9M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FV38CM9M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "189",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4NCSQG1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4NCSQG1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra Loot : Upto 75% Off On Dove Beauty Products. Cello Opalware Dinner Set Of 57Pcs at 3,118.",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C74KGM27?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T19:05:02Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C74KGM27.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C74KGM27.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C74KGM27.01.LZZZZZZZ.jpg"
       ]
     }
   ]
