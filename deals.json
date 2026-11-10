@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T01:19:56Z",
+  "updated_at": "2026-11-10T01:34:56Z",
   "deals": [
+    {
+      "title": "Asian Olympic Inner Steel Casserole, 1600 ml, at Rs.271.",
+      "price": 271,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09LR3CV17?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T01:34:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511631.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09LR3CV17.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09LR3CV17.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Larah by Borosil Dinner Set at Rs.2396.",
       "price": 2396,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GCFSQ4X7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GCFSQ4X7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@4299",
-      "price": 4299,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQRSNTB5?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T07:13:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510710.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQRSNTB5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQRSNTB5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
