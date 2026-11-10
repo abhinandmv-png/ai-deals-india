@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T15:56:41Z",
+  "updated_at": "2026-11-10T16:42:51Z",
   "deals": [
+    {
+      "title": ". Zebronics 48W Car Charger with Dual Output 106",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FTV7S7V4?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T16:42:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511765.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FTV7S7V4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FTV7S7V4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony WF-C710NSA Dual Noise Cancellation Wireless Bluetooth Earbuds at Rs.5088 + Bank Offer",
       "price": 5088,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H11LZ8JB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H11LZ8JB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "146 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DMZSM73Y?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:24:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510836.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DMZSM73Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DMZSM73Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
