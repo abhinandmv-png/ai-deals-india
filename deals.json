@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T11:29:18Z",
+  "updated_at": "2026-11-10T11:44:18Z",
   "deals": [
+    {
+      "title": "Grab 💥 429₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNNB768S?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T11:44:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511719.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNNB768S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNNB768S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". ZEBRONICS Zeb-Jaguar Wireless Mouse, 2.4GHz with USB Nano Receiver 257₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F79NDZZK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F79NDZZK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP Everyday 16-inch Laptop Bag 🔥 541₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCJXGFSF?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T15:24:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510805.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCJXGFSF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCJXGFSF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
