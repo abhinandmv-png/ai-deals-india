@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T13:59:30Z",
+  "updated_at": "2026-11-10T14:14:22Z",
   "deals": [
+    {
+      "title": ". Jack & Jones Men’s Cotton Slim Fit T-Shirt 300₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTT8MJ8X?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T14:14:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511742.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTT8MJ8X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTT8MJ8X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 💥 1899",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GS5TSQ46.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GS5TSQ46.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Spigen Audio Newly Launched Wireless Over Ear Headphones at Rs.2,374",
-      "price": 2374,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGX1VCWX?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T17:04:54Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DGX1VCWX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGX1VCWX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGX1VCWX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
