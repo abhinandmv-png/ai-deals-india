@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T18:14:27Z",
+  "updated_at": "2026-11-10T18:28:20Z",
   "deals": [
+    {
+      "title": "Grab 💥💥💥 547₹ Gerua by Libas Printed Cotton Co-ord Set | Ethnic Wear | daily wear",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLWR1TQR?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:28:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511782.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLWR1TQR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLWR1TQR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "URBN 20W USB-C Charger at ₹254.",
       "price": 254,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHBS9NY3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHBS9NY3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Aeropostale Leather Wallet 🔥 219₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G598T9KX?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:54:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510850.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G598T9KX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G598T9KX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
