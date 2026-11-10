@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T03:50:10Z",
+  "updated_at": "2026-11-10T04:14:03Z",
   "deals": [
+    {
+      "title": "3735",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C4YMKNNZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T04:14:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511645.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C4YMKNNZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C4YMKNNZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon 1300W Cordless Electrical Dry Iron @623",
       "price": 623,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @4761 529 off with hdfc cc",
-      "price": 4761,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFC6VDFF?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T08:58:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510725.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFC6VDFF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFC6VDFF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
