@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T18:43:30Z",
+  "updated_at": "2026-11-10T18:43:49Z",
   "deals": [
+    {
+      "title": ". Solimo Plastic Storage Container 3 Pieces, 1800ml 258₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07PCBM6SP?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:43:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07PCBM6SP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07PCBM6SP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07PCBM6SP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Solimo High Ball Glasses, Set Of 6 382₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D9MBJDSN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D9MBJDSN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LOWEST : Philips Steam Iron @ 1197. Reg Price 1700",
-      "price": 1197,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B008QTK47Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T00:39:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510872.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B008QTK47Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B008QTK47Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
