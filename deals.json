@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T18:28:29Z",
+  "updated_at": "2026-11-10T18:29:19Z",
   "deals": [
+    {
+      "title": "189",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLK6WHVR?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:29:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FLK6WHVR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLK6WHVR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLK6WHVR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C74KGM27.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C74KGM27.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Hot Wheels Ferrari 5 Pack 🔥 799₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHKLTSS6?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:55:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510855.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHKLTSS6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHKLTSS6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
