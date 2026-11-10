@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T17:12:49Z",
+  "updated_at": "2026-11-10T17:26:41Z",
   "deals": [
+    {
+      "title": "Lenovo USB-A Keyboard & Mouse Wireless Combo at Rs.999",
+      "price": 999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GRWHJF7G?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T17:26:41Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GRWHJF7G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GRWHJF7G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GRWHJF7G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "57",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00QW28OAI.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00QW28OAI.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Bajaj Waterproof 1500 Watts Immersion Rod Heater 499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08MV82R99?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:39:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510842.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08MV82R99.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08MV82R99.01.LZZZZZZZ.jpg"
       ]
     }
   ]
