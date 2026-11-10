@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T05:44:34Z",
+  "updated_at": "2026-11-10T06:14:11Z",
   "deals": [
+    {
+      "title": "Samsung 65 inch (163cm) Crystal UHD 4K Vision AI 2026 Smart TV at ₹53916 Apply coupon+ bank offers",
+      "price": 53916,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZKCC5TZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T06:14:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511660.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Jabra Link 265 USB/QD Training Cable for ₹2,728 (Effectively) Apply ₹3,000 off coupon",
       "price": 2728,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CQJV6PLL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CQJV6PLL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@411",
-      "price": 411,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDKJB556?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T10:03:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510743.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDKJB556.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDKJB556.01.LZZZZZZZ.jpg"
       ]
     }
   ]
