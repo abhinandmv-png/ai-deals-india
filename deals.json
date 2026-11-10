@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T07:40:18Z",
+  "updated_at": "2026-11-10T07:56:33Z",
   "deals": [
+    {
+      "title": "Amkette Trubeats M11 Type C Earphones Headphones - with Mic — **₹199**.",
+      "price": 199,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZB2DD13?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T07:56:32Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GZB2DD13.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZB2DD13.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZB2DD13.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Symbol Men's Jogger Pants @349.",
       "price": 349,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6VQ7J49.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6VQ7J49.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". AGARO Galaxy Digital Air Fryer For Home, 4.5L, Electric Air Fryer 3779",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CBBLBDRK?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T12:34:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CBBLBDRK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CBBLBDRK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CBBLBDRK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
