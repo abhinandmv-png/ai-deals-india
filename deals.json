@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T04:59:12Z",
+  "updated_at": "2026-11-10T05:29:10Z",
   "deals": [
+    {
+      "title": "56 Cms Suitcase at Rs.1249",
+      "price": 1249,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F94BW9WZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T05:29:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511655.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F94BW9WZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F94BW9WZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Artis Mixer Grinder, ISI Certified, Grindstone Blade Technology, 3 Jar, 800 W (21000 RPM) at 2720",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09ZVGTQ6M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09ZVGTQ6M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP Portable Bluetooth Speaker @493.",
-      "price": 493,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08NQZZXS7?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T09:28:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510732.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08NQZZXS7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08NQZZXS7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
