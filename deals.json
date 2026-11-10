@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T08:41:35Z",
+  "updated_at": "2026-11-10T08:44:14Z",
   "deals": [
+    {
+      "title": "Men’s Trackpants at Rs.449",
+      "price": 449,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079W527J2?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T08:44:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511690.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079W527J2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079W527J2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP GK400Y Mechanical Gaming Keyboard @ ₹1,399",
       "price": 1399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHNDNCCQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHNDNCCQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "73% Off : Parachute Body Lotion 600ml @162.",
-      "price": 162,
-      "original_price": 600,
-      "category": "Shopping",
-      "badge": "73% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CG17DT8T?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T12:45:37Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CG17DT8T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CG17DT8T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
