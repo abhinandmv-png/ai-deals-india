@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T14:41:43Z",
+  "updated_at": "2026-11-10T14:55:31Z",
   "deals": [
+    {
+      "title": ". Bosch Professional 21mm HSS Bi-Metal Holesaw Pack, Pack Of 1 Adapter 69₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00DK8AT32?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T14:55:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511750.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00DK8AT32.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00DK8AT32.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Nitra Isolate [1kg, Rich Chocolate] at Rs.1999",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXB76VRW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXB76VRW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1200 Apply 50% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B014R00HJ2?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T17:09:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510822.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B014R00HJ2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B014R00HJ2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
