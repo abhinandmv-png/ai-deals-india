@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T17:56:44Z",
+  "updated_at": "2026-11-10T18:14:27Z",
   "deals": [
+    {
+      "title": "URBN 20W USB-C Charger at ₹254.",
+      "price": 254,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DYDVZT9W?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:14:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DYDVZT9W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DYDVZT9W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DYDVZT9W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fastrack 9 to Fine Quartz Analog with Metal Strap Watch at 1216 Apply 10% Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G598T9KX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G598T9KX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Belkin Powerbank Blue 20000 mah 1,299",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NTNMXL8?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:54:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09NTNMXL8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09NTNMXL8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09NTNMXL8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
