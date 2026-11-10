@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T17:37:15Z",
+  "updated_at": "2026-11-10T17:56:44Z",
   "deals": [
+    {
+      "title": "Fastrack 9 to Fine Quartz Analog with Metal Strap Watch at 1216 Apply 10% Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HDC5X11J?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T17:56:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HDC5X11J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HDC5X11J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HDC5X11J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Ant Value Wireless Keyboard Mouse Combo 474",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09NTNMXL8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09NTNMXL8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "699 899",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CCNNPJMY?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:40:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510846.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CCNNPJMY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CCNNPJMY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
