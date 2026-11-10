@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T10:44:29Z",
+  "updated_at": "2026-11-10T10:59:17Z",
   "deals": [
+    {
+      "title": "🔥🔥 449₹ Portronics Toad 7 Wireless Mouse, Bluetooth 5.3V & 2.4 GHz Wireless",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGQ16G2Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T10:59:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511714.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGQ16G2Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGQ16G2Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Razer BlackShark V2 X Wired Gaming Headset 3,295₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08R6T6C7S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08R6T6C7S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : Premium Mix Dry Fruits 1kg – Only ₹399🤯 ✨1kg Pack of Mixed Dry Fruits ✨Includes Almonds, Cashews, Pistachios, Raisins & Apricots ✨Perfect for Everyday Snacking, Trail Mix & Gifting Buy Now👇🏻 🛒 ",
-      "price": 399,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGFLJSZV?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T14:49:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510798.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGFLJSZV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGFLJSZV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
