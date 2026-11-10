@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T12:29:34Z",
+  "updated_at": "2026-11-10T12:55:22Z",
   "deals": [
+    {
+      "title": "5,954",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GJ5ZTWGJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T12:55:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GJ5ZTWGJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GJ5ZTWGJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GJ5ZTWGJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Adidas Air-Fleetfly Men'sadidas Mens Classic Rubber M5 Running Shoes 1,599",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G6Z6QV5C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G6Z6QV5C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Lowest : LED Tea Light Candles (Set of 3 Pcs) – Only ₹339🤯 ✨Flameless, Smokeless & Unscented ✨Safe Decorative Lighting Alternative ✨Perfect for Diwali, Weddings & Home Décor Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 339,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C3D5TV4W?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T15:55:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510813.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C3D5TV4W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C3D5TV4W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
