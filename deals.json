@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T06:14:35Z",
+  "updated_at": "2026-11-10T06:26:32Z",
   "deals": [
+    {
+      "title": "PS5 Digital @ 64,990",
+      "price": 64990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY5QW186?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T06:26:31Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CY5QW186.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY5QW186.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY5QW186.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹506🔥🔥",
       "price": 506,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJQWRBVH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJQWRBVH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "45",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJY74J4V?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T10:18:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CJY74J4V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJY74J4V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJY74J4V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
