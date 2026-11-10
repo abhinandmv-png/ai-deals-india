@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T12:14:19Z",
+  "updated_at": "2026-11-10T12:14:32Z",
   "deals": [
+    {
+      "title": ". Ant GLOBE15 Wireless Mouse 🔥 179₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWDMSPB3?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T12:14:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511725.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWDMSPB3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWDMSPB3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lenovo Idea Tab (6GB RAM + 128GB ROM) 16499 2500 Off With HDFC Credit Card EMI",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DX78XBQX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DX78XBQX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Crompton axial air hi- Speed 100mm Pack of 1 888₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0817V9Z5D?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T15:39:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510808.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0817V9Z5D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0817V9Z5D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
