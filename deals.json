@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T18:43:49Z",
+  "updated_at": "2026-11-10T18:44:01Z",
   "deals": [
+    {
+      "title": "921",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSF83G3C?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:44:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DSF83G3C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSF83G3C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSF83G3C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Solimo Plastic Storage Container 3 Pieces, 1800ml 258₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09C8PB8XT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09C8PB8XT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Casio Men's Analog Gold Dial Watch at ₹3,238 💥 Collect ₹359 Cashback Coupon + ₹399 off with HDFC Credit Card Link:",
-      "price": 3238,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D9MBJDSN?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T00:39:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D9MBJDSN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D9MBJDSN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D9MBJDSN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
