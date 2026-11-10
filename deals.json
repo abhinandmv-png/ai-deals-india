@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T19:13:55Z",
+  "updated_at": "2026-11-10T19:28:25Z",
   "deals": [
+    {
+      "title": ". Swiggy Instamart LOOTT 💥 2999 Pigeon by Stovekraft STELLAR Air Fryer Large 5.5L | 1500W BLADELESS Airfryer 🔥🔥 959₹ Coupon Fastrack Vyb Horizon Quartz Analog 3 Hands Stainless Steel Strap Watch",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHN6237Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T19:28:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511808.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHN6237Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHN6237Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bajaj Waterproof 1500W Immersion Rod Heater 499₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CVQJKDJ3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CVQJKDJ3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "SIGNORA WARE Flamingo Borosilicate Glass Bottle, 1 Ltr, Clear, Airtight & — ₹126.",
-      "price": 126,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07MXYCVX9?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T02:53:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07MXYCVX9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07MXYCVX9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07MXYCVX9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
