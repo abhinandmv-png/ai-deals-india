@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T10:29:21Z",
+  "updated_at": "2026-11-10T10:44:21Z",
   "deals": [
+    {
+      "title": ". Bajaj MX 17 Steam Iron | 1600W High‑Performance Heating 1,599₹",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H8YBTV14?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T10:44:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511712.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H8YBTV14.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H8YBTV14.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CKW4VGLK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CKW4VGLK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 45W Type-C Super-Fast Charger with Cable @539.",
-      "price": 539,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNJ2CB8N?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T14:26:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GNJ2CB8N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNJ2CB8N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNJ2CB8N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
