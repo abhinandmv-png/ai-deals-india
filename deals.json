@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T18:44:01Z",
+  "updated_at": "2026-11-10T18:56:46Z",
   "deals": [
+    {
+      "title": "Decathlon Jacket at 689 Coupon : WISH11 EcoLink 2W LED Light Pack of 2 at 151.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2LDTYVX?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T18:56:46Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0D2LDTYVX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2LDTYVX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2LDTYVX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "921",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F99RHJLM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F99RHJLM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "JBL Commercial Cssg20 On-Wired Microphone @1540",
-      "price": 1540,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09C8PB8XT?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T01:45:51Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09C8PB8XT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09C8PB8XT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09C8PB8XT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
