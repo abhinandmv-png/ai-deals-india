@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T05:29:10Z",
+  "updated_at": "2026-11-10T05:44:12Z",
   "deals": [
+    {
+      "title": "Milton Kitchen Storage Set Of 6 — ₹499.",
+      "price": 499,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9YGQT22?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T05:44:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511657.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9YGQT22.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9YGQT22.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "56 Cms Suitcase at Rs.1249",
       "price": 1249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FHKJ3NGX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FHKJ3NGX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ASUS TUF Gaming AMD Radeon RX 6950 XT OC Edition for ₹95,664",
-      "price": 95664,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09ZVGTQ6M?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T09:28:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510733.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09ZVGTQ6M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09ZVGTQ6M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
