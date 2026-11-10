@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T17:26:41Z",
+  "updated_at": "2026-11-10T17:28:09Z",
   "deals": [
+    {
+      "title": ". Casio Ladies LTP-VT04D-1ADF Analog Black Dial Women 1847",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DYF1F9G8?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T17:28:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DYF1F9G8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DYF1F9G8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DYF1F9G8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo USB-A Keyboard & Mouse Wireless Combo at Rs.999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H625SN2H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H625SN2H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "276",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00QW28OAI?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T18:39:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00QW28OAI.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00QW28OAI.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00QW28OAI.01.LZZZZZZZ.jpg"
       ]
     }
   ]
