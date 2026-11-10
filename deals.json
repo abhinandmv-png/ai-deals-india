@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T06:59:50Z",
+  "updated_at": "2026-11-10T07:00:02Z",
   "deals": [
+    {
+      "title": "Grab @1899",
+      "price": 1899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H425MVM4?tag=premiumde066c-21",
+      "posted_at": "2026-11-10T07:00:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H425MVM4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H425MVM4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H425MVM4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hundred Pitch Force Limited Edition Cricket Shoes at 649",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BS1QCFHX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BS1QCFHX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "VW (32 Inches) Full HD Smart QLED Android TV @7559*. *Flat ₹840 Off With HDFC Credit Card.",
-      "price": 7559,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GX5BF141?tag=premiumde066c-21",
-      "posted_at": "2026-11-04T11:41:18Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GX5BF141.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GX5BF141.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GX5BF141.01.LZZZZZZZ.jpg"
       ]
     }
   ]
