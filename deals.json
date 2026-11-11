@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T03:43:28Z",
+  "updated_at": "2026-11-11T03:56:49Z",
   "deals": [
+    {
+      "title": "Larah by Borosil Opalware Dinner Set 27Pcs @1303",
+      "price": 1303,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MJJ773?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T03:56:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C7MJJ773.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MJJ773.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MJJ773.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Blanket at Rs.614",
       "price": 614,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GDPWLJMM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GDPWLJMM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "MILTON Stainless Steel Water Bottle, 880ml @199.",
-      "price": 199,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGXJQ9KF?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T05:20:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FGXJQ9KF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGXJQ9KF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGXJQ9KF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
