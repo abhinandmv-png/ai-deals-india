@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T07:56:56Z",
+  "updated_at": "2026-11-11T07:58:36Z",
   "deals": [
+    {
+      "title": "HP 15 (2026), Intel (i3 14th Gen) Core 3 100U - (8 GB/512 GB SSDDOS for ₹51,990",
+      "price": 51990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY7VGHDQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T07:58:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511868.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY7VGHDQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY7VGHDQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric Apex Swift 1200mm BLDC Ceiling Fan @ ₹2,279",
       "price": 2279,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09SQWQ4TC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "F Gear Arashi Navy 35L School Backpack - with 4 Compartments — ₹499.",
-      "price": 499,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYHWWXWF?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T13:18:39Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GYHWWXWF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYHWWXWF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYHWWXWF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
