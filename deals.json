@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T05:58:29Z",
+  "updated_at": "2026-11-11T06:13:27Z",
   "deals": [
+    {
+      "title": "@3940",
+      "price": 3940,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNWS8H5J?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T06:13:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511849.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNWS8H5J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNWS8H5J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SignoraWare BPA Free Plastic Square Dinner Set (Set of 21 pcs) for ₹781",
       "price": 781,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3JCKWLR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3JCKWLR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Morphy Richards Blendexpert 400 W Powerful Copper Motor 3,499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B4KFZMTC?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T10:21:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0B4KFZMTC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B4KFZMTC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B4KFZMTC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
