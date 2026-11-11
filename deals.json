@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T10:28:30Z",
+  "updated_at": "2026-11-11T10:43:34Z",
   "deals": [
+    {
+      "title": ". PUMA Men's Zenith V1 Sneaker 1,249₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPF1KSCP?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T10:43:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511889.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPF1KSCP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPF1KSCP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Borosil Dinner Set Of 36 Pieces 1,866",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CNZ4SX8F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CNZ4SX8F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Morphy Richards AT 200 Bread Toaster 1,599",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BKT4S4GG?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T17:06:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BKT4S4GG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BKT4S4GG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BKT4S4GG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
