@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T14:58:49Z",
+  "updated_at": "2026-11-11T15:13:39Z",
   "deals": [
+    {
+      "title": ". Milton 24 Hr Hot and Cold Insulated Bottle, 550ml 399₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1KJSJ1N?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T15:13:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511936.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1KJSJ1N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1KJSJ1N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1232 Size : 8UK",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FRZ5DVRN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FRZ5DVRN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "68% Off : Vaseline Intensive Care Cocoa Radiant Body Oil, 200ml @255",
-      "price": 255,
-      "original_price": 797,
-      "category": "Grocery",
-      "badge": "68% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQNVY42Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T02:46:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FQNVY42Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQNVY42Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQNVY42Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
