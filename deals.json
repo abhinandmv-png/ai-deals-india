@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T17:58:36Z",
+  "updated_at": "2026-11-11T17:59:12Z",
   "deals": [
+    {
+      "title": "2018",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C53R6TD2?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T17:59:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511961.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C53R6TD2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C53R6TD2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Larah Opalware Dinner Set Of 66 Pieces 3,865",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLVJY43V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLVJY43V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : Reg 600",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HMFW9T35?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T07:00:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HMFW9T35.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HMFW9T35.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HMFW9T35.01.LZZZZZZZ.jpg"
       ]
     }
   ]
