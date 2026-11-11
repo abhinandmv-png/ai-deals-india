@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T13:58:39Z",
+  "updated_at": "2026-11-11T14:13:38Z",
   "deals": [
+    {
+      "title": "🔥🔥 899₹ Puma Unisex Adult Max Slide",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYSPF56N?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T14:13:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511924.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYSPF56N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYSPF56N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". POND’S Bright Beauty Face Wash, 200g 180₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXVQNFWC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXVQNFWC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "82",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H49KXF1Y?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T19:36:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H49KXF1Y.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H49KXF1Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H49KXF1Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
