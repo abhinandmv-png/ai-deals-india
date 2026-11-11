@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T11:28:40Z",
+  "updated_at": "2026-11-11T11:28:47Z",
   "deals": [
+    {
+      "title": "197",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CCDJXJF2?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T11:28:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CCDJXJF2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CCDJXJF2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CCDJXJF2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 554₹ Portronics ToadGo Wireless Rechargeable Bluetooth Mouse with Thumb Rest Support",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKJ9BH53.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKJ9BH53.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08G29ZN43?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T18:06:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510963.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08G29ZN43.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08G29ZN43.01.LZZZZZZZ.jpg"
       ]
     }
   ]
