@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T15:14:00Z",
+  "updated_at": "2026-11-11T15:28:37Z",
   "deals": [
+    {
+      "title": ". French Connection Seraphina Analog Watch for Women- FCN089UL 1,004₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DP55PYWH?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T15:28:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DP55PYWH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DP55PYWH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DP55PYWH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "111",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C1CFP84Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C1CFP84Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "RR Signature Zello PRO 25L Water Heater, 8 Bar — ₹5,849.",
-      "price": 5849,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D8LH326T?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T04:04:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510996.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D8LH326T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D8LH326T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
