@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:13:29Z",
+  "updated_at": "2026-11-11T04:13:42Z",
   "deals": [
+    {
+      "title": "Treo by Milton Opalware Dinner Set of 27 @1318.",
+      "price": 1318,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G817X3TQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T04:13:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511830.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G817X3TQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G817X3TQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "225 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HG1DMZ63.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HG1DMZ63.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Amazon Fire TV Stick 4K Select @ ₹3,999**",
-      "price": 3999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CN3ZGJ6H?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T05:50:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CN3ZGJ6H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CN3ZGJ6H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CN3ZGJ6H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
