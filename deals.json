@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-10T19:28:25Z",
+  "updated_at": "2026-11-11T00:40:29Z",
   "deals": [
+    {
+      "title": "JioTag (2nd Generation) @999",
+      "price": 999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5VWCNWN?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T00:40:29Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H5VWCNWN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5VWCNWN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5VWCNWN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Swiggy Instamart LOOTT 💥 2999 Pigeon by Stovekraft STELLAR Air Fryer Large 5.5L | 1500W BLADELESS Airfryer 🔥🔥 959₹ Coupon Fastrack Vyb Horizon Quartz Analog 3 Hands Stainless Steel Strap Watch",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CSD8PG75.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CSD8PG75.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "362",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CVQJKDJ3?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T03:08:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510891.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CVQJKDJ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CVQJKDJ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
