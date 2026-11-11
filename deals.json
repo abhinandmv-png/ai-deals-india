@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T18:56:39Z",
+  "updated_at": "2026-11-11T18:56:51Z",
   "deals": [
+    {
+      "title": "100 . Karachi Bakery Besan Ladoo 200g 87₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08MZQB86J?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T18:56:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511980.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08MZQB86J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08MZQB86J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "141",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWN14N9F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWN14N9F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Wipro Elato Dry Iron @ Rs.599 Link :",
-      "price": 599,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4V9ZXN2?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T09:48:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H4V9ZXN2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4V9ZXN2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4V9ZXN2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
