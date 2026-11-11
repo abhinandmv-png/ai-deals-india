@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T07:58:36Z",
+  "updated_at": "2026-11-11T08:55:36Z",
   "deals": [
+    {
+      "title": "Attro Divine Lunch Box 550ml @119.",
+      "price": 119,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C9PYMXGL?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T08:55:36Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0C9PYMXGL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C9PYMXGL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C9PYMXGL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 15 (2026), Intel (i3 14th Gen) Core 3 100U - (8 GB/512 GB SSDDOS for ₹51,990",
       "price": 51990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GLFVTCC7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GLFVTCC7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "**Sony HT-S400 2.1ch soundbar with Powerful @ ₹12,890** Flat ₹2,098 off with HDFC EMI + ₹1000 off coupon",
-      "price": 12890,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09SQWQ4TC?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T14:18:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09SQWQ4TC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09SQWQ4TC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
