@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T17:28:39Z",
+  "updated_at": "2026-11-11T17:43:50Z",
   "deals": [
+    {
+      "title": ". Symphony 25 Litre Water Geyser 7,532",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2Y3TH6Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T17:43:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0G2Y3TH6Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2Y3TH6Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2Y3TH6Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". BATA Men's Casual Lace-Up Sneaker 825",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FWRLQND8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FWRLQND8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "66 Cms Suitcase at Rs.1519",
-      "price": 1519,
-      "original_price": null,
-      "category": "Travel",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLYJ6H77?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T06:45:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511018.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLYJ6H77.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLYJ6H77.01.LZZZZZZZ.jpg"
       ]
     }
   ]
