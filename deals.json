@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T19:11:47Z",
+  "updated_at": "2026-11-11T19:11:56Z",
   "deals": [
+    {
+      "title": ". Sparkmate By Crystal Scrub Sponge,Set of 3 20",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C77G6YVL?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T19:11:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C77G6YVL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C77G6YVL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C77G6YVL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Stainless Steel Water Bottle 1000ml, Set of 3 438",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09KV1R96H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09KV1R96H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Tata Classic Instant Coffee, 90g Jar 175",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09N2TK64V?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T10:30:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09N2TK64V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
