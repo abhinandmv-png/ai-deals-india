@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T09:55:37Z",
+  "updated_at": "2026-11-11T10:11:56Z",
   "deals": [
+    {
+      "title": "Havells Prolife Brio Air Fryer 4.2 L at Rs.3,456 Apply 10% Off Coupon",
+      "price": 3456,
+      "original_price": 3840,
+      "category": "Shopping",
+      "badge": "10% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH1WPYMX?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T10:11:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH1WPYMX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "439 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HGG9BVMC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HGG9BVMC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Godrej Ninja Adult Dry Dog Food, Chicken & Multigrain, 400g — ₹50. Godrej Ninja Adult Dry Dog Food, 400g at 50 + Coupon.",
-      "price": 50,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4ZC3P6P?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T15:30:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H4ZC3P6P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4ZC3P6P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4ZC3P6P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
