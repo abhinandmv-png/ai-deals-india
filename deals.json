@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:56:59Z",
+  "updated_at": "2026-11-11T04:58:27Z",
   "deals": [
+    {
+      "title": "@559",
+      "price": 559,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CB37LCBJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T04:58:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511837.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CB37LCBJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CB37LCBJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony ZX Series MDR-ZX310AP Wired Headband Stereo On Ear Headset at **₹851**.",
       "price": 851,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07W8Y848L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07W8Y848L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥🔥Samsung Smart Choice 458 L Double Door, Refrigerator at 46990 ✅ APPLY 3000 OFF COUPON + 10000 OFF WITH HDFC CC 👉🏻",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GL863BDD?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T08:06:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510923.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GL863BDD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GL863BDD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
