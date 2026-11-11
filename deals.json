@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T05:25:40Z",
+  "updated_at": "2026-11-11T05:58:29Z",
   "deals": [
+    {
+      "title": "SignoraWare BPA Free Plastic Square Dinner Set (Set of 21 pcs) for ₹781",
+      "price": 781,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00JJH0L6S?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T05:58:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511848.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00JJH0L6S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00JJH0L6S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Aristocrat 8 Wheels Luggage, Set Of 3 @3899.",
       "price": 3899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B4KFZMTC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B4KFZMTC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Polycab Wizzy Vibe 1200mm 5-Star BLDC Ceiling fan 2299",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCVHL359?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T10:21:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HCVHL359.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCVHL359.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCVHL359.01.LZZZZZZZ.jpg"
       ]
     }
   ]
