@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:40:32Z",
+  "updated_at": "2026-11-11T04:43:28Z",
   "deals": [
+    {
+      "title": "@649",
+      "price": 649,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJCS2RTM?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T04:43:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511835.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJCS2RTM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJCS2RTM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FXFG8QL4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FXFG8QL4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "La Opala Opalware Dinner Set 10 Pcs at 549.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5VY9NVC?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T07:05:05Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H5VY9NVC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5VY9NVC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5VY9NVC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
