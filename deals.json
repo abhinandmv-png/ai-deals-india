@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T12:55:42Z",
+  "updated_at": "2026-11-11T12:58:38Z",
   "deals": [
+    {
+      "title": "🔥🔥 149₹ Sounce 4-Port USB 3.0 Hub for PC – High-Speed Aluminum USB Hub",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DHZBTM3R?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T12:58:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511911.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DHZBTM3R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DHZBTM3R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Happy Cove Kitchen Container Set @261.",
       "price": 261,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDTPQDRJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDTPQDRJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "50% Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HC7KXN8M?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T18:51:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HC7KXN8M.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HC7KXN8M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HC7KXN8M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
