@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T18:32:26Z",
+  "updated_at": "2026-11-11T18:41:37Z",
   "deals": [
+    {
+      "title": "338",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F2TQC614?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T18:41:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F2TQC614.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F2TQC614.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F2TQC614.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gala Steel Scrubber (Pack Of 6) @110.",
       "price": 110,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHN77RTL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHN77RTL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot For Needy 🔥🔥 LG 790L Wi-Fi Convertible, Side By Side Refrigerator @1,03,990 Apply ₹3000 Coupon + ₹18,000 Off With Axis/HDFC CC",
-      "price": 103990,
-      "original_price": 18000,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3ZG11ZV?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T08:30:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511037.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3ZG11ZV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3ZG11ZV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
