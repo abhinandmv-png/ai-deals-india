@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T18:32:12Z",
+  "updated_at": "2026-11-11T18:32:19Z",
   "deals": [
+    {
+      "title": "1",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLKRRPGS?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T18:32:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HLKRRPGS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLKRRPGS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLKRRPGS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Giordano Analog Watch for Women 1,999₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCVZKKX3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCVZKKX3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ZEBRONICS Prima, Portable Bluetooth Speaker @ ₹4,680 Flat ₹519 off with HDFC Cc",
-      "price": 4680,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FD7TMLJP?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T07:48:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FD7TMLJP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FD7TMLJP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FD7TMLJP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
