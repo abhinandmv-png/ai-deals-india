@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:58:51Z",
+  "updated_at": "2026-11-11T05:25:33Z",
   "deals": [
+    {
+      "title": "SINGER Airfrio Air Fryer 1350W @2,720.",
+      "price": 2720,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GJ4RHWJN?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T05:25:32Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GJ4RHWJN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GJ4RHWJN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GJ4RHWJN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Men Glanza v2 Sneaker — ₹1,304",
       "price": 1304,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXV1R1R4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXV1R1R4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Tommy Hilfiger Men Underwear @399.",
-      "price": 399,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8R6LTT3?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T09:15:53Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0F8R6LTT3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8R6LTT3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8R6LTT3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
