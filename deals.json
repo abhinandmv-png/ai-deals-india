@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T14:28:44Z",
+  "updated_at": "2026-11-11T14:40:43Z",
   "deals": [
+    {
+      "title": "71% Off : Axe Intense Deodorant, 215 ml @112.",
+      "price": 112,
+      "original_price": 386,
+      "category": "Shopping",
+      "badge": "71% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09JG4GHS3?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T14:40:43Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09JG4GHS3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09JG4GHS3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09JG4GHS3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". French Connection Dawnlight Blue-Green Round Dial Womens Analogue Watch 1,420",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09JP8Z628.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09JP8Z628.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "tu casa Table Lamp at Rs.355.",
-      "price": 355,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08X4J2LFM?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T01:36:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08X4J2LFM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08X4J2LFM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08X4J2LFM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
