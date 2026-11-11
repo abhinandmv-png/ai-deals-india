@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:43:41Z",
+  "updated_at": "2026-11-11T04:56:53Z",
   "deals": [
+    {
+      "title": "Aristocrat Altitude Set of 3 at Rs.4,699",
+      "price": 4699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1MZMBDY?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T04:56:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H1MZMBDY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1MZMBDY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1MZMBDY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@704",
       "price": 704,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGVFD544.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGVFD544.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Trion Nutri Max Pro 2J Juicer Mixer Grinder 500W at **₹999**.",
-      "price": 999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FS23TZ4N?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T07:20:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FS23TZ4N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
