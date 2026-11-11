@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:25:33Z",
+  "updated_at": "2026-11-11T04:26:51Z",
   "deals": [
+    {
+      "title": "Casio Men’s Analog Watch - with Black Dial at ₹1,247.",
+      "price": 1247,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B084WZGBM8?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T04:26:51Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B084WZGBM8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B084WZGBM8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B084WZGBM8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "59% Off : Garnier Vitamin C + Face Serum, 30ml @248.",
       "price": 248,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G2SQHV9Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G2SQHV9Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haier 190 L 4 Star Direct Cool Single Door Refrigerator @ ₹12,992 ** Flat ₹3,319 off with HDFC EMI + ₹1,000 off coupon**",
-      "price": 12992,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GP6ZGNWT?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T06:05:12Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GP6ZGNWT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GP6ZGNWT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GP6ZGNWT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
