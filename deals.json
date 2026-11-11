@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T15:58:45Z",
+  "updated_at": "2026-11-11T15:58:57Z",
   "deals": [
+    {
+      "title": "112",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09PDFT2YF?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T15:58:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511945.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09PDFT2YF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09PDFT2YF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09CMLPXFC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09CMLPXFC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot : BEARDO Legend Perfume, 50 Ml @119. Buy Max Qty :",
-      "price": 119,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DPQBB866?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T04:49:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511001.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DPQBB866.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DPQBB866.01.LZZZZZZZ.jpg"
       ]
     }
   ]
