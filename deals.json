@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T04:43:28Z",
+  "updated_at": "2026-11-11T04:43:41Z",
   "deals": [
+    {
+      "title": "@704",
+      "price": 704,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4RG9GM9?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T04:43:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511836.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4RG9GM9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4RG9GM9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@649",
       "price": 649,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FS23TZ4N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xiaomi (164 cm) 65 inch X Pro 4K QLED Google TV at Rs.45,499 Flat ₹11,500 off with HDFC EMI",
-      "price": 45499,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FXFG8QL4?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T07:20:06Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FXFG8QL4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FXFG8QL4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FXFG8QL4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
