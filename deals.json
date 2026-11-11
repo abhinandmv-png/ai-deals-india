@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T05:25:33Z",
+  "updated_at": "2026-11-11T05:25:40Z",
   "deals": [
+    {
+      "title": "Aristocrat 8 Wheels Luggage, Set Of 3 @3899.",
+      "price": 3899,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FMF1GJ5V?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T05:25:40Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FMF1GJ5V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FMF1GJ5V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FMF1GJ5V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SINGER Airfrio Air Fryer 1350W @2,720.",
       "price": 2720,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCVHL359.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCVHL359.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Haier 8 Kg, 5star Fully Automatic Top Load Washing Machine @ ₹14,791 Flat ₹2,199 off with HDFC EMI",
-      "price": 14791,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXV1R1R4?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T09:18:36Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DXV1R1R4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXV1R1R4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXV1R1R4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
