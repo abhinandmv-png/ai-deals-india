@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T14:43:45Z",
+  "updated_at": "2026-11-11T14:58:38Z",
   "deals": [
+    {
+      "title": ". Daniel Hechter Paris Lourmel Collection Classic Watch 2255",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FP2QTL5L?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T14:58:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FP2QTL5L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FP2QTL5L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FP2QTL5L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2525 . Grab 🔥 914₹ Ant Esports H525 Pro RGB Gaming Headset Gaming Over Ear Wired Headphones with Mic",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CKVTGBG1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CKVTGBG1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "73% Off : NIVEA Aloe Hydration Body Lotion 600ml @229",
-      "price": 229,
-      "original_price": 848,
-      "category": "Shopping",
-      "badge": "73% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B082T9ZFDK?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T02:01:06Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B082T9ZFDK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B082T9ZFDK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B082T9ZFDK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
