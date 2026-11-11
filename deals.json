@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T10:26:56Z",
+  "updated_at": "2026-11-11T10:28:30Z",
   "deals": [
+    {
+      "title": ". Borosil Dinner Set Of 36 Pieces 1,866",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7MH41GZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T10:28:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C7MH41GZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7MH41GZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7MH41GZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 83% Off On Safari Genie Backpacks.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BKT4S4GG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BKT4S4GG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Gesto 25 Meter LED String Lights - Multicolor Led Fairy Lights for Decoration with 8 Modes Changer at ₹175.",
-      "price": 175,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08KQ42KGD?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T16:36:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08KQ42KGD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08KQ42KGD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08KQ42KGD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
