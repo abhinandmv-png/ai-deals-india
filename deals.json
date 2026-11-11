@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T18:13:39Z",
+  "updated_at": "2026-11-11T18:13:52Z",
   "deals": [
+    {
+      "title": ". Sony 1000X Headphones 39,787 10,000 Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GY4RH3MX?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T18:13:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511964.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GY4RH3MX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GY4RH3MX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". SignoraWare Borosilicate Container (620ml) 197₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F59QPHTV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F59QPHTV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "iPad Air M3 13 inch 512GB WIFI + 5G 104900 Old price stock",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZ79R4VK?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T07:01:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DZ79R4VK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZ79R4VK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZ79R4VK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
