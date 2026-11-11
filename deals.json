@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T11:28:47Z",
+  "updated_at": "2026-11-11T11:43:34Z",
   "deals": [
+    {
+      "title": "🔥🔥 251₹ Kwality Choco Flakes 1.2 Kg | Crispy, Wholesome Cereal Made with Whole Wheat",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DNM9NQ26?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T11:43:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511902.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DNM9NQ26.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DNM9NQ26.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "197",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4KF2PBZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4KF2PBZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". ASUS Vivobook 15 (2026)With ASUS Care 64,989",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKJ9BH53?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T18:06:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HKJ9BH53.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKJ9BH53.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKJ9BH53.01.LZZZZZZZ.jpg"
       ]
     }
   ]
