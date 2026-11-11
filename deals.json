@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T19:11:56Z",
+  "updated_at": "2026-11-11T19:26:28Z",
   "deals": [
+    {
+      "title": "362",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1JZHHTP?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T19:26:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511987.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1JZHHTP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1JZHHTP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sparkmate By Crystal Scrub Sponge,Set of 3 20",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09ZPPCTLS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09ZPPCTLS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Saffola Wild Forest Organic Honey, 500g 183 Apply Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09KV1R96H?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T10:45:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09KV1R96H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09KV1R96H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09KV1R96H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
