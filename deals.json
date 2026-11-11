@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T06:13:39Z",
+  "updated_at": "2026-11-11T06:58:32Z",
   "deals": [
+    {
+      "title": "@1172",
+      "price": 1172,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C24NDQK4?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T06:58:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511852.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C24NDQK4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C24NDQK4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Desk Organizer at Rs.198",
       "price": 198,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GS2JV1SW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GS2JV1SW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Royal Enfield Classic 350 2,00,320 Flat 12,000 off with HDFC Credit Card",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FR95P9CP?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T11:51:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FR95P9CP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FR95P9CP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FR95P9CP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
