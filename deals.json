@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T10:11:56Z",
+  "updated_at": "2026-11-11T10:13:34Z",
   "deals": [
+    {
+      "title": "Da URBAN® Merlion Office Chair at ₹4,680",
+      "price": 4680,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTDZJQDZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T10:13:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511881.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTDZJQDZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTDZJQDZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Prolife Brio Air Fryer 4.2 L at Rs.3,456 Apply 10% Off Coupon",
       "price": 3456,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07X56864J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07X56864J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. FLYNGO 12 Diya Diwali Curtain String LED Lights Only ₹295🤯 ✨ Beautiful Festive Glow ✨Multiple Lighting Modes ✨Perfect for Windows, Balconies & Home Decoration ✨Ideal for Diwali & Festive Celebrations Buy Now👇🏻 🛒 GRAB ",
-      "price": 295,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGG9BVMC?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T15:51:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510957.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGG9BVMC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGG9BVMC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
