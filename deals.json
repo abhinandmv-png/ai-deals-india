@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T02:13:25Z",
+  "updated_at": "2026-11-11T02:43:26Z",
   "deals": [
+    {
+      "title": "LuvLap Pant Style Baby Diapers, (XL) 54 Count @475",
+      "price": 475,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09MVWPC23?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T02:43:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511818.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09MVWPC23.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09MVWPC23.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @980",
       "price": 980,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D314FYDY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D314FYDY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo IdeaPad Slim 3, AMD Ryzen 5 (16GB RAM, 512GB SSD) Laptop at ₹ 49940 Apply ₹4000 Off Coupon + ₹7050 Off With HDFC Credit Card",
-      "price": 49940,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSRGMG8D?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T03:54:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510899.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSRGMG8D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSRGMG8D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
