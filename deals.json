@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T18:13:52Z",
+  "updated_at": "2026-11-11T18:28:41Z",
   "deals": [
+    {
+      "title": ". Sony LinkBuds Open WF-L910 Bluetooth Earbuds 7989",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGVH7FJV?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T18:28:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511966.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGVH7FJV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGVH7FJV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sony 1000X Headphones 39,787 10,000 Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CQTGZD73.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CQTGZD73.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "69% off : Provogue Lumina Hard-Sided PP 65 Cm Trolley Bags @₹2,499",
-      "price": 2499,
-      "original_price": 8061,
-      "category": "Fashion",
-      "badge": "69% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F59QPHTV?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T07:15:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511024.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F59QPHTV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F59QPHTV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
