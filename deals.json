@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T11:13:32Z",
+  "updated_at": "2026-11-11T11:28:40Z",
   "deals": [
+    {
+      "title": "🔥🔥 554₹ Portronics ToadGo Wireless Rechargeable Bluetooth Mouse with Thumb Rest Support",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GT18844P?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T11:28:40Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511899.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GT18844P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GT18844P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Springtek Mattresses | Soft Foam Tri-Fold Mattress 3,677₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08G29ZN43.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08G29ZN43.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cutting EDGE 2X Series 4.5L Airtight Modular Container, Set of 2 (Dark Red) at 169",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B094YPGZ7N?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T17:48:44Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B094YPGZ7N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B094YPGZ7N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B094YPGZ7N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
