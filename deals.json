@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T11:43:34Z",
+  "updated_at": "2026-11-11T11:58:32Z",
   "deals": [
+    {
+      "title": ". INALSA Double Basket Air Fryer 2800W & 14 L (7L+7L) Large Capacity 7,503 With Bank Offer",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWJGC2JL?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T11:58:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GWJGC2JL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWJGC2JL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWJGC2JL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 251₹ Kwality Choco Flakes 1.2 Kg | Crispy, Wholesome Cereal Made with Whole Wheat",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3PV7418.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3PV7418.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP K280 Gaming Keyboard 599",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4KF2PBZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T18:36:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F4KF2PBZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4KF2PBZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4KF2PBZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
