@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T07:43:52Z",
+  "updated_at": "2026-11-11T07:56:56Z",
   "deals": [
+    {
+      "title": "Orient Electric Apex Swift 1200mm BLDC Ceiling Fan @ ₹2,279",
+      "price": 2279,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4L7YVQN?tag=premiumde066c-21",
+      "posted_at": "2026-11-11T07:56:55Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H4L7YVQN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4L7YVQN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4L7YVQN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@25,399 100",
       "price": 25399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYHWWXWF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYHWWXWF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. 45% off : Optimist 5-Star Wi-Fi Inverter AC – 1.39 Ton @ ₹38,990 + Bank Offers Link: (In-App Gas Level Indicator | 5-Year Compressor Warranty)",
-      "price": 38990,
-      "original_price": 70891,
-      "category": "Shopping",
-      "badge": "45% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQ35RNHT?tag=premiumde066c-21",
-      "posted_at": "2026-11-05T13:06:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_510953.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQ35RNHT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQ35RNHT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
