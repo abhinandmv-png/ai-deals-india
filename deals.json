@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T07:59:47Z",
+  "updated_at": "2026-11-12T08:44:36Z",
   "deals": [
+    {
+      "title": "Grab faaaast 🔥 CableCreation 5-in-1 USB C Hubs,Dock USBC Hub Multiport Adapter to HDMI 4K 60Hz @1539 Apply 1529 coupon🔥",
+      "price": 1539,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09G28SW8W?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T08:44:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512040.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09G28SW8W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09G28SW8W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹3723",
       "price": 3723,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09YJ57SB3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09YJ57SB3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAAAASSSTTTT 🔥 800₹ Reg: 2K+ Reebok Reeduo Running Shoes",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH9TZHHG?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T14:51:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511100.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH9TZHHG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH9TZHHG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
