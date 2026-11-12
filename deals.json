@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T18:14:30Z",
+  "updated_at": "2026-11-12T18:28:22Z",
   "deals": [
+    {
+      "title": "242",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HKSTZ37M?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T18:28:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HKSTZ37M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HKSTZ37M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HKSTZ37M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Zebronics Wired USB Mouse 🔥 93₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXTHQTGM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXTHQTGM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Whirlpool 411L 2 Star Frost Free Double Door Refrigerator at Rs.30144 Flat ₹12750 off with HDFC Credit Card",
-      "price": 30144,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMG7B9G8?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T06:49:11Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GMG7B9G8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMG7B9G8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMG7B9G8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
