@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T18:43:35Z",
+  "updated_at": "2026-11-12T18:58:25Z",
   "deals": [
+    {
+      "title": "321",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07HL47621?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T18:58:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07HL47621.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07HL47621.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07HL47621.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "55",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BPCQBCNP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BPCQBCNP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bikano Royal Gulab Jamun 1Kg @ Rs.153 Buy 4 Get ₹90 Cashback = Effective Price ₹133 each.",
-      "price": 153,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CFFNH13X?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T07:49:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
