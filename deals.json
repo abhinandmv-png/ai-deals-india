@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T18:43:28Z",
+  "updated_at": "2026-11-12T18:43:35Z",
   "deals": [
+    {
+      "title": "55",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07P5LMJS4?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T18:43:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07P5LMJS4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07P5LMJS4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07P5LMJS4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CFFNH13X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CFFNH13X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Singer Steaminator 2600W Steam Generator Iron | 1.5L Tank at Rs.6490",
-      "price": 6490,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G47Y5VNN?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T07:19:16Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_147188.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G47Y5VNN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G47Y5VNN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
