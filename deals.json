@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T11:43:33Z",
+  "updated_at": "2026-11-12T11:58:16Z",
   "deals": [
+    {
+      "title": ". ASUS V440 i3-14th Gen 8GB/512GB All In One PC 52,990 3,000 Off With HDFC CC EMI",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXZWL94H?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T11:58:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXZWL94H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXZWL94H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "306",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CL7FZ5NV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CL7FZ5NV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 394₹ Adidas Men's Solid Regular Fit Polo",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0944ZRXPX?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T16:44:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511124.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0944ZRXPX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0944ZRXPX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
