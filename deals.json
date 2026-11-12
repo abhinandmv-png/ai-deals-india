@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T05:44:33Z",
+  "updated_at": "2026-11-12T06:29:34Z",
   "deals": [
+    {
+      "title": "548",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZ2FPX91?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T06:29:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512027.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZ2FPX91.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZ2FPX91.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : MILTON Hugo Inner Steel Tiffin Box for ₹299 Check other colours price",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FYGSLVRW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Zebronics USB Extension Cable, 1.5 Meter 109₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GDG2JFDK?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T13:36:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511088.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GDG2JFDK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GDG2JFDK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
