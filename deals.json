@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T14:58:41Z",
+  "updated_at": "2026-11-12T15:13:26Z",
   "deals": [
+    {
+      "title": "🔥🔥 246₹ MAXOSHINE Microfiber Towels for Bath Large Size-Super Soft Coral Fleece Bathing Towel",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B7X8V9BJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T15:13:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512086.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B7X8V9BJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B7X8V9BJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". KEXIN 128GB Micro SD Card 2 Pack with SD Adapter, MicroSDXC UHS-I U3 V30 A1 1,999₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6BH9CB1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "IFB 8 Kg 5 Star, WiFi Enabled, Ai Powered Fully Automatic Front Load Washing Machine at ₹26,739 💥 • Apply ₹2,000 off Coupon • Apply ₹1,000 off Code at Checkout ➤ IFB1000 • ₹7,250 off with HDFC & Axis Credit Card Link:",
-      "price": 26739,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCNVBFCL?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T00:59:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DCNVBFCL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCNVBFCL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCNVBFCL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
