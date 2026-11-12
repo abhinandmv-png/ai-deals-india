@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T13:58:20Z",
+  "updated_at": "2026-11-12T14:13:21Z",
   "deals": [
+    {
+      "title": ". INALSA Air Fryer 4.2 L 1400W 3796",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DKJ9258D?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T14:13:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DKJ9258D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DKJ9258D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DKJ9258D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Aquas Water Purifier 6790 Apply 15% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B076Q5BGV7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B076Q5BGV7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". BoroPlus Soft Light Moisturising Cream 50 ml 49",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CMCW69WH?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T18:44:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CMCW69WH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
