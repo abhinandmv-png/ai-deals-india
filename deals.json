@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T15:28:24Z",
+  "updated_at": "2026-11-12T16:26:00Z",
   "deals": [
+    {
+      "title": "54% Off : Himalaya Refreshing Body Lotion, 200 ml @115.",
+      "price": 115,
+      "original_price": 250,
+      "category": "Shopping",
+      "badge": "54% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0093J2C0A?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T16:26:00Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0093J2C0A.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0093J2C0A.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0093J2C0A.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Benito TURIN 550W Mixer Grinder with 3 Stainless Steel Jars 1451",
       "price": 1451,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C6GYRZ5T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C6GYRZ5T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon By Stovekraft Induction Cooktop 1800 Watts @1799",
-      "price": 1799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0832W3B7Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T02:16:27Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0832W3B7Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0832W3B7Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0832W3B7Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
