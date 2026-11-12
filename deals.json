@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T03:44:33Z",
+  "updated_at": "2026-11-12T03:59:35Z",
   "deals": [
+    {
+      "title": "@544",
+      "price": 544,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRPCR5VK?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T03:59:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512009.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRPCR5VK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRPCR5VK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosil 27 cm Hard Anodized Flat Tawa @598",
       "price": 598,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GX2S6S28.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GX2S6S28.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Solimo 3 Pcs Non Stick Cookware Set 752",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07P5SX4KP?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T12:45:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07P5SX4KP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07P5SX4KP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07P5SX4KP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
