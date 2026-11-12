@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T12:28:17Z",
+  "updated_at": "2026-11-12T13:02:34Z",
   "deals": [
+    {
+      "title": "The Souled Store Sweatshirt at 699",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CSN3M3MR?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T13:02:34Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CSN3M3MR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CSN3M3MR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CSN3M3MR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sturlite LIV 10W LED Bulb (Pack of 6) LED 298",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0797MY6JB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0797MY6JB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🚨 JIO LAUNCHES ₹10,000 RECHARGE PLAN WITH 3 YEARS VALIDITY! Recharge once and enjoy benefits for 1,095 DAYS! 😍 📶 Unlimited 5G + 2.5GB daily data 📞 Unlimited voice calls 💬 100 SMS per day 🎨 12 Months Canva Pro Lite 🎬 JioH",
-      "price": 10000,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CDPJ565Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T17:14:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511131.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CDPJ565Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CDPJ565Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
