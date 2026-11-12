@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T08:59:36Z",
+  "updated_at": "2026-11-12T09:29:46Z",
   "deals": [
+    {
+      "title": "Fire-Boltt Rise Smart Watch At Rs.1,099 Regular Rs.1,599",
+      "price": 1099,
+      "original_price": 1599,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSF14WQZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T09:29:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512045.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSF14WQZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSF14WQZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TIMEX Black Round Dial Analog Men's Watch at ₹5,049",
       "price": 5049,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G81B45DC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G81B45DC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Wonderchef Whiskey Tumbler 320 ml (Set Of 6) 399₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BNNQMY5Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T15:21:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BNNQMY5Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BNNQMY5Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BNNQMY5Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
