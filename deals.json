@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T09:58:18Z",
+  "updated_at": "2026-11-12T10:28:14Z",
   "deals": [
+    {
+      "title": ". Prestige Iris 750 Watt Mixer Grinder with 4 Jars 2899",
+      "price": 2899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T10:28:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dyazo Transparent Wireless Mouse at ₹399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08N6D4BFY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08N6D4BFY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". GOLD & SILVER Deals 💥💥 Gold starting ₹13,410/gm Silver starting Rs.162/Gm Zepto Augmont GOLD ₹13,444/gm | RBL Cards ₹13,722/gm | IndusInd Cards Augmont, Muhtoot Silver ₹162/gm | RBL Cards ₹165/gm | YES and IndusInd Car",
-      "price": 13410,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CXDKCMB7?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T15:51:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511109.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CXDKCMB7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CXDKCMB7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
