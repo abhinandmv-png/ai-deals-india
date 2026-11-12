@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T17:58:35Z",
+  "updated_at": "2026-11-12T18:14:30Z",
   "deals": [
+    {
+      "title": ". Zebronics Wired USB Mouse 🔥 93₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079Y6JZC8?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T18:14:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512108.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079Y6JZC8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079Y6JZC8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Zebronics Silencio 100 Wireless Headphones 2,299₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMG7B9G8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMG7B9G8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥🔥 @16282 Apply coupon + bank offer Lumio Arc 5 Portable Home Projector",
-      "price": 16282,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FF5H4PGD?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T05:59:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511190.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FF5H4PGD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FF5H4PGD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
