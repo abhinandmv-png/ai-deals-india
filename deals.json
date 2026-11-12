@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T13:26:00Z",
+  "updated_at": "2026-11-12T13:28:21Z",
   "deals": [
+    {
+      "title": ". Godrej 9 Kg 5 Star Fully Automatic Front Load Washing Machine 25,215 Flat 4,375 off with HDFC EMI",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6MVY5TH?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T13:28:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F6MVY5TH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6MVY5TH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6MVY5TH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 25W Charger Wall Adapter @399.",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CVTNX62C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CVTNX62C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1879",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRNQJBWB?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T17:29:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511133.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRNQJBWB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRNQJBWB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
