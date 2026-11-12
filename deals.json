@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T17:13:24Z",
+  "updated_at": "2026-11-12T17:13:31Z",
   "deals": [
+    {
+      "title": "239",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F5P2KQ57?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T17:13:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F5P2KQ57.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F5P2KQ57.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F5P2KQ57.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lee Cooper Analog White Dial Women's Watch 3,940₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G5PNW5G7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G5PNW5G7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Ceramic Hair Straightener @₹641",
-      "price": 641,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B071WRNFRY?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T02:59:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511167.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B071WRNFRY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B071WRNFRY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
