@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T03:59:35Z",
+  "updated_at": "2026-11-12T03:59:46Z",
   "deals": [
+    {
+      "title": "@6749",
+      "price": 6749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D7DB2Q7R?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T03:59:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D7DB2Q7R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D7DB2Q7R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D7DB2Q7R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@544",
       "price": 544,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMD8G6HY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMD8G6HY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Urbanova Pro Ergonomic Office Chair at 4949 Apply 3000 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GX2S6S28?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T12:48:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GX2S6S28.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GX2S6S28.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GX2S6S28.01.LZZZZZZZ.jpg"
       ]
     }
   ]
