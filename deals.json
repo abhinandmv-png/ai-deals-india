@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T07:14:48Z",
+  "updated_at": "2026-11-12T07:59:36Z",
   "deals": [
+    {
+      "title": "AO Smith EWS Plus Instant Water Heater 3 Litre @ ₹3,299 Link :",
+      "price": 3299,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CHMFK3BQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T07:59:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512034.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CHMFK3BQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CHMFK3BQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @957",
       "price": 957,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HC3CWFRP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HC3CWFRP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 167₹ EVEREADY 9W LED Bulb, Cool Day Light (6500K), B22 Base, Pack of 4",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0743925GM?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T14:22:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511096.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0743925GM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0743925GM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
