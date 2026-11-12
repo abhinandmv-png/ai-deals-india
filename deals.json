@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T05:29:36Z",
+  "updated_at": "2026-11-12T05:44:33Z",
   "deals": [
+    {
+      "title": "Loot : MILTON Hugo Inner Steel Tiffin Box for ₹299 Check other colours price",
+      "price": 299,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FFNCB68G?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T05:44:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FFNCB68G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FFNCB68G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FFNCB68G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "317",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GDG2JFDK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GDG2JFDK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". OnePlus 100W Ultra Fast Charging Adapter 539",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPRRWX6D?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T13:36:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GPRRWX6D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPRRWX6D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPRRWX6D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
