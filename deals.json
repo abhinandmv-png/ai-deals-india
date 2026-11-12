@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T16:26:00Z",
+  "updated_at": "2026-11-12T17:13:24Z",
   "deals": [
+    {
+      "title": ". Lee Cooper Analog White Dial Women's Watch 3,940₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BQN7KYCS?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T17:13:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512099.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BQN7KYCS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BQN7KYCS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "54% Off : Himalaya Refreshing Body Lotion, 200 ml @115.",
       "price": 115,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B071WRNFRY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B071WRNFRY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab faaaast 🔥 @1136 French Connection Gazellle Blue Round Analog Watch Other colour costs more 🔥",
-      "price": 1136,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C6GYRZ5T?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T02:59:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511166.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C6GYRZ5T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C6GYRZ5T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
