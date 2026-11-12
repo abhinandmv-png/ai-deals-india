@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T06:29:34Z",
+  "updated_at": "2026-11-12T06:40:57Z",
   "deals": [
+    {
+      "title": "494",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09MVW27M6?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T06:40:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09MVW27M6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09MVW27M6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09MVW27M6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "548",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DK99N95L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DK99N95L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Singer Instant Water Heater | 3000W at Rs.3199",
-      "price": 3199,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FYGSLVRW?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T13:49:01Z",
-      "source": "Premium Deals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001302730016_147144.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FYGSLVRW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FYGSLVRW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
