@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T04:14:47Z",
+  "updated_at": "2026-11-12T04:15:07Z",
   "deals": [
+    {
+      "title": "Milton Thermosteel Bottle at Rs.399",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F1KJ2FYC?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T04:15:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512014.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F1KJ2FYC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F1KJ2FYC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LOWEST 🔥🔥 Pigeon Imperi Cast Iron 2-Side Dosa/Roti Tawa + Grill 31cm Tava, 2-in-1 @ 1,031",
       "price": 1031,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GVJSTKS6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GVJSTKS6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@ 8749 Apply 5k cpn",
-      "price": 8749,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQC1Z1FT?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T13:01:29Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GQC1Z1FT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQC1Z1FT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQC1Z1FT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
