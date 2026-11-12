@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T12:13:28Z",
+  "updated_at": "2026-11-12T12:13:41Z",
   "deals": [
+    {
+      "title": ". adidas Men's Basic Run Fw25 M1 Running Shoes 1740",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7WRQYY?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T12:13:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512062.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7WRQYY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7WRQYY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08WCN1FS8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08WCN1FS8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Maybelline New York Kajal, Black, Matte Finish 0.35g 99",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B06WGZP21B?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T16:59:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B06WGZP21B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B06WGZP21B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B06WGZP21B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
