@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T06:47:30Z",
+  "updated_at": "2026-11-12T07:14:34Z",
   "deals": [
+    {
+      "title": "Grab 🔥🔥 Blaupunkt Newly Launched SBW Newyork 20 2.1 CH Soundbar at ₹3,510",
+      "price": 3510,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQJY4D6S?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T07:14:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512031.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQJY4D6S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQJY4D6S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Toshiba 40 Inch QLED Smart TV @ ₹23,990",
       "price": 23990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4638FSP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4638FSP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Boat Nirvana Space, 360 Spatial Audio Earbuds Wireless @ ₹1,699",
-      "price": 1699,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4VN3S8T?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T14:18:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D4VN3S8T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4VN3S8T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4VN3S8T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
