@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T14:43:21Z",
+  "updated_at": "2026-11-12T14:43:34Z",
   "deals": [
+    {
+      "title": ". Kitchen Container Set 1100 Ml Each, Set Of 6 263",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F74MTZ7B?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T14:43:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F74MTZ7B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F74MTZ7B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F74MTZ7B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "599 300 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09QYW5Y7P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09QYW5Y7P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2287 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GGRZQBQ3?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T19:29:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511155.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
