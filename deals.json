@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T19:26:41Z",
+  "updated_at": "2026-11-12T01:02:26Z",
   "deals": [
+    {
+      "title": "180",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FFN3J26J?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T01:02:26Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FFN3J26J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FFN3J26J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FFN3J26J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". FAAAAASSSTTTT 🔥 2899 USHA Instano 5L Instant Water Heater | 3000W Copper Heating Element Price Of 3L : 2989",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07LC7LF9Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07LC7LF9Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Scotch-Brite Classic Floor Broom 99₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTM5HMYV?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T11:01:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GTM5HMYV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTM5HMYV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTM5HMYV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
