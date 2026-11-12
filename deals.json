@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T01:29:27Z",
+  "updated_at": "2026-11-12T01:29:36Z",
   "deals": [
+    {
+      "title": "Wipro 3 Way Multiplug with Inbuilt Surge Protection (Pack of 3) at Rs.261.",
+      "price": 261,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C339ZP3G?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T01:29:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511995.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C339ZP3G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C339ZP3G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PHILIPS 5W LED Desk Light at Rs.536.",
       "price": 536,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BRPD1FTX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BRPD1FTX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Too Yumm High Protein Super Oats Masala, 350g 99₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS6XFRFF?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T11:15:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511066.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS6XFRFF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS6XFRFF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
