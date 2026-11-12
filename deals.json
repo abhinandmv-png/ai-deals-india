@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T11:32:34Z",
+  "updated_at": "2026-11-12T11:43:19Z",
   "deals": [
+    {
+      "title": ". Bajaj Military Series Rex 750W 4 Jar Mixer Grinder 3699",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DCW2V9KW?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T11:43:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512053.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DCW2V9KW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DCW2V9KW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro Elato GS 105 Brevia 1300 Watt Steam Iron at 1019",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HF8GZC9W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HF8GZC9W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Portronics 2500W Power Plate Pro 4-in-1 569",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GNZ98CRX?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T16:14:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511117.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GNZ98CRX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GNZ98CRX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
