@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T09:29:46Z",
+  "updated_at": "2026-11-12T09:44:35Z",
   "deals": [
+    {
+      "title": "Whirlpool 60cm 1500 m3/hr Filterless Autoclean Kitchen Chimney @7641(Effective) Apply ₹1,500 off coupon Rs849 off with Indian Bank cc",
+      "price": 7641,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFHZC7FS?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T09:44:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512046.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFHZC7FS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFHZC7FS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fire-Boltt Rise Smart Watch At Rs.1,099 Regular Rs.1,599",
       "price": 1099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GN98K98J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GN98K98J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Treo By Milton Opalware Dinner Set Of 18 1,199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G81B45DC?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T15:22:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G81B45DC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G81B45DC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G81B45DC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
