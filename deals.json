@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T11:28:15Z",
+  "updated_at": "2026-11-12T11:32:34Z",
   "deals": [
+    {
+      "title": "Wipro Elato GS 105 Brevia 1300 Watt Steam Iron at 1019",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4V9YH61?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T11:32:34Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H4V9YH61.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4V9YH61.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4V9YH61.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". DANIEL KLEIN Analog Blue Dial Men's Watch 2972",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GNZ98CRX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GNZ98CRX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Spacewood Denver Engineered Wood Bed Side Table 1220",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07F1RZJZY?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T16:14:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07F1RZJZY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07F1RZJZY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07F1RZJZY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
