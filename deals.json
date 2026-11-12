@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-12T04:15:07Z",
+  "updated_at": "2026-11-12T04:32:31Z",
   "deals": [
+    {
+      "title": "Zebronics 120 Watts Soundbar at ₹4,999",
+      "price": 4999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWWY1FVV?tag=premiumde066c-21",
+      "posted_at": "2026-11-12T04:32:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DWWY1FVV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWWY1FVV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWWY1FVV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Thermosteel Bottle at Rs.399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G3VX4XT1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G3VX4XT1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". TCL 139 cm (55 inches) Smartchoice 4K Ultra HD Smart QLED Google TV 32,190 Apply 1,750 coupon + 7,750 off with IDFC FIRST CC + Collect 300 Prime cashback",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GVJSTKS6?tag=premiumde066c-21",
-      "posted_at": "2026-11-06T13:06:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GVJSTKS6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GVJSTKS6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GVJSTKS6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
