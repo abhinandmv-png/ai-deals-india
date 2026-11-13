@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T11:10:12Z",
+  "updated_at": "2026-11-13T11:24:04Z",
   "deals": [
+    {
+      "title": ". Sony New SRS-XV500 Wireless 240W Portable Bluetooth Karaoke Party Speaker 18289 Apply 1000 Coupon + Get 2700 Discount Using Axis",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQF7TQP4?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T11:24:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CQF7TQP4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQF7TQP4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQF7TQP4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO : Upto 85% Off : Mens Jeans MasterLink : Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Snitch : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans : 599",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHQNTVVC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHQNTVVC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nike Mens Court Vision Lo Fl Sneakers at 3647",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G4HKJ7N6?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T15:32:39Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G4HKJ7N6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G4HKJ7N6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G4HKJ7N6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
