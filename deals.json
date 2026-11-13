@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T09:09:03Z",
+  "updated_at": "2026-11-13T09:09:14Z",
   "deals": [
+    {
+      "title": "GAP Men's Slim Jeans @519.",
+      "price": 519,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCM6LFBX?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T09:09:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512182.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCM6LFBX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCM6LFBX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@798",
       "price": 798,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9YQF74H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9YQF74H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Park Avenue Allure Women EDP 100ml 255",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLY9B57H?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T13:38:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLY9B57H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLY9B57H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
