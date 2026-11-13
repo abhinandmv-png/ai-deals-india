@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T08:41:16Z",
+  "updated_at": "2026-11-13T08:55:09Z",
   "deals": [
+    {
+      "title": "@749",
+      "price": 749,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G8TB84TW?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T08:55:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512180.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G8TB84TW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G8TB84TW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "232",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2N346N2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2N346N2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Havells Ventil Air DSP 230mm Exhaust Fan 1189",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B091FBFFMM?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T13:09:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511253.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B091FBFFMM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B091FBFFMM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
