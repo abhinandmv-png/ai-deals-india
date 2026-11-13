@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T11:41:22Z",
+  "updated_at": "2026-11-13T11:54:04Z",
   "deals": [
+    {
+      "title": ". Gear 40L Water Resistant School / Casual Bag 599₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BZWLSLS3?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T11:54:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BZWLSLS3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BZWLSLS3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BZWLSLS3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells REO BLDC 1200MM Ceiling Fan @2280* Apply 20% Off Coupon :",
       "price": 2280,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4QQVV1L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4QQVV1L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "569",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS8WKBTZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T15:39:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511275.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS8WKBTZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS8WKBTZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
