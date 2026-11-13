@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T00:58:27Z",
+  "updated_at": "2026-11-13T00:58:40Z",
   "deals": [
+    {
+      "title": "Beardo Triple Threat Collection- LSD, Legend & Whisky Smoke Perfume for Men (20ml x 3) at Rs.165.",
+      "price": 165,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLK8MML3?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T00:58:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512126.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLK8MML3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLK8MML3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo By Milton Opalware Cup Set of 6 at Rs.281.",
       "price": 281,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQ6R4WMD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQ6R4WMD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "233",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07DTYFWJV?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T08:12:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511204.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07DTYFWJV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07DTYFWJV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
