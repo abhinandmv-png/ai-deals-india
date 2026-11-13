@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T06:13:48Z",
+  "updated_at": "2026-11-13T06:43:35Z",
   "deals": [
+    {
+      "title": "@4157",
+      "price": 4157,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQJJYY68?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T06:43:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512157.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQJJYY68.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQJJYY68.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07S6CGNLB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07S6CGNLB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". PUMA Men's ATTACANTO TT Football Shoe 1,079₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4XL4NMM?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T11:23:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F4XL4NMM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4XL4NMM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4XL4NMM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
