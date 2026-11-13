@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T18:18:01Z",
+  "updated_at": "2026-11-13T18:24:10Z",
   "deals": [
+    {
+      "title": ". Sparkmate by Crystal Scrub Pad with Alox, Set of 3, 7.5cm X 10cm 11₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C77G89RN?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T18:24:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C77G89RN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C77G89RN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C77G89RN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Crompton 3 Burner Gas Stove @3,057.",
       "price": 3057,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H27HR7WK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H27HR7WK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon Handy Chopper at ₹207.",
-      "price": 207,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07GS7NYJJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T03:23:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07GS7NYJJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07GS7NYJJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07GS7NYJJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
