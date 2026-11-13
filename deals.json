@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T01:43:32Z",
+  "updated_at": "2026-11-13T01:58:30Z",
   "deals": [
+    {
+      "title": "Bata Men Casual Lace-Up Derby Shoes @854",
+      "price": 854,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMJTF8Z9?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T01:58:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512130.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMJTF8Z9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMJTF8Z9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Crompton Stylus Surface Panel 12W Pack of 4 at Rs.1083.",
       "price": 1083,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07GNK7JXK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07GNK7JXK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Singer Shakti Press Heavy Weight Dry Iron | 1000W Power at Rs.899",
-      "price": 899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPQ7GR81?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T08:34:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPQ7GR81.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPQ7GR81.01.LZZZZZZZ.jpg"
       ]
     }
   ]
