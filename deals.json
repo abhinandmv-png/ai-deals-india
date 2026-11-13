@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T12:39:35Z",
+  "updated_at": "2026-11-13T12:54:06Z",
   "deals": [
+    {
+      "title": "1710",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09NJ4H69L?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T12:54:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512216.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09NJ4H69L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09NJ4H69L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Crompton Insta Cozy 1200 Watt Halogen Room Heater 2,495",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HBW3RKKC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HBW3RKKC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "740",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CVTRQCM2?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T16:23:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511279.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CVTRQCM2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CVTRQCM2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
