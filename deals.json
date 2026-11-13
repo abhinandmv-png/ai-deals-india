@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T14:54:14Z",
+  "updated_at": "2026-11-13T15:09:11Z",
   "deals": [
+    {
+      "title": "Grab 🔥 233 Reg: 499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GJM9VDH4?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T15:09:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512235.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GJM9VDH4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GJM9VDH4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Xiaomi 43 inch X Ultra HD 4K Smart Google LED TV at ₹22374 ₹2625 Off With HDFC CC EMI",
       "price": 22374,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3KBZ4J9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3KBZ4J9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Men's Tracktop 1499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B24VQVRK?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T18:54:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511296.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B24VQVRK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B24VQVRK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
