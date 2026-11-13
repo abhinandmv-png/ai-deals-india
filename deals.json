@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T08:24:12Z",
+  "updated_at": "2026-11-13T08:41:16Z",
   "deals": [
+    {
+      "title": "232",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ773QVG?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T08:41:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FJ773QVG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ773QVG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ773QVG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Ceramic Plates Hair Straightener @641.",
       "price": 641,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B091FBFFMM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B091FBFFMM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 1,349₹ RR Signature Dhoom 1200MM Star-rated BEE Certified Energy",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BQ6PC6GY?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T13:09:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511251.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BQ6PC6GY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BQ6PC6GY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
