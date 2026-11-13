@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T03:41:11Z",
+  "updated_at": "2026-11-13T03:58:35Z",
   "deals": [
+    {
+      "title": "Bata Men Casual Lace-Up Derby Shoes at 910",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMJW5V2Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T03:58:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512140.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMJW5V2Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMJW5V2Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 360 Mono Portable Bluetooth Speaker @493",
       "price": 493,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTZ27TH9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTZ27TH9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "JBL Speaker for ₹1,699",
-      "price": 1699,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NCFVNK9?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T09:27:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511214.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09NCFVNK9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09NCFVNK9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
