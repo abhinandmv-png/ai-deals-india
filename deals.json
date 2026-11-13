@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T19:25:24Z",
+  "updated_at": "2026-11-13T19:39:14Z",
   "deals": [
+    {
+      "title": ". MISCHIEF MONKEY Shirt 🔥 525₹ 349",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJ4TP8K8?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T19:39:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512269.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJ4TP8K8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJ4TP8K8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Adidas Men's Aeroturbothrive M Running Shoes 2,333₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GW2JYSDR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GW2JYSDR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Solid Cotton Window Curtains, 5 Feet (Set of 2) at 377",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BVM8P265?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T05:39:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BVM8P265.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BVM8P265.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BVM8P265.01.LZZZZZZZ.jpg"
       ]
     }
   ]
