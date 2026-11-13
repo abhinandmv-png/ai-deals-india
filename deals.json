@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T13:47:59Z",
+  "updated_at": "2026-11-13T14:54:14Z",
   "deals": [
+    {
+      "title": "Xiaomi 43 inch X Ultra HD 4K Smart Google LED TV at ₹22374 ₹2625 Off With HDFC CC EMI",
+      "price": 22374,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6ZLFNVT?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T14:54:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512234.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6ZLFNVT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6ZLFNVT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony WF-C710N Dual Noise Cancellation Wireless Bluetooth in Ear Earbuds at Rs.6,489 Flat ₹500 off with SBI Cc",
       "price": 6489,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B24VQVRK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B24VQVRK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "419 Apply 40% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "40% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJ5YHPM2?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T18:54:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511294.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJ5YHPM2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJ5YHPM2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
