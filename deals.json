@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T15:09:11Z",
+  "updated_at": "2026-11-13T15:41:22Z",
   "deals": [
+    {
+      "title": "French Connection Mens Analogue Watch @1,063",
+      "price": 1063,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D78PJTPB?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T15:41:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D78PJTPB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D78PJTPB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D78PJTPB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 🔥 233 Reg: 499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08JNP488Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08JNP488Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Oneplus 15R 16GB+512GB at Rs.61999 Apply 2000 off Coupon",
-      "price": 61999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3KBZ4J9?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T18:57:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H3KBZ4J9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3KBZ4J9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3KBZ4J9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
