@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T18:39:11Z",
+  "updated_at": "2026-11-13T18:39:41Z",
   "deals": [
+    {
+      "title": "3620",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9Y9X58Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T18:39:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F9Y9X58Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9Y9X58Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9Y9X58Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Red Tape Men's Pants 🔥 1,080₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07N8G742J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07N8G742J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "iPhone Lightning Cable (Pack of 2) at Rs.175",
-      "price": 175,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08H8SZKK8?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T03:54:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08H8SZKK8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08H8SZKK8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08H8SZKK8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
