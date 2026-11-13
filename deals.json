@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T03:58:35Z",
+  "updated_at": "2026-11-13T04:17:49Z",
   "deals": [
+    {
+      "title": "Set Wet Styling Hair Gel for Men @112",
+      "price": 112,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079HWW3NM?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T04:17:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B079HWW3NM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079HWW3NM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079HWW3NM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bata Men Casual Lace-Up Derby Shoes at 910",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GFMVCVL2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GFMVCVL2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LG 80 cms (32 inches) TV @13249 Only (Apply coupon & EMI Offer)",
-      "price": 13249,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTZ27TH9?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T09:27:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GTZ27TH9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTZ27TH9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTZ27TH9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
