@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T07:54:05Z",
+  "updated_at": "2026-11-13T08:24:02Z",
   "deals": [
+    {
+      "title": "Grab🔥🔥 Noise Buds VS201 V3 in-Ear Truly Wireless Earbuds with 60H of Playtime, Dual Equalizer, Full Touch Control, Mic, BTv5.1 (Ivory White) @799",
+      "price": 799,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C23NQKP4?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T08:24:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512174.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C23NQKP4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C23NQKP4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @4950",
       "price": 4950,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CVS6V8SM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CVS6V8SM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Lee Cooper Analog Black Round Dial Men's Watch 3507",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BB22GCZ7?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T13:08:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511249.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BB22GCZ7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BB22GCZ7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
