@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T04:28:32Z",
+  "updated_at": "2026-11-13T04:58:33Z",
   "deals": [
+    {
+      "title": "Grab faaaast 🔥 Lifelong Foldable Cloth Drying Stand @1198 Other colour costs more 🔥",
+      "price": 1198,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F246BBS2?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T04:58:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512146.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F246BBS2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F246BBS2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra : Flat 65% Off On Levi’s Sneakers. Gala Garbage Bags, Medium Size, 15 Bags — ₹50.",
       "price": 50,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3XLF9V2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3XLF9V2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Faber Pluto 60 cm 1000 m³/hr Wall Mounted Kitchen at ₹5,611",
-      "price": 5611,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXYM7YN9?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T09:40:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511220.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXYM7YN9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXYM7YN9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
