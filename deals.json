@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T03:28:32Z",
+  "updated_at": "2026-11-13T03:41:11Z",
   "deals": [
+    {
+      "title": "HP 360 Mono Portable Bluetooth Speaker @493",
+      "price": 493,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08NQZZXS7?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T03:41:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08NQZZXS7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08NQZZXS7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08NQZZXS7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Memory Foam Car Neck Rest Pillow at 191",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09NCFVNK9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09NCFVNK9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Spykar Men Shirts @598",
-      "price": 598,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CGTZ8ZVN?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T08:57:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511211.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CGTZ8ZVN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CGTZ8ZVN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
