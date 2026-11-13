@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T07:13:36Z",
+  "updated_at": "2026-11-13T07:24:03Z",
   "deals": [
+    {
+      "title": "Samsung Original 60W Power Adapter at ₹945",
+      "price": 945,
+      "original_price": 945,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GPPMM43R?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T07:24:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512167.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GPPMM43R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GPPMM43R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fastrack Vyb Quest Quartz Analog 3 Hands Stainless Steel Strap Watch at 1169",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHYPH5J9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bosch 302L, MaxFlex Convert Triple Door Refrigerator @30,240* Flat ₹7750 Off With HDFC/Axis CC",
-      "price": 30240,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9T73HJ7?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T12:49:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9T73HJ7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
