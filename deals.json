@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T09:17:52Z",
+  "updated_at": "2026-11-13T09:54:04Z",
   "deals": [
+    {
+      "title": "Grab 199",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDL2X3PX?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T09:54:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FDL2X3PX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDL2X3PX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDL2X3PX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Portronics Luxcell B 20K Advanced 20000 mAh Power Bank at Rs.1,299",
       "price": 1299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FK31KTSZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FK31KTSZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Ambrane Wired Earphone With Mic 169",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BM3LTJMN?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T14:08:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BM3LTJMN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BM3LTJMN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BM3LTJMN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
