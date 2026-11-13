@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T15:41:22Z",
+  "updated_at": "2026-11-13T15:48:00Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Karnage Pre workout at Rs.1116 Apply 7% Off Coupon",
+      "price": 1116,
+      "original_price": 1200,
+      "category": "Shopping",
+      "badge": "7% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY1ZZXTB?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T15:47:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "French Connection Mens Analogue Watch @1,063",
       "price": 1063,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJG88RLB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJG88RLB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "VGR Professional Hair Trimmer @729.",
-      "price": 729,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08JNP488Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T18:57:15Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08JNP488Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08JNP488Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08JNP488Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
