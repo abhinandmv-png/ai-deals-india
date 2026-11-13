@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T07:11:13Z",
+  "updated_at": "2026-11-13T07:13:36Z",
   "deals": [
+    {
+      "title": "Fastrack Vyb Quest Quartz Analog 3 Hands Stainless Steel Strap Watch at 1169",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHNF4HTY?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T07:13:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512165.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHNF4HTY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHNF4HTY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Biotique Papaya Face Wash 150ml @102.",
       "price": 102,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9T73HJ7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "66% Off : Dettol Body Wash, 500 ml @159. **Buy Max Qty** :",
-      "price": 159,
-      "original_price": 468,
-      "category": "Shopping",
-      "badge": "66% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRR82SVB?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T12:49:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRR82SVB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRR82SVB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
