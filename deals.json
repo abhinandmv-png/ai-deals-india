@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T06:11:12Z",
+  "updated_at": "2026-11-13T06:13:35Z",
   "deals": [
+    {
+      "title": "@759",
+      "price": 759,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1CYZ34Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T06:13:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512154.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1CYZ34Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1CYZ34Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CG Iraya 5.9L Water Heater @3,310.",
       "price": 3310,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6BM2NC6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6BM2NC6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "2 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HQTPJD4P?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T10:54:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HQTPJD4P.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HQTPJD4P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HQTPJD4P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
