@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T02:32:49Z",
+  "updated_at": "2026-11-13T03:28:32Z",
   "deals": [
+    {
+      "title": "Memory Foam Car Neck Rest Pillow at 191",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DTYQXS53?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T03:28:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DTYQXS53.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DTYQXS53.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DTYQXS53.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Automatic Yogurt & Curd Maker Machine at 395/",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGTZ8ZVN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGTZ8ZVN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HN7MY9MK?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T08:42:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511210.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HN7MY9MK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HN7MY9MK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
