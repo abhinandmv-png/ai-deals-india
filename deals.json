@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T18:39:41Z",
+  "updated_at": "2026-11-13T18:54:11Z",
   "deals": [
+    {
+      "title": "4760",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS675WDR?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T18:54:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GS675WDR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS675WDR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS675WDR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "3620",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HK86ZNR4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HK86ZNR4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Tommy Hilfiger Backpack @ 1049 Reg Price Double",
-      "price": 1049,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07N8G742J?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T03:54:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511309.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07N8G742J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07N8G742J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
