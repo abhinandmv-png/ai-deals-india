@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T11:24:04Z",
+  "updated_at": "2026-11-13T11:41:22Z",
   "deals": [
+    {
+      "title": "Havells REO BLDC 1200MM Ceiling Fan @2280* Apply 20% Off Coupon :",
+      "price": 2280,
+      "original_price": 2850,
+      "category": "Home",
+      "badge": "20% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGRZQBQ3?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T11:41:21Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sony New SRS-XV500 Wireless 240W Portable Bluetooth Karaoke Party Speaker 18289 Apply 1000 Coupon + Get 2700 Discount Using Axis",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GS8WKBTZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GS8WKBTZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 249₹ Fitness Mantra® 4mm Marble Design Anti Skid Yoga Mat",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHQNTVVC?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T15:38:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511273.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHQNTVVC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHQNTVVC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
