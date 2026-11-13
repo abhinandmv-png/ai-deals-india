@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-13T07:24:03Z",
+  "updated_at": "2026-11-13T07:54:05Z",
   "deals": [
+    {
+      "title": "Grab @4950",
+      "price": 4950,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4PH9V5K?tag=premiumde066c-21",
+      "posted_at": "2026-11-13T07:54:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512173.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4PH9V5K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4PH9V5K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Original 60W Power Adapter at ₹945",
       "price": 945,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BB22GCZ7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BB22GCZ7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab : Singer Nexchop Mini Single Speed Electric Chopper 350W | 700ml Bow at Rs.1149",
-      "price": 1149,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHYPH5J9?tag=premiumde066c-21",
-      "posted_at": "2026-11-07T12:49:30Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHYPH5J9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHYPH5J9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
