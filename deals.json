@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T16:29:55Z",
+  "updated_at": "2026-11-14T17:18:19Z",
   "deals": [
+    {
+      "title": "boAt Aavante 2.1 1600D / Orion Plus,2.1CH Wired Subwoofer @ ₹6,999",
+      "price": 6999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FDFRGWLQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T17:18:18Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FDFRGWLQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FDFRGWLQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FDFRGWLQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Premium Soft Mink Blanket @1499.",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BH4GZPWY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BH4GZPWY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". L’Oreal Paris Conditioner, 386ml 296",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CW1TCKXV?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T16:22:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CW1TCKXV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CW1TCKXV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CW1TCKXV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
