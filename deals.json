@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T10:54:29Z",
+  "updated_at": "2026-11-14T11:33:14Z",
   "deals": [
+    {
+      "title": "Milton Pro Cook Induction Cookware set of 5pc @ Rs.1555",
+      "price": 1555,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B5XQMLJM?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T11:33:14Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B5XQMLJM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B5XQMLJM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B5XQMLJM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "437 Apply Coupon Morphy Richards AP02 250 Air Purifier for Bedroom @₹8,999",
       "price": 8999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B5HJ82WJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B5HJ82WJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Samsung Galaxy Tab S10 Lite 29249 1750 Off With IDFC & RBL Credit Cards",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T14:25:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
