@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T06:39:23Z",
+  "updated_at": "2026-11-14T06:54:19Z",
   "deals": [
+    {
+      "title": "Nivia Football (Size 5) @391 Apply Coupon :",
+      "price": 391,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6PSMZKF?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T06:54:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512301.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6PSMZKF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6PSMZKF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fastrack Vyb Women’s Watch at Rs.1420 Apply Rs.142 Coupon",
       "price": 1420,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GVYJ9G96.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GVYJ9G96.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@1117",
-      "price": 1117,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BLNS5712?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T08:58:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511356.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BLNS5712.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BLNS5712.01.LZZZZZZZ.jpg"
       ]
     }
   ]
