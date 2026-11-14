@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T05:24:24Z",
+  "updated_at": "2026-11-14T05:48:10Z",
   "deals": [
+    {
+      "title": "Bata Mens Bent Slipon Sneaker at 464.",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMK13ZDS?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T05:48:09Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GMK13ZDS.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMK13ZDS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMK13ZDS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 12,224 Apply coupon Apply bank offer",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09NXVL64J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09NXVL64J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Parker Vector Standard Chrome Trim Roller Ball Pen (Black Body, Blue Ink) @249.",
-      "price": 249,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00S4LPJKS?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T07:58:37Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00S4LPJKS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00S4LPJKS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00S4LPJKS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
