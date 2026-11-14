@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T09:54:27Z",
+  "updated_at": "2026-11-14T10:03:14Z",
   "deals": [
+    {
+      "title": "DJI Osmo Mobile 7 Gimbal Stabilizer for iPhone @ ₹5,999",
+      "price": 5999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07FSS4R16?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T10:03:13Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07FSS4R16.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07FSS4R16.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07FSS4R16.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "MILTON New Modulo Steel Rectangular 2300 Container at 748",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GHQHJDBD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GHQHJDBD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Myx Women’s Slim Fit Pants 🔥 269₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08JHLL145?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T14:10:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511402.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08JHLL145.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08JHLL145.01.LZZZZZZZ.jpg"
       ]
     }
   ]
