@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T06:24:24Z",
+  "updated_at": "2026-11-14T06:39:23Z",
   "deals": [
+    {
+      "title": "Fastrack Vyb Women’s Watch at Rs.1420 Apply Rs.142 Coupon",
+      "price": 1420,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CXDWF3HM?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T06:39:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512300.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CXDWF3HM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CXDWF3HM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@6660",
       "price": 6660,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BLNS5712.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BLNS5712.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sanusi Ceiling Fan @ 1029 Apply ₹258 Off Coupon Lifelong Gun Massager with 7 heads @799",
-      "price": 1029,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C9DX5RFY?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T08:28:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511352.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C9DX5RFY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C9DX5RFY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
