@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T17:18:19Z",
+  "updated_at": "2026-11-14T17:44:57Z",
   "deals": [
+    {
+      "title": "FURLAY Ark Office Desk and Study Table | 1 Year Warranty | Metal and Century Engineered Wood Desk for Adults & Students (White) DEAL Price ₹3724",
+      "price": 3724,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DHY69YLK?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T17:44:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512354.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DHY69YLK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DHY69YLK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Aavante 2.1 1600D / Orion Plus,2.1CH Wired Subwoofer @ ₹6,999",
       "price": 6999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9Y7LXMC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9Y7LXMC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". FAAASSTT 💥 1,394₹ Puma Men's Smooth Walk Running Shoe",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BH4GZPWY?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T16:23:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511421.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BH4GZPWY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BH4GZPWY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
