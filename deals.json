@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T11:54:25Z",
+  "updated_at": "2026-11-14T11:54:38Z",
   "deals": [
+    {
+      "title": "Xiaomi Air Purifier For ₹6,999",
+      "price": 6999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCZ1W1SN?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T11:54:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512328.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCZ1W1SN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCZ1W1SN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AAZEEM Poly Cotton Matching Aprons @₹190",
       "price": 190,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07Z3N8NQV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07Z3N8NQV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "30",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D73TGLR8?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T14:37:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D73TGLR8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D73TGLR8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D73TGLR8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
