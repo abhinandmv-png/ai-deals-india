@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T03:26:31Z",
+  "updated_at": "2026-11-14T03:54:19Z",
   "deals": [
+    {
+      "title": "Upto 76% off on Gas Men's Sneakers Arrow Men's Cotton Solid Regular Fit Polo Shirt @465",
+      "price": 465,
+      "original_price": 1938,
+      "category": "Fashion",
+      "badge": "76% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMDZJY67?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T03:54:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512279.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMDZJY67.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMDZJY67.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "62% Off : BoroPlus Moisturising Cream 50ml @49",
       "price": 49,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BH8XP25J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BH8XP25J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "57% Off On Greenchef 2-burners Gas Stove at Rs.1199 18% off: Apple iPad 11″: A16 chip, 27.69 cm (11″) 128GB Rs4000 off with Amzn Pay ICICI cc ➕ Collect Rs300 Prime cashback",
-      "price": 1199,
-      "original_price": 4000,
-      "category": "Shopping",
-      "badge": "57% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZ7PD3VH?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T06:39:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511329.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZ7PD3VH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZ7PD3VH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
