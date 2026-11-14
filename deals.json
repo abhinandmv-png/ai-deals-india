@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T04:39:44Z",
+  "updated_at": "2026-11-14T04:54:23Z",
   "deals": [
+    {
+      "title": "Casio Youth Analog Green Dial Watch for ₹997",
+      "price": 997,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFYSWBF5?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T04:54:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512285.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFYSWBF5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFYSWBF5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GIGABYTE H610I DDR5/ USB 3.2 Gen1/ Intel GbE LAN Chip/Motherboard @ 6256.",
       "price": 6256,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPPR5QF7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPPR5QF7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@2499",
-      "price": 2499,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HKD9X9FC?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T07:09:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511333.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HKD9X9FC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HKD9X9FC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
