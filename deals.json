@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T18:45:09Z",
+  "updated_at": "2026-11-14T18:45:22Z",
   "deals": [
+    {
+      "title": "Havells Glamax 9W B22 WiFi LED Smart Bulb @349",
+      "price": 349,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D738FNB2?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T18:45:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D738FNB2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D738FNB2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D738FNB2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Reebok Men's Tracksuit @1799.",
       "price": 1799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GZ57WW1Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GZ57WW1Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "400 Adhi Avvadhamma 🤣",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GRD84RLF?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T18:07:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GRD84RLF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GRD84RLF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GRD84RLF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
