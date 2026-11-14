@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T09:11:47Z",
+  "updated_at": "2026-11-14T09:39:28Z",
   "deals": [
+    {
+      "title": "ReebokMens Orbit Move Walk Sneaker @1050",
+      "price": 1050,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRK9Z5Y4?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T09:39:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512314.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRK9Z5Y4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRK9Z5Y4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Unisex-Child Lite Flexpunt Jr Sneaker @999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B084N5HC2M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B084N5HC2M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 177₹ PHILIPS 10 w LED Bulb|3 Colors in 1 LED Bulb|Scene Switch Bulb for Home & Decoration, Pack of 2",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C2Q3SZLP?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T13:55:42Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511400.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3SZLP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C2Q3SZLP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
