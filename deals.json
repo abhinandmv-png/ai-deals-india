@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T05:48:10Z",
+  "updated_at": "2026-11-14T06:09:23Z",
   "deals": [
+    {
+      "title": "Loot : Comforter @364.",
+      "price": 364,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HGRK4Z4X?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T06:09:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512293.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HGRK4Z4X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HGRK4Z4X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bata Mens Bent Slipon Sneaker at 464.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0015KHMRS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0015KHMRS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@584",
-      "price": 584,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NXVL64J?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T07:58:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09NXVL64J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09NXVL64J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09NXVL64J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
