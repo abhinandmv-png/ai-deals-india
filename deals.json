@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T07:10:58Z",
+  "updated_at": "2026-11-14T07:11:31Z",
   "deals": [
+    {
+      "title": "TrustBasket Magnus Stand (Black) @994.",
+      "price": 994,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08635SZC3?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T07:11:31Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08635SZC3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08635SZC3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08635SZC3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra : Upto 70% Off On The Bear House Clothing. Tshirts : Sweatshirts : Shirts : Trousers : Jeans : Shorts : Jackets : Blazers : #myntra HomeEssentials 24cm Tri-Ply Stainless Steel Frying Pan Non-Stick at 909",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DDT2ZP7V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DDT2ZP7V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Pepe Jeans Women’s Synthetic Pullover 459₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08L6P32R7?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T10:13:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08L6P32R7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08L6P32R7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08L6P32R7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
