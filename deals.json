@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T18:15:02Z",
+  "updated_at": "2026-11-14T18:44:58Z",
   "deals": [
+    {
+      "title": "Deal Price ₹136",
+      "price": 136,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00CBRJ34E?tag=premiumde066c-21",
+      "posted_at": "2026-11-14T18:44:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512361.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00CBRJ34E.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00CBRJ34E.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skechers Men Go Run 400 Running Shoe at ₹1,931 Apply Coupon",
       "price": 1931,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00LZPR246.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00LZPR246.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Acer PM161QT 15.6 Inch Full HD IPS Portable Touch Monitor 9,912",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCX4F8WG?tag=premiumde066c-21",
-      "posted_at": "2026-11-08T17:37:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HCX4F8WG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCX4F8WG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCX4F8WG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
