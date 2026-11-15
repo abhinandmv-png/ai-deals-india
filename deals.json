@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T05:56:49Z",
+  "updated_at": "2026-11-15T06:36:48Z",
   "deals": [
+    {
+      "title": "Apply 1000 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H8PS4R1H?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T06:36:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512401.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H8PS4R1H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H8PS4R1H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo By Milton Borosilicate Glass Lunch Box @387.",
       "price": 387,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C74KWZW9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C74KWZW9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLO San Oasis Whiskey Rocks Glass Set of 6 Pcs, 385ml @243.",
-      "price": 243,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4H68LYM?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T03:41:08Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H4H68LYM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4H68LYM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4H68LYM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
