@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T17:22:06Z",
+  "updated_at": "2026-11-15T18:06:53Z",
   "deals": [
+    {
+      "title": "Puma Unisex-Adult Maxpro Running Shoe at ₹2,274",
+      "price": 2274,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FK32Z2X9?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T18:06:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FK32Z2X9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FK32Z2X9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FK32Z2X9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Rare Rabbit Jeans/Trousers at 70% off",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDX32GYL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDX32GYL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Men’s Boxers (Pack of 3) at Rs.379",
-      "price": 379,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BX62S1X4?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T07:53:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BX62S1X4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BX62S1X4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BX62S1X4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
