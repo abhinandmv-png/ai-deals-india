@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T13:56:58Z",
+  "updated_at": "2026-11-15T14:36:51Z",
   "deals": [
+    {
+      "title": "Loot: CARESMITH Charge Go Massage Gun @747 Apply ₹152 Off Coupon",
+      "price": 747,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQ1BX28X?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T14:36:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DQ1BX28X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQ1BX28X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQ1BX28X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "119",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DG8P3DKV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DG8P3DKV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "MILTON Orchid 15.5 Litre Inner Steel Casserole, Dark Brown, 15.5 Litres — ₹1,748.",
-      "price": 1748,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BSNTLJVJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T05:08:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511479.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BSNTLJVJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BSNTLJVJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
