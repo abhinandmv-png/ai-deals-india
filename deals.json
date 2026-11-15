@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T05:51:47Z",
+  "updated_at": "2026-11-15T05:56:49Z",
   "deals": [
+    {
+      "title": "Treo By Milton Borosilicate Glass Lunch Box @387.",
+      "price": 387,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FXVM1BRR?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T05:56:48Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FXVM1BRR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FXVM1BRR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FXVM1BRR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 663",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4H68LYM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4H68LYM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CG Eco 28 1200mm Ceiling Fan - with RF Remote — ₹1,843.",
-      "price": 1843,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CT921SR6?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T03:38:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511467.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CT921SR6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CT921SR6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
