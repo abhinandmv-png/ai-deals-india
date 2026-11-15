@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T04:26:52Z",
+  "updated_at": "2026-11-15T04:27:03Z",
   "deals": [
+    {
+      "title": "Haldiram's Delhi Dry Agra Petha 400g @130",
+      "price": 130,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07XS18J5N?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T04:26:59Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07XS18J5N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07XS18J5N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07XS18J5N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Unibic Foods Royal Vanilla Cake 220Gm @117",
       "price": 117,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXPS2LP2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXPS2LP2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lakme Glycolic Illuminate Serum 15ml @299",
-      "price": 299,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPDNFW3Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T02:24:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPDNFW3Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPDNFW3Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
