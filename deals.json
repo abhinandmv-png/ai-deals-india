@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T15:37:10Z",
+  "updated_at": "2026-11-15T15:37:20Z",
   "deals": [
+    {
+      "title": "Deal Price ₹568",
+      "price": 568,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMRCQQSM?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T15:37:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512438.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMRCQQSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMRCQQSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong Spray Mop for Floor Cleaning | Stainless Steel Handle with Refillable Bottle & Microfiber Pad | 360° Rotating Head | Wet & Dry Mop for Tile, Wood, Marble| Easy Trigger Spray for Home Use Deal Price ₹649",
       "price": 649,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJSNHDP5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJSNHDP5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient Electric Eternal 9W LED Ceiling Light at 125",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4V271TT?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T06:28:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D4V271TT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4V271TT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4V271TT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
