@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T04:27:03Z",
+  "updated_at": "2026-11-15T05:06:46Z",
   "deals": [
+    {
+      "title": "French Connection Green Dial Color Watch @919.",
+      "price": 919,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRK1QWS2?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T05:06:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512391.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRK1QWS2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRK1QWS2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Haldiram's Delhi Dry Agra Petha 400g @130",
       "price": 130,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYRKTVKB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYRKTVKB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLO Glassy Mix Lunch Box — ₹599.",
-      "price": 599,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXPS2LP2?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T02:38:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511458.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXPS2LP2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXPS2LP2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
