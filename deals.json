@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T16:03:39Z",
+  "updated_at": "2026-11-15T16:18:39Z",
   "deals": [
+    {
+      "title": "5219 REGULAR 10K",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00U7GP5FC?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T16:18:38Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B00U7GP5FC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00U7GP5FC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00U7GP5FC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "58% Off : L'Oreal Paris Hyaluron 72H Shampoo, 650ml @443.",
       "price": 443,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/CKvwefhaF2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/CKvwefhaF2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot if Needed IFB 206L 5 Star Advanced Inverter Refrigerator @17,716 Flat ₹3274 Off With Axis/HDFC CC",
-      "price": 17716,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GW2Q1JV7?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T06:53:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511494.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GW2Q1JV7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GW2Q1JV7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
