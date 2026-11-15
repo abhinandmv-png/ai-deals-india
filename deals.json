@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T16:18:39Z",
+  "updated_at": "2026-11-15T16:21:58Z",
   "deals": [
+    {
+      "title": "BSB HOME Decorative Pillows for Sofa & Bed Pack of 2 (40 x 60 cm) @₹386",
+      "price": 386,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSGHVM9R?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T16:21:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GSGHVM9R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSGHVM9R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSGHVM9R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "5219 REGULAR 10K",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DX7B8M1J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DX7B8M1J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : 80-87% Off On Rangriti Women Clothing.",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "87% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/CKvwefhaF2?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T06:56:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511496.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/CKvwefhaF2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/CKvwefhaF2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
