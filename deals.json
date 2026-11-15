@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T16:52:11Z",
+  "updated_at": "2026-11-15T17:22:06Z",
   "deals": [
+    {
+      "title": "Rare Rabbit Jeans/Trousers at 70% off",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DHS77H5D?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T17:22:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512447.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DHS77H5D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DHS77H5D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "BSB HOME Premium Cotton Double Bedsheet with 2 Pillow Covers, 240 TC Soft Breathable, Skin Friendly & Hypoallergenic, Jaipuri Printed (90 x 100 Inches) (Mughal Buti Print - Peacock Blue) Deal Price ₹404",
       "price": 404,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BX62S1X4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BX62S1X4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil Dinner Set, 13 Pieces at 699.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MJJMXS?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T07:53:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511505.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MJJMXS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MJJMXS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
