@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T11:26:55Z",
+  "updated_at": "2026-11-15T12:21:59Z",
   "deals": [
+    {
+      "title": "@1489",
+      "price": 1489,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYNT7ZF1?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T12:21:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512415.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYNT7ZF1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYNT7ZF1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Wondermeal 680 ml @399.",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07X4SVD7R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07X4SVD7R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @5841🔥🔥 RR Signature Prismiq 15L Storage Water Heater",
-      "price": 5841,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G2T27KWC?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T04:38:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511476.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G2T27KWC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G2T27KWC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
