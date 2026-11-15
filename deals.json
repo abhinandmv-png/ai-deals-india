@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T15:23:21Z",
+  "updated_at": "2026-11-15T15:36:56Z",
   "deals": [
+    {
+      "title": "Apply coupon Deal Price ₹789",
+      "price": 789,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H68BKTGJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T15:36:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512436.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H68BKTGJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H68BKTGJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹1630",
       "price": 1630,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CG1N11DV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CG1N11DV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab Deal🔥 boAt Partypal 600,Animated Text Display,Wireless Karaoke MIC, LED 220 W at 10,709 Apply 4000 Coupon + Get 1190 Discount Using SBI CC Link : GameSir Newly Launches Astro Junior Premium @699",
-      "price": 699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCGDS1LQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T06:08:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511490.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCGDS1LQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCGDS1LQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
