@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T15:23:00Z",
+  "updated_at": "2026-11-15T15:23:10Z",
   "deals": [
+    {
+      "title": "Grab fast 💥💥💥 pack of 2 Bp monitor machines Deal Price ₹950",
+      "price": 950,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLDZSWL8?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T15:23:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512434.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLDZSWL8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLDZSWL8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab fast 💥💥💥 Essential Plus Stainless Steel Belly Hot Pot 2000ml, Double Wall Insulated Casserole for Serving Food, Food Grade, Easy to Clean, Multi-Purpose Serveware for Home, Kitchen and Dining Table for Daily Apply c",
       "price": 640,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DPN66ZTG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DPN66ZTG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Larah by Borosil 33pcs Dinner Set @1361.",
-      "price": 1361,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7MVCBMW?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T06:08:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511485.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7MVCBMW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7MVCBMW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
