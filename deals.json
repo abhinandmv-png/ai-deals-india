@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T15:36:56Z",
+  "updated_at": "2026-11-15T15:37:10Z",
   "deals": [
+    {
+      "title": "Lifelong Spray Mop for Floor Cleaning | Stainless Steel Handle with Refillable Bottle & Microfiber Pad | 360° Rotating Head | Wet & Dry Mop for Tile, Wood, Marble| Easy Trigger Spray for Home Use Deal Price ₹649",
+      "price": 649,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FHH4YDJX?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T15:37:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512437.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FHH4YDJX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FHH4YDJX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply coupon Deal Price ₹789",
       "price": 789,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D4V271TT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D4V271TT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @4799 Levoit Core Mini Air Purifier For Home",
-      "price": 4799,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CG1N11DV?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T06:23:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511492.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CG1N11DV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CG1N11DV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
