@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T05:06:46Z",
+  "updated_at": "2026-11-15T05:06:54Z",
   "deals": [
+    {
+      "title": "Bata Men Casual Loafer @578.",
+      "price": 578,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4N2H575?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T05:06:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512392.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4N2H575.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4N2H575.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "French Connection Green Dial Color Watch @919.",
       "price": 919,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07S9GSXVQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07S9GSXVQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt (2026 Launch) 20000 mAh 22.5W Fast Charging Power Bank at Rs.1399.",
-      "price": 1399,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYRKTVKB?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T03:08:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511462.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYRKTVKB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYRKTVKB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
