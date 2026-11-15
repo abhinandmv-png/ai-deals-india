@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T15:22:37Z",
+  "updated_at": "2026-11-15T15:22:50Z",
   "deals": [
+    {
+      "title": "WONDERCUT 850W, WC-2-20RTB Rotary Hammer Drill 20mm, 1000RPM, Copper Armature, with BMC Box, 3 Pcs Drill Bits, 1 Metal Depth Gauge, 13mm Drill Chuck, SDS Adeptor, Gloves | Blue & Black Apply coupon Deal Price ₹2001",
+      "price": 2001,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FL815X5L?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T15:22:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512432.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FL815X5L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FL815X5L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DR VAKU® Rechargeable Percussion Massager Machine Body Massage Gun For Pain Relief Massagers with 4 Removable Heads 6 Speed Modes Electric Cordless Deep Tissue for Neck, Back, Arms & Legs- Blue",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9QZ51VD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9QZ51VD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wall Hooks (Pack of 10) at Rs.90",
-      "price": 90,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CMTXKDM4?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T05:38:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CMTXKDM4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CMTXKDM4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CMTXKDM4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
