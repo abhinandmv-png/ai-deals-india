@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T15:22:50Z",
+  "updated_at": "2026-11-15T15:23:00Z",
   "deals": [
+    {
+      "title": "Grab fast 💥💥💥 Essential Plus Stainless Steel Belly Hot Pot 2000ml, Double Wall Insulated Casserole for Serving Food, Food Grade, Easy to Clean, Multi-Purpose Serveware for Home, Kitchen and Dining Table for Daily Apply c",
+      "price": 640,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H2VFNQFL?tag=premiumde066c-21",
+      "posted_at": "2026-11-15T15:22:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512433.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H2VFNQFL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H2VFNQFL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "WONDERCUT 850W, WC-2-20RTB Rotary Hammer Drill 20mm, 1000RPM, Copper Armature, with BMC Box, 3 Pcs Drill Bits, 1 Metal Depth Gauge, 13mm Drill Chuck, SDS Adeptor, Gloves | Blue & Black Apply coupon Deal Price ₹2001",
       "price": 2001,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MVCBMW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MVCBMW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt 2026 Launch Stone Edge w/Bass Boost Mode at Rs.2,999",
-      "price": 2999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9QZ51VD?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T05:43:04Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H9QZ51VD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9QZ51VD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9QZ51VD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
