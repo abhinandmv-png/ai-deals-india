@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T05:07:44Z",
+  "updated_at": "2026-11-16T05:07:52Z",
   "deals": [
+    {
+      "title": "Plastic Container Set Of 6 @209.",
+      "price": 209,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08V8BRLW4?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T05:07:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08V8BRLW4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08V8BRLW4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08V8BRLW4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Rain Coat @149. 2 Colours :",
       "price": 149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FN3W6MMH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FN3W6MMH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Timex Easy Reader 💥 3479 Coupon: EXTRA4YOU 🔥🔥 489₹ Gear Puffy 3 Compartment Backpack 17\"/27L Medium Water Resistant School Bag",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWF7TQQK?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T10:38:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511533.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWF7TQQK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWF7TQQK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
