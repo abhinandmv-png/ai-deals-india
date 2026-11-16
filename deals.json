@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T08:22:04Z",
+  "updated_at": "2026-11-16T09:37:09Z",
   "deals": [
+    {
+      "title": "Grab @1874",
+      "price": 1874,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HGFGXVF9?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T09:37:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512509.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HGFGXVF9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HGFGXVF9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ambrane 20000mAh Powerbank with in-Build Type at ₹1,899",
       "price": 1899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWRDLBF7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWRDLBF7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Haldirams Mithas Ladoo 400gm 175₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07PNBHX46?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T13:23:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07PNBHX46.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07PNBHX46.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07PNBHX46.01.LZZZZZZZ.jpg"
       ]
     }
   ]
