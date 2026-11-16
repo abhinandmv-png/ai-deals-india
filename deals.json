@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T17:48:58Z",
+  "updated_at": "2026-11-16T18:34:00Z",
   "deals": [
+    {
+      "title": "Crompton 13W LED Bulb Pack Of 2 at 135.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HF4VL3BB?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T18:33:59Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0HF4VL3BB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HF4VL3BB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HF4VL3BB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 74% Off On U.S Polo Assn. Footwear.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BG324SM9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BG324SM9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "158",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVSZ45YR?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T17:34:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DVSZ45YR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVSZ45YR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVSZ45YR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
