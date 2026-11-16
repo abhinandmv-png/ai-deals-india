@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T05:27:10Z",
+  "updated_at": "2026-11-16T05:37:08Z",
   "deals": [
+    {
+      "title": "Loot🔥🔥 Casio Men Analog Watch @1997. Other colour costs more 🔥",
+      "price": 1997,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CT8YD7GY?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T05:37:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512488.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CT8YD7GY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CT8YD7GY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "47% Off : Nescafé Sunrise Instant Coffee 190g @361.",
       "price": 361,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGTDL3L3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGTDL3L3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "99",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FVXNFQZ7?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T11:23:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511542.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FVXNFQZ7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FVXNFQZ7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
