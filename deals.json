@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T05:37:22Z",
+  "updated_at": "2026-11-16T05:57:11Z",
   "deals": [
+    {
+      "title": "Jam & Honey 3 in 1 Tabletop Foosball Game @800.",
+      "price": 800,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4W3VKR2?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T05:57:10Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H4W3VKR2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4W3VKR2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4W3VKR2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Panasonic 1.5 Ton 3 Star Premium Wi-Fi Inverter Smart Split AC at 33,490 Effective Get 2000 discount Using HDFC Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4M48ZWK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4M48ZWK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "amazon basics Back Case Cover for iPhone 15 Pro Max at 85",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJ2P9XRF?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T12:13:11Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CJ2P9XRF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJ2P9XRF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJ2P9XRF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
