@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T07:33:49Z",
+  "updated_at": "2026-11-16T07:37:07Z",
   "deals": [
+    {
+      "title": "15lit @6990",
+      "price": 6990,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBLW9WD7?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T07:37:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512498.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBLW9WD7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBLW9WD7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GOBOULT Z40 V2.0 with 70H Playtime, Quad Mic ENC, 45ms Low Latency at Rs.899",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GLQ8WVD6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GLQ8WVD6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Mens Rout 2 M Running Shoe 1,385₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D96D2LJY?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T12:53:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511553.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D96D2LJY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D96D2LJY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
