@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T18:50:03Z",
+  "updated_at": "2026-11-16T19:18:58Z",
   "deals": [
+    {
+      "title": "Realme Buds Wireless 5 Lite at 1150",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC25S653?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T19:18:57Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FC25S653.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC25S653.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC25S653.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Presto! Rose Liquid Handwash 5L @278.",
       "price": 278,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BK5CCTBN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BK5CCTBN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Men's Enzo Run Running Shoe 1,950₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BVMFV945?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T18:19:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511601.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BVMFV945.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BVMFV945.01.LZZZZZZZ.jpg"
       ]
     }
   ]
