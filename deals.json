@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T16:38:21Z",
+  "updated_at": "2026-11-16T17:48:58Z",
   "deals": [
+    {
+      "title": "Upto 74% Off On U.S Polo Assn. Footwear.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "74% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/4LeoeGeVPr?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T17:48:57Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/4LEOEGEVPR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/4LeoeGeVPr.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/4LeoeGeVPr.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Deal Price ₹1999 Coupon ₹500",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVSZ45YR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVSZ45YR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Spacewood Study Desk with Storage, 3 Year Warranty 4,399₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GN8V6W21?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T17:34:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GN8V6W21.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GN8V6W21.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GN8V6W21.01.LZZZZZZZ.jpg"
       ]
     }
   ]
