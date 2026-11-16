@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T06:52:13Z",
+  "updated_at": "2026-11-16T07:33:49Z",
   "deals": [
+    {
+      "title": "GOBOULT Z40 V2.0 with 70H Playtime, Quad Mic ENC, 45ms Low Latency at Rs.899",
+      "price": 899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G439NTS5?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T07:33:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G439NTS5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G439NTS5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G439NTS5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Karachi Bakery Fruit Cake 200gram — ₹114.",
       "price": 114,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D96D2LJY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D96D2LJY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Atomberg Renesa Smart Elite 600mm BLDC Ceiling Fan 2999",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7XZH9P4?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T12:53:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511552.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7XZH9P4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
