@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T18:34:49Z",
+  "updated_at": "2026-11-16T18:49:44Z",
   "deals": [
+    {
+      "title": "1532",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CXDS9PGP?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T18:49:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CXDS9PGP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CXDS9PGP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CXDS9PGP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "75% Off - F Gear School Backpack, 37L At Rs.385 Regular Rs.671",
       "price": 385,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08GSQXLJ2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08GSQXLJ2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "IFB 187L 4 Star Single Door Refrigerator at Rs.16,990 Apply ₹1,000 off coupon",
-      "price": 16990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYFYKL7L?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T17:41:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GYFYKL7L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYFYKL7L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYFYKL7L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
