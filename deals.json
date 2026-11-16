@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T05:07:52Z",
+  "updated_at": "2026-11-16T05:08:03Z",
   "deals": [
+    {
+      "title": "Triply Stainless Steel Pressure Cooker 3 Ltr — ₹1,482.",
+      "price": 1482,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMW86PWV?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T05:08:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512486.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMW86PWV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMW86PWV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Plastic Container Set Of 6 @209.",
       "price": 209,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNWQWY2G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNWQWY2G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "124",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FN3W6MMH?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T10:38:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FN3W6MMH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FN3W6MMH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FN3W6MMH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
