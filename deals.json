@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T14:27:18Z",
+  "updated_at": "2026-11-16T14:27:31Z",
   "deals": [
+    {
+      "title": "Sounce Logicone Ai Mouse 4000 Dpi @499.",
+      "price": 499,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G1Z735QF?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T14:27:28Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G1Z735QF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G1Z735QF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G1Z735QF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "iPhone 20W Fast Charger Adapter @339.",
       "price": 339,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJB9LQCZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJB9LQCZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Mens Cage M Sneaker 1,940",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFW7RJG8?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T16:05:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GFW7RJG8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFW7RJG8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFW7RJG8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
