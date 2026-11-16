@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T12:03:53Z",
+  "updated_at": "2026-11-16T13:37:17Z",
   "deals": [
+    {
+      "title": "Apply coupon Deal Price ₹2167",
+      "price": 2167,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLVFFMK2?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T13:37:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512522.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLVFFMK2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLVFFMK2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Nutri Stainless Steel Insulated Tiffin Set @280.",
       "price": 280,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CY59JH6L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CY59JH6L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,699₹ Aristocrat Airpro 8-Wheel Large Size Hard Case Trolley Bag, Poseidon Blue",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4S1FHLD?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T14:08:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511566.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4S1FHLD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4S1FHLD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
