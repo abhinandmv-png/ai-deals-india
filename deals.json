@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T05:57:11Z",
+  "updated_at": "2026-11-16T06:22:09Z",
   "deals": [
+    {
+      "title": "Myntra : Upto 95% Off On Kook N Keech Clothing. Men’s : Women’s : @499",
+      "price": 499,
+      "original_price": 9980,
+      "category": "Fashion",
+      "badge": "95% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DN1RTQ7B?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T06:22:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512494.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DN1RTQ7B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DN1RTQ7B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Jam & Honey 3 in 1 Tabletop Foosball Game @800.",
       "price": 800,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7CPWR3F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7CPWR3F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sonata Poze 9 with Quartz Analog with Sheet Metal Strap Watch for Men 1,595",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4M48ZWK?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T12:23:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H4M48ZWK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4M48ZWK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4M48ZWK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
