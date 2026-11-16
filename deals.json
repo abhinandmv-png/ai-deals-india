@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T02:22:05Z",
+  "updated_at": "2026-11-16T02:48:51Z",
   "deals": [
+    {
+      "title": "Himalay Baby Diaper Size L 128 Count @1085",
+      "price": 1085,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BKQ1Q2?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T02:48:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H6BKQ1Q2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BKQ1Q2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BKQ1Q2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong Portable USB Fan at Rs.571",
       "price": 571,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GS5BHX4N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GS5BHX4N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FERRY RIDE Dinosaur Airplane Launcher Gun Toy for Kids — ₹15.",
-      "price": 15,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HQZDGH9L?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T09:08:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511516.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HQZDGH9L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HQZDGH9L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
