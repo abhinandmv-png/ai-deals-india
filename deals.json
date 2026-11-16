@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T13:37:29Z",
+  "updated_at": "2026-11-16T14:18:57Z",
   "deals": [
+    {
+      "title": "Borosilicate Glass Mixing and Serving Bowl, 1000ml @193.",
+      "price": 193,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C24FRXMZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T14:18:56Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C24FRXMZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C24FRXMZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C24FRXMZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Adonia Spin+ 10L 3-in-1 Convertible Storage Water Heater(Geyser)|Dual Element| Free Installation & Flexi Pipes|7 Years Tank Warranty |Anti Rust Tank |Dual Adjustable Knobs | 33% Faster Heating Apply coupon Deal P",
       "price": 9895,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBLWPTN3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBLWPTN3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". ARCTIC BioniX RGB 3-Pack 120mm Case Fans 7259 Regular Price 15K",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FZTHQ1Q6?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T14:38:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FZTHQ1Q6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FZTHQ1Q6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FZTHQ1Q6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
