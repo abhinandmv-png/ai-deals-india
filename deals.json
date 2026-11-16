@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T11:52:08Z",
+  "updated_at": "2026-11-16T12:03:53Z",
   "deals": [
+    {
+      "title": "Milton Nutri Stainless Steel Insulated Tiffin Set @280.",
+      "price": 280,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07D5H1MCB?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T12:03:52Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07D5H1MCB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07D5H1MCB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07D5H1MCB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo by Milton All Fresh Glass Tiffin Containers with Insulated Bag at 499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D4S1FHLD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D4S1FHLD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Eureka Forbes Air Purifier at 4,999",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CMJ6X9BV?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T13:56:22Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CMJ6X9BV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CMJ6X9BV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CMJ6X9BV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
