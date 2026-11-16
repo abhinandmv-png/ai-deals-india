@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T01:52:15Z",
+  "updated_at": "2026-11-16T02:07:03Z",
   "deals": [
+    {
+      "title": "Lavie Sport Viola 36L Black Backpack @592",
+      "price": 592,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DY86KLNP?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T02:07:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512467.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DY86KLNP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DY86KLNP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon Healthifry Digital Air Fryer, at Rs.2799.",
       "price": 2799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBKJXDCH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBKJXDCH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 45",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B003WR2T5W?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T08:55:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B003WR2T5W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B003WR2T5W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B003WR2T5W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
