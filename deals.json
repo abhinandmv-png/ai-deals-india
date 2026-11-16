@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T16:37:16Z",
+  "updated_at": "2026-11-16T16:38:21Z",
   "deals": [
+    {
+      "title": "Deal Price ₹1999 Coupon ₹500",
+      "price": 1999,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HP18S6HN?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T16:38:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512551.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HP18S6HN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HP18S6HN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "VIP Frenchie Oxy Round Neck Men's Cotton Vest (Pack of 4-90Cm) at ₹359.",
       "price": 359,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GN8V6W21.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GN8V6W21.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Men T-Shirt 🔥 449₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CN19PHHM?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T17:20:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511594.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CN19PHHM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CN19PHHM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
