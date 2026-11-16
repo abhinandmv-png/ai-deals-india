@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T06:52:06Z",
+  "updated_at": "2026-11-16T06:52:13Z",
   "deals": [
+    {
+      "title": "Karachi Bakery Fruit Cake 200gram — ₹114.",
+      "price": 114,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CCS5L9NZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T06:52:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CCS5L9NZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CCS5L9NZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CCS5L9NZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 89% Off On Lee Cooper Watches. Men's : Women's : Myntra : GM Balin 15L Water Heater @5498.",
       "price": 5498,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7XZH9P4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Orient Electric Instaflo Neo Geyser 5.9 Litre Instant Water Heater 3,799₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G3GRQMC4?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T12:38:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G3GRQMC4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G3GRQMC4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
