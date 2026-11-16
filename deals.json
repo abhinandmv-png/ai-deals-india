@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T05:08:03Z",
+  "updated_at": "2026-11-16T05:18:49Z",
   "deals": [
+    {
+      "title": "Portronics Power Plate 9 Pro, 2500W 7-in-1 Desktop Charging Station at Rs.899",
+      "price": 899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FWRT9NNJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T05:18:48Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FWRT9NNJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FWRT9NNJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FWRT9NNJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Triply Stainless Steel Pressure Cooker 3 Ltr — ₹1,482.",
       "price": 1482,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0987RR2Z5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0987RR2Z5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Samsung Galaxy Tab S10 Lite with AI,S Pen in-Box, 27.7 cm 29,249 1,750 off with IDFC EMI",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNWQWY2G?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T10:38:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FNWQWY2G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNWQWY2G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNWQWY2G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
