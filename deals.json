@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T14:42:18Z",
+  "updated_at": "2026-11-16T15:07:21Z",
   "deals": [
+    {
+      "title": "Upto 80% Off On Vero Moda & ONLY Women Clothing. Jeans : 52pc Beginner Crochet Kit with Yarn @398. Apply 5% Off Coupon :",
+      "price": 398,
+      "original_price": 1990,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4M2DN15?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T15:07:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H4M2DN15.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4M2DN15.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4M2DN15.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "69% Off : Maybelline New York Colossal Bold Eyeliner @99. Buy Max Qty :",
       "price": 99,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CGN8FMJ8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CGN8FMJ8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Polycab Aerorush 1200mm 5-Star BLDC Ceiling fan for Home with Remote 3099",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HCVJNGD3?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T16:35:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511586.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HCVJNGD3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HCVJNGD3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
