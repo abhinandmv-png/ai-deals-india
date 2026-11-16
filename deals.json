@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T14:23:01Z",
+  "updated_at": "2026-11-16T14:23:25Z",
   "deals": [
+    {
+      "title": "DEAL Price ₹1268 Deal Price ₹649",
+      "price": 1268,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4DQHKDQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T14:23:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512534.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4DQHKDQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4DQHKDQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DEAL Price ₹1268 Upto 60% offer on mochi footwear",
       "price": 1268,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BFXRHHBM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BFXRHHBM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". SINGER Brissa 21 Energy Efficient Wall Fan 1753",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GKNRHWTZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T14:53:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511574.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GKNRHWTZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GKNRHWTZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
