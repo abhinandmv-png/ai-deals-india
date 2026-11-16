@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T04:37:06Z",
+  "updated_at": "2026-11-16T05:07:44Z",
   "deals": [
+    {
+      "title": "Rain Coat @149. 2 Colours :",
+      "price": 149,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D89TRKR6?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T05:07:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512484.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D89TRKR6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D89TRKR6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Woodland Mens Casual Shoes @1,249.",
       "price": 1249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWF7TQQK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWF7TQQK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 498₹ Ant Esports GM320 RGB Wired Gaming Mouse, 12800 DPI Optical Sensor",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08D64C9FN?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T10:23:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511530.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08D64C9FN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08D64C9FN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
