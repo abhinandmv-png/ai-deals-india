@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T07:37:07Z",
+  "updated_at": "2026-11-16T08:22:04Z",
   "deals": [
+    {
+      "title": "Ambrane 20000mAh Powerbank with in-Build Type at ₹1,899",
+      "price": 1899,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZHJT3JB?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T08:22:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZHJT3JB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "15lit @6990",
       "price": 6990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07PNBHX46.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07PNBHX46.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "104",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GLQ8WVD6?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T13:08:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GLQ8WVD6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GLQ8WVD6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GLQ8WVD6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
