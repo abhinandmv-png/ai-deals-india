@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T14:23:44Z",
+  "updated_at": "2026-11-16T14:27:18Z",
   "deals": [
+    {
+      "title": "iPhone 20W Fast Charger Adapter @339.",
+      "price": 339,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVN9CCFB?tag=premiumde066c-21",
+      "posted_at": "2026-11-16T14:27:17Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GVN9CCFB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVN9CCFB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVN9CCFB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DEAL Price ₹1268 Armani Exchange Two Tone Watch @8,269.",
       "price": 8269,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GFW7RJG8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GFW7RJG8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "30",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D73RGQMV?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T15:38:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D73RGQMV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D73RGQMV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D73RGQMV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
