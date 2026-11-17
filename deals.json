@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T02:19:48Z",
+  "updated_at": "2026-11-17T02:19:55Z",
   "deals": [
+    {
+      "title": "Reebok Mens Running Shoe at Rs.1080.",
+      "price": 1080,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0861Z57PB?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T02:19:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512608.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0861Z57PB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0861Z57PB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "BeyBee Beta Baby Tricycle with Sun Canopy at Rs.2184.",
       "price": 2184,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08G28CTR5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08G28CTR5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Z Fold 7 @ 1,29,999 129949 Last day of Amazon sale today",
-      "price": 129999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDL5K6SV?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T01:49:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FDL5K6SV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDL5K6SV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDL5K6SV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
