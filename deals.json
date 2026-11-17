@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T10:18:30Z",
+  "updated_at": "2026-11-17T10:18:45Z",
   "deals": [
+    {
+      "title": ". Aristocrat Airpro 8-wheel Cabin Size Hard Case Trolley Bag 1689",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D4RBM6Q6?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T10:18:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512676.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D4RBM6Q6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D4RBM6Q6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Wonderchef Nutri-blend Mixer Grinder Blende 400W 22000RPM 100 Full Copper Motor 2,499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0992DNJLD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0992DNJLD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 449₹ Portronics Toad 7 Wireless Mouse, Bluetooth 5.3V & 2.4 GHz Wireless",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGQ16G2Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T10:59:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511714.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGQ16G2Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGQ16G2Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
