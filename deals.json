@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T01:34:50Z",
+  "updated_at": "2026-11-17T01:49:48Z",
   "deals": [
+    {
+      "title": "Ingco Lithium-Ion Battery Pack, 20V 4.0Ah Battery, at Rs.2150.",
+      "price": 2150,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BK1C3TFH?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T01:49:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512599.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BK1C3TFH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BK1C3TFH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ZEBRONICS ROBUST Premium Gaming Chassis with support for mATX @1844",
       "price": 1844,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07TD6FYY2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07TD6FYY2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Men's Slim Fit T-Shirt 389₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCBXGSB1?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T18:49:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DCBXGSB1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCBXGSB1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCBXGSB1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
