@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T14:48:41Z",
+  "updated_at": "2026-11-17T14:48:52Z",
   "deals": [
+    {
+      "title": ".. Loottt fasttt💥💥💥 Loot : Mix Dry Fruits 1KG – Only ₹429🤯 ✨1KG Pack of Mixed Dry Fruits ✨Perfect for Snacking & Daily Use ✨Convenient Mix for Home & Gifting Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 429,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HQD7KX3L?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T14:48:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512731.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HQD7KX3L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HQD7KX3L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2L7N6DC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2L7N6DC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Portronics Laptop Stand 🔥 199₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CB8J3RZ5?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T15:25:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511755.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CB8J3RZ5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CB8J3RZ5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
