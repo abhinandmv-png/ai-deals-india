@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T13:48:40Z",
+  "updated_at": "2026-11-17T14:03:42Z",
   "deals": [
+    {
+      "title": ". Giordano Premium Watch for Men 2373",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F2M57B15?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T14:03:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512720.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F2M57B15.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F2M57B15.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Sprinter Women's Running Shoes 1600",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC2N2PQB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC2N2PQB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Bosch Professional 21mm HSS Bi-Metal Holesaw Pack, Pack Of 1 Adapter 69₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00DK8AT32?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T14:55:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511750.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00DK8AT32.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00DK8AT32.01.LZZZZZZZ.jpg"
       ]
     }
   ]
