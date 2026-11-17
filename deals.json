@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T05:38:04Z",
+  "updated_at": "2026-11-17T05:49:52Z",
   "deals": [
+    {
+      "title": "Faaaast 🔥 @12,454 Reg : 30k+",
+      "price": 12454,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B086MLRY4H?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T05:49:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512634.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B086MLRY4H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B086MLRY4H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Essential Series S4 Flat Monitor at Rs.10,800 Flat ₹1,199 off with INDIAN BANK Cc",
       "price": 10800,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09XSDMT4F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09XSDMT4F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PS5 Digital @ 64,990",
-      "price": 64990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CY5QW186?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T06:26:31Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CY5QW186.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CY5QW186.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CY5QW186.01.LZZZZZZZ.jpg"
       ]
     }
   ]
