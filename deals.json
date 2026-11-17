@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T18:57:34Z",
+  "updated_at": "2026-11-17T19:12:11Z",
   "deals": [
+    {
+      "title": ". Puma Men Sweatshirt 2,209",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DVQM8499?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T19:12:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DVQM8499.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DVQM8499.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DVQM8499.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Nayasa Pedal Bin 32 Ltrs 637",
       "price": 637,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5VWCNWN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5VWCNWN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Swiggy Instamart LOOTT 💥 2999 Pigeon by Stovekraft STELLAR Air Fryer Large 5.5L | 1500W BLADELESS Airfryer 🔥🔥 959₹ Coupon Fastrack Vyb Horizon Quartz Analog 3 Hands Stainless Steel Strap Watch",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHN6237Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T19:28:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511808.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHN6237Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHN6237Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
