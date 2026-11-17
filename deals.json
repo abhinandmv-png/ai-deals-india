@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T05:49:52Z",
+  "updated_at": "2026-11-17T05:50:01Z",
   "deals": [
+    {
+      "title": "Havells Prolife Stellar Chef Smartchoice Air Fryer 5.5 Ltr|1500 Watts|See Through Window|Aerocrisp Tech: Rapid air circulation in every direction|Non Stick Silicon Coated Basket|2 Year Brand Warranty Apply coupon 🔥 ₹4747",
+      "price": 4747,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS984RSY?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T05:50:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512636.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS984RSY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS984RSY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Faaaast 🔥 @12,454 Reg : 30k+",
       "price": 12454,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01L1IICR2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01L1IICR2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@27,140 Sony XM6 Headphones @ 19,489",
-      "price": 27140,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09XSDMT4F?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T06:29:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511667.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09XSDMT4F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09XSDMT4F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
