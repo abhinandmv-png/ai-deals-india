@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T01:49:48Z",
+  "updated_at": "2026-11-17T01:49:57Z",
   "deals": [
+    {
+      "title": "Zureni Folding Towel Rack for Bathroom at Rs.514.",
+      "price": 514,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D5BF3NY7?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T01:49:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512600.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D5BF3NY7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D5BF3NY7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ingco Lithium-Ion Battery Pack, 20V 4.0Ah Battery, at Rs.2150.",
       "price": 2150,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DG2TJ86D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DG2TJ86D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Larah by Borosil Lavender Opalware Dinner Set, 12 Pieces 690₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TD6FYY2?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T18:50:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511611.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TD6FYY2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TD6FYY2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
