@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T16:27:52Z",
+  "updated_at": "2026-11-17T16:28:02Z",
   "deals": [
+    {
+      "title": "Solimo Kadai Induction Base @403",
+      "price": 403,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B31SLPS2?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T16:28:01Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B31SLPS2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B31SLPS2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B31SLPS2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Solimo Beer Glass Set (6 pieces) @330.",
       "price": 330,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLK6WHVR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLK6WHVR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "99",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZJQN28G?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T18:28:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CZJQN28G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZJQN28G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZJQN28G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
