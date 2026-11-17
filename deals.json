@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T10:03:46Z",
+  "updated_at": "2026-11-17T10:03:56Z",
   "deals": [
+    {
+      "title": "Giordano Analog Stylish Watch for Men & Boys Water Resistant Fashion Watch — ₹1,999.",
+      "price": 1999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CH154RDF?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T10:03:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512672.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CH154RDF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CH154RDF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AGARO Coccyx Seat Cushion Orthopedic Memory Foam Coccyx Seat Cushion — ₹508.",
       "price": 508,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H8YBTV14.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H8YBTV14.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "299",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09H8S78BS?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T10:29:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511708.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09H8S78BS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09H8S78BS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
