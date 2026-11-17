@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T11:48:47Z",
+  "updated_at": "2026-11-17T12:03:31Z",
   "deals": [
+    {
+      "title": "97",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXQ2JNG9?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T12:03:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DXQ2JNG9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXQ2JNG9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXQ2JNG9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HP 400 Quiet Wireless Mouse 🔥 762₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GJ5ZTWGJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GJ5ZTWGJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Adidas Air-Fleetfly Men'sadidas Mens Classic Rubber M5 Running Shoes 1,599",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBZKPJZK?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T12:29:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DBZKPJZK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBZKPJZK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBZKPJZK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
