@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T12:48:36Z",
+  "updated_at": "2026-11-17T13:03:35Z",
   "deals": [
+    {
+      "title": ". Ant Esports H520W Smartchoice Gaming Headset 710₹",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B081Q85RTF?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T13:03:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512709.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B081Q85RTF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B081Q85RTF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 224₹ HP M10 Wired USB Mouse with 3 Buttons High Definition 1000DPI Optical Tracking and Ambidextrous Design",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HR155RJS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HR155RJS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Jack & Jones Men’s Cotton Slim Fit T-Shirt 300₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BTT8MJ8X?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T14:14:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511742.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BTT8MJ8X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BTT8MJ8X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
