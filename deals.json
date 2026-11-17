@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T08:04:55Z",
+  "updated_at": "2026-11-17T08:34:54Z",
   "deals": [
+    {
+      "title": "CORSAIR SCUF NOMAD Wireless iPhone Mobile Gaming Controller @5888",
+      "price": 5888,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D79HZLVD?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T08:34:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512657.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D79HZLVD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D79HZLVD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "276",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0936N9849.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0936N9849.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Amkette Trubeats M11 Type C Earphones Headphones - with Mic — **₹199**.",
-      "price": 199,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GZB2DD13?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T07:56:32Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GZB2DD13.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GZB2DD13.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GZB2DD13.01.LZZZZZZZ.jpg"
       ]
     }
   ]
