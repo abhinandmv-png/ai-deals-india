@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T01:49:57Z",
+  "updated_at": "2026-11-17T01:50:05Z",
   "deals": [
+    {
+      "title": "Samsung Galaxy 45W Travel Adaptor (Without Cable),at Rs.794",
+      "price": 794,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSFTRX77?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T01:50:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512601.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSFTRX77.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSFTRX77.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zureni Folding Towel Rack for Bathroom at Rs.514.",
       "price": 514,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C2Q3V52R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C2Q3V52R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". TVS Racing Titan Series Full Face Helmet for Men 1742",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DG2TJ86D?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T18:50:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511614.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DG2TJ86D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DG2TJ86D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
