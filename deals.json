@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T02:49:51Z",
+  "updated_at": "2026-11-17T03:04:52Z",
   "deals": [
+    {
+      "title": "Dot & Key Cica Calming Skincare Combo at 537/- Apply coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HDNWB3QK?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T03:04:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512613.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HDNWB3QK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HDNWB3QK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Unisex Adult Running Shoe @1035",
       "price": 1035,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GT3ZQXWQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GT3ZQXWQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Noise Buds VS601 Wireless Earbuds, @₹1,099",
-      "price": 1099,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHW7RBGH?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T03:50:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511642.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHW7RBGH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHW7RBGH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
