@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T03:08:04Z",
+  "updated_at": "2026-11-17T03:34:11Z",
   "deals": [
+    {
+      "title": "Bajaj Classico Sleek 5S 1200MM BLDC Ceiling Fan at 2288",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G48YNZP6?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T03:34:11Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0G48YNZP6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G48YNZP6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G48YNZP6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Biotique Ubtan & Collagen Light Gel Oil-Free Body Lotion for — ₹129.",
       "price": 129,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGG82H19.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGG82H19.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "3735",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C4YMKNNZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T04:14:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511645.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C4YMKNNZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C4YMKNNZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
