@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T05:50:16Z",
+  "updated_at": "2026-11-17T06:04:52Z",
   "deals": [
+    {
+      "title": "Havells Instanio Prime 25 Litre Storage Water Heater (Geyser) |Temp. Sensing Color Changing LED Indicator | Glass Coated Anti Rust Tank | Warranty: 5 Year on Tank | High Rise Compatible (White Blue) Apply coupon 🔥 ₹8475",
+      "price": 8475,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08GM6HLNW?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T06:04:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512640.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08GM6HLNW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08GM6HLNW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 410 Slim Bluetooth Mouse @512. PC : Flipkart Selling @2089",
       "price": 512,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBWHJRY3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBWHJRY3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Skechers shoes @1519 Other colour costs more 🔥",
-      "price": 1519,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CBVL4P55?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T06:44:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511673.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CBVL4P55.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CBVL4P55.01.LZZZZZZZ.jpg"
       ]
     }
   ]
