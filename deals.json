@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T01:08:00Z",
+  "updated_at": "2026-11-17T01:34:50Z",
   "deals": [
+    {
+      "title": "ZEBRONICS ROBUST Premium Gaming Chassis with support for mATX @1844",
+      "price": 1844,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZ4927CS?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T01:34:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512598.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZ4927CS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZ4927CS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Tide Power Gel Liquid Detergent - 1kg at Rs.136.** **",
       "price": 136,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCBXGSB1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCBXGSB1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Dabur Gulabari Shower Gel, 250ml 81₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJLY8XS3?tag=premiumde066c-21",
-      "posted_at": "2026-11-09T18:49:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CJLY8XS3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJLY8XS3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJLY8XS3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
