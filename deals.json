@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T05:29:00Z",
+  "updated_at": "2026-11-17T05:34:53Z",
   "deals": [
+    {
+      "title": "Wiki Stylish Unisex Backpack 2 Durable & Lightweight backpack at 594",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DW47DY43?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T05:34:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512632.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DW47DY43.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DW47DY43.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "75% Off : Axe Midnight Oak EDP Perfume, 100ml @374.",
       "price": 374,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DP7H75TV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DP7H75TV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung 65 inch (163cm) Crystal UHD 4K Vision AI 2026 Smart TV at ₹53916 Apply coupon+ bank offers",
-      "price": 53916,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GZKCC5TZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T06:14:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511660.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GZKCC5TZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GZKCC5TZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
