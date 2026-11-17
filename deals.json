@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T15:18:49Z",
+  "updated_at": "2026-11-17T15:27:43Z",
   "deals": [
+    {
+      "title": "75% Off : Maybelline New York Lifter Gel Lip Oil @199. Buy Max Qty :",
+      "price": 199,
+      "original_price": 796,
+      "category": "Grocery",
+      "badge": "75% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H1J4M7FQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T15:27:42Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H1J4M7FQ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H1J4M7FQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H1J4M7FQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Fastrack Rider Plus BT Calling Smartwatch 1503",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09DPRTW7R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09DPRTW7R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "332",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8W138RQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T16:57:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F8W138RQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8W138RQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8W138RQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
