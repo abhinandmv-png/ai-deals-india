@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T14:48:52Z",
+  "updated_at": "2026-11-17T15:03:53Z",
   "deals": [
+    {
+      "title": ". Portronics Hydra 10 Wireless Mechanical Gaming Keyboard 2754",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2V26XLR?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T15:03:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512733.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2V26XLR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2V26XLR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loottt fasttt💥💥💥 Loot : Mix Dry Fruits 1KG – Only ₹429🤯 ✨1KG Pack of Mixed Dry Fruits ✨Perfect for Snacking & Daily Use ✨Convenient Mix for Home & Gifting Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
       "price": 429,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCLPQG26.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCLPQG26.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Polycab Wizzy Neo 1200mm 5-Star BLDC, Remote Ceiling fan at ₹2,799",
-      "price": 2799,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D2L7N6DC?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T15:41:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0D2L7N6DC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D2L7N6DC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D2L7N6DC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
