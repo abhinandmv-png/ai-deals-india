@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T05:19:50Z",
+  "updated_at": "2026-11-17T05:19:59Z",
   "deals": [
+    {
+      "title": "877",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DP56Z5MY?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T05:19:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512630.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DP56Z5MY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DP56Z5MY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kitchen Towels at Rs.194",
       "price": 194,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00IYF6C4Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00IYF6C4Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab For Needy : Air Purifier @12499. Apply ₹500 Off Coupon : Regular Price ₹19999.",
-      "price": 12499,
-      "original_price": 19999,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HFW15QRS?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T05:44:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511658.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HFW15QRS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HFW15QRS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
