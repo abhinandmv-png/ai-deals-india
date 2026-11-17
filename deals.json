@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T13:33:42Z",
+  "updated_at": "2026-11-17T13:48:40Z",
   "deals": [
+    {
+      "title": ". Reebok Sprinter Women's Running Shoes 1600",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRKBR4PJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T13:48:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512719.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRKBR4PJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRKBR4PJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Atomberg Renesa Elite 1200mm BLDC Ceiling Fan 4,999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00DK8AT32.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00DK8AT32.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Nitra Isolate [1kg, Rich Chocolate] at Rs.1999",
-      "price": 1999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DMVZ3WD2?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T14:41:42Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
