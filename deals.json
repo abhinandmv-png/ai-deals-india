@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T13:03:35Z",
+  "updated_at": "2026-11-17T13:03:44Z",
   "deals": [
+    {
+      "title": ". Puma Men's Softride Rift Rushtrack Running Shoe 2,099₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6VM57LP?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T13:03:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F6VM57LP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6VM57LP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6VM57LP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Ant Esports H520W Smartchoice Gaming Headset 710₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DQ17T2FZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DQ17T2FZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "24 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HR155RJS?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T14:39:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HR155RJS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HR155RJS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HR155RJS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
