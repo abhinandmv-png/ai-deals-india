@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T15:48:40Z",
+  "updated_at": "2026-11-17T15:48:51Z",
   "deals": [
+    {
+      "title": ". Butterfly Smart 750 Watts Mixer Grinder 2999",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B075JJ5NQC?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T15:48:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B075JJ5NQC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "33",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DYF1F9G8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DYF1F9G8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo USB-A Keyboard & Mouse Wireless Combo at Rs.999",
-      "price": 999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GRWHJF7G?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T17:26:41Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GRWHJF7G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GRWHJF7G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GRWHJF7G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
