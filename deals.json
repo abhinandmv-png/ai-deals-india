@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T16:48:37Z",
+  "updated_at": "2026-11-17T17:18:44Z",
   "deals": [
+    {
+      "title": "LOOTT 💥 North India",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY57T48R?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T17:18:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512757.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY57T48R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY57T48R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Prisma 750 W 3 Jar Mixer Grinder 3399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09GG4KDTF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09GG4KDTF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Wonderchef Oven Toaster Griller (OTG) 10L 1763",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FV38CM9M?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T18:29:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511786.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FV38CM9M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FV38CM9M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
