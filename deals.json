@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T06:04:52Z",
+  "updated_at": "2026-11-17T06:05:05Z",
   "deals": [
+    {
+      "title": "Pack of 2 @361",
+      "price": 361,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQXF769C?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T06:05:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512641.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQXF769C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQXF769C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Instanio Prime 25 Litre Storage Water Heater (Geyser) |Temp. Sensing Color Changing LED Indicator | Glass Coated Anti Rust Tank | Warranty: 5 Year on Tank | High Rise Compatible (White Blue) Apply coupon 🔥 ₹8475",
       "price": 8475,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H425MVM4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H425MVM4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Hundred Pitch Force Limited Edition Cricket Shoes at 649",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBWHJRY3?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T06:59:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511675.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBWHJRY3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBWHJRY3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
