@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T08:34:54Z",
+  "updated_at": "2026-11-17T09:04:53Z",
   "deals": [
+    {
+      "title": "Myntra: Upto 85% Off On Women Footwear Flip Flops : Flats : Heels : Shoes : 50% OFF 1497",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "85% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FD3MCMTH?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T09:04:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512661.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FD3MCMTH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FD3MCMTH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CORSAIR SCUF NOMAD Wireless iPhone Mobile Gaming Controller @5888",
       "price": 5888,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CX8MH9XN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CX8MH9XN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0936N9849?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T07:59:03Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0936N9849.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0936N9849.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0936N9849.01.LZZZZZZZ.jpg"
       ]
     }
   ]
