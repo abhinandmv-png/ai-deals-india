@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T06:20:16Z",
+  "updated_at": "2026-11-17T06:57:30Z",
   "deals": [
+    {
+      "title": "Levi's Comfort Brief Pack Of 3 @339.",
+      "price": 339,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07X63KH38?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T06:57:30Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07X63KH38.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07X63KH38.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07X63KH38.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 Casio Ladies LTP-SN5YRL-2A Analog Blue Dial Women (A2449) — ₹1,797",
       "price": 1797,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0927T6DS6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0927T6DS6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @999",
-      "price": 999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B092TNMFYB?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T07:14:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511681.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B092TNMFYB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B092TNMFYB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
