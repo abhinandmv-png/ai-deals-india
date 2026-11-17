@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T03:34:11Z",
+  "updated_at": "2026-11-17T03:34:49Z",
   "deals": [
+    {
+      "title": "Animal Matching Puzzle Cards for Kids @113.",
+      "price": 113,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6ZW2V1R?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T03:34:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H6ZW2V1R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6ZW2V1R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6ZW2V1R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj Classico Sleek 5S 1200MM BLDC Ceiling Fan at 2288",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BVQK21R3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BVQK21R3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "MILTON Cool Touch Rectangular Stainless Steel Container, 380ml, Green Refrigerator — ₹159.",
-      "price": 159,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DGG82H19?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T04:29:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DGG82H19.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DGG82H19.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DGG82H19.01.LZZZZZZZ.jpg"
       ]
     }
   ]
