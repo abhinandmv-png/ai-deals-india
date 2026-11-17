@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T16:28:02Z",
+  "updated_at": "2026-11-17T16:48:37Z",
   "deals": [
+    {
+      "title": ". Havells Prisma 750 W 3 Jar Mixer Grinder 3399",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNM7XWFD?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T16:48:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNM7XWFD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Solimo Kadai Induction Base @403",
       "price": 403,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FV38CM9M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FV38CM9M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "189",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLK6WHVR?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T18:29:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FLK6WHVR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLK6WHVR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLK6WHVR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
