@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T02:20:04Z",
+  "updated_at": "2026-11-17T02:49:08Z",
   "deals": [
+    {
+      "title": "Bajaj KTX Electric Kettle 1.2L at 483.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BLHQG59L?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T02:49:07Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BLHQG59L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BLHQG59L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BLHQG59L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Portronics Toad One Bluetooth Mouse at Rs.540.",
       "price": 540,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BJLBYDFR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BJLBYDFR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pond's Bright Brightening Serum 30ml @269 Apply Coupon :",
-      "price": 269,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09FMM9V9N?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T02:49:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09FMM9V9N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09FMM9V9N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09FMM9V9N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
