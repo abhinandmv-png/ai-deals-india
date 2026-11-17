@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T10:33:47Z",
+  "updated_at": "2026-11-17T10:48:48Z",
   "deals": [
+    {
+      "title": ". adidas Men's Basenew Running Shoe 1719",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPVQ2QJR?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T10:48:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512684.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPVQ2QJR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPVQ2QJR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HP v222w 64GB USB 2.0 Pen Drive, Metal Silver 759",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNNB768S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNNB768S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". ZEBRONICS Zeb-Jaguar Wireless Mouse, 2.4GHz with USB Nano Receiver 257₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B098K1439N?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T11:29:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511718.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B098K1439N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B098K1439N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
