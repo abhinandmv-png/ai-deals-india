@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T14:34:47Z",
+  "updated_at": "2026-11-17T14:34:58Z",
   "deals": [
+    {
+      "title": ". Parachute Advansed Parachute Hair Cream Cream 163₹",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B077HRJF54?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T14:34:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B077HRJF54.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B077HRJF54.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B077HRJF54.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra : Upto 83% Off On HRX Clothing. Men's : Low To High : Trackpants : Tracksuits : Women's : Low To High : Trackpants : Tracksuits : 🔥🔥 129₹ HAMMER Type C to Type C Cable 65W Braided, PD Fast Charging",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6BJ2886.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6BJ2886.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sony Wired Headphone 🔥 549₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00KGZZ824?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T15:10:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511753.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00KGZZ824.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00KGZZ824.01.LZZZZZZZ.jpg"
       ]
     }
   ]
