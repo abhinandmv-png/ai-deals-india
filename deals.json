@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T18:53:20Z",
+  "updated_at": "2026-11-17T18:57:07Z",
   "deals": [
+    {
+      "title": ". Parachute Advansed Coconut & Rosemary Hair Growth Oil 156",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H34621W9?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T18:57:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H34621W9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H34621W9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H34621W9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "**Apply 25% Off Coupon** | Havells REO BLDC 1200mm Ceiling Fan @1999.",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FVLMC8PB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FVLMC8PB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". WuHouze Round Nesting Coffee Table Set of 2 - with Faux Marble 1,499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H7XRN867?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T18:58:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H7XRN867.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H7XRN867.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H7XRN867.01.LZZZZZZZ.jpg"
       ]
     }
   ]
