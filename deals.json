@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T09:04:53Z",
+  "updated_at": "2026-11-17T09:08:07Z",
   "deals": [
+    {
+      "title": "Lowest : PHILIPS Air fryer, 4.1L @3428.",
+      "price": 3428,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09CTWFV5W?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T09:08:06Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09CTWFV5W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Myntra: Upto 85% Off On Women Footwear Flip Flops : Flats : Heels : Shoes : 50% OFF 1497",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B079W527J2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B079W527J2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP GK400Y Mechanical Gaming Keyboard @ ₹1,399",
-      "price": 1399,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CX8MH9XN?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T08:41:35Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CX8MH9XN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CX8MH9XN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CX8MH9XN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
