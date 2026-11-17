@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T15:03:53Z",
+  "updated_at": "2026-11-17T15:04:05Z",
   "deals": [
+    {
+      "title": ". Morphy Richards Blendexpert 400 W Powerful Copper 3466",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B4KFZMTC?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T15:04:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0B4KFZMTC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B4KFZMTC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B4KFZMTC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Portronics Hydra 10 Wireless Mechanical Gaming Keyboard 2754",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FTV7S7V4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FTV7S7V4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony WF-C710NSA Dual Noise Cancellation Wireless Bluetooth Earbuds at Rs.5088 + Bank Offer",
-      "price": 5088,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCLPQG26?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T15:56:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FCLPQG26.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCLPQG26.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCLPQG26.01.LZZZZZZZ.jpg"
       ]
     }
   ]
