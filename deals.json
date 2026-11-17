@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T11:42:39Z",
+  "updated_at": "2026-11-17T11:48:47Z",
   "deals": [
+    {
+      "title": ". HP 400 Quiet Wireless Mouse 🔥 762₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8VZ1KZF?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T11:48:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512695.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8VZ1KZF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8VZ1KZF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon 300 Watts Electric Chopper @809.",
       "price": 809,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBZKPJZK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBZKPJZK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Ferrero Rocher Golden Diya Chocolate Gift Pack 749₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HK362P73?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T12:29:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HK362P73.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HK362P73.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HK362P73.01.LZZZZZZZ.jpg"
       ]
     }
   ]
