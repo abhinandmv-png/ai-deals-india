@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T18:57:23Z",
+  "updated_at": "2026-11-17T18:57:34Z",
   "deals": [
+    {
+      "title": ". Nayasa Pedal Bin 32 Ltrs 637",
+      "price": 637,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GL7NCLLX?tag=premiumde066c-21",
+      "posted_at": "2026-11-17T18:57:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GL7NCLLX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GL7NCLLX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GL7NCLLX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1160",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHN6237Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHN6237Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Bajaj Waterproof 1500W Immersion Rod Heater 499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08MV82R99?tag=premiumde066c-21",
-      "posted_at": "2026-11-10T19:13:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511806.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08MV82R99.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08MV82R99.01.LZZZZZZZ.jpg"
       ]
     }
   ]
