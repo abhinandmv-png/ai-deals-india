@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T15:06:00Z",
+  "updated_at": "2026-11-18T15:21:00Z",
   "deals": [
+    {
+      "title": ". Ambrane Gaming Mouse Pad 🔥 99₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZDJM57P?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T15:20:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512895.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZDJM57P.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZDJM57P.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "549",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQHXM2DX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQHXM2DX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 149₹ Sounce 4-Port USB 3.0 Hub for PC – High-Speed Aluminum USB Hub",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DHZBTM3R?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T12:58:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511911.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DHZBTM3R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DHZBTM3R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
