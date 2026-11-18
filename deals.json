@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T08:53:30Z",
+  "updated_at": "2026-11-18T09:51:07Z",
   "deals": [
+    {
+      "title": "@441 Studds Motorbike Helmet Fabric Whitener at Rs.153 Min Quantity 3",
+      "price": 441,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F7XW43D9?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T09:51:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F7XW43D9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F7XW43D9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F7XW43D9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nayasa Easy Containers 11, 250 ML 3Pcs Set at 130",
       "price": 11250,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNWS8H5J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNWS8H5J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "SignoraWare BPA Free Plastic Square Dinner Set (Set of 21 pcs) for ₹781",
-      "price": 781,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00JJH0L6S?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T05:58:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511848.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00JJH0L6S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00JJH0L6S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
