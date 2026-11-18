@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T04:20:58Z",
+  "updated_at": "2026-11-18T04:35:59Z",
   "deals": [
+    {
+      "title": "RR Signature Raptor 1200mm BLDC Ceiling Fan @2699",
+      "price": 2699,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC2NLJTF?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T04:35:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512813.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC2NLJTF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lee Cooper Chronograph Black Round Dial Men's Watch - LC07258.250 — ₹4,479.",
       "price": 4479,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08FTQXWC7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08FTQXWC7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Treo by Milton Opalware Dinner Set of 27 @1318.",
-      "price": 1318,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G817X3TQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T04:13:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511830.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G817X3TQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G817X3TQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
