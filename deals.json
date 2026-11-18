@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T16:43:00Z",
+  "updated_at": "2026-11-18T16:51:02Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 399₹ Ant Ghost 50 RGB Gaming Mouse, White 12800 DPI, 8 Programmable Buttons",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWSHN6VQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T16:51:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512905.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWSHN6VQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWSHN6VQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kitchen Sqeezy Multipurpose Wiper @50.",
       "price": 50,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09JG4GHS3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09JG4GHS3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". French Connection Dawnlight Blue-Green Round Dial Womens Analogue Watch 1,420",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D78NMLQZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T14:28:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D78NMLQZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D78NMLQZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D78NMLQZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
