@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T06:51:00Z",
+  "updated_at": "2026-11-18T07:05:55Z",
   "deals": [
+    {
+      "title": "Zebronics 48W Car Charger with Dual Output at ₹106",
+      "price": 106,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FTV7S7V4?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T07:05:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FTV7S7V4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FTV7S7V4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FTV7S7V4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot 576",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CB37LCBJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CB37LCBJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony ZX Series MDR-ZX310AP Wired Headband Stereo On Ear Headset at **₹851**.",
-      "price": 851,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00K0AMYFO?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T04:56:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00K0AMYFO.01.LZZZZZZZ.jpg"
       ]
     }
   ]
