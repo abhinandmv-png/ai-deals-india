@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T10:21:14Z",
+  "updated_at": "2026-11-18T10:21:23Z",
   "deals": [
+    {
+      "title": ". Solimo Multipurpose Glass 120ml, Set of 6 397₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07P5Z6H7W?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T10:21:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07P5Z6H7W.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07P5Z6H7W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07P5Z6H7W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 3899 Inalsa Wet Dry Vacuum Cleaner 10LTR Capacity 1200W 17 kPa Suction",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLY7V8MX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLY7V8MX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@1172",
-      "price": 1172,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C24NDQK4?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T06:58:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511852.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C24NDQK4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C24NDQK4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
