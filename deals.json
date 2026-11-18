@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T10:36:03Z",
+  "updated_at": "2026-11-18T10:51:02Z",
   "deals": [
+    {
+      "title": "299",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKSJQKZ1?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T10:51:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512851.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKSJQKZ1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKSJQKZ1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BRKSQ7Z2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BRKSQ7Z2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@25,399 Grab @10,672 Havells Fabia Slim 25L Horizontal Right Storage Water Heater(Geyser)",
-      "price": 25399,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBLX65G2?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T07:43:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511864.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBLX65G2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBLX65G2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
