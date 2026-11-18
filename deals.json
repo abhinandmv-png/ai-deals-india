@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T16:51:02Z",
+  "updated_at": "2026-11-18T16:51:09Z",
   "deals": [
+    {
+      "title": ". Pigeon Crystal Glass Electric Kettle 1.8Litre 1,109",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08D74JGRL?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T16:51:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08D74JGRL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08D74JGRL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08D74JGRL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Grab 🔥 399₹ Ant Ghost 50 RGB Gaming Mouse, White 12800 DPI, 8 Programmable Buttons",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVSX8D1L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVSX8D1L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "71% Off : Axe Intense Deodorant, 215 ml @112.",
-      "price": 112,
-      "original_price": 386,
-      "category": "Shopping",
-      "badge": "71% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09JG4GHS3?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T14:40:43Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09JG4GHS3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09JG4GHS3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09JG4GHS3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
