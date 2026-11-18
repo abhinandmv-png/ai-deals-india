@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T19:42:06Z",
+  "updated_at": "2026-11-18T00:57:10Z",
   "deals": [
+    {
+      "title": "Orient Electric Apex-FX 1200mm Ceiling Fan at Rs.1549.",
+      "price": 1549,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BMVLRSN3?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T00:57:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512790.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BMVLRSN3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BMVLRSN3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "719",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09ZRJKLHH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09ZRJKLHH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @7199 Racold Eterno Pro Storage Water Heater(Geyser)15L",
-      "price": 7199,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07TFHG7QY?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T01:43:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511816.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07TFHG7QY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07TFHG7QY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
