@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T13:53:30Z",
+  "updated_at": "2026-11-18T14:06:00Z",
   "deals": [
+    {
+      "title": "2621",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9YM9D23?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T14:05:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512885.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9YM9D23.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9YM9D23.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Nitra Isolate [1kg, Rich Chocolate] at Rs.1999",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B9KBKKSY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B9KBKKSY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra : Up to 73% OFF on Mufti Clothing For Men 250",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "73% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B016C4ZFCU?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T12:13:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511907.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B016C4ZFCU.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B016C4ZFCU.01.LZZZZZZZ.jpg"
       ]
     }
   ]
