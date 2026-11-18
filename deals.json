@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T18:36:03Z",
+  "updated_at": "2026-11-18T18:36:11Z",
   "deals": [
+    {
+      "title": ". INKAST Men's Casual Pants 🔥 269₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H4ZDZ615?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T18:36:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512929.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H4ZDZ615.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H4ZDZ615.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "77",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FMF216K3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FMF216K3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". French Connection Seraphina Analog Watch for Women- FCN089UL 1,004₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DP55PYWH?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T15:28:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DP55PYWH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DP55PYWH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DP55PYWH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
