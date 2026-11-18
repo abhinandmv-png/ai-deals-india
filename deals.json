@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T03:05:59Z",
+  "updated_at": "2026-11-18T03:06:10Z",
   "deals": [
+    {
+      "title": "Ice Cream Glass Bowl Set Of 6, 250 ml @188.",
+      "price": 188,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRDJH5YZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T03:06:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512805.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRDJH5YZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRDJH5YZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "498 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MJJ773.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MJJ773.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Blanket at Rs.614",
-      "price": 614,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FY6221SS?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T03:43:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511823.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FY6221SS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FY6221SS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
