@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T04:57:52Z",
+  "updated_at": "2026-11-18T05:21:00Z",
   "deals": [
+    {
+      "title": "Denim Jeans for Men @499",
+      "price": 499,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJQRSQNR?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T05:20:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512818.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJQRSQNR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJQRSQNR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Allen Solly Women Boots Mid Calf Boot @700",
       "price": 700,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FH5PCJM8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FH5PCJM8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@932",
-      "price": 932,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08VMYMKXL?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T04:28:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511832.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08VMYMKXL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08VMYMKXL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
