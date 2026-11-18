@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T15:51:05Z",
+  "updated_at": "2026-11-18T16:06:00Z",
   "deals": [
+    {
+      "title": ". Havells Adonia Spin 10 Litre 5 Star Vertical Storage Water Heater 8,990",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097YPP1L3?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T16:05:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512902.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097YPP1L3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097YPP1L3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Apple Watch Series 11 GPS + Cellular 42mm 49,990",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HFW9D94B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HFW9D94B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1072 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHNHKHP7?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T13:28:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511918.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHNHKHP7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHNHKHP7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
