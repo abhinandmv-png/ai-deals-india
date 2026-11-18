@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T11:51:07Z",
+  "updated_at": "2026-11-18T12:05:51Z",
   "deals": [
+    {
+      "title": ". Pigeon By Stovekraft 1800W Induction Cooktop 1649",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B012VFOQDI?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T12:05:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B012VFOQDI.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B012VFOQDI.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B012VFOQDI.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". French Connection Nexus II Silver Round Dial Watch 2789",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/3lJwJogT6w.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/3lJwJogT6w.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply 1k cpn + Bank Offer | Mumbai Available",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GP6DXH1W?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T10:13:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GP6DXH1W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GP6DXH1W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GP6DXH1W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
