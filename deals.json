@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T01:35:52Z",
+  "updated_at": "2026-11-18T01:36:01Z",
   "deals": [
+    {
+      "title": "Giordano Womens Watch at Rs.1,999.",
+      "price": 1999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07Y699S27?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T01:36:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512796.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07Y699S27.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07Y699S27.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells Glydo 1000 watt Dry Iron at Rs.685.",
       "price": 685,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B4JH8441.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B4JH8441.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LuvLap Pant Style Baby Diapers, (XL) 54 Count @475",
-      "price": 475,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09MVWPC23?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T02:43:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511818.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09MVWPC23.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09MVWPC23.01.LZZZZZZZ.jpg"
       ]
     }
   ]
