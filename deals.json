@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T02:57:51Z",
+  "updated_at": "2026-11-18T03:05:59Z",
   "deals": [
+    {
+      "title": "498 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B075DTJMGG?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T03:05:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512803.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B075DTJMGG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B075DTJMGG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% Off : Himalaya Aloe Vera Face Wash, 200 ml @179",
       "price": 179,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FY6221SS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FY6221SS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Redmi Watch Strap Mint Green @99.",
-      "price": 99,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DG5XH3RW?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T03:40:30Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0DG5XH3RW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DG5XH3RW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DG5XH3RW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
