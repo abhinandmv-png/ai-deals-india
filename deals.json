@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T11:50:51Z",
+  "updated_at": "2026-11-18T11:50:58Z",
   "deals": [
+    {
+      "title": ". Puma Men's Cotton Regular Fit T-Shirt 1199",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00ZTTUSAE?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T11:50:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B00ZTTUSAE.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00ZTTUSAE.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00ZTTUSAE.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HP Campus Core 16 Laptop Backpack 411₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTDZJQDZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTDZJQDZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Prolife Brio Air Fryer 4.2 L at Rs.3,456 Apply 10% Off Coupon",
-      "price": 3456,
-      "original_price": 3840,
-      "category": "Shopping",
-      "badge": "10% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FH1WPYMX?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T10:11:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FH1WPYMX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FH1WPYMX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
