@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T13:50:59Z",
+  "updated_at": "2026-11-18T13:53:30Z",
   "deals": [
+    {
+      "title": "Bigmuscles Nutrition Nitra Isolate [1kg, Rich Chocolate] at Rs.1999",
+      "price": 1999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMVZ3WD2?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T13:53:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMVZ3WD2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMVZ3WD2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2159",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B016C4ZFCU.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B016C4ZFCU.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". INALSA Double Basket Air Fryer 2800W & 14 L (7L+7L) Large Capacity 7,503 With Bank Offer",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWJGC2JL?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T11:58:32Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GWJGC2JL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWJGC2JL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWJGC2JL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
