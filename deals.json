@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T15:21:00Z",
+  "updated_at": "2026-11-18T15:21:08Z",
   "deals": [
+    {
+      "title": ".. BIG Loot : Anjeer 1KG at 379",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HPFD26B2?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T15:21:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512896.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HPFD26B2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HPFD26B2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Ambrane Gaming Mouse Pad 🔥 99₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6N5X2GL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6N5X2GL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". FRONTECH 15.6-inch (39.62 Cm), Portable LED, FHD IPS 6969",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQHXM2DX?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T12:58:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FQHXM2DX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQHXM2DX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQHXM2DX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
