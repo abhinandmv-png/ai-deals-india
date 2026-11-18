@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T00:57:10Z",
+  "updated_at": "2026-11-18T01:35:52Z",
   "deals": [
+    {
+      "title": "Havells Glydo 1000 watt Dry Iron at Rs.685.",
+      "price": 685,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07LDPLSZC?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T01:35:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512795.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07LDPLSZC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07LDPLSZC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Orient Electric Apex-FX 1200mm Ceiling Fan at Rs.1549.",
       "price": 1549,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09MVWPC23.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09MVWPC23.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @980",
-      "price": 980,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09ZRJKLHH?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T02:13:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511817.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09ZRJKLHH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09ZRJKLHH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
