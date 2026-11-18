@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T15:50:58Z",
+  "updated_at": "2026-11-18T15:51:05Z",
   "deals": [
+    {
+      "title": ". Apple Watch Series 11 GPS + Cellular 42mm 49,990",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQFJF5KR?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T15:51:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FQFJF5KR.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQFJF5KR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQFJF5KR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "386",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHNHKHP7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHNHKHP7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Fire-Boltt Glitz Women's Smart Watch 1699",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GH7RL3NQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T13:13:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511915.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GH7RL3NQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GH7RL3NQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
