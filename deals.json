@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T03:42:52Z",
+  "updated_at": "2026-11-18T03:50:54Z",
   "deals": [
+    {
+      "title": "Deal Price ₹1260",
+      "price": 1260,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQRG92FL?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T03:50:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512807.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQRG92FL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQRG92FL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "64% Off : VASELINE Gluta Hya Dewy Radiance Body Lotion, 330ml @215",
       "price": 215,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKTLLS24.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKTLLS24.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "71% Off : L'Oréal Paris Revitalift Serum 30ml @291.",
-      "price": 291,
-      "original_price": 1003,
-      "category": "Beauty",
-      "badge": "71% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08QSRRYGL?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T04:10:39Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08QSRRYGL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08QSRRYGL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08QSRRYGL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
