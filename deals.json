@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-18T15:21:08Z",
+  "updated_at": "2026-11-18T15:50:58Z",
   "deals": [
+    {
+      "title": "386",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07F2QCLP2?tag=premiumde066c-21",
+      "posted_at": "2026-11-18T15:50:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07F2QCLP2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07F2QCLP2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07F2QCLP2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. BIG Loot : Anjeer 1KG at 379",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GH7RL3NQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GH7RL3NQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Run Gazele Men's Running Shoes 1,290₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D6N5X2GL?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T13:13:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D6N5X2GL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D6N5X2GL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D6N5X2GL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
