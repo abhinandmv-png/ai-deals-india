@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T03:51:29Z",
+  "updated_at": "2026-11-19T04:21:11Z",
   "deals": [
+    {
+      "title": "Halonix Jasper Neo 1000W Ceramic Room Heater at Rs.888.",
+      "price": 888,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FVMLH3N2?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T04:21:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512969.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FVMLH3N2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FVMLH3N2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells HOTSIP Electric Kettle,1 L at Rs.895.",
       "price": 895,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B098MV3MTP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B098MV3MTP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "100 . Karachi Bakery Besan Ladoo 200g 87₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08MZQB86J?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T18:56:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511980.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08MZQB86J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08MZQB86J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
