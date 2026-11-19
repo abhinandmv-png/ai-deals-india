@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T13:36:19Z",
+  "updated_at": "2026-11-19T13:36:32Z",
   "deals": [
+    {
+      "title": ". Lenovo LOQ 27Q-10 (Smartchoice) | 27\" (68.5cm) QHD (2560x1440) IPS 180Hz Gaming Monitor 14,499₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H696XFPH?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T13:36:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513053.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H696XFPH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H696XFPH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Fire-Boltt Ninja X Ring Smart Watch 1746",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H264JF8Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H264JF8Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Bajaj Military Series Rex 750W 4 Jar Mixer Grinder 3699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCW2V9KW?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T11:43:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512053.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCW2V9KW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCW2V9KW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
