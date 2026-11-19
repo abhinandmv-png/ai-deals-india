@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T11:51:12Z",
+  "updated_at": "2026-11-19T11:51:21Z",
   "deals": [
+    {
+      "title": "429",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQRNWJM2?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T11:51:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513033.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQRNWJM2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQRNWJM2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 125₹ Cortina Damask Light-Filtering Polyester Curtains 5 feet Long Set of 1 for Window",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCZ42DN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCZ42DN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab 🔥🔥 Blaupunkt Newly Launched SBW Newyork 20 2.1 CH Soundbar at ₹3,510",
-      "price": 3510,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQJY4D6S?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T07:14:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512031.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQJY4D6S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQJY4D6S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
