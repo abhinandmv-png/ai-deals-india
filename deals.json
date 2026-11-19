@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T14:08:50Z",
+  "updated_at": "2026-11-19T14:21:16Z",
   "deals": [
+    {
+      "title": ". GM Fresho Pro Interio Ventilation Fan 150mm 999₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJS8CYTN?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T14:21:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FJS8CYTN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJS8CYTN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJS8CYTN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Creatine Monohydrate [83 Servings, Unflavoured] at Rs.649",
       "price": 649,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CSN3M3MR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CSN3M3MR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sturlite LIV 10W LED Bulb (Pack of 6) LED 298",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CT8SJKB2?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T12:28:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CT8SJKB2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CT8SJKB2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CT8SJKB2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
