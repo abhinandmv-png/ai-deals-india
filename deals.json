@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T06:21:11Z",
+  "updated_at": "2026-11-19T06:21:21Z",
   "deals": [
+    {
+      "title": "Milton Artis Mixer Grinder 800 W @3,622.",
+      "price": 3622,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2YMCHGW?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T06:21:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512991.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2YMCHGW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2YMCHGW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[ Indian bank CC] HP OmniBook 3 at Rs.1,08,740.",
       "price": 108740,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FM7DW88H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FM7DW88H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GRAB : Acer Nitro 7 Wired Gaming Mouse (79g) @ 876/",
-      "price": 876,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G5FM1C7J?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T03:14:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512007.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G5FM1C7J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G5FM1C7J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
