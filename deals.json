@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T12:06:20Z",
+  "updated_at": "2026-11-19T12:21:13Z",
   "deals": [
+    {
+      "title": ". Atom 20 Pcs, Stainless Steel Door Butt Hinges 360",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09XJ1NN14?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:21:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09XJ1NN14.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09XJ1NN14.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09XJ1NN14.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "251 Apply 44% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6TKWJNF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6TKWJNF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab faaaast 🔥 CableCreation 5-in-1 USB C Hubs,Dock USBC Hub Multiport Adapter to HDMI 4K 60Hz @1539 Apply 1529 coupon🔥",
-      "price": 1539,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09G28SW8W?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T08:44:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512040.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09G28SW8W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09G28SW8W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
