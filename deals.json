@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T19:07:49Z",
+  "updated_at": "2026-11-19T19:22:51Z",
   "deals": [
+    {
+      "title": "549",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097GCHTM4?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T19:22:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513124.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097GCHTM4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097GCHTM4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". playR x Lucknow Super Giants Authentic Fan Cap 105",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMJW5V2Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMJW5V2Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "HP 360 Mono Portable Bluetooth Speaker @493",
-      "price": 493,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08NQZZXS7?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T03:41:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08NQZZXS7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08NQZZXS7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08NQZZXS7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
