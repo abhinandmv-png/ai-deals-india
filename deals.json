@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T06:21:21Z",
+  "updated_at": "2026-11-19T06:36:12Z",
   "deals": [
+    {
+      "title": "Solimo Plastic Container Set with Airtight Lids | BPA-Free | Microwave & Dishwasher Safe | Kitchen Storage Containers | Set of 15 ₹629",
+      "price": 629,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GHNR43P7?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T06:36:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512992.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GHNR43P7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GHNR43P7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Milton Artis Mixer Grinder 800 W @3,622.",
       "price": 3622,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DRPCR5VK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DRPCR5VK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosil 27 cm Hard Anodized Flat Tawa @598",
-      "price": 598,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FM7DW88H?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T03:44:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512008.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FM7DW88H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FM7DW88H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
