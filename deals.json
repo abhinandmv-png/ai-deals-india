@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T12:36:12Z",
+  "updated_at": "2026-11-19T12:36:17Z",
   "deals": [
+    {
+      "title": ". Dell 24 inch P2425H Monitor IPS FHD|100Hz 11985",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZ7N3RH8?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:36:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CZ7N3RH8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZ7N3RH8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZ7N3RH8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Allen Solly Women’s Pump Sandals 594",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F21WRP9D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F21WRP9D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Whirlpool 60cm 1500 m3/hr Filterless Autoclean Kitchen Chimney @7641(Effective) Apply ₹1,500 off coupon Rs849 off with Indian Bank cc",
-      "price": 7641,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DFHZC7FS?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T09:44:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512046.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DFHZC7FS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DFHZC7FS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
