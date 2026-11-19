@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T15:51:27Z",
+  "updated_at": "2026-11-19T15:58:17Z",
   "deals": [
+    {
+      "title": "GAP Baby-Girl's Casual Dress @299.",
+      "price": 299,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6YJ3C26?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T15:58:17Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F6YJ3C26.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6YJ3C26.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6YJ3C26.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Safari Luma Neo 8 Wheels Set of 3 (Cabin + Medium + Large) Trolley Bags 7199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQN7KYCS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQN7KYCS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "54% Off : Himalaya Refreshing Body Lotion, 200 ml @115.",
-      "price": 115,
-      "original_price": 250,
-      "category": "Shopping",
-      "badge": "54% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0093J2C0A?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T16:26:00Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0093J2C0A.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0093J2C0A.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0093J2C0A.01.LZZZZZZZ.jpg"
       ]
     }
   ]
