@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T15:43:18Z",
+  "updated_at": "2026-11-19T15:43:25Z",
   "deals": [
+    {
+      "title": "Himalaya Baby Pants Diaper Size M (76 Pcs) @599.",
+      "price": 599,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BH9CB1?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T15:43:24Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BH9CB1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells BLDC Ceiling Fan 1200mm @2645.",
       "price": 2645,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B7X8V9BJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B7X8V9BJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". KEXIN 128GB Micro SD Card 2 Pack with SD Adapter, MicroSDXC UHS-I U3 V30 A1 1,999₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4KCJTD6?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T14:58:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F4KCJTD6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4KCJTD6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4KCJTD6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
