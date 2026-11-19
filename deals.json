@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T04:36:11Z",
+  "updated_at": "2026-11-19T04:38:42Z",
   "deals": [
+    {
+      "title": "Livon Keratin Shampoo @238",
+      "price": 238,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNN4954M?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T04:38:42Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNN4954M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PEARLPET Amaya Water Bottle for Home | Leak Proof Bottles for Refrigerator — ₹257.",
       "price": 257,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FFN3J26J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FFN3J26J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". FAAAAASSSTTTT 🔥 2899 USHA Instano 5L Instant Water Heater | 3000W Copper Heating Element Price Of 3L : 2989",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HC3N7G4R?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T19:26:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511989.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HC3N7G4R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HC3N7G4R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
