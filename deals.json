@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T04:23:44Z",
+  "updated_at": "2026-11-19T04:36:11Z",
   "deals": [
+    {
+      "title": "PEARLPET Amaya Water Bottle for Home | Leak Proof Bottles for Refrigerator — ₹257.",
+      "price": 257,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FPR4RWQM?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T04:36:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512974.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FPR4RWQM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FPR4RWQM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ambrane 140W GaN Charger Hub, Charge 7 Devices at Rs.4699",
       "price": 4699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HC3N7G4R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HC3N7G4R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "362",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F1JZHHTP?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T19:26:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511987.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F1JZHHTP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F1JZHHTP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
