@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T18:38:27Z",
+  "updated_at": "2026-11-19T18:52:54Z",
   "deals": [
+    {
+      "title": "48 FAAASSTT 💥 1634",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09R2JMNJ2?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T18:52:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513116.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09R2JMNJ2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09R2JMNJ2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "991",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMJTF8Z9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMJTF8Z9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Crompton Stylus Surface Panel 12W Pack of 4 at Rs.1083.",
-      "price": 1083,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CW21J1KK?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T01:43:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512129.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CW21J1KK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CW21J1KK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
