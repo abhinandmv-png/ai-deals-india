@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T16:51:19Z",
+  "updated_at": "2026-11-19T17:06:19Z",
   "deals": [
+    {
+      "title": "140 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09YYR5JQK?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T17:06:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513088.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09YYR5JQK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09YYR5JQK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "196 Apply 50% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FFT89RN1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FFT89RN1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "328",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GCZY6WF9?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T17:43:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GCZY6WF9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GCZY6WF9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GCZY6WF9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
