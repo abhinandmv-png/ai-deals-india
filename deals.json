@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T12:36:17Z",
+  "updated_at": "2026-11-19T12:36:22Z",
   "deals": [
+    {
+      "title": ". Razer Game On Bundle Gaming Combo 2040",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FX9R121C?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:36:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FX9R121C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FX9R121C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FX9R121C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Dell 24 inch P2425H Monitor IPS FHD|100Hz 11985",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Dyazo Transparent Wireless Mouse at ₹399",
-      "price": 399,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F21WRP9D?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T09:58:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512047.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F21WRP9D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F21WRP9D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
