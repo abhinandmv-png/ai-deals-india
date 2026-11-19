@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T11:36:12Z",
+  "updated_at": "2026-11-19T11:38:48Z",
   "deals": [
+    {
+      "title": "Bosch 8 kg 5 Star Fully Automatic Top Load Washing Machine @ ₹18,740 Flat ₹1,750 off with ICICI EMI",
+      "price": 18740,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GCNFRRL8?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T11:38:47Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GCNFRRL8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GCNFRRL8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GCNFRRL8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". atomberg Studio Exhaust Fan 150mm (6 Inches) 1799",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GVNHJ3LY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GVNHJ3LY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "494",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09MVW27M6?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T06:40:56Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09MVW27M6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09MVW27M6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09MVW27M6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
