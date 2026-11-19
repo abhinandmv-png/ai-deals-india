@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T04:21:34Z",
+  "updated_at": "2026-11-19T04:23:44Z",
   "deals": [
+    {
+      "title": "Ambrane 140W GaN Charger Hub, Charge 7 Devices at Rs.4699",
+      "price": 4699,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9ZL22XV?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T04:23:43Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H9ZL22XV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9ZL22XV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9ZL22XV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj Bajaj Steam Iron at Rs.1357.",
       "price": 1357,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F1JZHHTP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F1JZHHTP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Sparkmate By Crystal Scrub Sponge,Set of 3 20",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C77G6YVL?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T19:11:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C77G6YVL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C77G6YVL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C77G6YVL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
