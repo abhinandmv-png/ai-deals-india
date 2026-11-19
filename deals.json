@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T12:06:12Z",
+  "updated_at": "2026-11-19T12:06:20Z",
   "deals": [
+    {
+      "title": "251 Apply 44% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "44% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DJGYP8YV?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:06:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DJGYP8YV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DJGYP8YV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DJGYP8YV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". XPG Levante 240 ARGB All-in-one CPU Liquid Cooling 5309",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09G28SW8W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09G28SW8W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹3723",
-      "price": 3723,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D8JMDP2B?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T07:59:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512036.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D8JMDP2B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D8JMDP2B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
