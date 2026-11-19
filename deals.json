@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T12:21:13Z",
+  "updated_at": "2026-11-19T12:21:24Z",
   "deals": [
+    {
+      "title": "🔥🔥 199₹ Parachute Advansed Pre-Wash Nourishing Hair Mask for Scalp&Hair, 250ml",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D9YMT9KM?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:21:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513039.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D9YMT9KM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D9YMT9KM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Atom 20 Pcs, Stainless Steel Door Butt Hinges 360",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCG792K3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCG792K3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 20 Delhi Available",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F6TKWJNF?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T08:44:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F6TKWJNF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F6TKWJNF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F6TKWJNF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
