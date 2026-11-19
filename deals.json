@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T18:53:25Z",
+  "updated_at": "2026-11-19T18:53:30Z",
   "deals": [
+    {
+      "title": "112 . LAKME Blush & Glow, Jelly Face Wash, 150 g 190₹",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSZ2PHQF?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T18:53:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GSZ2PHQF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSZ2PHQF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSZ2PHQF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "112 . Samsung Original 25W USB Type-C Travel Adaptor Without Cable 412₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DTYQXS53.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DTYQXS53.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Automatic Yogurt & Curd Maker Machine at 395/",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DK1WFTQK?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T02:32:48Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DK1WFTQK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DK1WFTQK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DK1WFTQK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
