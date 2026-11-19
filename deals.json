@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T13:21:21Z",
+  "updated_at": "2026-11-19T13:36:19Z",
   "deals": [
+    {
+      "title": ". Fire-Boltt Ninja X Ring Smart Watch 1746",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GFDVJS5J?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T13:36:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513052.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GFDVJS5J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GFDVJS5J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCW2V9KW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCW2V9KW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wipro Elato GS 105 Brevia 1300 Watt Steam Iron at 1019",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4V9YH61?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T11:32:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H4V9YH61.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4V9YH61.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4V9YH61.01.LZZZZZZZ.jpg"
       ]
     }
   ]
