@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T18:16:09Z",
+  "updated_at": "2026-11-19T18:16:18Z",
   "deals": [
+    {
+      "title": "199",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HP6PRSTD?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T18:16:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HP6PRSTD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HP6PRSTD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HP6PRSTD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HKSTZ37M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HKSTZ37M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Zebronics Wired USB Mouse 🔥 93₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B079Y6JZC8?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T18:14:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512108.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B079Y6JZC8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B079Y6JZC8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
