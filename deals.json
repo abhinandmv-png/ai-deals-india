@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T00:51:07Z",
+  "updated_at": "2026-11-19T00:51:19Z",
   "deals": [
+    {
+      "title": "hindware 5L 3Kw Instant Water Heater at Rs.2879.",
+      "price": 2879,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4DCPWFP?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T00:51:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0G4DCPWFP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4DCPWFP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4DCPWFP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Freed Queen Energy & Smoking Hot Perfume for Women (80ml X 2) at Rs.393",
       "price": 393,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MKRYGY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MKRYGY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Symphony 25 Litre Water Geyser 7,532",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G2Y3TH6Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T17:43:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G2Y3TH6Q.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G2Y3TH6Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G2Y3TH6Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
