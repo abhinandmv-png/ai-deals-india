@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T11:06:25Z",
+  "updated_at": "2026-11-19T11:36:12Z",
   "deals": [
+    {
+      "title": ". atomberg Studio Exhaust Fan 150mm (6 Inches) 1799",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D35TDXM7?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T11:36:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D35TDXM7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D35TDXM7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D35TDXM7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "67",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09MVW27M6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09MVW27M6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "548",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DZ2FPX91?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T06:29:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512027.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DZ2FPX91.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DZ2FPX91.01.LZZZZZZZ.jpg"
       ]
     }
   ]
