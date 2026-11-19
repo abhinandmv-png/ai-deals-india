@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T11:51:26Z",
+  "updated_at": "2026-11-19T12:06:12Z",
   "deals": [
+    {
+      "title": ". XPG Levante 240 ARGB All-in-one CPU Liquid Cooling 5309",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07ZTYVSGN?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:06:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07ZTYVSGN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07ZTYVSGN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07ZTYVSGN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". RR SIGNATURE VENTO GRILL 100 MM - WHITE 749₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D8JMDP2B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D8JMDP2B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AO Smith EWS Plus Instant Water Heater 3 Litre @ ₹3,299 Link :",
-      "price": 3299,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CHMFK3BQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T07:59:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512034.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CHMFK3BQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CHMFK3BQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
