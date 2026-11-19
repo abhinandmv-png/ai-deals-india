@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T12:21:30Z",
+  "updated_at": "2026-11-19T12:36:12Z",
   "deals": [
+    {
+      "title": ". Allen Solly Women’s Pump Sandals 594",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBLVZSB5?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T12:36:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DBLVZSB5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBLVZSB5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBLVZSB5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Park Avenue Women EDP, 100ml 239₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DFHZC7FS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DFHZC7FS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fire-Boltt Rise Smart Watch At Rs.1,099 Regular Rs.1,599",
-      "price": 1099,
-      "original_price": 1599,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DSF14WQZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T09:29:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512045.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DSF14WQZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DSF14WQZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
