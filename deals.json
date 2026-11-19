@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T03:43:08Z",
+  "updated_at": "2026-11-19T03:51:09Z",
   "deals": [
+    {
+      "title": "Jack & Jones Men's Oversized Green Tshirt at Rs.400.",
+      "price": 400,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM74F2M9?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T03:51:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512965.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM74F2M9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM74F2M9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Saffola Honey Active, 1kg @224",
       "price": 224,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00G4UBBOY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00G4UBBOY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "119",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NQ5CJDT?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T18:41:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511974.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09NQ5CJDT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09NQ5CJDT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
