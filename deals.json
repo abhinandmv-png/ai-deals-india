@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T04:38:50Z",
+  "updated_at": "2026-11-19T04:51:09Z",
   "deals": [
+    {
+      "title": "VGR V-183 Professional Trimmer for Men | 120 Min Runtime, Corded & Cordless Use, 5 Length Settings, LED Display with USB Charging (Blue) ₹1149",
+      "price": 1149,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08LT5N34S?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T04:51:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512976.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08LT5N34S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08LT5N34S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Revlon Colorstay Look Book Eyeshadow at Rs.479",
       "price": 479,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C339ZP3G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C339ZP3G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "PHILIPS 5W LED Desk Light at Rs.536.",
-      "price": 536,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFN17DJ1?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T01:29:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_511993.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFN17DJ1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFN17DJ1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
