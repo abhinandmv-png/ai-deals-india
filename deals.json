@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T03:08:41Z",
+  "updated_at": "2026-11-19T03:21:10Z",
   "deals": [
+    {
+      "title": "Men’s Wallet at Rs.299",
+      "price": 299,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079TN3GCD?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T03:21:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512962.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079TN3GCD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079TN3GCD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "50% Off : Cetaphil Optimal Hydration Restoring Water Gel 10g @194",
       "price": 194,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F2TQC614.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F2TQC614.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Gala Steel Scrubber (Pack Of 6) @110.",
-      "price": 110,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01568SIG8?tag=premiumde066c-21",
-      "posted_at": "2026-11-11T18:32:25Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B01568SIG8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01568SIG8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01568SIG8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
