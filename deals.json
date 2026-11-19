@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T06:51:13Z",
+  "updated_at": "2026-11-19T07:23:45Z",
   "deals": [
+    {
+      "title": "Acer Aspire 3, AMD Ryzen R5 7430U Processor, 16GB, 512 GB, Full HD @58,980",
+      "price": 58980,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMFBMQMN?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T07:23:44Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DMFBMQMN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMFBMQMN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMFBMQMN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Metal Tray at Rs.275",
       "price": 275,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00B5XX0F8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00B5XX0F8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@6749",
-      "price": 6749,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D7DB2Q7R?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T03:59:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D7DB2Q7R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D7DB2Q7R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D7DB2Q7R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
