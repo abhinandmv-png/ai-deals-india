@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T15:07:55Z",
+  "updated_at": "2026-11-19T15:08:02Z",
   "deals": [
+    {
+      "title": ". Aliensware 4Pcs X-Large Cabinet Storage Organizee 1,585₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F5WXCZVB?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T15:08:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F5WXCZVB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F5WXCZVB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F5WXCZVB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Daniel Hechter Paris Bercy Collection Modern Chronograph Watch for Men 2,689",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HNKFZ6BR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HNKFZ6BR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "847",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00U77VPX2?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T14:13:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B00U77VPX2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00U77VPX2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00U77VPX2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
