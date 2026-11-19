@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T14:23:50Z",
+  "updated_at": "2026-11-19T14:36:18Z",
   "deals": [
+    {
+      "title": "🔥🔥 399₹ Acer Clearview Wireless Mouse, Dual Mode Bluetooth 5.2 & 2.4GHz",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DNNLNTHY?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T14:36:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513063.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DNNLNTHY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DNNLNTHY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Aavante Prime 5.1 Dolby Audio, 500W, 5.1CH, Wireless Satellites & Subwoofer at Rs.9000",
       "price": 9000,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09P3ZFTXG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09P3ZFTXG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "214",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08SPXBMPS?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T13:28:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08SPXBMPS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08SPXBMPS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08SPXBMPS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
