@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-19T14:36:18Z",
+  "updated_at": "2026-11-19T14:36:25Z",
   "deals": [
+    {
+      "title": ". MILTON Hexa Plastic Pet Storage Jar, Set of 24 899",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C81VQ9N7?tag=premiumde066c-21",
+      "posted_at": "2026-11-19T14:36:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C81VQ9N7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C81VQ9N7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C81VQ9N7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 399₹ Acer Clearview Wireless Mouse, Dual Mode Bluetooth 5.2 & 2.4GHz",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F8Q58VV8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F8Q58VV8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,099₹ KENT Crisp Pop Up Toaster 750 Watts | 2 Slice Automatic Pop Up Electric Toaster",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09P3ZFTXG?tag=premiumde066c-21",
-      "posted_at": "2026-11-12T13:43:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512071.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09P3ZFTXG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09P3ZFTXG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
