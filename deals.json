@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T15:04:56Z",
+  "updated_at": "2026-11-20T15:05:03Z",
   "deals": [
+    {
+      "title": ". Nayasa Containers 2 Pcs Set 260₹",
+      "price": 2,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRDZ4TPC?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T15:05:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CRDZ4TPC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRDZ4TPC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRDZ4TPC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Skechers womens Pop Ups 3.0 - Pure Charm Sandal 2999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJ4TP8K8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJ4TP8K8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Adidas Men's Aeroturbothrive M Running Shoes 2,333₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GP1RPCX4?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T19:25:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512267.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GP1RPCX4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GP1RPCX4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
