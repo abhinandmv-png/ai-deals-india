@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T06:06:49Z",
+  "updated_at": "2026-11-20T06:06:58Z",
   "deals": [
+    {
+      "title": "306",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F18L1ZZB?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T06:06:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513170.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F18L1ZZB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F18L1ZZB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 1199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJ773QVG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJ773QVG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Ceramic Plates Hair Straightener @641.",
-      "price": 641,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B071WRNFRY?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T08:24:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512175.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B071WRNFRY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B071WRNFRY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
