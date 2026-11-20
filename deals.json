@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T12:14:15Z",
+  "updated_at": "2026-11-20T12:22:26Z",
   "deals": [
+    {
+      "title": ". Lee Cooper Chronograph Blue Round Dial Men's Watch 3,640",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CB8765RK?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T12:22:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CB8765RK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CB8765RK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CB8765RK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "80% Off : Portronics Bridge Y USB 3.0 to Type C @ ₹119",
       "price": 119,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DKXS5SSK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DKXS5SSK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 499₹ Gear Glitter 35L Large Water Resistant School Bag/Casual 4 Compartment Backpack",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C3MPZ9N7?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T13:24:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512225.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C3MPZ9N7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C3MPZ9N7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
