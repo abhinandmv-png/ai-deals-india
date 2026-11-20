@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T06:21:36Z",
+  "updated_at": "2026-11-20T06:21:47Z",
   "deals": [
+    {
+      "title": "₹599",
+      "price": 599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTVK1YFJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T06:21:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513173.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTVK1YFJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTVK1YFJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot Deal 🔥 Bosch 243L, Double Door Refrigerator | 6-in-1 Convertible @22,865 Apply ₹2000 Coupon + ₹5625 Off With ICICI / Axis CC",
       "price": 22865,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCM6LFBX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCM6LFBX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@798",
-      "price": 798,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCW5J3BZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T09:09:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512181.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCW5J3BZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCW5J3BZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
