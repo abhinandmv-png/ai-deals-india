@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T04:51:42Z",
+  "updated_at": "2026-11-20T04:51:50Z",
   "deals": [
+    {
+      "title": "LG 251 L, 2 Star, Smart Inverter, Frost-Free Double Door Convertible Refrigerator with Smart & Dairy Mode (GLT2526XWOB, Onyx Black, Multi Air Flow & Convertible Space for More Storage, 2026 Model) Coupon ₹1000 ₹26740 ( 2",
+      "price": null,
+      "original_price": 26740,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCZ3YP5Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T04:51:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513158.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCZ3YP5Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCZ3YP5Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DJF8TZ2M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DJF8TZ2M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "JISULIFE Handheld Fan Life9, 3600mAh Mini USB Rechargeable Fan at 1499",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DT9H1BT5?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T06:58:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512162.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DT9H1BT5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DT9H1BT5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
