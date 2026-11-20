@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T10:22:25Z",
+  "updated_at": "2026-11-20T10:37:28Z",
   "deals": [
+    {
+      "title": ". Archer Tech Lab Bluetooth Wireless Gaming Mouse 1,976₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DNQ5M5ZR?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T10:37:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513205.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DNQ5M5ZR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DNQ5M5ZR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1197",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CQF7TQP4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CQF7TQP4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AJIO : Upto 85% Off : Mens Jeans MasterLink : Lee Cooper : Jack & Jones : John Players : DNMX : Buda Jeans Co : Snitch : Spykar : Allen Cooper : U.S. Polo Assn. : Pepe Jeans : 599",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS17GNKP?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T11:10:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GS17GNKP.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS17GNKP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS17GNKP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
