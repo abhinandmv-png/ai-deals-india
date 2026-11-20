@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T04:51:34Z",
+  "updated_at": "2026-11-20T04:51:42Z",
   "deals": [
+    {
+      "title": "399",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G4N8ZPZX?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T04:51:42Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513157.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G4N8ZPZX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G4N8ZPZX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung 256 L, 2 Star, Digital Inverter Frost Free Double Door Refrigerator (RT40H30W2QHL, Gray Silver, 2026 Model) ₹26240 Coupon ₹1000 + Card -1500",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DT9H1BT5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DT9H1BT5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "STRIFF Laptop Stand at ₹240",
-      "price": 240,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07XCM6T4N?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T06:58:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07XCM6T4N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07XCM6T4N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07XCM6T4N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
