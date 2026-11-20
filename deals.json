@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T18:35:12Z",
+  "updated_at": "2026-11-20T18:35:27Z",
   "deals": [
+    {
+      "title": "Loot 2492 : Others Sites selling @10k+",
+      "price": 10,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0002LYEJK?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T18:35:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0002LYEJK.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0002LYEJK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0002LYEJK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1016",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FSRLPSG8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FSRLPSG8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "52% Off : Premium Masala Rajwadi Chai @285.",
-      "price": 285,
-      "original_price": 594,
-      "category": "Shopping",
-      "badge": "52% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HD7LNGKZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T07:06:49Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0HD7LNGKZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HD7LNGKZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HD7LNGKZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
