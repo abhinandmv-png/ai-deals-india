@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T08:51:43Z",
+  "updated_at": "2026-11-20T09:51:39Z",
   "deals": [
+    {
+      "title": "Grab🔥🔥🔥 24KT Gold Coin (1 Gram) @ 10,901 Pay Using HSBC Taj Credit Card to Get This Price",
+      "price": 10901,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYLK9PZC?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T09:51:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513195.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYLK9PZC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYLK9PZC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Upto 95% OFF- Kook N Keech Clothing. Men's : Women's : Safari Polyester In-line Skate Sprinter Cabin Size Duffle at ₹999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGSV3NW7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGSV3NW7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "44",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B4W3G7SD?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T10:39:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512195.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B4W3G7SD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B4W3G7SD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
