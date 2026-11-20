@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T11:23:01Z",
+  "updated_at": "2026-11-20T11:37:37Z",
   "deals": [
+    {
+      "title": ". Prestige Iris 750 Watt Mixer Grinder with 4 Jars 3,725",
+      "price": 3725,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T11:37:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513215.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bournvita Chocolate Nutrition Drink, 2Kg 577₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08MVX6DMD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08MVX6DMD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Samsung Galaxy S26 Ultra 5G Case Cover 90",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFFKXYF7?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T12:39:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GFFKXYF7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFFKXYF7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFFKXYF7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
