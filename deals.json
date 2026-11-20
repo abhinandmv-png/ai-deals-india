@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T03:43:57Z",
+  "updated_at": "2026-11-20T03:53:00Z",
   "deals": [
+    {
+      "title": "Washer Bowl at Rs.69",
+      "price": 69,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C7V8RC3J?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T03:52:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C7V8RC3J.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C7V8RC3J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C7V8RC3J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kenstar Infra LUMO 2000W Infrared Stove @2352",
       "price": 2352,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H1CYZ34Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H1CYZ34Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CG Iraya 5.9L Water Heater @3,310.",
-      "price": 3310,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9FK9XZZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T06:11:11Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H9FK9XZZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9FK9XZZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9FK9XZZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
