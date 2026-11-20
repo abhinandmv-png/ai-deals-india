@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T14:24:10Z",
+  "updated_at": "2026-11-20T14:34:55Z",
   "deals": [
+    {
+      "title": ". Clavin Klein Womens Blue Color Jeans (34) 1,620",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CRPQMG38?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T14:34:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513243.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CRPQMG38.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CRPQMG38.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Belkin 20000 mAh Power Bank at ₹1,499",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9Y9X58Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9Y9X58Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Red Tape Men's Pants 🔥 1,080₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CB1LRHJC?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T18:39:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CB1LRHJC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CB1LRHJC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CB1LRHJC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
