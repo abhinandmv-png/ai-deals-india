@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T17:49:55Z",
+  "updated_at": "2026-11-20T18:04:57Z",
   "deals": [
+    {
+      "title": ". Pigeon 3L Electric Rice Cooker 2 Pots Keep warm function Steam 3,029₹",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7ZG4WF?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T18:04:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513279.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7ZG4WF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7ZG4WF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "48",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMK13ZDS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMK13ZDS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab🔥🔥 12,224 Apply coupon Apply bank offer",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B084685MT1?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T05:24:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512288.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B084685MT1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B084685MT1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
