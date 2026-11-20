@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T06:21:47Z",
+  "updated_at": "2026-11-20T06:51:38Z",
   "deals": [
+    {
+      "title": "Curtains (Pack of 2) at Rs.324",
+      "price": 324,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C58NL484?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T06:51:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513175.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C58NL484.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C58NL484.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "₹599",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDY5NW11.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDY5NW11.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GAP Men's Slim Jeans @519.",
-      "price": 519,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCM6LFBX?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T09:09:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512182.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCM6LFBX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCM6LFBX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
