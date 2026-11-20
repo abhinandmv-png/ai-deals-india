@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T12:22:26Z",
+  "updated_at": "2026-11-20T12:37:26Z",
   "deals": [
+    {
+      "title": ". Acer Smartchoice Aspire One, AMD Ryzen 5-40, 8GB LPDDR5 RAM Thin and Light Laptop 44,990",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H45YFPJT?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T12:37:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H45YFPJT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H45YFPJT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lee Cooper Chronograph Blue Round Dial Men's Watch 3,640",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJQWRBVH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJQWRBVH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Kenstar Marvel 10-L, 5 Star Rated Storage Water Heater 5299",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKXS5SSK?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T13:39:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DKXS5SSK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKXS5SSK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKXS5SSK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
