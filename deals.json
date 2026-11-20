@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T05:21:34Z",
+  "updated_at": "2026-11-20T05:51:37Z",
   "deals": [
+    {
+      "title": "Borosilicate Glass Water Bottle (750 ml, Set Of 2) @350.",
+      "price": 350,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8QDZVB8?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T05:51:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513166.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8QDZVB8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8QDZVB8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo V14, Intel Core i3-1315U, 8GB RAM, 512GB SSD, FHD 14” (35.56cm), Windows 11 Home @49,194",
       "price": 49194,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4PH9V5K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4PH9V5K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Original 60W Power Adapter at ₹945",
-      "price": 945,
-      "original_price": 945,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPPMM43R?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T07:24:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512167.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPPMM43R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPPMM43R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
