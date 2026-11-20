@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T13:04:53Z",
+  "updated_at": "2026-11-20T13:19:52Z",
   "deals": [
+    {
+      "title": ". Havells All New Adonia Spin 10L 5 Star Storage Water Heater (Geyser) 8990",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBLWVRCV?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T13:19:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FBLWVRCV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBLWVRCV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBLWVRCV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Kamiliant by American Tister Laptop Backpack 899₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D78PJTPB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D78PJTPB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab 🔥 233 Reg: 499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GJM9VDH4?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T15:09:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512235.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GJM9VDH4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GJM9VDH4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
