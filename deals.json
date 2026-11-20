@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T05:51:37Z",
+  "updated_at": "2026-11-20T06:06:37Z",
   "deals": [
+    {
+      "title": "Safari Imperia Trolley 3 Years Warranty Duffle Bag (58 Cm, Black) @ 1339",
+      "price": 1339,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLDD7VM6?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T06:06:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513168.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLDD7VM6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLDD7VM6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Borosilicate Glass Water Bottle (750 ml, Set Of 2) @350.",
       "price": 350,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C23NQKP4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C23NQKP4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @4950",
-      "price": 4950,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4PH9V5K?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T07:54:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512173.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4PH9V5K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4PH9V5K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
