@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T05:06:33Z",
+  "updated_at": "2026-11-20T05:21:34Z",
   "deals": [
+    {
+      "title": "Lenovo V14, Intel Core i3-1315U, 8GB RAM, 512GB SSD, FHD 14” (35.56cm), Windows 11 Home @49,194",
+      "price": 49194,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6XWSDYH?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T05:21:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513162.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6XWSDYH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6XWSDYH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 944 WITH ANC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPPMM43R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPPMM43R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fastrack Vyb Quest Quartz Analog 3 Hands Stainless Steel Strap Watch at 1169",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHNF4HTY?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T07:13:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512165.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHNF4HTY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHNF4HTY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
