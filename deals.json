@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T19:05:00Z",
+  "updated_at": "2026-11-20T19:05:08Z",
   "deals": [
+    {
+      "title": ". HP 920XL High Yield Cyan Original Ink Cartridge 238₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00563GB2M?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T19:05:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513297.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00563GB2M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00563GB2M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAAASSTT 💥 999₹ Gio Collection Analog White Dial Women's Watch",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F91PS1PP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F91PS1PP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ReebokMens Orbit Move Walk Sneaker @1050",
-      "price": 1050,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRK9Z5Y4?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T09:39:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512314.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRK9Z5Y4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRK9Z5Y4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
