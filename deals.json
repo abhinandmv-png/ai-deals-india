@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T03:38:09Z",
+  "updated_at": "2026-11-20T03:38:24Z",
   "deals": [
+    {
+      "title": "Havells Ventil Air DSP 150mm Exhaust Fan at Rs.1190.",
+      "price": 1190,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYPM1HG1?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T03:38:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513146.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYPM1HG1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYPM1HG1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Preethi Blue Leaf Diamond Mixer Grinder, at Rs.3599.",
       "price": 3599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H9YGZB68.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H9YGZB68.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@299",
-      "price": 299,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HPTL5228?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T05:58:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512152.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HPTL5228.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HPTL5228.01.LZZZZZZZ.jpg"
       ]
     }
   ]
