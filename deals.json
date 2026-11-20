@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T11:37:37Z",
+  "updated_at": "2026-11-20T11:52:28Z",
   "deals": [
+    {
+      "title": "309",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097MZ9SV3?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T11:52:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513217.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097MZ9SV3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097MZ9SV3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Prestige Iris 750 Watt Mixer Grinder with 4 Jars 3,725",
       "price": 3725,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09NJ4H69L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09NJ4H69L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Crompton Insta Cozy 1200 Watt Halogen Room Heater 2,495",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08MVX6DMD?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T12:39:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08MVX6DMD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08MVX6DMD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08MVX6DMD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
