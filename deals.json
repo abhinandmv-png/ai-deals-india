@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T13:34:55Z",
+  "updated_at": "2026-11-20T13:49:57Z",
   "deals": [
+    {
+      "title": ".. Loottt fasttt💥💥💥 Loot : Afghani Anjeer 1Kg – Only ₹464🤯 ✨Premium Afghani Dried Figs ✨Convenient 1Kg Value Pack ✨Great for Everyday Snacking Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
+      "price": 464,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HG1TK71L?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T13:49:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513237.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HG1TK71L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HG1TK71L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "313",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9YBVKXC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9YBVKXC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bigmuscles Nutrition Karnage Pre workout at Rs.1116 Apply 7% Off Coupon",
-      "price": 1116,
-      "original_price": 1200,
-      "category": "Shopping",
-      "badge": "7% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CY1ZZXTB?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T15:47:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
