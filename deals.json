@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T04:51:50Z",
+  "updated_at": "2026-11-20T04:51:59Z",
   "deals": [
+    {
+      "title": "Kids Digital Watch at Rs.299",
+      "price": 299,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B095YWP668?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T04:51:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513159.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B095YWP668.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B095YWP668.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "LG 251 L, 2 Star, Smart Inverter, Frost-Free Double Door Convertible Refrigerator with Smart & Dairy Mode (GLT2526XWOB, Onyx Black, Multi Air Flow & Convertible Space for More Storage, 2026 Model) Coupon ₹1000 ₹26740 ( 2",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00CQ3WXFO.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00CQ3WXFO.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bergner Vienna Stainless Steel Hot Pot 26cm (3.5 litres) at 1679",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DJF8TZ2M?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T06:59:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512163.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DJF8TZ2M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DJF8TZ2M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
