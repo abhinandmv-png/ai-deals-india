@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T04:21:37Z",
+  "updated_at": "2026-11-20T04:21:45Z",
   "deals": [
+    {
+      "title": "Whirlpool 60cm 1600 m3/hr BLDC Filterless Autoclean Kitchen Chimney @13,315",
+      "price": 13315,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3JFVL7Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T04:21:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513153.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3JFVL7Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3JFVL7Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "104",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQJJYY68.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQJJYY68.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹399",
-      "price": 399,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C1CBCH2G?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T06:13:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512155.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C1CBCH2G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C1CBCH2G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
