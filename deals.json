@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T10:52:28Z",
+  "updated_at": "2026-11-20T10:52:35Z",
   "deals": [
+    {
+      "title": ". Puma Men Grandeur Running Shoe 1,749",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CTZMFN59?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T10:52:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CTZMFN59.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CTZMFN59.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CTZMFN59.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BZWLSLS3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BZWLSLS3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells REO BLDC 1200MM Ceiling Fan @2280* Apply 20% Off Coupon :",
-      "price": 2280,
-      "original_price": 2850,
-      "category": "Home",
-      "badge": "20% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GGRZQBQ3?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T11:41:21Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
