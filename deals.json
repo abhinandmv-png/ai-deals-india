@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T16:04:57Z",
+  "updated_at": "2026-11-20T16:50:05Z",
   "deals": [
+    {
+      "title": ". Nescafe Coffee 🔥 349",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPLTMLLP?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T16:50:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513265.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPLTMLLP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPLTMLLP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Men's Ampi Sneaker 🔥 1,944₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HL4C9JD4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HL4C9JD4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Solimo Stainless Steel Dinner Set Of 12 @464",
-      "price": 464,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CB5QMMR4?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T03:54:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512280.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CB5QMMR4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CB5QMMR4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
