@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T12:14:09Z",
+  "updated_at": "2026-11-20T12:14:15Z",
   "deals": [
+    {
+      "title": "80% Off : Portronics Bridge Y USB 3.0 to Type C @ ₹119",
+      "price": 119,
+      "original_price": 595,
+      "category": "Shopping",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DH3J6LB9?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T12:14:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DH3J6LB9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DH3J6LB9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DH3J6LB9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLO Crystal Water Bottles Set of 6, 1000 ml Each, | Food Grade — ₹179.",
       "price": 179,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C3MPZ9N7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C3MPZ9N7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 679₹ Orient Electric Fabriglide 1000W Electric Dry Iron for Clothes with German Weilburger Soleplate",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CZ8NBBQ3?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T13:09:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512221.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CZ8NBBQ3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CZ8NBBQ3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
