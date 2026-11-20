@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T06:06:58Z",
+  "updated_at": "2026-11-20T06:13:58Z",
   "deals": [
+    {
+      "title": "Medimix Ayurvedic Bathing Soaps (Pack Of 5) @240.",
+      "price": 240,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B49L5JH2?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T06:13:58Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0B49L5JH2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B49L5JH2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B49L5JH2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "306",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G8TB84TW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G8TB84TW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "232",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJ773QVG?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T08:41:15Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FJ773QVG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJ773QVG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJ773QVG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
