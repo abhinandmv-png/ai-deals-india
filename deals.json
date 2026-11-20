@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T10:52:35Z",
+  "updated_at": "2026-11-20T11:07:28Z",
   "deals": [
+    {
+      "title": "29",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CY876VCW?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T11:07:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513208.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CY876VCW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CY876VCW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Men Grandeur Running Shoe 1,749",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC6MQ1PV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC6MQ1PV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Gear 40L Water Resistant School / Casual Bag 599₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BZWLSLS3?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T11:54:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BZWLSLS3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BZWLSLS3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BZWLSLS3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
