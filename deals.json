@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T06:13:58Z",
+  "updated_at": "2026-11-20T06:21:36Z",
   "deals": [
+    {
+      "title": "Loot Deal 🔥 Bosch 243L, Double Door Refrigerator | 6-in-1 Convertible @22,865 Apply ₹2000 Coupon + ₹5625 Off With ICICI / Axis CC",
+      "price": 22865,
+      "original_price": 5625,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GR9VR199?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T06:21:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513171.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GR9VR199.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GR9VR199.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Medimix Ayurvedic Bathing Soaps (Pack Of 5) @240.",
       "price": 240,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DCW5J3BZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DCW5J3BZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@749",
-      "price": 749,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G8TB84TW?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T08:55:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512180.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G8TB84TW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G8TB84TW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
