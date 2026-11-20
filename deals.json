@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T04:51:59Z",
+  "updated_at": "2026-11-20T05:06:33Z",
   "deals": [
+    {
+      "title": "Grab 944 WITH ANC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGX1T42T?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T05:06:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513160.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGX1T42T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGX1T42T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kids Digital Watch at Rs.299",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHNF4HTY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHNF4HTY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Biotique Papaya Face Wash 150ml @102.",
-      "price": 102,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00CQ3WXFO?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T07:11:12Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00CQ3WXFO.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00CQ3WXFO.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00CQ3WXFO.01.LZZZZZZZ.jpg"
       ]
     }
   ]
