@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-20T10:00:19Z",
+  "updated_at": "2026-11-20T10:15:07Z",
   "deals": [
+    {
+      "title": ". TIMEX Analog Watch for Men 5,497",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FKZKMJXM?tag=premiumde066c-21",
+      "posted_at": "2026-11-20T10:15:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FKZKMJXM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FKZKMJXM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FKZKMJXM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "170",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FCFZXX7K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FCFZXX7K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "674 . Li-Ning Smash XP PRO Badminton Combo of 2 Badminton 565",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09GVN2T5B?tag=premiumde066c-21",
-      "posted_at": "2026-11-13T10:54:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09GVN2T5B.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09GVN2T5B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09GVN2T5B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
