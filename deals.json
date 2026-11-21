@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T06:05:26Z",
+  "updated_at": "2026-11-21T06:36:48Z",
   "deals": [
+    {
+      "title": "AJIO Grab : Upto 80% Off On Lee Cooper Mens Clothing. Master Link : T-Shirt : Shirts : Jeans : Shorts : Sweatshirts & Hoodies : Womens Clothing. Master Link : T-Shirt : Top & Shirt : Jeans : Shorts : Sweatshirt & Hoodies",
+      "price": 997,
+      "original_price": 4985,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D4DPFBWQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T06:36:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513346.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D4DPFBWQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D4DPFBWQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony ZX Series MDR-ZX310AP Wired Headband Stereo On Ear Headset at ₹899",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H8B67HCM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H8B67HCM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Opalware Dazzle Series 35 Pcs Dinner Set at 2092",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DNMN3GBZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T03:33:26Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DNMN3GBZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DNMN3GBZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DNMN3GBZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
