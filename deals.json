@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T16:59:53Z",
+  "updated_at": "2026-11-21T17:00:20Z",
   "deals": [
+    {
+      "title": "899",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HS6ZD6JH?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T17:00:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HS6ZD6JH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HS6ZD6JH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HS6ZD6JH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Giordano Dapper Collection Analog Watch 1,999₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWTZKX9X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWTZKX9X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Aavante Bar 610, 25W Signature Sound at Rs.1699",
-      "price": 1699,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BZ4DJ7GZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T04:33:48Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BZ4DJ7GZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BZ4DJ7GZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BZ4DJ7GZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
