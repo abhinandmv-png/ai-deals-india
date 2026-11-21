@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T17:14:50Z",
+  "updated_at": "2026-11-21T17:15:02Z",
   "deals": [
+    {
+      "title": ". GUESS Round 42mm Blue Dial Analog Men Watch 8919",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BXHSZG9J?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T17:14:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513431.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BXHSZG9J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BXHSZG9J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Mochi Women's Elegant Wedge Heel Sandals 791₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D89TRKR6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D89TRKR6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Woodland Mens Casual Shoes @1,249.",
-      "price": 1249,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYDSVNPC?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T04:37:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512479.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYDSVNPC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYDSVNPC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
