@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T01:20:16Z",
+  "updated_at": "2026-11-21T01:40:38Z",
   "deals": [
+    {
+      "title": "@744",
+      "price": 744,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CW1TQVV5?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T01:40:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513314.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CW1TQVV5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CW1TQVV5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FRONTECH Gaming Mouse, at Rs.310.",
       "price": 310,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9FTXXWC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9FTXXWC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nike Grab 199 :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HPTLM9LV?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T13:14:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512333.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HPTLM9LV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HPTLM9LV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
