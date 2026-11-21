@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T04:39:20Z",
+  "updated_at": "2026-11-21T05:05:13Z",
   "deals": [
+    {
+      "title": "LOOT FAST : Premium Anjeer 1KG at 420.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HM8FL6W9?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T05:05:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513334.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HM8FL6W9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HM8FL6W9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Singer Magwave 2000W Room Heater @ Rs.1169",
       "price": 1169,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJRWQV1M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJRWQV1M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹136",
-      "price": 136,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00CBRJ34E?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T18:44:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512361.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00CBRJ34E.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00CBRJ34E.01.LZZZZZZZ.jpg"
       ]
     }
   ]
