@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T18:39:33Z",
+  "updated_at": "2026-11-21T18:39:38Z",
   "deals": [
+    {
+      "title": "52% Off : Colgate Toothpaste 480g at ‎378.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "52% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B086Q88V9H?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T18:39:37Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B086Q88V9H.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B086Q88V9H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B086Q88V9H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "60% Off : Lakme Glycolic Illuminate Serum 30 ml at ‎299.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CT8YD7GY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CT8YD7GY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "47% Off : Nescafé Sunrise Instant Coffee 190g @361.",
-      "price": 361,
-      "original_price": 681,
-      "category": "Grocery",
-      "badge": "47% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00VJYYJ80?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T05:27:10Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00VJYYJ80.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00VJYYJ80.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00VJYYJ80.01.LZZZZZZZ.jpg"
       ]
     }
   ]
