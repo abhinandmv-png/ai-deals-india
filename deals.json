@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T14:29:46Z",
+  "updated_at": "2026-11-21T14:29:53Z",
   "deals": [
+    {
+      "title": ". Bata Mens E- Hamilton Sneaker 809",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B5LF5RJF?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T14:29:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0B5LF5RJF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B5LF5RJF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B5LF5RJF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Morphy Richards 52RCD Digi OTG Large Capacity 52L Digital 8 Preset Menus 12,499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07JG9359V.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07JG9359V.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Puma Unisex-Adult Maxpro Running Shoe at ₹2,274",
-      "price": 2274,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FK32Z2X9?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T18:06:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FK32Z2X9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FK32Z2X9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FK32Z2X9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
