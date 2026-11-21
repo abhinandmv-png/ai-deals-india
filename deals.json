@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T02:29:16Z",
+  "updated_at": "2026-11-21T02:35:06Z",
   "deals": [
+    {
+      "title": "Car toy at Rs.235",
+      "price": 235,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FD3ZNQM1?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T02:35:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513319.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FD3ZNQM1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FD3ZNQM1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Parle Platina Hide & Seek Black Bourbon 300 gm @67",
       "price": 67,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HMHFZ2ZM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HMHFZ2ZM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply ₹2000 Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJLS7FPJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T15:44:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512347.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJLS7FPJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJLS7FPJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
