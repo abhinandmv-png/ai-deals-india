@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T00:50:30Z",
+  "updated_at": "2026-11-21T00:50:39Z",
   "deals": [
+    {
+      "title": "NIVEA Shea Smooth Body Lotion,600 ml at Rs.379.",
+      "price": 379,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B099NNW9LL?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T00:50:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513309.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B099NNW9LL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B099NNW9LL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "adidas Women Sportswear Shoes at Rs.2,000.",
       "price": 2000,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07HRJMNH4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07HRJMNH4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GV3Z8FGQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T12:11:38Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0GV3Z8FGQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GV3Z8FGQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GV3Z8FGQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
