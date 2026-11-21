@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T11:05:09Z",
+  "updated_at": "2026-11-21T11:20:13Z",
   "deals": [
+    {
+      "title": "🔥🔥 1,299₹ Digitek DTR 490 LW Foldable Tripod Stand, Smartphone Holder, Pan Head",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ8VXQ55?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T11:20:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513387.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ8VXQ55.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ8VXQ55.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Philips 54 inch QD-Mini LED Google TV 45,990",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BCKRTDR1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BCKRTDR1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "BLAUPUNKT Atomik PS40 Elite Wireless Bluetooth 40W Get-Together Speaker I Dual Passive RadiatorI Dynamic RGB Lights I Karaoke with Wired Mic I EQ Button I Flexible Carrying Strap (Black, 40, Watts Apply coupon ₹500 Deal ",
-      "price": 3490,
-      "original_price": 3490,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HBQXYPDM?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T15:21:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512425.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HBQXYPDM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HBQXYPDM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
