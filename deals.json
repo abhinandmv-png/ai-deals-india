@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T14:09:30Z",
+  "updated_at": "2026-11-21T14:14:48Z",
   "deals": [
+    {
+      "title": ". boAt Rockerz Apex Bluetooth Wireless in Ear Earphones 698₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BSR2YV4X?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T14:14:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BSR2YV4X.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BSR2YV4X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BSR2YV4X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bombay Shaving Company All Rounder 2-in-1 Trimmer for Men @ ₹999",
       "price": 999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DHS77H5D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DHS77H5D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "BSB HOME Premium Cotton Double Bedsheet with 2 Pillow Covers, 240 TC Soft Breathable, Skin Friendly & Hypoallergenic, Jaipuri Printed (90 x 100 Inches) (Mughal Buti Print - Peacock Blue) Deal Price ₹404",
-      "price": 404,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSVXXP1T?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T16:52:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512443.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSVXXP1T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSVXXP1T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
