@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T04:20:09Z",
+  "updated_at": "2026-11-21T04:39:20Z",
   "deals": [
+    {
+      "title": "Singer Magwave 2000W Room Heater @ Rs.1169",
+      "price": 1169,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BK5CCTBN?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T04:39:19Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0BK5CCTBN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BK5CCTBN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BK5CCTBN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SIGNORA WARE Borosilicate Glass Water Bottle, 1 ltr, Clear, for Smoothies — ₹129.",
       "price": 129,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00CBRJ34E.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00CBRJ34E.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Skechers Men Go Run 400 Running Shoe at ₹1,931 Apply Coupon",
-      "price": 1931,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCK42QW6?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T18:15:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DCK42QW6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCK42QW6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCK42QW6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
