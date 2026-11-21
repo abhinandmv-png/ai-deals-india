@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T00:50:39Z",
+  "updated_at": "2026-11-21T01:20:04Z",
   "deals": [
+    {
+      "title": "The Man Company Hope Perfume for Man,50ml at Rs.280.",
+      "price": 280,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F74H5MSQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T01:20:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513310.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F74H5MSQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F74H5MSQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "NIVEA Shea Smooth Body Lotion,600 ml at Rs.379.",
       "price": 379,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F38DCH9T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F38DCH9T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loottt fasttt💥💥💥 Loot : Helios Shoe Cleaning Kit with Brush – Only ₹194🤯 🎟️26% Coupon Available! ✨Easy-to-Use Sneaker Cleaning Kit ✨Suitable for White Shoes, Sports Shoes & Sneakers ✨Helps Remove Dirt & Stains Buy Now👇🏻 ",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07HRJMNH4?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T12:14:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512330.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07HRJMNH4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07HRJMNH4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
