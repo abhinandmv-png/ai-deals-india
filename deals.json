@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T16:14:26Z",
+  "updated_at": "2026-11-21T16:44:47Z",
   "deals": [
+    {
+      "title": ". adidas Men Aerr-Grvww Running Shoes 1,840",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJ59NC1V?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T16:44:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HJ59NC1V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJ59NC1V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJ59NC1V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Apply 40% Off Coupon | Parachute Shampoo 1.2L @300.",
       "price": 300,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G14XCYDW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G14XCYDW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹967",
-      "price": 967,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FG35R69G?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T04:07:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512475.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FG35R69G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FG35R69G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
