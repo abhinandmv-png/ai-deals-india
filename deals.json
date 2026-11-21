@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T19:14:58Z",
+  "updated_at": "2026-11-21T19:29:55Z",
   "deals": [
+    {
+      "title": ". EcoLink 20W LED Batten (Pack Of 4) 469₹",
+      "price": null,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09GPKP1LY?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T19:29:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513459.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09GPKP1LY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09GPKP1LY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TIMEX Easy Reader Round 35mm White Dial Analog Men Watch - T2H451UJ 3747",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G439NTS5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G439NTS5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Karachi Bakery Fruit Cake 200gram — ₹114.",
-      "price": 114,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CCS5L9NZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T06:52:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CCS5L9NZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CCS5L9NZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CCS5L9NZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
