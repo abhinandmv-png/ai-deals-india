@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T11:20:13Z",
+  "updated_at": "2026-11-21T11:20:19Z",
   "deals": [
+    {
+      "title": ". Glen Multi Function OTG Kitchen 18Litre 1200W Oven Toaster Griller 3,995",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQ2F9SZ8?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T11:20:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FQ2F9SZ8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQ2F9SZ8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQ2F9SZ8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 1,299₹ Digitek DTR 490 LW Foldable Tripod Stand, Smartphone Holder, Pan Head",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GFMK743F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GFMK743F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹592",
-      "price": 592,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BCKRTDR1?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T15:22:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512427.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BCKRTDR1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BCKRTDR1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
