@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T11:35:20Z",
+  "updated_at": "2026-11-21T11:39:25Z",
   "deals": [
+    {
+      "title": "Orient Electric Enamour Classic Neo 10 L Storage Water Heater @ ₹5,360",
+      "price": 5360,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C81SXVH5?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T11:39:25Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0C81SXVH5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C81SXVH5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C81SXVH5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "448 1699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FL815X5L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FL815X5L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DR VAKU® Rechargeable Percussion Massager Machine Body Massage Gun For Pain Relief Massagers with 4 Removable Heads 6 Speed Modes Electric Cordless Deep Tissue for Neck, Back, Arms & Legs- Blue",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJVYZ4P5?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T15:22:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512430.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJVYZ4P5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJVYZ4P5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
