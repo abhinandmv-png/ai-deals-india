@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T13:00:06Z",
+  "updated_at": "2026-11-21T13:24:28Z",
   "deals": [
+    {
+      "title": "Havells BLDC Fan at 2175 Apply Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGRZQBQ3?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T13:24:28Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". London Fog Queenhithe Collection Watch for Women 788₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B6XTD8WW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B6XTD8WW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹568",
-      "price": 568,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMRCQQSM?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T15:37:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512438.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMRCQQSM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMRCQQSM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
