@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T11:20:19Z",
+  "updated_at": "2026-11-21T11:35:20Z",
   "deals": [
+    {
+      "title": "448 1699",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BWTCLMBD?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T11:35:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513390.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BWTCLMBD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BWTCLMBD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Glen Multi Function OTG Kitchen 18Litre 1200W Oven Toaster Griller 3,995",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HJVYZ4P5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HJVYZ4P5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹1945",
-      "price": 1945,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GFMK743F?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T15:22:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512428.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GFMK743F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GFMK743F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
