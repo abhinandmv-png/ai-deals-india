@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T12:29:44Z",
+  "updated_at": "2026-11-21T12:59:44Z",
   "deals": [
+    {
+      "title": "94",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6R2MRQC?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T12:59:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H6R2MRQC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6R2MRQC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6R2MRQC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Vaseline Sun Protect SPF 30 Body Lotion, 600ml 377₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H68BKTGJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H68BKTGJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹1630",
-      "price": 1630,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBDFV3ML?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T15:23:21Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512435.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBDFV3ML.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBDFV3ML.01.LZZZZZZZ.jpg"
       ]
     }
   ]
