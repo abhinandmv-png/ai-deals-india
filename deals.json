@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T14:14:48Z",
+  "updated_at": "2026-11-21T14:29:46Z",
   "deals": [
+    {
+      "title": ". Morphy Richards 52RCD Digi OTG Large Capacity 52L Digital 8 Preset Menus 12,499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F66WHT1M?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T14:29:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F66WHT1M.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F66WHT1M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F66WHT1M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". boAt Rockerz Apex Bluetooth Wireless in Ear Earphones 698₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FK32Z2X9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FK32Z2X9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Rare Rabbit Jeans/Trousers at 70% off",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "70% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DHS77H5D?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T17:22:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512447.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DHS77H5D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DHS77H5D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
