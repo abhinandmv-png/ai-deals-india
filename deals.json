@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T17:00:20Z",
+  "updated_at": "2026-11-21T17:14:50Z",
   "deals": [
+    {
+      "title": ". Mochi Women's Elegant Wedge Heel Sandals 791₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FLDW9M8J?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T17:14:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513430.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FLDW9M8J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FLDW9M8J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "899",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYDSVNPC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYDSVNPC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Casio Analog White Dial Men Watch at 1747.",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWTZKX9X?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T04:33:56Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0DWTZKX9X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWTZKX9X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWTZKX9X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
