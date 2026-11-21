@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T14:29:53Z",
+  "updated_at": "2026-11-21T14:44:45Z",
   "deals": [
+    {
+      "title": ". Allen Solly Men's Regular Fit Solid Bomber Jacket 2,372",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM3H6T7Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T14:44:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FM3H6T7Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM3H6T7Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM3H6T7Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bata Mens E- Hamilton Sneaker 809",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09YV753WH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09YV753WH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bath Towel at ₹349",
-      "price": 349,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07JG9359V?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T18:07:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07JG9359V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07JG9359V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07JG9359V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
