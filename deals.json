@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T00:50:03Z",
+  "updated_at": "2026-11-21T00:50:23Z",
   "deals": [
+    {
+      "title": "Wipro Garnet 8W Round Downlight Junction Box,pack of 2 at Rs.205.",
+      "price": 205,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C2438Y6H?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T00:50:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513307.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C2438Y6H.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C2438Y6H.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nubilous Tap Extender for Kitchen Sink, at Rs.198.",
       "price": 198,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HCZ1W1SN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HCZ1W1SN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "AAZEEM Poly Cotton Matching Aprons @₹190",
-      "price": 190,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C8YGJD68?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T11:54:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C8YGJD68.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C8YGJD68.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C8YGJD68.01.LZZZZZZZ.jpg"
       ]
     }
   ]
