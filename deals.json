@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T07:20:25Z",
+  "updated_at": "2026-11-21T07:20:37Z",
   "deals": [
+    {
+      "title": "15lit @4515",
+      "price": 4515,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8LH7NFK?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T07:20:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513355.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8LH7NFK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8LH7NFK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab @1899 Havells 1200mm Ambrose BLDC Motor Ceiling Fan Apply coupon",
       "price": 1899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4N2H575.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4N2H575.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "French Connection Green Dial Color Watch @919.",
-      "price": 919,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DRK1QWS2?tag=premiumde066c-21",
-      "posted_at": "2026-11-15T05:06:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512391.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRK1QWS2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRK1QWS2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
