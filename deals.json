@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T18:09:31Z",
+  "updated_at": "2026-11-21T18:29:50Z",
   "deals": [
+    {
+      "title": "🔥🔥 2816 Crompton FlameStar 3 Burner Glass Top LPG Gas Stove",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3J89F8L?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T18:29:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513440.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3J89F8L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3J89F8L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Skechers Sneakers at 2405",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FWRT9NNJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FWRT9NNJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Triply Stainless Steel Pressure Cooker 3 Ltr — ₹1,482.",
-      "price": 1482,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMW86PWV?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T05:08:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512486.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMW86PWV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMW86PWV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
