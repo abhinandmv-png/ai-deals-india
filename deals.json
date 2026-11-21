@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T01:59:17Z",
+  "updated_at": "2026-11-21T02:05:07Z",
   "deals": [
+    {
+      "title": "MAHARAJA Plastic Chair & Table Combo | Elegant Design for Indoor & Outdoor Use — ₹3,620.",
+      "price": 3620,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F9YB7GBY?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T02:05:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513316.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F9YB7GBY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F9YB7GBY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "JACK & JONES Men's Cotton Blend T-Shirt @400",
       "price": 400,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H65MH98Q.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H65MH98Q.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Trion Nutri Max Pro 2J Juicer Mixer Grinder 500W, Black @1099",
-      "price": 1099,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FS23TZ4N?tag=premiumde066c-21",
-      "posted_at": "2026-11-14T14:59:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512345.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FS23TZ4N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
