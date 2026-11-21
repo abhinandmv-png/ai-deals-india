@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T15:44:51Z",
+  "updated_at": "2026-11-21T15:54:31Z",
   "deals": [
+    {
+      "title": "Maybelline New York Superstay Matte Ink Liquid Lipstick, Revolutionary at Rs.**299**.",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07W59D16G?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T15:54:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07W59D16G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07W59D16G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07W59D16G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Men's Exoteric Running Shoe 1749",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6BKQ1Q2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6BKQ1Q2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lifelong Portable USB Fan at Rs.571",
-      "price": 571,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F43VX833?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T02:22:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512468.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F43VX833.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F43VX833.01.LZZZZZZZ.jpg"
       ]
     }
   ]
