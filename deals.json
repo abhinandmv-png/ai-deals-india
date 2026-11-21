@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T19:14:50Z",
+  "updated_at": "2026-11-21T19:14:58Z",
   "deals": [
+    {
+      "title": ". TIMEX Easy Reader Round 35mm White Dial Analog Men Watch - T2H451UJ 3747",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B000HZTKYK?tag=premiumde066c-21",
+      "posted_at": "2026-11-21T19:14:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513456.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B000HZTKYK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B000HZTKYK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Livon Professional Hydrating Serum, 100ml 155₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CCS5L9NZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CCS5L9NZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 89% Off On Lee Cooper Watches. Men's : Women's : Myntra : GM Balin 15L Water Heater @5498.",
-      "price": 5498,
-      "original_price": 49982,
-      "category": "Electronics",
-      "badge": "89% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FM8D7C1Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T06:52:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512496.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FM8D7C1Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FM8D7C1Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
