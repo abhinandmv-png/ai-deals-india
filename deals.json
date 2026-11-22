@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T15:37:28Z",
+  "updated_at": "2026-11-22T15:52:31Z",
   "deals": [
+    {
+      "title": ". Bajaj Military Series Glamore 1000W Mixer Grinder 4 Jars 3 Stainless 5747",
+      "price": 3,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CZTM39NC?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T15:52:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513559.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CZTM39NC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CZTM39NC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Capture 500W Mixer Grinder 3 Stainless Steel Jars 1840 459 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQP1N4TL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "877",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DP56Z5MY?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T05:19:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512630.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DP56Z5MY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DP56Z5MY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
