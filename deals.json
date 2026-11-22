@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T17:37:36Z",
+  "updated_at": "2026-11-22T17:52:33Z",
   "deals": [
+    {
+      "title": ". TIMEX Champagne Round Dial Analog Women's Watch - TWEL22401 3077",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCG47MLC?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T17:52:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513575.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCG47MLC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCG47MLC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bata Men Casual Lace-Up Derby Shoes - 6 (UK) Sneakers 468₹",
       "price": 468,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B2PGJHMT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B2PGJHMT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Prolife Stellar Chef Smartchoice Air Fryer 5.5 Ltr|1500 Watts|See Through Window|Aerocrisp Tech: Rapid air circulation in every direction|Non Stick Silicon Coated Basket|2 Year Brand Warranty Apply coupon 🔥 ₹4747",
-      "price": 4747,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GS984RSY?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T05:50:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512636.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GS984RSY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GS984RSY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
