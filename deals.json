@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:59:38Z",
+  "updated_at": "2026-11-22T07:11:50Z",
   "deals": [
+    {
+      "title": "AJIO : Upto 80% Off On Buda Jeans Co Clothing. T-Shirt : Trousers : Shirt : Jeans : Sweatshirts & Sweaters : Jackets : Trackpants & Shorts : .. Loottt fasttt💥💥💥 Loot : Washing Machine Descaler Powder (100g) – Only ₹99🤯 ✨",
+      "price": 99,
+      "original_price": 495,
+      "category": "Fashion",
+      "badge": "80% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FTGBF6RS?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T07:11:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513484.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FTGBF6RS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FTGBF6RS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "495",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GVN9CCFB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GVN9CCFB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DEAL Price ₹1268 Armani Exchange Two Tone Watch @8,269.",
-      "price": 8269,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CHXTV16D?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T14:23:43Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CHXTV16D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CHXTV16D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CHXTV16D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
