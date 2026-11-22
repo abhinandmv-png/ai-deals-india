@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T14:54:29Z",
+  "updated_at": "2026-11-22T14:54:43Z",
   "deals": [
+    {
+      "title": ". Logitech B170 USB Mouse,12-Months Battery Life 595₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01J0XWYKQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T14:54:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513554.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01J0XWYKQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01J0XWYKQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "129",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07BJ41DZF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07BJ41DZF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello Opalware Dinner Set Of 40 Pieces at 1,584",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6QNLB28?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T04:34:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H6QNLB28.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6QNLB28.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6QNLB28.01.LZZZZZZZ.jpg"
       ]
     }
   ]
