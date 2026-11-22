@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T02:59:38Z",
+  "updated_at": "2026-11-22T03:14:36Z",
   "deals": [
+    {
+      "title": "Garnier Serum Face Mask Set 10Pcs @460",
+      "price": 460,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08BMSF46R?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T03:14:35Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B08BMSF46R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08BMSF46R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08BMSF46R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sony Wired Headband Stereo On Ear Headset @851",
       "price": 851,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZHJT3JB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZHJT3JB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "15lit @6990",
-      "price": 6990,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FBLW9WD7?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T07:37:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512498.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FBLW9WD7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FBLW9WD7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
