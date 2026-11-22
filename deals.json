@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T18:22:36Z",
+  "updated_at": "2026-11-22T18:22:44Z",
   "deals": [
+    {
+      "title": "🔥🔥 259₹ Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B296NTFV?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T18:22:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513580.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B296NTFV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B296NTFV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 379₹ boAt 240W Cable; Type-C to C; 5A Fast Charging",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DQXF769C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DQXF769C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Instanio Prime 25 Litre Storage Water Heater (Geyser) |Temp. Sensing Color Changing LED Indicator | Glass Coated Anti Rust Tank | Warranty: 5 Year on Tank | High Rise Compatible (White Blue) Apply coupon 🔥 ₹8475",
-      "price": 8475,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08GM6HLNW?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T06:04:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512640.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08GM6HLNW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08GM6HLNW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
