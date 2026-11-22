@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T10:01:07Z",
+  "updated_at": "2026-11-22T10:02:35Z",
   "deals": [
+    {
+      "title": "AJIO : Upto 75% Off On The Indian Garage Clothing. Tshirts : Shirts : Jeans : Sweatshirts & Hoodies : Trousers : Trackpants : Jackets : Sweaters : Blazers & Coats : Kurta : Shorts : Havells Plastic Flare 1250 Watts Steam",
+      "price": 1099,
+      "original_price": 4396,
+      "category": "Fashion",
+      "badge": "75% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07ML45D4L?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T10:02:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07ML45D4L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07ML45D4L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07ML45D4L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SNITCH Loop Medium Size Blue Polypropylene Hard Travel Suitcase @2,099₹",
       "price": 2099,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CXDS9PGP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CXDS9PGP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "75% Off - F Gear School Backpack, 37L At Rs.385 Regular Rs.671",
-      "price": 385,
-      "original_price": 671,
-      "category": "Fashion",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYHMBXWF?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T18:34:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512565.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYHMBXWF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYHMBXWF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
