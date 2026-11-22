@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T08:10:45Z",
+  "updated_at": "2026-11-22T10:00:31Z",
   "deals": [
+    {
+      "title": "U.S. POLO ASSN. Polycotton Mens Standard Length Jackets @1769₹ All Sizes :",
+      "price": 1769,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BB83849L?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T10:00:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BB83849L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BB83849L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BB83849L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Intex Beast 5X Newly Launched Bluetooth Speaker | 360° Iconic Surround Sound | Rhythmic RGB LED Light | TWS Feature | Type-C Fast Charging | Upto 5 Hrs Playback | BT 5.4 for Party & Travel (Blue) @ 799₹",
       "price": 799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HP18S6HN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HP18S6HN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "VIP Frenchie Oxy Round Neck Men's Cotton Vest (Pack of 4-90Cm) at ₹359.",
-      "price": 359,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09Y8DT2K1?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T16:37:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09Y8DT2K1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09Y8DT2K1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09Y8DT2K1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
