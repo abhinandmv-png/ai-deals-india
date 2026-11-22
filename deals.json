@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T10:00:31Z",
+  "updated_at": "2026-11-22T10:00:38Z",
   "deals": [
+    {
+      "title": "Morphy Richards 5Litre Classic Crisp Pro Air Fryer Knob Control Adjustable Time @4,599₹",
+      "price": 4599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2ZYVFVX?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T10:00:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D2ZYVFVX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2ZYVFVX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2ZYVFVX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "U.S. POLO ASSN. Polycotton Mens Standard Length Jackets @1769₹ All Sizes :",
       "price": 1769,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/4LeoeGeVPr.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/4LeoeGeVPr.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹1999 Coupon ₹500",
-      "price": 1999,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HP18S6HN?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T16:38:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512551.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HP18S6HN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HP18S6HN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
