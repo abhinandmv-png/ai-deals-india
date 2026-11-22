@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T04:30:05Z",
+  "updated_at": "2026-11-22T06:14:56Z",
   "deals": [
+    {
+      "title": "Reebok Women Sports Bra at ₹419.",
+      "price": 419,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H417X5XX?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:14:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H417X5XX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H417X5XX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H417X5XX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wonderchef 500W Mixer Grinder (3 Jars) at ₹1899",
       "price": 1899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DDKS524F.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DDKS524F.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Nike Mens Run Swift 3 Running Shoes Deal Price ₹4406",
-      "price": 4406,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQMWXZZR?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T11:22:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FQMWXZZR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQMWXZZR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQMWXZZR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
