@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-21T19:29:55Z",
+  "updated_at": "2026-11-22T02:59:38Z",
   "deals": [
+    {
+      "title": "Sony Wired Headband Stereo On Ear Headset @851",
+      "price": 851,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00K0AMYFO?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T02:59:37Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00K0AMYFO.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". EcoLink 20W LED Batten (Pack Of 4) 469₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBLW9WD7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBLW9WD7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GOBOULT Z40 V2.0 with 70H Playtime, Quad Mic ENC, 45ms Low Latency at Rs.899",
-      "price": 899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G439NTS5?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T07:33:49Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0G439NTS5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G439NTS5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G439NTS5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
