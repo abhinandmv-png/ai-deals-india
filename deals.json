@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T11:45:57Z",
+  "updated_at": "2026-11-22T12:00:57Z",
   "deals": [
+    {
+      "title": "429",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CCJMBQSM?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T12:00:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513520.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CCJMBQSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CCJMBQSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". French Connection Blue Dial Analog Women Watch 1503",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D5BF3NY7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D5BF3NY7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ingco Lithium-Ion Battery Pack, 20V 4.0Ah Battery, at Rs.2150.",
-      "price": 2150,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BK1C3TFH?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T01:49:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512599.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BK1C3TFH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BK1C3TFH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
