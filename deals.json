@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:14:56Z",
+  "updated_at": "2026-11-22T06:15:04Z",
   "deals": [
+    {
+      "title": "adidas Men Streetahead M Casual Shoe at ₹1,799",
+      "price": 1799,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09N3MWPT9?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:15:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09N3MWPT9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09N3MWPT9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09N3MWPT9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Reebok Women Sports Bra at ₹419.",
       "price": 419,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07D5H1MCB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07D5H1MCB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Treo by Milton All Fresh Glass Tiffin Containers with Insulated Bag at 499",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DDKS524F?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T11:52:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DDKS524F.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DDKS524F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DDKS524F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
