@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T14:54:43Z",
+  "updated_at": "2026-11-22T15:22:30Z",
   "deals": [
+    {
+      "title": ". HRX Kyoto 3-Piece Luggage Set Light Blue Polypropylene Hard Shell Suitcase Set 4,799",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHP8HTW7?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T15:22:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513556.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHP8HTW7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHP8HTW7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Logitech B170 USB Mouse,12-Months Battery Life 595₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CWDV5CRJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CWDV5CRJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Cello H2O unbreakable Plastic water bottle, 1 litre, set of 3 (grey) — ₹233.",
-      "price": 233,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07BJ41DZF?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T05:04:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07BJ41DZF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07BJ41DZF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07BJ41DZF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
