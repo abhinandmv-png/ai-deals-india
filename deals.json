@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T07:59:39Z",
+  "updated_at": "2026-11-22T08:10:45Z",
   "deals": [
+    {
+      "title": "Intex Beast 5X Newly Launched Bluetooth Speaker | 360° Iconic Surround Sound | Rhythmic RGB LED Light | TWS Feature | Type-C Fast Charging | Upto 5 Hrs Playback | BT 5.4 for Party & Travel (Blue) @ 799₹",
+      "price": 799,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FYPLB9TC?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T08:10:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513491.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FYPLB9TC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FYPLB9TC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "PlayR x Lucknow Super Giants Jersey IPL 2026 @279.",
       "price": 279,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09Y8DT2K1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09Y8DT2K1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "SHARP Stand Mixer EM-S34N-W (300W), 5-Speed, Turbo Mode, 3.4L SS Bowl, Multiple Hooks for Whisking and Dough Making Deal Price ₹2479",
-      "price": 2479,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B7GCYJN1?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T16:22:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512545.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B7GCYJN1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B7GCYJN1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
