@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T13:39:28Z",
+  "updated_at": "2026-11-22T13:44:05Z",
   "deals": [
+    {
+      "title": ". HP KM190 Wired Mouse and Keyboard Combo 811",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXPQ8PSX?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T13:44:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513540.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXPQ8PSX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXPQ8PSX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Crompton Ameo Fresh Premium Nutri blender 2,217",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDNWB3QK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDNWB3QK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Puma Unisex Adult Running Shoe @1035",
-      "price": 1035,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0995KMHLT?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T02:49:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512611.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0995KMHLT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0995KMHLT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
