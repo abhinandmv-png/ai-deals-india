@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T17:07:32Z",
+  "updated_at": "2026-11-22T17:22:31Z",
   "deals": [
+    {
+      "title": ". BATA Men's Porto E Sneaker 🔥 755₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMK4NCC8?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T17:22:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513570.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMK4NCC8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMK4NCC8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Dove Men + Care Oil Control Facewash, 150 ml 239₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DQ57M8HC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DQ57M8HC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fast 1747",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHGST5X7?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T05:35:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512633.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHGST5X7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHGST5X7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
