@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T12:15:55Z",
+  "updated_at": "2026-11-22T12:29:17Z",
   "deals": [
+    {
+      "title": ". adidas Men's Aerosurgestride M Running Shoes 2,016",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GL3L9M83?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T12:29:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GL3L9M83.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GL3L9M83.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GL3L9M83.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". adidas Men's Ent-Smart M Running Shoes 1799",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DN5QDK7B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DN5QDK7B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "GameSir Bluetooth Headphones at Rs.745.",
-      "price": 745,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DCGCYDKF?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T02:05:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512605.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DCGCYDKF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DCGCYDKF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
