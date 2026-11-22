@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T15:52:31Z",
+  "updated_at": "2026-11-22T16:52:31Z",
   "deals": [
+    {
+      "title": ". Oakcraft Premium Ergonomic Office Chair 5,546",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H99HYBKV?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T16:52:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H99HYBKV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H99HYBKV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H99HYBKV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bajaj Military Series Glamore 1000W Mixer Grinder 4 Jars 3 Stainless 5747",
       "price": 3,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DW47DY43.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DW47DY43.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "75% Off : Axe Midnight Oak EDP Perfume, 100ml @374.",
-      "price": 374,
-      "original_price": 1496,
-      "category": "Beauty",
-      "badge": "75% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQP1N4TL?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T05:29:00Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQP1N4TL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQP1N4TL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
