@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T12:59:17Z",
+  "updated_at": "2026-11-22T13:14:20Z",
   "deals": [
+    {
+      "title": ". Logitech G502 Hero High Performance Wired USB Gaming Mouse 3,595",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07GBZ4Q68?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T13:14:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07GBZ4Q68.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07GBZ4Q68.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07GBZ4Q68.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Polycab Freshobreeze Prime| 150mm Energy Efficient Exhaust fan 1,059",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D8185XQZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D8185XQZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Reebok Mens Running Shoe at Rs.1080.",
-      "price": 1080,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0861Z57PB?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T02:19:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512608.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0861Z57PB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0861Z57PB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
