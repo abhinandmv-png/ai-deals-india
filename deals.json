@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:45:00Z",
+  "updated_at": "2026-11-22T06:45:10Z",
   "deals": [
+    {
+      "title": ".. MRP Error 🔥 179 Pack of 3 Cars 🔥 Hot Wheels 1:64 Scale Die-Cast Toy Cars -Pack of 1 (Assorted Model, Color May Vary, Come Random Car)",
+      "price": null,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJGMPMCH?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:45:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513480.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJGMPMCH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJGMPMCH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 🔥 2499 Reg: 3499 AKG K92 Closed Back Over Ear Headphones,Wired,Black",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F4DQHKDQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F4DQHKDQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DEAL Price ₹1268 Upto 60% offer on mochi footwear",
-      "price": 1268,
-      "original_price": 3170,
-      "category": "Grocery",
-      "badge": "60% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/Ot8dnKGK3y?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T14:22:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512531.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/Ot8dnKGK3y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/Ot8dnKGK3y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
