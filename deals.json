@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T15:22:30Z",
+  "updated_at": "2026-11-22T15:37:28Z",
   "deals": [
+    {
+      "title": ". Havells Capture 500W Mixer Grinder 3 Stainless Steel Jars 1840 459 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D7VF87F4?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T15:37:28Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D7VF87F4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D7VF87F4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D7VF87F4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". HRX Kyoto 3-Piece Luggage Set Light Blue Polypropylene Hard Shell Suitcase Set 4,799",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DP56Z5MY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DP56Z5MY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kitchen Towels at Rs.194",
-      "price": 194,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CWDV5CRJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T05:19:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CWDV5CRJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CWDV5CRJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CWDV5CRJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
