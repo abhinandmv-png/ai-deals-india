@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:56:39Z",
+  "updated_at": "2026-11-22T06:59:38Z",
   "deals": [
+    {
+      "title": "495",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FPCP8GF4?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:59:38Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FPCP8GF4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FPCP8GF4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FPCP8GF4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot Fast (875 ml) @169 : Buy Max Qty | 200 ml @499.",
       "price": 169,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CHXTV16D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CHXTV16D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DEAL Price ₹1268 Goldmedal G-Dial 2 Pin Plug 5-meter Extension Cord at ₹290",
-      "price": 1268,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B011IC7JLG?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T14:23:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B011IC7JLG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B011IC7JLG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B011IC7JLG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
