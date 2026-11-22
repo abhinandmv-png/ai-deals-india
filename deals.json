@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T12:00:57Z",
+  "updated_at": "2026-11-22T12:01:07Z",
   "deals": [
+    {
+      "title": ". PUMA Men's Comp Walking Shoe 1268",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BVMFPB84?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T12:01:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BVMFPB84.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BVMFPB84.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BVMFPB84.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "429",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSFTRX77.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSFTRX77.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Zureni Folding Towel Rack for Bathroom at Rs.514.",
-      "price": 514,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D5BF3NY7?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T01:49:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512600.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D5BF3NY7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D5BF3NY7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
