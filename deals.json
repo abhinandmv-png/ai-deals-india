@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:45:10Z",
+  "updated_at": "2026-11-22T06:56:39Z",
   "deals": [
+    {
+      "title": "Loot Fast (875 ml) @169 : Buy Max Qty | 200 ml @499.",
+      "price": 169,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HM87GFP5?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:56:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HM87GFP5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HM87GFP5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HM87GFP5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. MRP Error 🔥 179 Pack of 3 Cars 🔥 Hot Wheels 1:64 Scale Die-Cast Toy Cars -Pack of 1 (Assorted Model, Color May Vary, Come Random Car)",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B011IC7JLG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B011IC7JLG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DEAL Price ₹1268 Deal Price ₹649",
-      "price": 1268,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F4DQHKDQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T14:23:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512534.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F4DQHKDQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F4DQHKDQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
