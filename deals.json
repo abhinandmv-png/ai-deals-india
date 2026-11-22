@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:29:44Z",
+  "updated_at": "2026-11-22T06:29:49Z",
   "deals": [
+    {
+      "title": "Tata Classic Instant Coffee, 90g Jar @175.",
+      "price": 175,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09N2TK64V?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:29:49Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09N2TK64V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09N2TK64V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo By Milton Borosilicate Glass Tiffin Set Of 3 @509.",
       "price": 509,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C24FRXMZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C24FRXMZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Adonia Spin+ 10L 3-in-1 Convertible Storage Water Heater(Geyser)|Dual Element| Free Installation & Flexi Pipes|7 Years Tank Warranty |Anti Rust Tank |Dual Adjustable Knobs | 33% Faster Heating Apply coupon Deal P",
-      "price": 9895,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HBPQN3LH?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T13:37:28Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512523.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HBPQN3LH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HBPQN3LH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
