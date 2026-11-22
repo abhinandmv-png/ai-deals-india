@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T10:00:38Z",
+  "updated_at": "2026-11-22T10:01:00Z",
   "deals": [
+    {
+      "title": "Lenovo 510 FHD Webcam with Full Stereo Dual Built-in mics @6465₹",
+      "price": 6465,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09S2B2QX2?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T10:01:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09S2B2QX2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09S2B2QX2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09S2B2QX2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Morphy Richards 5Litre Classic Crisp Pro Air Fryer Knob Control Adjustable Time @4,599₹",
       "price": 4599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HF4VL3BB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HF4VL3BB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 74% Off On U.S Polo Assn. Footwear.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "74% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/4LeoeGeVPr?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T17:48:57Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/4LEOEGEVPR.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/4LeoeGeVPr.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/4LeoeGeVPr.01.LZZZZZZZ.jpg"
       ]
     }
   ]
