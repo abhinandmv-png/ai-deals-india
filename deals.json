@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T07:54:42Z",
+  "updated_at": "2026-11-22T07:55:45Z",
   "deals": [
+    {
+      "title": "ASUS Vivobook Go 15 (2026) 8GB RAM | 512GB SSD @54990₹ with bank offers",
+      "price": 54990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09BB6DTW9?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T07:55:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09BB6DTW9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09BB6DTW9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09BB6DTW9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2064",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4M2DN15.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4M2DN15.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "69% Off : Maybelline New York Colossal Bold Eyeliner @99. Buy Max Qty :",
-      "price": 99,
-      "original_price": 319,
-      "category": "Shopping",
-      "badge": "69% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07S141T2R?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T14:42:18Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07S141T2R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07S141T2R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07S141T2R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
