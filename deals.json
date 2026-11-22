@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T10:01:00Z",
+  "updated_at": "2026-11-22T10:01:07Z",
   "deals": [
+    {
+      "title": "SNITCH Loop Medium Size Blue Polypropylene Hard Travel Suitcase @2,099₹",
+      "price": 2099,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GXZXYL2G?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T10:01:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GXZXYL2G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GXZXYL2G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GXZXYL2G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lenovo 510 FHD Webcam with Full Stereo Dual Built-in mics @6465₹",
       "price": 6465,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYHMBXWF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYHMBXWF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Crompton 13W LED Bulb Pack Of 2 at 135.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HF4VL3BB?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T18:33:59Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HF4VL3BB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HF4VL3BB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HF4VL3BB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
