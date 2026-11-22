@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T06:15:04Z",
+  "updated_at": "2026-11-22T06:29:37Z",
   "deals": [
+    {
+      "title": "Dabur Red Gel Ayurvedic Toothpaste (150g x 4) @219",
+      "price": 219,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4R4BG5G?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T06:29:37Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0F4R4BG5G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4R4BG5G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4R4BG5G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "adidas Men Streetahead M Casual Shoe at ₹1,799",
       "price": 1799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLVFFMK2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLVFFMK2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton Nutri Stainless Steel Insulated Tiffin Set @280.",
-      "price": 280,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07D5H1MCB?tag=premiumde066c-21",
-      "posted_at": "2026-11-16T12:03:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B07D5H1MCB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07D5H1MCB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07D5H1MCB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
