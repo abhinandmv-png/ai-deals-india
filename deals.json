@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T18:22:44Z",
+  "updated_at": "2026-11-22T18:37:38Z",
   "deals": [
+    {
+      "title": ". Casio Ladies LTP-VT03D-1BDF Analog Black Dial Women (A2421) 1847",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DWVSDK87?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T18:37:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513582.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DWVSDK87.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DWVSDK87.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 259₹ Portronics Toad 23 Wireless Optical Mouse with 2.4GHz, USB Nano Dongle",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CKMQJTN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CKMQJTN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pack of 2 @361",
-      "price": 361,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DQXF769C?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T06:05:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512641.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DQXF769C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DQXF769C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
