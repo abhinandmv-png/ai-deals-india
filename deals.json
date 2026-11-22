@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T18:37:53Z",
+  "updated_at": "2026-11-22T18:37:59Z",
   "deals": [
+    {
+      "title": "73",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B098KG4RP4?tag=premiumde066c-21",
+      "posted_at": "2026-11-22T18:37:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B098KG4RP4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B098KG4RP4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B098KG4RP4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Biotique Beauty Products 🔥",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07X63KH38.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07X63KH38.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 Casio Ladies LTP-SN5YRL-2A Analog Blue Dial Women (A2449) — ₹1,797",
-      "price": 1797,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FF4W4VTY?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T06:20:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FF4W4VTY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FF4W4VTY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FF4W4VTY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
