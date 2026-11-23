@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T14:52:50Z",
+  "updated_at": "2026-11-23T14:52:59Z",
   "deals": [
+    {
+      "title": ". TIMEX Analog Women's Watch 🔥 2,297₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08WHJKPR1?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T14:52:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513727.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08WHJKPR1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08WHJKPR1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HMJ6NNZ2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HMJ6NNZ2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Maharaja Whiteline Odacio Elite Mixer Grinder With 4 Jars 3,095",
-      "price": 3095,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D9M6QKFJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T18:42:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D9M6QKFJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D9M6QKFJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D9M6QKFJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
