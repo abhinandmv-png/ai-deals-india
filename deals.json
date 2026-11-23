@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T10:53:01Z",
+  "updated_at": "2026-11-23T10:53:13Z",
   "deals": [
+    {
+      "title": ". Havells Glaze 1250 Watts Steam Iron 809 390 Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FG7JPPVY?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T10:53:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FG7JPPVY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FG7JPPVY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FG7JPPVY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Zebronics 25W Wireless Car Charger 999₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HQD7KX3L.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HQD7KX3L.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "399",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GQHDS2LM?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T14:48:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512730.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GQHDS2LM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GQHDS2LM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
