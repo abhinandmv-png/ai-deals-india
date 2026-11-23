@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T12:52:47Z",
+  "updated_at": "2026-11-23T13:07:49Z",
   "deals": [
+    {
+      "title": ". Levi's Men's Straight Fit Mid Rise Jeans 930₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GC6P4WBH?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T13:07:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513707.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GC6P4WBH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GC6P4WBH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1099",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B7S4T6WD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B7S4T6WD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 323₹ Portronics Vader Wired Gaming Mouse with 6 Buttons, Thumb Support, Adjustable DPI",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPYKD7G5?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T16:04:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512748.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPYKD7G5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPYKD7G5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
