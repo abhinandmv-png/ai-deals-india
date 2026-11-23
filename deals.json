@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T03:22:36Z",
+  "updated_at": "2026-11-23T03:29:35Z",
   "deals": [
+    {
+      "title": "Orient Electric Orbis Rechargeable Fan 1800mAh at 804",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FJ1G9GFZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T03:29:35Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FJ1G9GFZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FJ1G9GFZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FJ1G9GFZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "62% Off : Biotique Ubtan & Collagen Light Gel Body Lotion 300ml @129",
       "price": 129,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C96TNWVL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C96TNWVL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Belkin 10000 mah Powerbank at 999",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B092TN8FWV?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T09:53:14Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B092TN8FWV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B092TN8FWV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B092TN8FWV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
