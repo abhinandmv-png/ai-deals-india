@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T15:52:27Z",
+  "updated_at": "2026-11-23T15:52:35Z",
   "deals": [
+    {
+      "title": ". Wonderchef Nutri-blend Juicer, Mixer, Grinder & Chopper 3399",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07FL3NQQG?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T15:52:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07FL3NQQG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07FL3NQQG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07FL3NQQG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Parachute Advansed Lotion, 400Ml 154",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09ZL1W7Q3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09ZL1W7Q3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Men Sweatshirt 2,209",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DVQM8499?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T19:12:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DVQM8499.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DVQM8499.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DVQM8499.01.LZZZZZZZ.jpg"
       ]
     }
   ]
