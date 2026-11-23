@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T13:07:49Z",
+  "updated_at": "2026-11-23T13:08:00Z",
   "deals": [
+    {
+      "title": ". ACTIVA Gracia 600MM BLDC Ceiling Fan with LED Light 2,199",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HS3GTDNY?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T13:08:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HS3GTDNY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HS3GTDNY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HS3GTDNY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Levi's Men's Straight Fit Mid Rise Jeans 930₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FTSGMPVB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FTSGMPVB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Solimo Ceramic 16 Piece Solid Dinner Set 1511",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B7S4T6WD?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T16:04:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0B7S4T6WD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B7S4T6WD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B7S4T6WD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
