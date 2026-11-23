@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T05:29:57Z",
+  "updated_at": "2026-11-23T05:37:42Z",
   "deals": [
+    {
+      "title": "Double Wall Insulated Stainless Steel Casserole, 2400ml at 418",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DPQCXF95?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T05:37:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513630.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DPQCXF95.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DPQCXF95.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dabur Handwash, 1.5 Ltr @119.",
       "price": 119,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7BV8X5W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7BV8X5W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "546",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08CDZ3M5K?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T11:33:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08CDZ3M5K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08CDZ3M5K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08CDZ3M5K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
