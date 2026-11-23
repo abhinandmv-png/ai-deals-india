@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T04:29:54Z",
+  "updated_at": "2026-11-23T04:44:30Z",
   "deals": [
+    {
+      "title": "MamyPoko Pants Baby Diapers XXL 18 Count @344",
+      "price": 344,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07Y8RFKR6?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T04:44:30Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07Y8RFKR6.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07Y8RFKR6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07Y8RFKR6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bajaj Endure 25L Storage Water Heater @9013",
       "price": 9013,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKH2YNLN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKH2YNLN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Aristocrat Airpro 8-wheel Cabin Size Hard Case Trolley Bag 1689",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D4RBM6Q6?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T10:18:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512676.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D4RBM6Q6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D4RBM6Q6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
