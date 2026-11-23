@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T14:37:48Z",
+  "updated_at": "2026-11-23T14:38:00Z",
   "deals": [
+    {
+      "title": ". Havells 400mm Swing Pedestal Fan 2300 890 Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00B4BC5MU?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T14:37:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513724.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00B4BC5MU.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00B4BC5MU.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Solimo Checkered Jar Container Set Of 18 405",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DVT9BCVH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DVT9BCVH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "114",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08JNCTNFZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T18:27:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512769.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08JNCTNFZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08JNCTNFZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
