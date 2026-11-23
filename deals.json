@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T12:22:50Z",
+  "updated_at": "2026-11-23T12:52:47Z",
   "deals": [
+    {
+      "title": "1099",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FS23TZ4N?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T12:52:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FS23TZ4N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FS23TZ4N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Philips 30W B22 LED Bulb 🔥 176₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPYKD7G5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPYKD7G5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Butterfly Smart 750 Watts Mixer Grinder 2999",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B075JJ5NQC?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T15:48:50Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B075JJ5NQC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
