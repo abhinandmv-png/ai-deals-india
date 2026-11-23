@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T04:52:47Z",
+  "updated_at": "2026-11-23T05:14:55Z",
   "deals": [
+    {
+      "title": "Prestige 500W Mixer Grinder with 3 Stainless Steel Jar@1799",
+      "price": 1799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FQ5BF4VY?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T05:14:55Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0FQ5BF4VY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FQ5BF4VY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FQ5BF4VY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SignoraWare Stainless Steel Bottle 1L at 201",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPVQ2QJR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPVQ2QJR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP v222w 64GB USB 2.0 Pen Drive, Metal Silver 759",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01LYLJ99X?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T10:33:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512680.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01LYLJ99X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01LYLJ99X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
