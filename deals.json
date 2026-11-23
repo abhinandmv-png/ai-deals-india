@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T14:07:50Z",
+  "updated_at": "2026-11-23T14:07:59Z",
   "deals": [
+    {
+      "title": ". RR Josh Deco with 2 Year Warranty 1200 mm Ceiling Fan (1 Star | Brown | Pack of 1) 1,299₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G2SK9G8K?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T14:07:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513721.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G2SK9G8K.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G2SK9G8K.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Decathlon Tracksuit Jackets 🔥 999₹ . Spykar Women's Sweatshirt 🔥 732₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKHGDWBV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKHGDWBV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Amazon Basics 2200W Induction Cooktop | 8 Pre-Set Cooking Menus 1,661₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FC223RDQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T17:33:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512760.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FC223RDQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FC223RDQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
