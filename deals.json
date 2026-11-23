@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T00:37:37Z",
+  "updated_at": "2026-11-23T00:59:03Z",
   "deals": [
+    {
+      "title": "TIMEX Fria Analog Watch for Women at Rs.2897.",
+      "price": 2897,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B099Q27383?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T00:59:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513605.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B099Q27383.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B099Q27383.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Saree With Blouse Piece at Rs.599.",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F7XZH9P4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F7XZH9P4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lowest : PHILIPS Air fryer, 4.1L @3428.",
-      "price": 3428,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09CTWFV5W?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T09:08:06Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09CTWFV5W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
