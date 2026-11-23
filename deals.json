@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T15:52:45Z",
+  "updated_at": "2026-11-23T15:52:51Z",
   "deals": [
+    {
+      "title": "1350",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09XQMFF1B?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T15:52:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09XQMFF1B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09XQMFF1B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09XQMFF1B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAAASSTT 💥 1924 Puma Men's Evoflex Maxgrip Running Shoe",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BMVLRSN3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BMVLRSN3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "719",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GJZZ6VTL?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T19:42:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GJZZ6VTL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GJZZ6VTL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GJZZ6VTL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
