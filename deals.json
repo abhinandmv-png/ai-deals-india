@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T13:52:54Z",
+  "updated_at": "2026-11-23T14:07:50Z",
   "deals": [
+    {
+      "title": ". Decathlon Tracksuit Jackets 🔥 999₹ . Spykar Women's Sweatshirt 🔥 732₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFW6L1B1?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T14:07:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513720.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFW6L1B1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFW6L1B1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "46",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC223RDQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC223RDQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "765",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CYLJR6MF?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T17:18:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CYLJR6MF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CYLJR6MF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CYLJR6MF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
