@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T08:52:45Z",
+  "updated_at": "2026-11-23T09:38:14Z",
   "deals": [
+    {
+      "title": "Premium Steel Chopping Board @227.",
+      "price": 227,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GFFKYNCY?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T09:38:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GFFKYNCY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GFFKYNCY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GFFKYNCY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loottt fasttt💥💥💥 Loot : EDYELL V2 Motorcycle Helmet Bluetooth Headset – Only ₹799🤯 🎟️Apply Code : A6DGY8DL at Checkout (Flat ₹181 Off) ✨Bluetooth Headset for Motorcycle Helmets ✨Hands-Free Calling & Audio Connectivity ✨E",
       "price": 799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B081Q85RTF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B081Q85RTF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 224₹ HP M10 Wired USB Mouse with 3 Buttons High Definition 1000DPI Optical Tracking and Ambidextrous Design",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B083GLD16Q?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T12:48:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512707.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B083GLD16Q.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B083GLD16Q.01.LZZZZZZZ.jpg"
       ]
     }
   ]
