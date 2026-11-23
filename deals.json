@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T05:52:42Z",
+  "updated_at": "2026-11-23T05:53:11Z",
   "deals": [
+    {
+      "title": "Lenskart Computer Glasses at Rs.399",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B093X66PL9?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T05:53:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513635.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B093X66PL9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B093X66PL9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nivia Appeal 4.0 Non-Marking Badminton Shoes at 655",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DXQ2JNG9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DXQ2JNG9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP 400 Quiet Wireless Mouse 🔥 762₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8VZ1KZF?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T11:48:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512695.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8VZ1KZF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8VZ1KZF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
