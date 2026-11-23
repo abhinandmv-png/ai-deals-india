@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T18:07:28Z",
+  "updated_at": "2026-11-23T18:14:50Z",
   "deals": [
+    {
+      "title": "Milton Induction Cookware Set at 1555.",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B5XQMLJM?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T18:14:50Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B5XQMLJM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B5XQMLJM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B5XQMLJM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Ventura 2000 Watt Steam Iron 1359 390 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H1JMCXHF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H1JMCXHF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Ice Cream Glass Bowl Set Of 6, 250 ml @188.",
-      "price": 188,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRDJH5YZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T03:06:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512805.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRDJH5YZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRDJH5YZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
