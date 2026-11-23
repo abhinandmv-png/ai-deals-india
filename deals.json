@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T07:37:56Z",
+  "updated_at": "2026-11-23T07:38:15Z",
   "deals": [
+    {
+      "title": "Lifelong Foldable Clothes Drying Stand at ₹999",
+      "price": 999,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F3P8ZNSP?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T07:38:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513656.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F3P8ZNSP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F3P8ZNSP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "2365 :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D541H9CS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D541H9CS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Classique By La Opala Opalware Dinner Set 53Pcs 3,299₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GHFBXL8X?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T12:33:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GHFBXL8X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GHFBXL8X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GHFBXL8X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
