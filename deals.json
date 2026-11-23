@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T13:37:49Z",
+  "updated_at": "2026-11-23T13:37:56Z",
   "deals": [
+    {
+      "title": ". Havells Velo 36 L Personal Air Cooler for Room 7781",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQKRND4B?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T13:37:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DQKRND4B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQKRND4B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQKRND4B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "3499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FNM7XWFD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Solimo Kadai Induction Base @403",
-      "price": 403,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B31SLPS2?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T16:28:01Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B31SLPS2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B31SLPS2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B31SLPS2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
