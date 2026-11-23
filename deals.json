@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T10:08:06Z",
+  "updated_at": "2026-11-23T10:22:45Z",
   "deals": [
+    {
+      "title": "38",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09X73SDNP?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T10:22:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09X73SDNP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09X73SDNP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09X73SDNP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Crompton Fabriautotech 2200 Watts Steam Iron @3,808.",
       "price": 3808,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CXM7FCHC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CXM7FCHC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Men's Hyperglide X Forcelite Running Shoe 2599",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F6VCR7TG?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T14:18:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512725.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F6VCR7TG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F6VCR7TG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
