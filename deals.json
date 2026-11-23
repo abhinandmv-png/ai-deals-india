@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T18:37:49Z",
+  "updated_at": "2026-11-23T18:38:03Z",
   "deals": [
+    {
+      "title": ". REXONA Underarm Roll-On 50 ml, Pack of 2 136₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMQKR8CJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T18:38:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513769.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMQKR8CJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMQKR8CJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "164",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHHC9D3H.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHHC9D3H.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Deal Price ₹1260",
-      "price": 1260,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQRG92FL?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T03:50:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512807.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQRG92FL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQRG92FL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
