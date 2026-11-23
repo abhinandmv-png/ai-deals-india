@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T16:59:43Z",
+  "updated_at": "2026-11-23T17:07:32Z",
   "deals": [
+    {
+      "title": "90",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D2KSQ7DP?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T17:07:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D2KSQ7DP.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D2KSQ7DP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D2KSQ7DP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dot & Key Barrier Repair Hyaluronic Body Lotion at 211 Apply 10% Coupon Link :",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6TZBQK4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6TZBQK4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "POND'S Youthful Miracle Hexyl Retinol Complex, Renew & Repair 50g — ₹392.",
-      "price": 392,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B077NDKG7D?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T02:05:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B077NDKG7D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B077NDKG7D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B077NDKG7D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
