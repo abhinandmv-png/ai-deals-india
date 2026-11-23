@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T15:30:05Z",
+  "updated_at": "2026-11-23T15:37:24Z",
   "deals": [
+    {
+      "title": ". Giordano Premium Analog Men Watch 3699",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FN7TXF9D?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T15:37:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FN7TXF9D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FN7TXF9D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FN7TXF9D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "959",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GL7NCLLX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GL7NCLLX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1160",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GT14YMWY?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T18:57:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GT14YMWY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GT14YMWY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GT14YMWY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
