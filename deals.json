@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T05:22:44Z",
+  "updated_at": "2026-11-23T05:29:57Z",
   "deals": [
+    {
+      "title": "Dabur Handwash, 1.5 Ltr @119.",
+      "price": 119,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D314FYDY?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T05:29:56Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0D314FYDY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D314FYDY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D314FYDY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "SignoraWare BPA Free Plastic Square Dinner Set | Microwave Safe , Set of 23 pcs at 805",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08CDZ3M5K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08CDZ3M5K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra: Upto 85% Off On Women Footwear Flip Flops : Flats : Heels : Shoes : FAAAAASSSTTTT 🔥 1109 French Connection Mop White Round Dial with Gold Two Tone Stainless Steel Metal Strap Watch",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FHWTWNWY?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T11:19:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512690.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FHWTWNWY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FHWTWNWY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
