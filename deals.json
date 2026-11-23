@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T16:00:06Z",
+  "updated_at": "2026-11-23T16:07:26Z",
   "deals": [
+    {
+      "title": ". Wild Stone Soaps (100g x 6) 191₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08HDT835B?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T16:07:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08HDT835B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08HDT835B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1799",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07Y699S27.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07Y699S27.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Glydo 1000 watt Dry Iron at Rs.685.",
-      "price": 685,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07LDPLSZC?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T01:35:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512795.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07LDPLSZC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07LDPLSZC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
