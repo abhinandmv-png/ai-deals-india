@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T05:37:42Z",
+  "updated_at": "2026-11-23T05:52:42Z",
   "deals": [
+    {
+      "title": "Nivia Appeal 4.0 Non-Marking Badminton Shoes at 655",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HCZ6JRV5?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T05:52:42Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513633.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HCZ6JRV5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HCZ6JRV5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Double Wall Insulated Stainless Steel Casserole, 2400ml at 418",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F8VZ1KZF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F8VZ1KZF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pigeon 300 Watts Electric Chopper @809.",
-      "price": 809,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C7BV8X5W?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T11:42:38Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0C7BV8X5W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C7BV8X5W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C7BV8X5W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
