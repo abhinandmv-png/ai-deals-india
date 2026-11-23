@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-22T19:37:31Z",
+  "updated_at": "2026-11-23T00:37:37Z",
   "deals": [
+    {
+      "title": "Saree With Blouse Piece at Rs.599.",
+      "price": 599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09HQVH5GB?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T00:37:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513602.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09HQVH5GB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09HQVH5GB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "4099",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09CTWFV5W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09CTWFV5W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Myntra: Upto 85% Off On Women Footwear Flip Flops : Flats : Heels : Shoes : 50% OFF 1497",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "85% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FD3MCMTH?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T09:04:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512661.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FD3MCMTH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FD3MCMTH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
