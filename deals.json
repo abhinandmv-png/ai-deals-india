@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T09:38:14Z",
+  "updated_at": "2026-11-23T09:38:24Z",
   "deals": [
+    {
+      "title": "boAt Immortal Katana Blade 2.0 TWS Earbuds w/ 70 at ₹765",
+      "price": 765,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMT2B9JV?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T09:38:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DMT2B9JV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMT2B9JV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMT2B9JV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Premium Steel Chopping Board @227.",
       "price": 227,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6VM57LP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6VM57LP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Ant Esports H520W Smartchoice Gaming Headset 710₹",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B081Q85RTF?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T13:03:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512709.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B081Q85RTF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B081Q85RTF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
