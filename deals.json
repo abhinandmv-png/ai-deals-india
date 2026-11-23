@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T13:08:00Z",
+  "updated_at": "2026-11-23T13:22:48Z",
   "deals": [
+    {
+      "title": ". Havells 1200W Foldable Hair Dryer 649₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01N33BLDT?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T13:22:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513709.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01N33BLDT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01N33BLDT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". ACTIVA Gracia 600MM BLDC Ceiling Fan with LED Light 2,199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGTMCZZF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGTMCZZF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "537",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FTSGMPVB?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T16:12:46Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0FTSGMPVB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FTSGMPVB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FTSGMPVB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
