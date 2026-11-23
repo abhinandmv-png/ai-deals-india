@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T10:07:53Z",
+  "updated_at": "2026-11-23T10:08:06Z",
   "deals": [
+    {
+      "title": "Crompton Fabriautotech 2200 Watts Steam Iron @3,808.",
+      "price": 3808,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BNKSZFSL?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T10:08:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513680.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BNKSZFSL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BNKSZFSL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "379",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6VCR7TG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6VCR7TG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Giordano Premium Watch for Men 2373",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F2M57B15?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T14:03:41Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512720.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F2M57B15.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F2M57B15.01.LZZZZZZZ.jpg"
       ]
     }
   ]
