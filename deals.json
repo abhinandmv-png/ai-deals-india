@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T10:53:13Z",
+  "updated_at": "2026-11-23T10:53:21Z",
   "deals": [
+    {
+      "title": "81",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BS9M28LM?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T10:53:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BS9M28LM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BS9M28LM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BS9M28LM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Glaze 1250 Watts Steam Iron 809 390 Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D2V26XLR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D2V26XLR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. Loottt fasttt💥💥💥 Loot : Mix Dry Fruits 1KG – Only ₹429🤯 ✨1KG Pack of Mixed Dry Fruits ✨Perfect for Snacking & Daily Use ✨Convenient Mix for Home & Gifting Buy Now👇🏻 🛒 BUY FAST BEFORE PRICE CHANGES",
-      "price": 429,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HQD7KX3L?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T14:48:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512731.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HQD7KX3L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HQD7KX3L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
