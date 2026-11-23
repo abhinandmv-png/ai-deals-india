@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T14:52:59Z",
+  "updated_at": "2026-11-23T14:53:06Z",
   "deals": [
+    {
+      "title": ". adidas Men's Beastmode M Running Shoe 2250",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C4DRFQ94?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T14:53:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C4DRFQ94.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C4DRFQ94.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C4DRFQ94.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TIMEX Analog Women's Watch 🔥 2,297₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GGRMXMYP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GGRMXMYP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "49",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HMJ6NNZ2?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T18:42:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HMJ6NNZ2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HMJ6NNZ2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HMJ6NNZ2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
