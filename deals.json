@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T18:53:11Z",
+  "updated_at": "2026-11-23T18:53:22Z",
   "deals": [
+    {
+      "title": ". Reebok Reeduo Speed STL Gry Blk Flash Wh Mens Running Shoes 800₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH9TZHHG?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T18:53:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513778.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH9TZHHG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH9TZHHG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sonata Tiffany Blue Watch 🔥 1295",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F93VVSWQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F93VVSWQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Axe 3 In 1 Body, Face & Hair Wash, 400ml @133.",
-      "price": 133,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHTRP7N6?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T05:21:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BHTRP7N6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHTRP7N6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHTRP7N6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
