@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T13:23:00Z",
+  "updated_at": "2026-11-23T13:37:49Z",
   "deals": [
+    {
+      "title": "3499",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B072QZ2XZ3?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T13:37:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513713.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B072QZ2XZ3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B072QZ2XZ3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". GUESS 44MM Diamond Dial Watch 6,595₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B31SLPS2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B31SLPS2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Solimo Beer Glass Set (6 pieces) @330.",
-      "price": 330,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07PCCQ56J?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T16:27:52Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B07PCCQ56J.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07PCCQ56J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07PCCQ56J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
