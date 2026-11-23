@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T10:07:42Z",
+  "updated_at": "2026-11-23T10:07:53Z",
   "deals": [
+    {
+      "title": "379",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FH25BLFV?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T10:07:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513679.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FH25BLFV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FH25BLFV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Cockatoo Hand Grip Strengthener at ₹59",
       "price": 59,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F2M57B15.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F2M57B15.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Reebok Sprinter Women's Running Shoes 1600",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BRKBR4PJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T13:48:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512719.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BRKBR4PJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BRKBR4PJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
