@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T12:07:51Z",
+  "updated_at": "2026-11-23T12:22:50Z",
   "deals": [
+    {
+      "title": ". Philips 30W B22 LED Bulb 🔥 176₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07P2J21V5?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T12:22:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513703.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07P2J21V5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07P2J21V5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1699",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B075JJ5NQC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B075JJ5NQC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "33",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FF2C2PHJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T15:48:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FF2C2PHJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FF2C2PHJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FF2C2PHJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
