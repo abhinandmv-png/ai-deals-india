@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T18:38:03Z",
+  "updated_at": "2026-11-23T18:52:33Z",
   "deals": [
+    {
+      "title": ". Wild Stone 7 Essentials Grooming Kit 399₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C1CBCH2G?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T18:52:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513770.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C1CBCH2G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C1CBCH2G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". REXONA Underarm Roll-On 50 ml, Pack of 2 136₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FC2NLJTF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FC2NLJTF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lee Cooper Chronograph Black Round Dial Men's Watch - LC07258.250 — ₹4,479.",
-      "price": 4479,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHHC9D3H?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T04:20:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512811.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHHC9D3H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHHC9D3H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
