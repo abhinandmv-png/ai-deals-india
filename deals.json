@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T13:37:56Z",
+  "updated_at": "2026-11-23T13:45:03Z",
   "deals": [
+    {
+      "title": "Khaitan Volt 5.5 Litre Water Heater @3499.",
+      "price": 3499,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H8PBSZMY?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T13:45:03Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H8PBSZMY.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H8PBSZMY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H8PBSZMY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Velo 36 L Personal Air Cooler for Room 7781",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CY57T48R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CY57T48R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Havells Prisma 750 W 3 Jar Mixer Grinder 3399",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNM7XWFD?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T16:48:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNM7XWFD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNM7XWFD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
