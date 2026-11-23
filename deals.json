@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T10:53:21Z",
+  "updated_at": "2026-11-23T11:22:50Z",
   "deals": [
+    {
+      "title": "295",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DDXDH6QL?tag=premiumde066c-21",
+      "posted_at": "2026-11-23T11:22:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513691.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DDXDH6QL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DDXDH6QL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "81",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B4KFZMTC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B4KFZMTC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Portronics Hydra 10 Wireless Mechanical Gaming Keyboard 2754",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D2V26XLR?tag=premiumde066c-21",
-      "posted_at": "2026-11-17T15:03:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512733.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D2V26XLR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D2V26XLR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
