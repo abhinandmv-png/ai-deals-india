@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T07:45:01Z",
+  "updated_at": "2026-11-24T07:59:52Z",
   "deals": [
+    {
+      "title": ". Grab 🔥 999₹ Gio Collection Inara Analog Metal Women's Watch",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0755DYDQH?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T07:59:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513851.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0755DYDQH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0755DYDQH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "498",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C9TT3K1K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C9TT3K1K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Jacket 🔥 3159",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G38XLLG5?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T13:21:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0G38XLLG5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G38XLLG5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G38XLLG5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
