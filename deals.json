@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T05:59:52Z",
+  "updated_at": "2026-11-24T06:33:10Z",
   "deals": [
+    {
+      "title": "970",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H18D9LKW?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T06:33:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513831.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H18D9LKW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H18D9LKW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Acer DreamWave Bluetooth 5W Speaker at **₹1,249**.",
       "price": 1249,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DKJSS8K8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DKJSS8K8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Dove Eventone Deodorant (150ml) 144",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08ZZW5HDJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T10:51:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08ZZW5HDJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08ZZW5HDJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08ZZW5HDJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
