@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T12:45:08Z",
+  "updated_at": "2026-11-24T13:14:56Z",
   "deals": [
+    {
+      "title": ". Sounce Nitro Gaming Mouse 🔥 149₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G1C2FR3Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T13:14:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513898.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G1C2FR3Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G1C2FR3Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Halonix Plastic 3W Rechargeable Led Light 128₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H8TPPJ99.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H8TPPJ99.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Nova Hair Straightener 🔥 610₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01LXWL0P7?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T19:21:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512946.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01LXWL0P7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01LXWL0P7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
