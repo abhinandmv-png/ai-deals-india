@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T15:14:58Z",
+  "updated_at": "2026-11-24T15:15:07Z",
   "deals": [
+    {
+      "title": "🔥🔥 539₹ Ant Esports NC160 Laptop Cooling Pad, Laptop Cooler with Mobile Holder",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D9W3ZJWS?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T15:15:07Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513920.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D9W3ZJWS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D9W3ZJWS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lakme Absolute White Wet & Dry Compact Powder 352₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H8YBTV14.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H8YBTV14.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply 2% Coupon🔥 Zlade Ballistic Turbo 3.0 Full Body Trimmer at Rs.1469.",
-      "price": 1469,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08Z43RZPZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T04:21:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512971.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08Z43RZPZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08Z43RZPZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
