@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:45:06Z",
+  "updated_at": "2026-11-24T14:59:58Z",
   "deals": [
+    {
+      "title": "230",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B63V5N7B?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T14:59:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513918.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B63V5N7B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B63V5N7B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "83",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CBJXSD2P.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CBJXSD2P.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Halonix Jasper Neo 1000W Ceramic Room Heater at Rs.888.",
-      "price": 888,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FVMLH3N2?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T04:21:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512969.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FVMLH3N2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FVMLH3N2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
