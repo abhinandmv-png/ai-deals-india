@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T13:29:54Z",
+  "updated_at": "2026-11-24T13:30:04Z",
   "deals": [
+    {
+      "title": ". TCL (32 inches) Smart QLED Google TV 15490 Apply 3000 Coupon + 500 Off With ICICI/SBI CC",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DZHMX6D3?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T13:30:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DZHMX6D3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DZHMX6D3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DZHMX6D3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". LOOTT 💥 Bosch 302L, MaxFlex Convert Triple Door Refrigerator 30490 Apply 3000 Coupon + 6500 Off With ICICI CC / 5925 Off With Axis CC",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07JPX9CR7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07JPX9CR7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Xtore® Graceful Lotus Ceramic Bonsai Planter at Rs.517.",
-      "price": 517,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H4W9ZWY4?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T01:36:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512957.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H4W9ZWY4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H4W9ZWY4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
