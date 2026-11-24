@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T19:14:59Z",
+  "updated_at": "2026-11-24T19:30:08Z",
   "deals": [
+    {
+      "title": ". GM Balin 15L Water Heater 5499",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM8D7C1Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T19:30:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FM8D7C1Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM8D7C1Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM8D7C1Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Havells Air Fryer 4,463 Apply 20% Off coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09HC85ZPS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09HC85ZPS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab (Set of 3) @149 + coupon. Buy Max Qnty | Single Pc @300+",
-      "price": 149,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H624K81D?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T07:51:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H624K81D.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H624K81D.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H624K81D.01.LZZZZZZZ.jpg"
       ]
     }
   ]
