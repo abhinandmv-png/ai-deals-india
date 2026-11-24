@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T13:15:20Z",
+  "updated_at": "2026-11-24T13:29:54Z",
   "deals": [
+    {
+      "title": ". LOOTT 💥 Bosch 302L, MaxFlex Convert Triple Door Refrigerator 30490 Apply 3000 Coupon + 6500 Off With ICICI CC / 5925 Off With Axis CC",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9T73HJ7?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T13:29:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9T73HJ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9T73HJ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 1,979₹ adidas Air-Fleetfly Men's Running Shoes",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H4W9ZWY4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H4W9ZWY4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Dove Original Deodorant Roll On For Women at Rs.259.",
-      "price": 259,
-      "original_price": 259,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CMQJNB48?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T01:36:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512956.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CMQJNB48.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CMQJNB48.01.LZZZZZZZ.jpg"
       ]
     }
   ]
