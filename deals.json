@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T02:07:35Z",
+  "updated_at": "2026-11-24T03:07:37Z",
   "deals": [
+    {
+      "title": "Pack of 10 @1239",
+      "price": 1239,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D4B4H27G?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T03:07:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513797.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D4B4H27G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D4B4H27G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zebronics Silencio 100 Wireless Headphones, at Rs.1,999.",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GC4J22D3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GC4J22D3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Faaaast 🔥 Skullcandy Smokin Buds XT Wireless in Ear Earbuds 669 Other colour costs more 🔥",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DDPY9J3J?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T07:35:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512830.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DDPY9J3J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DDPY9J3J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
