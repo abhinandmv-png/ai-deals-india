@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T08:29:55Z",
+  "updated_at": "2026-11-24T08:59:55Z",
   "deals": [
+    {
+      "title": ". Philips India's No.1 Hair Styling Brand -Hair Dryer 1000W 629₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B074KKM2MP?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T08:59:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513862.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B074KKM2MP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B074KKM2MP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". BLACK+DECKER GKC1825L20-QW 18V 25cm/10'' Cordless Chainsaw, 3.5 m/s Chain Speed 5219",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09N3NSL5C.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09N3NSL5C.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Ant Esport Wireless Optical Gaming Mouse 699",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DK78XVB7?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T14:35:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DK78XVB7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DK78XVB7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DK78XVB7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
