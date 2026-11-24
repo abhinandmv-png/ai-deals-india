@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T10:29:55Z",
+  "updated_at": "2026-11-24T10:30:04Z",
   "deals": [
+    {
+      "title": ". Pigeon by Stovekraft Hard Anodised Aluminium Pressure Cooker (2 Litre) 2829",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08RWS33F7?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T10:30:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B08RWS33F7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08RWS33F7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08RWS33F7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Longway 25L Storage Geyser 🔥 4399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08D74JGRL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08D74JGRL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 399₹ Ant Ghost 50 RGB Gaming Mouse, White 12800 DPI, 8 Programmable Buttons",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWSHN6VQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T16:51:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512905.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWSHN6VQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWSHN6VQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
