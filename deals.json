@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-23T19:07:34Z",
+  "updated_at": "2026-11-24T00:52:34Z",
   "deals": [
+    {
+      "title": "The Man Company Night & Fire Perfume Gift Set for Man - 50 ml, Set of 2 at Rs.377.",
+      "price": 377,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DH8G8XWR?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T00:52:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513787.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DH8G8XWR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DH8G8XWR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab 💥 395₹ Gear Navy Blue and Green Casual Backpack",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HGRHDSP9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HGRHDSP9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Filter Coffee Maker at Rs.349",
-      "price": 349,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C1GCP8X4?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T06:35:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512823.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C1GCP8X4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C1GCP8X4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
