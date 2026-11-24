@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T06:48:46Z",
+  "updated_at": "2026-11-24T07:00:16Z",
   "deals": [
+    {
+      "title": "Arrow Men's Long Sleeve Formal Blazer @3,600.",
+      "price": 3600,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DNJFN3HM?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T07:00:16Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0DNJFN3HM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DNJFN3HM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DNJFN3HM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ajio | Upto. 70% Off On Raymond, Park Avenue & Parx Clothing. Shirts : Trousers : Tshirts : Jeans : Women : . SUGAR POP 4 in 1 Mini Matte Lipcolour Kit 189₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00ZTTUSAE.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00ZTTUSAE.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP Campus Core 16 Laptop Backpack 411₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FDKJB556?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T11:50:51Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FDKJB556.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FDKJB556.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FDKJB556.01.LZZZZZZZ.jpg"
       ]
     }
   ]
