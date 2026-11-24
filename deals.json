@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T11:44:53Z",
+  "updated_at": "2026-11-24T11:45:06Z",
   "deals": [
+    {
+      "title": "🔥🔥 699₹ Acer OfficeMate Wired Keyboard Mouse Combo",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GTG3VHZW?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T11:45:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513885.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GTG3VHZW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GTG3VHZW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Hot Wheels Toyota GR Supra 999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BFX99JXC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BFX99JXC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Fastrack Metal Strap Watch 🔥 1,132₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HDCBV7L4?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T18:21:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512926.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HDCBV7L4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HDCBV7L4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
