@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T11:30:02Z",
+  "updated_at": "2026-11-24T11:44:53Z",
   "deals": [
+    {
+      "title": ". Hot Wheels Toyota GR Supra 999",
+      "price": null,
+      "original_price": null,
+      "category": "Toys",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CNY4DZ2Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T11:44:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CNY4DZ2Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CNY4DZ2Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CNY4DZ2Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "151",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDCBV7L4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDCBV7L4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAAAASSSTTTT 🔥 19₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CK9S92G8?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T18:06:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512923.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CK9S92G8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CK9S92G8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
