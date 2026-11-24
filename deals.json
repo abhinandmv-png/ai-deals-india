@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T05:22:56Z",
+  "updated_at": "2026-11-24T05:37:36Z",
   "deals": [
+    {
+      "title": "🔥🔥 799₹ Pigeon By Stovekraft Swift Multi-Cook Kettle 1.5L",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQM61N1J?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T05:37:36Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513821.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQM61N1J.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQM61N1J.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Unibic Swaadesi Bandhan Gifting 300G 180",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07P5Z6H7W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07P5Z6H7W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Grab 🔥 3899 Inalsa Wet Dry Vacuum Cleaner 10LTR Capacity 1200W 17 kPa Suction",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07SLNG3LW?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T10:21:14Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07SLNG3LW.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07SLNG3LW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07SLNG3LW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
