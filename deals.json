@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T06:33:18Z",
+  "updated_at": "2026-11-24T06:33:28Z",
   "deals": [
+    {
+      "title": "649",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B01MY839VW?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T06:33:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513833.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B01MY839VW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B01MY839VW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 1,299₹ Ant Esports MK3400 Pro V3 Mechanical RGB Gaming Keyboard",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DSHZLRQB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DSHZLRQB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Unisex Adult Flair Running Shoe 1604",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08TRFD8TV?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T11:22:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08TRFD8TV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08TRFD8TV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08TRFD8TV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
