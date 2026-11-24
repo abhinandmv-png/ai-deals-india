@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T13:14:56Z",
+  "updated_at": "2026-11-24T13:15:09Z",
   "deals": [
+    {
+      "title": ". Giordano Analog Quartz Watch for Men with Black Textured Fish Scale Dial 3,742₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GS2SMRGG?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T13:15:08Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513899.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GS2SMRGG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GS2SMRGG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Sounce Nitro Gaming Mouse 🔥 149₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4DCPWFP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4DCPWFP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Freed Queen Energy & Smoking Hot Perfume for Women (80ml X 2) at Rs.393",
-      "price": 393,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H8TPPJ99?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T00:51:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512951.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H8TPPJ99.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H8TPPJ99.01.LZZZZZZZ.jpg"
       ]
     }
   ]
