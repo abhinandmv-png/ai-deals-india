@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T05:37:49Z",
+  "updated_at": "2026-11-24T05:45:24Z",
   "deals": [
+    {
+      "title": "EcoLink BLDC 1200mm Ceiling Fan @1826.",
+      "price": 1826,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GD8MV3SC?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T05:45:23Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GD8MV3SC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GD8MV3SC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GD8MV3SC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". MILTON Hexa Plastic Pet Storage Jar, Set of 12 (530 ml,1.04 ml, 1.85 Ltrs) 499₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKSJQKZ1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKSJQKZ1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "499",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B079VQGJV8?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T10:36:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512850.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B079VQGJV8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B079VQGJV8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
