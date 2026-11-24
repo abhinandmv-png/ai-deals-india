@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T04:07:39Z",
+  "updated_at": "2026-11-24T04:22:45Z",
   "deals": [
+    {
+      "title": ". Lavie Sport Laptop Bag Slim Sleeve 468₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTLNW9QM?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T04:22:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513809.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTLNW9QM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTLNW9QM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@1699",
       "price": 1699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GXV9RC23.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GXV9RC23.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bajaj Majesty DX-11 1000W Dry Iron at 699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01C8P29T4?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T07:51:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B01C8P29T4.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01C8P29T4.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01C8P29T4.01.LZZZZZZZ.jpg"
       ]
     }
   ]
