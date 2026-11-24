@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:15:07Z",
+  "updated_at": "2026-11-24T14:29:58Z",
   "deals": [
+    {
+      "title": ". Lavie Sport Arthur Wallet 🔥 311₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F8NYJ435?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T14:29:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513910.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F8NYJ435.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F8NYJ435.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TIMEX Analog Watch for Men Available in Multicolor Dial & Silver Stainless Steel 3,847₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B079TN3GCD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B079TN3GCD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "50% Off : Cetaphil Optimal Hydration Restoring Water Gel 10g @194",
-      "price": 194,
-      "original_price": 388,
-      "category": "Shopping",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GKMPG92G?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T03:08:40Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0GKMPG92G.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GKMPG92G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GKMPG92G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
