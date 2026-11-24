@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:59:58Z",
+  "updated_at": "2026-11-24T15:14:58Z",
   "deals": [
+    {
+      "title": ". Lakme Absolute White Wet & Dry Compact Powder 352₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B008KH3RH8?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T15:14:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513919.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B008KH3RH8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B008KH3RH8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "230",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08Z43RZPZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08Z43RZPZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Apply ₹300 Coupon🔥 Havells Instanio 10L Storage Water Heater at Rs.7027.",
-      "price": 7027,
-      "original_price": 7027,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CBJXSD2P?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T04:21:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512970.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CBJXSD2P.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CBJXSD2P.01.LZZZZZZZ.jpg"
       ]
     }
   ]
