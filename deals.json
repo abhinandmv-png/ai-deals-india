@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:30:24Z",
+  "updated_at": "2026-11-24T14:30:33Z",
   "deals": [
+    {
+      "title": ". TIMEX Round 44mm Black Dial Automatic Men's Watch 6,432₹",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B083JXG8G9?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T14:30:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B083JXG8G9.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B083JXG8G9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B083JXG8G9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Everyuth Naturals Tan Removal Night Cream 50g 104₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D46RDG5X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D46RDG5X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Jack & Jones Men's Oversized Green Tshirt at Rs.400.",
-      "price": 400,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FM74F2M9?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T03:51:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512965.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FM74F2M9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FM74F2M9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
