@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T13:59:58Z",
+  "updated_at": "2026-11-24T14:14:54Z",
   "deals": [
+    {
+      "title": "59",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B079H96X4Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T14:14:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B079H96X4Y.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B079H96X4Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B079H96X4Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 984₹ FOXIN Endeavour Gaming Keyboard and Mouse Combo Wired",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HL8WCDJM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HL8WCDJM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Men Casual Lace-Up Derby Shoes @868",
-      "price": 868,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMJTNSPT?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T02:51:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GMJTNSPT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMJTNSPT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMJTNSPT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
