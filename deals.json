@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T07:18:11Z",
+  "updated_at": "2026-11-24T07:33:11Z",
   "deals": [
+    {
+      "title": ". Reebok Men's Energen M Running Shoes 2092",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGT8YNPB?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T07:33:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513844.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGT8YNPB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGT8YNPB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". adidas Men Running Sports Shoes Harquin M 1,478₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWF1X7C5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWF1X7C5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "399 Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H36P1DLT?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T12:35:54Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H36P1DLT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H36P1DLT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H36P1DLT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
