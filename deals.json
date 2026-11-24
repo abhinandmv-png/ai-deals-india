@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T06:33:10Z",
+  "updated_at": "2026-11-24T06:33:18Z",
   "deals": [
+    {
+      "title": "🔥🔥 1,299₹ Ant Esports MK3400 Pro V3 Mechanical RGB Gaming Keyboard",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBRJSX6X?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T06:33:18Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513832.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBRJSX6X.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBRJSX6X.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "970",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08TRFD8TV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08TRFD8TV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "55",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DKJSS8K8?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T11:21:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DKJSS8K8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DKJSS8K8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DKJSS8K8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
