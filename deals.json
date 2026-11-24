@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T12:29:55Z",
+  "updated_at": "2026-11-24T12:30:05Z",
   "deals": [
+    {
+      "title": ". Portronics Mport 51 5-in-1 Type C Hub/docking Station 999₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09VDRRXZ5?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T12:30:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09VDRRXZ5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09VDRRXZ5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09VDRRXZ5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lino Perros Women's Croco Hand Bag 1178",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWQZZSMB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWQZZSMB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Cooler Master Storm Controller - Wireless 1545",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BKZVR1J8?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T18:36:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BKZVR1J8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BKZVR1J8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BKZVR1J8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
