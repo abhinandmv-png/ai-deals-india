@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T17:59:57Z",
+  "updated_at": "2026-11-24T18:14:58Z",
   "deals": [
+    {
+      "title": ". Puma Unisex-Adult Cell Glare Res Running Shoe 2,449",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FK33MZLZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T18:14:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FK33MZLZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FK33MZLZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FK33MZLZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot at ₹1 Try your luck!",
       "price": 1,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5Y7YX9R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5Y7YX9R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DABUR Herb'L Activated Charcoal Toothpaste 240G (120G x2, Pack of 2)|Whitening — ₹96.",
-      "price": 96,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BQC6B15R?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T05:51:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
