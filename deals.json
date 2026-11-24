@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T16:30:02Z",
+  "updated_at": "2026-11-24T17:00:00Z",
   "deals": [
+    {
+      "title": "899",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FMS8WLQS?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T16:59:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513931.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FMS8WLQS.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FMS8WLQS.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "TIMEX Q Continental Analog Blue Round Dial @ Rs.6597",
       "price": 6597,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CW21ZKWD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CW21ZKWD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Prestige Cast Iron Fry Pan 20cm — ₹1,177.",
-      "price": 1177,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G5Y7CBXY?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T05:06:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512978.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G5Y7CBXY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G5Y7CBXY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
