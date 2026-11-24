@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T09:59:51Z",
+  "updated_at": "2026-11-24T10:00:04Z",
   "deals": [
+    {
+      "title": ". Rare Rabbit Men's Shirt 🔥 840₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GZLDX3W9?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T10:00:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513870.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GZLDX3W9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GZLDX3W9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 279₹ Portronics Adapto 45 GaN 22.5W Fast Charger, USB & Type-C Dual Port Wall Adapter",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07F2QCLP2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07F2QCLP2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ".. BIG Loot : Anjeer 1KG at 379",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HPFD26B2?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T15:21:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512896.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HPFD26B2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HPFD26B2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
