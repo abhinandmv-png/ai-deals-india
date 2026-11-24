@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T05:07:35Z",
+  "updated_at": "2026-11-24T05:22:48Z",
   "deals": [
+    {
+      "title": "72",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G25S6HTH?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T05:22:47Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513819.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G25S6HTH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G25S6HTH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Men's Orbit Move Walk Sneaker 1050",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B06VTFTZ17.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B06VTFTZ17.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@441 Studds Motorbike Helmet Fabric Whitener at Rs.153 Min Quantity 3",
-      "price": 441,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F7XW43D9?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T09:51:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F7XW43D9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F7XW43D9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F7XW43D9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
