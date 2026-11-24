@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T10:30:04Z",
+  "updated_at": "2026-11-24T10:44:54Z",
   "deals": [
+    {
+      "title": ". Reebok Women's Sneaker 🔥 1,150₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C77VZ743?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T10:44:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513879.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C77VZ743.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C77VZ743.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Pigeon by Stovekraft Hard Anodised Aluminium Pressure Cooker (2 Litre) 2829",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09TG8MLN3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09TG8MLN3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Pigeon Crystal Glass Electric Kettle 1.8Litre 1,109",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08D74JGRL?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T16:51:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08D74JGRL.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08D74JGRL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08D74JGRL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
