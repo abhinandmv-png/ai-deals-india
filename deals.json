@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T05:37:36Z",
+  "updated_at": "2026-11-24T05:37:49Z",
   "deals": [
+    {
+      "title": ". MILTON Hexa Plastic Pet Storage Jar, Set of 12 (530 ml,1.04 ml, 1.85 Ltrs) 499₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CB48W8TC?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T05:37:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CB48W8TC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CB48W8TC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CB48W8TC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 799₹ Pigeon By Stovekraft Swift Multi-Cook Kettle 1.5L",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B079VQGJV8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B079VQGJV8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Solimo Multipurpose Glass 120ml, Set of 6 397₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07P5Z6H7W?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T10:21:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07P5Z6H7W.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07P5Z6H7W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07P5Z6H7W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
