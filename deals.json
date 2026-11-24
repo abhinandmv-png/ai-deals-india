@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T12:00:24Z",
+  "updated_at": "2026-11-24T12:14:53Z",
   "deals": [
+    {
+      "title": ". Solimo Plastic Storage Containers Set Of 6 (1200 ml each) 584₹",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CWPDBRK5?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T12:14:52Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CWPDBRK5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CWPDBRK5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CWPDBRK5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "179",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HF562L14.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HF562L14.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Yardley London Body Lotion 400 ml 186₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07MLRJCMJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T18:36:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07MLRJCMJ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07MLRJCMJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07MLRJCMJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
