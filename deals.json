@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T00:52:34Z",
+  "updated_at": "2026-11-24T00:52:42Z",
   "deals": [
+    {
+      "title": "i2008 Car Vacuum Cleaner at Rs.1017.",
+      "price": 1017,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C6QXCS6V?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T00:52:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513788.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C6QXCS6V.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C6QXCS6V.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "The Man Company Night & Fire Perfume Gift Set for Man - 50 ml, Set of 2 at Rs.377.",
       "price": 377,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FTV7S7V4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FTV7S7V4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 576",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGRHDSP9?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T06:50:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512826.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGRHDSP9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGRHDSP9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
