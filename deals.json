@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T10:15:05Z",
+  "updated_at": "2026-11-24T10:29:55Z",
   "deals": [
+    {
+      "title": ". Longway 25L Storage Geyser 🔥 4399",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H99ZZCFB?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T10:29:54Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513877.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H99ZZCFB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H99ZZCFB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Redmi Watch 5 Active Bluetooth Calling at ₹2,899",
       "price": 2899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DWSHN6VQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DWSHN6VQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kitchen Sqeezy Multipurpose Wiper @50.",
-      "price": 50,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BC888KR9?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T16:42:59Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0BC888KR9.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BC888KR9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BC888KR9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
