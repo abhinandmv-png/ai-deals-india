@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T07:33:24Z",
+  "updated_at": "2026-11-24T07:33:40Z",
   "deals": [
+    {
+      "title": "🔥🔥 627₹ Zebronics NC5500D Powerful Laptop Cooler with Dual 125mm Fans",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C663VVP1?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T07:33:39Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513847.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C663VVP1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C663VVP1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". FILA Women's DAPRO Slip ons Walking Shoes 1799",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DGGWC9BV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DGGWC9BV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". adidas Men's Base-Strike Running Shoe 1601",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPVPQ3PX?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T12:51:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CPVPQ3PX.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPVPQ3PX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPVPQ3PX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
