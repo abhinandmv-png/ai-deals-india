@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T04:22:45Z",
+  "updated_at": "2026-11-24T04:52:49Z",
   "deals": [
+    {
+      "title": ". BLACK+DECKER FSM1605 1300-Watt Steam Mop 6315",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B076KYPQMH?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T04:52:49Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513815.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B076KYPQMH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B076KYPQMH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Lavie Sport Laptop Bag Slim Sleeve 468₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CRDYYRH3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CRDYYRH3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥Halonix 14W LED Light Bulb, Pack of 10 @759.",
-      "price": 759,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GXV9RC23?tag=premiumde066c-21",
-      "posted_at": "2026-11-18T08:20:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512835.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GXV9RC23.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GXV9RC23.01.LZZZZZZZ.jpg"
       ]
     }
   ]
