@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:30:10Z",
+  "updated_at": "2026-11-24T14:30:24Z",
   "deals": [
+    {
+      "title": ". Everyuth Naturals Tan Removal Night Cream 50g 104₹",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07DW9T61Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T14:30:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513913.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07DW9T61Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07DW9T61Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Unisex-Adult Retaliate 3 Fresh Running Shoe 2,274₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FM74F2M9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FM74F2M9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Saffola Honey Active, 1kg @224",
-      "price": 224,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08B44K4YS?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T03:43:07Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08B44K4YS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08B44K4YS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08B44K4YS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
