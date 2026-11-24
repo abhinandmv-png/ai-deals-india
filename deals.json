@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T14:30:33Z",
+  "updated_at": "2026-11-24T14:44:56Z",
   "deals": [
+    {
+      "title": ". Lenovo IdeaPad Slim 3 Ryzen 7 Laptop (16GB RAM/512GB SSD) 64,990 5,000 off with HDFC Credit Card",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H7HR27JX?tag=premiumde066c-21",
+      "posted_at": "2026-11-24T14:44:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H7HR27JX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H7HR27JX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H7HR27JX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TIMEX Round 44mm Black Dial Automatic Men's Watch 6,432₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQYWV1FR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQYWV1FR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosil 2.1L Tri-Ply Steel Straight Sauce Pan with Lid at 997/",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D46RDG5X?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T03:51:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_512966.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D46RDG5X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D46RDG5X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
