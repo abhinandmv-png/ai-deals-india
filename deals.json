@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T11:00:13Z",
+  "updated_at": "2026-11-25T11:30:12Z",
   "deals": [
+    {
+      "title": "Havells Water Heater 15L @8,165₹(Coupon+Bank offer)",
+      "price": 8165,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FBLX3PXW?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T11:30:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FBLX3PXW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FBLX3PXW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FBLX3PXW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "USHA 1200mm BLDC Ceiling Fan with RF Remote @1878₹(With Cashback)",
       "price": 1878,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F6YJ3C26.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F6YJ3C26.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Safari Luma Neo 8 Wheels Set of 3 (Cabin + Medium + Large) Trolley Bags 7199",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FGJQKZJY?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T15:51:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FGJQKZJY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FGJQKZJY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FGJQKZJY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
