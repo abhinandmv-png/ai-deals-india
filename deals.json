@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T14:15:20Z",
+  "updated_at": "2026-11-25T14:30:17Z",
   "deals": [
+    {
+      "title": "Reebok Super Champs Mens Running Shoes @1766₹",
+      "price": 1766,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F2G73L5T?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T14:30:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F2G73L5T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F2G73L5T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F2G73L5T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nivea Aloe Body Lotion 400ml @225.",
       "price": 225,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0827J697Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0827J697Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "400",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DWJVWR89?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T17:31:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DWJVWR89.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DWJVWR89.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DWJVWR89.01.LZZZZZZZ.jpg"
       ]
     }
   ]
