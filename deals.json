@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T09:45:21Z",
+  "updated_at": "2026-11-25T10:00:10Z",
   "deals": [
+    {
+      "title": "GRAB @ 325/- SOLIMO HANDWASH 5 LTR",
+      "price": 325,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09ZPZJ6VV?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T10:00:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09ZPZJ6VV.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09ZPZJ6VV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09ZPZJ6VV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loot : Bosch 335L Triple Door Maxflex Refrigerator @31,990 • Apply ₹3000 Off Code at Checkout ➡️ BOSCH3000 • ₹10,000 Off With ICICI CC",
       "price": 31990,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C81VQ9N7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C81VQ9N7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 399₹ Acer Clearview Wireless Mouse, Dual Mode Bluetooth 5.2 & 2.4GHz",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DNNLNTHY?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T14:36:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513063.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DNNLNTHY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DNNLNTHY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
