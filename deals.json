@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T10:17:14Z",
+  "updated_at": "2026-11-25T10:45:29Z",
   "deals": [
+    {
+      "title": "Bosch 302L, MaxFlex Convert Triple Door Refrigerator at Rs.21,865 • Apply ₹3500 Coupon • Apply ₹3000 Off Code : BOSCH3000 • ₹9625 Off With ICICI CC",
+      "price": 21865,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H9FFQ1ZC?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T10:45:29Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H9FFQ1ZC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H9FFQ1ZC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Home Centre | Helios Addison | Engineered Wood | Center Table | Coffee Table | Brown | 1 Year Warranty @3325₹(Coupon+Cashback)",
       "price": 3325,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07L94ZZMJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07L94ZZMJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Himalaya Baby Pants Diaper Size M (76 Pcs) @599.",
-      "price": 599,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6BH9CB1?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T15:43:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6BH9CB1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
