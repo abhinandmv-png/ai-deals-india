@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T05:00:34Z",
+  "updated_at": "2026-11-25T05:45:09Z",
   "deals": [
+    {
+      "title": "womens Fluffies Th Slippers at 262",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CR2SKJ76?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T05:45:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513999.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CR2SKJ76.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CR2SKJ76.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Signoraware Borosilicate Glass Jug (1.4 Ltr | Clear) @403.",
       "price": 403,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08HZTK4HW.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08HZTK4HW.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP 450 Programmable Wireless, Full Size; 3-Zone Layout Keyboard 600",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BR3XRNHV?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T12:36:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BR3XRNHV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BR3XRNHV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BR3XRNHV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
