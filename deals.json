@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T02:45:04Z",
+  "updated_at": "2026-11-25T03:00:04Z",
   "deals": [
+    {
+      "title": "Kenstar Radix 5.9 L,Electric Instant Water Heater at Rs.3199.",
+      "price": 3199,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FC2QBK6Y?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T03:00:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513979.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FC2QBK6Y.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FC2QBK6Y.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Treo By Milton Opalware Aurelia Verdinia Dinner Set of 13 at Rs.830.",
       "price": 830,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09XJ1NN14.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09XJ1NN14.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "251 Apply 44% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "44% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DJGYP8YV?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T12:06:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0DJGYP8YV.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DJGYP8YV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DJGYP8YV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
