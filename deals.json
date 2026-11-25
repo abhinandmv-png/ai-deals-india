@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T00:51:00Z",
+  "updated_at": "2026-11-25T01:15:02Z",
   "deals": [
+    {
+      "title": "Patanjali Kesh Kanti Anti-Dandruff Hair Cleanser 650 ml,at Rs.240.",
+      "price": 240,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8BRRD1B?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T01:15:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D8BRRD1B.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8BRRD1B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8BRRD1B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "NIRLON Plastic Food Grade Fridge Style Water Bottle Set of 8 bottles,350 ml at Rs.268.",
       "price": 268,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GCNFRRL8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GCNFRRL8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". atomberg Studio Exhaust Fan 150mm (6 Inches) 1799",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D35TDXM7?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T11:36:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D35TDXM7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D35TDXM7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D35TDXM7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
