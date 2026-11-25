@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T15:15:18Z",
+  "updated_at": "2026-11-25T15:30:14Z",
   "deals": [
+    {
+      "title": "HRX Parabola 3-Piece Luggage Set @3999₹",
+      "price": 3999,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HHPBQKPB?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T15:30:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HHPBQKPB.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HHPBQKPB.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HHPBQKPB.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Bigmuscles Nutrition Freak Pre-Workout at Rs.381",
       "price": 381,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTMDJGFV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTMDJGFV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HP6PRSTD?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:16:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HP6PRSTD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HP6PRSTD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HP6PRSTD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
