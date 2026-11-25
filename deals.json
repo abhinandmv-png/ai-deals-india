@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T10:16:24Z",
+  "updated_at": "2026-11-25T10:16:47Z",
   "deals": [
+    {
+      "title": "United Colors of Benetton Quirky 19L Laptop Backpack, Minimalist & Water-Resistant, Fits 14-inch Laptops, for College, Office & Everyday @470₹(Coupon+Cashback)",
+      "price": 470,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNX5B5S4?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T10:16:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514041.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNX5B5S4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNX5B5S4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO : Upto 86% Off On Branded Womens Footwear (Inc 5.,Buda Jeans Co, Etc). Master Link : Heels : Flats : Sandals : Casual Shoes : Sneakers & Sports Shoes : Sliders & Flipflops : INC.5 : CATWALK : Portronics Wired Optica",
       "price": 149,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHJN8WPR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHJN8WPR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Aristocrat Atlas Set of 3 (Cabin+Medium+Large) Hard Case Trolley Bags 5939",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FPXMYQZY?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T15:21:16Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FPXMYQZY.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FPXMYQZY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FPXMYQZY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
