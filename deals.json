@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T08:30:09Z",
+  "updated_at": "2026-11-25T09:00:38Z",
   "deals": [
+    {
+      "title": "69% Off : Maybelline New York Colossal Eyeliner @99.",
+      "price": 99,
+      "original_price": 319,
+      "category": "Shopping",
+      "badge": "69% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S141T2R?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T09:00:38Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07S141T2R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S141T2R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S141T2R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "ishin Pratidin Solid Trouser @242.",
       "price": 242,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQDX2MXS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQDX2MXS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". GM Fresho Pro Interio Ventilation Fan 150mm 999₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJS8CYTN?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T14:21:15Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FJS8CYTN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJS8CYTN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJS8CYTN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
