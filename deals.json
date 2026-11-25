@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T02:30:05Z",
+  "updated_at": "2026-11-25T02:45:04Z",
   "deals": [
+    {
+      "title": "Treo By Milton Opalware Aurelia Verdinia Dinner Set of 13 at Rs.830.",
+      "price": 830,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G7ZVJ2VX?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T02:45:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513977.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G7ZVJ2VX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G7ZVJ2VX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "adidas Men Airshift M Running Shoes Blue 10 — ₹1,052.",
       "price": 1052,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DJGYP8YV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DJGYP8YV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". XPG Levante 240 ARGB All-in-one CPU Liquid Cooling 5309",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07ZTYVSGN?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T12:06:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B07ZTYVSGN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07ZTYVSGN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07ZTYVSGN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
