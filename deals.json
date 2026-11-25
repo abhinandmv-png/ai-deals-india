@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T03:00:04Z",
+  "updated_at": "2026-11-25T03:45:06Z",
   "deals": [
+    {
+      "title": "Plant Cutter at 85/",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F4X3ZX4Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T03:45:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0F4X3ZX4Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F4X3ZX4Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F4X3ZX4Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Kenstar Radix 5.9 L,Electric Instant Water Heater at Rs.3199.",
       "price": 3199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D9YMT9KM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D9YMT9KM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Atom 20 Pcs, Stainless Steel Door Butt Hinges 360",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09XJ1NN14?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T12:21:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09XJ1NN14.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09XJ1NN14.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09XJ1NN14.01.LZZZZZZZ.jpg"
       ]
     }
   ]
