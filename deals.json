@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T16:30:17Z",
+  "updated_at": "2026-11-25T16:45:18Z",
   "deals": [
+    {
+      "title": "Spykar Women Sweatshirt @618",
+      "price": 618,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BG3GRZZD?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T16:45:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BG3GRZZD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BG3GRZZD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BG3GRZZD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Woodland mens Ogdc 3706120 OLIVE GREEN Sport Sandal - 7 UK (41 EU) (OGDC 3706120) @1639₹",
       "price": 1639,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D6BSCP2S.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D6BSCP2S.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". BoroPlus Moisturising Cream, 200 ml 128₹",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B8QG4K3G?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:31:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513104.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B8QG4K3G.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B8QG4K3G.01.LZZZZZZZ.jpg"
       ]
     }
   ]
