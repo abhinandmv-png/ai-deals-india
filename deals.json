@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T00:50:38Z",
+  "updated_at": "2026-11-25T00:50:50Z",
   "deals": [
+    {
+      "title": "Suzec Air Pump for Bicycle, at Rs.164.",
+      "price": 164,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BZJ82TZQ?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T00:50:46Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513967.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BZJ82TZQ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BZJ82TZQ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong Beard Trimmer for Man at Rs.471.",
       "price": 471,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B092W5P5JG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B092W5P5JG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "504",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08LVVTGZK?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T11:06:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B08LVVTGZK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08LVVTGZK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08LVVTGZK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
