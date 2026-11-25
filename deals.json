@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T10:16:47Z",
+  "updated_at": "2026-11-25T10:17:01Z",
   "deals": [
+    {
+      "title": "Philips Steam Iron GC1905/21, Blue 1300W, Black non-stick soleplate, Powerful 17gm/min steam output, Quick heat-up @1103₹(With Cashback)",
+      "price": 1103,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B008QTK47Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T10:16:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514042.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B008QTK47Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B008QTK47Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "United Colors of Benetton Quirky 19L Laptop Backpack, Minimalist & Water-Resistant, Fits 14-inch Laptops, for College, Office & Everyday @470₹(Coupon+Cashback)",
       "price": 470,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D8YR7RS5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D8YR7RS5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". American Tourister Backpack 🔥 699₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHJN8WPR?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T15:21:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513072.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHJN8WPR.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHJN8WPR.01.LZZZZZZZ.jpg"
       ]
     }
   ]
