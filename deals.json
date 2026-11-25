@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T03:45:06Z",
+  "updated_at": "2026-11-25T04:00:21Z",
   "deals": [
+    {
+      "title": "ANT Zigma Smart Scale Bluetooth Body Weight Machine at ₹435",
+      "price": 435,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSC3FS28?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T04:00:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513985.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSC3FS28.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSC3FS28.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Plant Cutter at 85/",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLY9JKTQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLY9JKTQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 199₹ Parachute Advansed Pre-Wash Nourishing Hair Mask for Scalp&Hair, 250ml",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D9YMT9KM?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T12:21:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513039.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D9YMT9KM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D9YMT9KM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
