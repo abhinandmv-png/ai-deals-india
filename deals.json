@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T14:30:17Z",
+  "updated_at": "2026-11-25T14:30:46Z",
   "deals": [
+    {
+      "title": "Havells 400mm BLDC Pedestal Fan @3000. Apply ₹890 Off Coupon:",
+      "price": 3000,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GYX5TFJ5?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T14:30:46Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0GYX5TFJ5.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GYX5TFJ5.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GYX5TFJ5.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Reebok Super Champs Mens Running Shoes @1766₹",
       "price": 1766,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G4N8TTFM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G4N8TTFM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "653",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0827J697Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:01:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513098.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0827J697Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0827J697Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
