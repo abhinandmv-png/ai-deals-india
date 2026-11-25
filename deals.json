@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T13:45:16Z",
+  "updated_at": "2026-11-25T14:00:29Z",
   "deals": [
+    {
+      "title": "Acer Iconia Tab10 (8GB + 128GB) @17999 + Bank Offers. Apply ₹2000 Coupon.",
+      "price": 17999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HH92WJ7M?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T14:00:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514060.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HH92WJ7M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HH92WJ7M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loottt fasttt💥💥💥 Grab : Quick Shine Shoe Cleaner Wipes (80 Wipes) – Only ₹198🤯 🎟️Apply 12% Coupon ✨80 Biodegradable Cleaning Wipes ✨Suitable for Leather Shoes & Sneakers ✨Convenient & Easy Shoe Cleaning Buy Now👇🏻 🛒 BUY F",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09YYR5JQK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09YYR5JQK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "196 Apply 50% Off Coupon",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "50% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B093T34YCJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T16:51:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513085.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B093T34YCJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B093T34YCJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
