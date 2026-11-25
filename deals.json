@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T06:45:45Z",
+  "updated_at": "2026-11-25T07:02:21Z",
   "deals": [
+    {
+      "title": "Curtains at Rs.269",
+      "price": 269,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CPJ8281G?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T07:02:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CPJ8281G.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CPJ8281G.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CPJ8281G.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HP 15 Laptop, Intel Core 5 120U, 8GB RAM, 512GB SSD at ₹61,800",
       "price": 61800,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GFN8BYN8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GFN8BYN8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Lunar Discovery Pro, 1.39\" Display Smart Watch at ₹1,224",
-      "price": 1224,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLK5LQ6X?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T13:38:52Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FLK5LQ6X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLK5LQ6X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLK5LQ6X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
