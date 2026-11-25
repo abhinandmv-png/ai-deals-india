@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T06:45:31Z",
+  "updated_at": "2026-11-25T06:45:45Z",
   "deals": [
+    {
+      "title": "HP 15 Laptop, Intel Core 5 120U, 8GB RAM, 512GB SSD at ₹61,800",
+      "price": 61800,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FZ9L3QQF?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T06:45:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514011.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FZ9L3QQF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FZ9L3QQF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Michael Kors Slim Runway Pink Watch MK7545 at 7497",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FLK5LQ6X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FLK5LQ6X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Lenovo LOQ 27Q-10 (Smartchoice) | 27\" (68.5cm) QHD (2560x1440) IPS 180Hz Gaming Monitor 14,499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H696XFPH?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T13:36:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513053.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H696XFPH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H696XFPH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
