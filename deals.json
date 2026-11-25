@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T09:45:08Z",
+  "updated_at": "2026-11-25T09:45:21Z",
   "deals": [
+    {
+      "title": "Loot : Bosch 335L Triple Door Maxflex Refrigerator @31,990 • Apply ₹3000 Off Code at Checkout ➡️ BOSCH3000 • ₹10,000 Off With ICICI CC",
+      "price": 31990,
+      "original_price": 10000,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GMPXF2SY?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T09:45:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514032.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GMPXF2SY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GMPXF2SY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Saffola Honey Active, 1kg @224",
       "price": 224,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DNNLNTHY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DNNLNTHY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Aavante Prime 5.1 Dolby Audio, 500W, 5.1CH, Wireless Satellites & Subwoofer at Rs.9000",
-      "price": 9000,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLQ8XZS8?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T14:23:49Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FLQ8XZS8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLQ8XZS8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLQ8XZS8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
