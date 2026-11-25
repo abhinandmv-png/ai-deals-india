@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T00:35:31Z",
+  "updated_at": "2026-11-25T00:35:42Z",
   "deals": [
+    {
+      "title": "Halonix Prime 12W Round Wall De-Light Slim Decorative Wall Light at Rs.260.",
+      "price": 260,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJJ5PCJ7?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T00:35:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513964.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJJ5PCJ7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJJ5PCJ7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Extacy By Red Chief Mens Formal Shoes at Rs.1459.",
       "price": 1459,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HG97GN9R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HG97GN9R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Storage Container 1300ml, Set of 6 @237.",
-      "price": 237,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B091Y5PK62?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T10:06:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B091Y5PK62.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B091Y5PK62.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B091Y5PK62.01.LZZZZZZZ.jpg"
       ]
     }
   ]
