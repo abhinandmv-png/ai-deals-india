@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T19:00:22Z",
+  "updated_at": "2026-11-25T19:15:21Z",
   "deals": [
+    {
+      "title": "Grab 🔥 ₹600 Moda rapido X TOGS & TERRE Men Printed Hooded Sweatshirt 77% Off - Noise Buds At Rs.799 Regular Rs: 1,418",
+      "price": 799,
+      "original_price": 799,
+      "category": "Fashion",
+      "badge": "77% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSZV3415?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T19:15:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514100.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSZV3415.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSZV3415.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "FAST 🔥 Adidas @ 2375 Reg: 4500+ Size: 11",
       "price": 2375,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09R2JMNJ2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09R2JMNJ2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "991",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FRSJ487H?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:38:26Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FRSJ487H.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FRSJ487H.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FRSJ487H.01.LZZZZZZZ.jpg"
       ]
     }
   ]
