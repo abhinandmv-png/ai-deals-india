@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-24T19:30:08Z",
+  "updated_at": "2026-11-25T00:35:31Z",
   "deals": [
+    {
+      "title": "Extacy By Red Chief Mens Formal Shoes at Rs.1459.",
+      "price": 1459,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07WTQ5ZRT?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T00:35:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513962.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07WTQ5ZRT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07WTQ5ZRT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". GM Balin 15L Water Heater 5499",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B091Y5PK62.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B091Y5PK62.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Parachute Advansed Body Lotion 400ml @186",
-      "price": 186,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09HC85ZPS?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T08:13:12Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09HC85ZPS.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09HC85ZPS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09HC85ZPS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
