@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T10:16:17Z",
+  "updated_at": "2026-11-25T10:16:24Z",
   "deals": [
+    {
+      "title": "AJIO : Upto 86% Off On Branded Womens Footwear (Inc 5.,Buda Jeans Co, Etc). Master Link : Heels : Flats : Sandals : Casual Shoes : Sneakers & Sports Shoes : Sliders & Flipflops : INC.5 : CATWALK : Portronics Wired Optica",
+      "price": 149,
+      "original_price": 1064,
+      "category": "Electronics",
+      "badge": "86% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRKSQ7Z2?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T10:16:24Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BRKSQ7Z2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRKSQ7Z2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRKSQ7Z2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO : Upto 86% Off On Branded Womens Footwear (Inc 5.,Buda Jeans Co, Etc). Master Link : Heels : Flats : Sandals : Casual Shoes : Sneakers & Sports Shoes : Sliders & Flipflops : INC.5 : CATWALK : Black Polyester Door Cu",
       "price": 174,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FPXMYQZY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FPXMYQZY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Aliensware 4Pcs X-Large Cabinet Storage Organizee 1,585₹",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F5WXCZVB?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T15:08:02Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F5WXCZVB.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F5WXCZVB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F5WXCZVB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
