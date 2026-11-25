@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T01:15:28Z",
+  "updated_at": "2026-11-25T01:15:41Z",
   "deals": [
+    {
+      "title": "Gems Gold Physically Refined Cold Pressed Sun Flower Oil 5 Litre at Rs.1099.",
+      "price": 1099,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09SBJRVNH?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T01:15:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513973.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09SBJRVNH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09SBJRVNH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Total Care Super Absorb Baby Pants Diaper at Rs.949.",
       "price": 949,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9FQP2NT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9FQP2NT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "429",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CQRNWJM2?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T11:51:20Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513033.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CQRNWJM2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CQRNWJM2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
