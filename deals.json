@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T15:30:14Z",
+  "updated_at": "2026-11-25T16:30:17Z",
   "deals": [
+    {
+      "title": "Woodland mens Ogdc 3706120 OLIVE GREEN Sport Sandal - 7 UK (41 EU) (OGDC 3706120) @1639₹",
+      "price": 1639,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BWTWHLDF?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T16:30:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BWTWHLDF.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BWTWHLDF.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BWTWHLDF.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "HRX Parabola 3-Piece Luggage Set @3999₹",
       "price": 3999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B8QG4K3G.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B8QG4K3G.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Wonderchef Nutri-Blend 500W Mixer Grinder 1,199₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GTMDJGFV?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:16:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513103.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GTMDJGFV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GTMDJGFV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
