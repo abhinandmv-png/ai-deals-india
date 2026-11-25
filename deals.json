@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T07:45:07Z",
+  "updated_at": "2026-11-25T08:00:11Z",
   "deals": [
+    {
+      "title": "@1772",
+      "price": 1772,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G1BY1FSV?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T08:00:10Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514023.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G1BY1FSV.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G1BY1FSV.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1. Grab fast 💥 💥 💥 Samsung Galaxy 45W Travel Adaptor (Without Cable), Black Deal Price ₹693 2. Samsung monitor - Deal Price ₹12911 3. Sennheiser momentum 4 Looooot 🔥💥🔥 4. Bose - 5. Sennheiser accentum plus - 6. For more ",
       "price": 693,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BHBBCTQD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BHBBCTQD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Alan Jones Men’s Sweatshirt 499₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C4DX66YP?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T14:06:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513057.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C4DX66YP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C4DX66YP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
