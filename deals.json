@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T00:50:50Z",
+  "updated_at": "2026-11-25T00:51:00Z",
   "deals": [
+    {
+      "title": "NIRLON Plastic Food Grade Fridge Style Water Bottle Set of 8 bottles,350 ml at Rs.268.",
+      "price": 268,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTP1DYX1?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T00:50:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513968.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTP1DYX1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTP1DYX1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Suzec Air Pump for Bicycle, at Rs.164.",
       "price": 164,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D35TDXM7.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D35TDXM7.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "67",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B092W5P5JG?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T11:06:25Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B092W5P5JG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B092W5P5JG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B092W5P5JG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
