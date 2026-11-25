@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T11:30:25Z",
+  "updated_at": "2026-11-25T11:30:38Z",
   "deals": [
+    {
+      "title": "Ant Esports 400 Air Mini Tower Gaming Cabinet @2479₹",
+      "price": 2479,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GG4R4DP4?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T11:30:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GG4R4DP4.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GG4R4DP4.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GG4R4DP4.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "RR Signature 1200MM Triana BLDC Ceiling Fan @3537₹",
       "price": 3537,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BXBHDS4B.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BXBHDS4B.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Crompton Arno Plus 25L 5‑Star Storage Water Heater 8199",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5WY9WNT?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T16:06:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H5WY9WNT.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5WY9WNT.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5WY9WNT.01.LZZZZZZZ.jpg"
       ]
     }
   ]
