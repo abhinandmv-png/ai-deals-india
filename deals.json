@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T10:00:10Z",
+  "updated_at": "2026-11-25T10:00:20Z",
   "deals": [
+    {
+      "title": "@553₹(With Cashback)",
+      "price": 553,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H29W62X7?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T10:00:19Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514035.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H29W62X7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H29W62X7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB @ 325/- SOLIMO HANDWASH 5 LTR",
       "price": 325,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HK1CFNL8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HK1CFNL8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". MILTON Hexa Plastic Pet Storage Jar, Set of 24 899",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C81VQ9N7?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T14:36:24Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0C81VQ9N7.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C81VQ9N7.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C81VQ9N7.01.LZZZZZZZ.jpg"
       ]
     }
   ]
