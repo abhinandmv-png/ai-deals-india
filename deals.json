@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-25T16:45:18Z",
+  "updated_at": "2026-11-25T17:00:17Z",
   "deals": [
+    {
+      "title": "Giordano Multi-Function Analog Wrist Watch for Men @3,999₹",
+      "price": 3999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CT7M1BCX?tag=premiumde066c-21",
+      "posted_at": "2026-11-25T17:00:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CT7M1BCX.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CT7M1BCX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CT7M1BCX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Spykar Women Sweatshirt @618",
       "price": 618,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GQYTYWFS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GQYTYWFS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1532",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D6BSCP2S?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:37:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513107.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D6BSCP2S.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D6BSCP2S.01.LZZZZZZZ.jpg"
       ]
     }
   ]
