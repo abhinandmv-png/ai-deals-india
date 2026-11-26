@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T18:56:14Z",
+  "updated_at": "2026-11-26T18:56:45Z",
   "deals": [
+    {
+      "title": ". Havells 1000W Hair Dryer 🔥 599₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5L55GJY?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T18:56:45Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514262.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5L55GJY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5L55GJY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Apple Mac Mini M6 90,990 Pay with SBI/ICICI/AXIS Credit Card",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CY1ZZXTB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CY1ZZXTB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 338₹ Pepe Jeans Mens Cotton | Slim Fit | Graphic Print",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DHGSYMLL?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T14:35:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513244.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DHGSYMLL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DHGSYMLL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
