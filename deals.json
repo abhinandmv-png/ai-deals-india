@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T01:45:45Z",
+  "updated_at": "2026-11-26T02:15:26Z",
   "deals": [
+    {
+      "title": "382/- Other Color Costs More",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GV4JCNGY?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T02:15:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514120.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GV4JCNGY.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GV4JCNGY.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Park Daniel Coconut Oil (Pack of 2) at Rs. 198.",
       "price": 198,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GYPM1HG1.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GYPM1HG1.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Preethi Blue Leaf Diamond Mixer Grinder, at Rs.3599.",
-      "price": 3599,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0188KPKB2?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T03:38:09Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513145.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0188KPKB2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0188KPKB2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
