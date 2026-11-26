@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T09:59:12Z",
+  "updated_at": "2026-11-26T10:14:11Z",
   "deals": [
+    {
+      "title": "Ghee Loot @399",
+      "price": 399,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HRPM36SM?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T10:14:11Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HRPM36SM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HRPM36SM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HRPM36SM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Handler Cotton Wrist Wraps Gym Wrist Straps for Weightlifting Wrist — ₹49.",
       "price": 49,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GR9VR199.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GR9VR199.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Medimix Ayurvedic Bathing Soaps (Pack Of 5) @240.",
-      "price": 240,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0B49L5JH2?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T06:13:58Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0B49L5JH2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0B49L5JH2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0B49L5JH2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
