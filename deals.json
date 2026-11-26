@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T01:45:23Z",
+  "updated_at": "2026-11-26T01:45:36Z",
   "deals": [
+    {
+      "title": "CareFoam Memory Foam Cervical Neck Pillow,pack of 2 at Rs.627.",
+      "price": 627,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DXBY24TT?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T01:45:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514117.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DXBY24TT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DXBY24TT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Zebronics Type C to HDMI Cable, at Rs.599.",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HHXGC243.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HHXGC243.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Fire-Boltt Ninja X Ring Smart Watch at Rs.999.",
-      "price": 999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G61F9SDY?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T01:53:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513135.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G61F9SDY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G61F9SDY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
