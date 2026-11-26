@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T18:40:54Z",
+  "updated_at": "2026-11-26T18:41:05Z",
   "deals": [
+    {
+      "title": "1231",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0C6GWH6R3?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T18:41:04Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0C6GWH6R3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0C6GWH6R3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0C6GWH6R3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "11,800",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0163K17A2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0163K17A2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient Electric 15L Storage Water Heater at 5999.",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FCYBZ351?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T13:54:09Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FCYBZ351.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FCYBZ351.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FCYBZ351.01.LZZZZZZZ.jpg"
       ]
     }
   ]
