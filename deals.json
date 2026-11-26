@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T17:45:44Z",
+  "updated_at": "2026-11-26T17:59:24Z",
   "deals": [
+    {
+      "title": "199",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DDCN3DSM?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T17:59:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DDCN3DSM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DDCN3DSM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DDCN3DSM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pantaloons Men's Chino Shorts at 399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C8HCLQVC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C8HCLQVC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "boAt Stone 510 Portable Bluetooth Speaker @ ₹2,299",
-      "price": 2299,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HGGH42R2?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T12:39:07Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0HGGH42R2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HGGH42R2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HGGH42R2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
