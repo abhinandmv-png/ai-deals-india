@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T00:45:42Z",
+  "updated_at": "2026-11-26T00:45:50Z",
   "deals": [
+    {
+      "title": "HP Wired Keyboard and Mouse Combo at Rs.660.",
+      "price": 660,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FSSV95B2?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T00:45:50Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514108.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FSSV95B2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FSSV95B2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Samsung Original 65W Tri Port,Type-C & USB-A,Super Fast Charger (Cable not Included), at Rs.1344.",
       "price": 1344,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097GCHTM4.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097GCHTM4.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". playR x Lucknow Super Giants Authentic Fan Cap 105",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GPKCK7T3?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T19:07:48Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GPKCK7T3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GPKCK7T3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GPKCK7T3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
