@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T02:15:39Z",
+  "updated_at": "2026-11-26T02:30:27Z",
   "deals": [
+    {
+      "title": "Himalaya Total Care Super Absorb Diaper, Size M 76Pcs at 553 Apply coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BH9CB1?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T02:30:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514122.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BH9CB1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BH9CB1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lowest: Noise Buds E1 V2 at Rs.799 💥 3 Colours:",
       "price": 799,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7V8RC3J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7V8RC3J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Kenstar Infra LUMO 2000W Infrared Stove @2352",
-      "price": 2352,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5KF92L2?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T03:43:56Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0H5KF92L2.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5KF92L2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5KF92L2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
