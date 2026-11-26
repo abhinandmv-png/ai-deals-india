@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T00:45:59Z",
+  "updated_at": "2026-11-26T01:15:23Z",
   "deals": [
+    {
+      "title": "Men, 150ml (Cool, Charm and Swag Avatar Pack of 3) & Set Wet Hair Spray for Men Extreme Hold 200ml at Rs. 409.",
+      "price": 409,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BRG9VYNR?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T01:15:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514111.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BRG9VYNR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BRG9VYNR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fastrack Xtreme S Rugged Smart Watch at Rs.2037",
       "price": 2037,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DB8P9PSS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DB8P9PSS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "74",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H9HTSXJJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T19:37:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513127.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H9HTSXJJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H9HTSXJJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
