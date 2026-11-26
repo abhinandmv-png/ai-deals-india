@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T15:59:22Z",
+  "updated_at": "2026-11-26T15:59:32Z",
   "deals": [
+    {
+      "title": "DJI Osmo Action 5 Pro Standard Combo, Waterproof Camera at ₹33,940 Flat ₹2,050 off with HDFC EMI",
+      "price": 33940,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D1YH4B2R?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T15:59:31Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514232.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D1YH4B2R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D1YH4B2R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puma Men Popcat Injex Res Slide @699. Other colour costs more 🔥",
       "price": 699,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GWQ46LC3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GWQ46LC3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "309",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B097MZ9SV3?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T11:52:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513217.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B097MZ9SV3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B097MZ9SV3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
