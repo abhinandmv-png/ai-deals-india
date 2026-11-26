@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T01:15:23Z",
+  "updated_at": "2026-11-26T01:15:33Z",
   "deals": [
+    {
+      "title": "Buke Thrust 26T MTB Bicycle for Adults at Rs.1819.(selected locations)",
+      "price": 1819,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D181N2XW?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T01:15:33Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0D181N2XW.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D181N2XW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D181N2XW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Men, 150ml (Cool, Charm and Swag Avatar Pack of 3) & Set Wet Hair Spray for Men Extreme Hold 200ml at Rs. 409.",
       "price": 409,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BQN9NRZP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BQN9NRZP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 79% Off On Paragon Footwears. Bajaj 2-Slice Sandwich Griller at Rs.1199.",
-      "price": 1199,
-      "original_price": 5710,
-      "category": "Shopping",
-      "badge": "79% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DB8P9PSS?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T01:23:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513130.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DB8P9PSS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DB8P9PSS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
