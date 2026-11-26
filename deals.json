@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T18:45:42Z",
+  "updated_at": "2026-11-26T18:45:48Z",
   "deals": [
+    {
+      "title": "True Elements Muesli Fruit and Nuts 1kg | Real Fruits at Rs.**308**.",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07G1792GN?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T18:45:48Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B07G1792GN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07G1792GN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07G1792GN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "61% Off : Biotique Nectar Lotion 120ml (Pack Of 2) @204.",
       "price": 204,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H29ZNRL6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H29ZNRL6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Philips HL7756 Mixer Grinder 750W, with 3 Stainless Steel Jars 3,299₹",
-      "price": 3299,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01GZSQJPA?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T14:05:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B01GZSQJPA.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01GZSQJPA.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01GZSQJPA.01.LZZZZZZZ.jpg"
       ]
     }
   ]
