@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T12:15:58Z",
+  "updated_at": "2026-11-26T12:29:16Z",
   "deals": [
+    {
+      "title": "500",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQLCQR89?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T12:29:15Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514186.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQLCQR89.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQLCQR89.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Wipro 6W Downlight, Pack Of 20 @1145.",
       "price": 1145,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H6XM41XB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H6XM41XB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo L22-4e | 21.5\" (55.88cm) FHD IPS 100Hz Ultraslim Monitor for ₹5,532",
-      "price": 5532,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G1T71B9Z?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T08:21:40Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513183.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G1T71B9Z.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G1T71B9Z.01.LZZZZZZZ.jpg"
       ]
     }
   ]
