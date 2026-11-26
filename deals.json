@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T05:45:26Z",
+  "updated_at": "2026-11-26T06:30:30Z",
   "deals": [
+    {
+      "title": "CELLO Inner Steel Insulated Water Bottle 650 ml, @ 283",
+      "price": 283,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07TGJYD5Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T06:30:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514144.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07TGJYD5Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07TGJYD5Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "RR Signature 1200mm BLDC Ceiling Fan @ 2,399.",
       "price": 2399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HLDD7VM6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HLDD7VM6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Borosilicate Glass Water Bottle (750 ml, Set Of 2) @350.",
-      "price": 350,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F8QDZVB8?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T05:51:36Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513166.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F8QDZVB8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F8QDZVB8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
