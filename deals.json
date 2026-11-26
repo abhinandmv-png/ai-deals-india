@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T17:01:03Z",
+  "updated_at": "2026-11-26T17:14:20Z",
   "deals": [
+    {
+      "title": ". Crompton Arno Plus 15L 5‑Star Storage Water Heater 6,363",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H5X3KJT7?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T17:14:20Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0H5X3KJT7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H5X3KJT7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H5X3KJT7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Bikano Panjeeri Laddu Spl, 400 140",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DH3J6LB9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DH3J6LB9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "CELLO Crystal Water Bottles Set of 6, 1000 ml Each, | Food Grade — ₹179.",
-      "price": 179,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01BYBTRAM?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T12:14:09Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B01BYBTRAM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01BYBTRAM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01BYBTRAM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
