@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T00:45:32Z",
+  "updated_at": "2026-11-26T00:45:42Z",
   "deals": [
+    {
+      "title": "Samsung Original 65W Tri Port,Type-C & USB-A,Super Fast Charger (Cable not Included), at Rs.1344.",
+      "price": 1344,
+      "original_price": 1344,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BG4JX79W?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T00:45:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514107.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BG4JX79W.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BG4JX79W.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lifelong Kids Yoga Mat at Rs.242.",
       "price": 242,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GPKCK7T3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GPKCK7T3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "112 . LAKME Blush & Glow, Jelly Face Wash, 150 g 190₹",
-      "price": null,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GSZ2PHQF?tag=premiumde066c-21",
-      "posted_at": "2026-11-19T18:53:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GSZ2PHQF.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GSZ2PHQF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GSZ2PHQF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
