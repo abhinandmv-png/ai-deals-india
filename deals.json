@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T11:14:12Z",
+  "updated_at": "2026-11-26T11:29:18Z",
   "deals": [
+    {
+      "title": "Grab🔥🔥 ECOVACS WINBOT Window Cleaning Robot - Compact Design @18,999",
+      "price": 18999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DQ8QPG2Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T11:29:17Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514179.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DQ8QPG2Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DQ8QPG2Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Indus Route by Pantaloons Men's Waistcoat — ₹440.",
       "price": 440,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3X5PBKN.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3X5PBKN.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Curtains (Pack of 2) at Rs.324",
-      "price": 324,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C58NL484?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T06:51:38Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513175.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C58NL484.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C58NL484.01.LZZZZZZZ.jpg"
       ]
     }
   ]
