@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T12:29:16Z",
+  "updated_at": "2026-11-26T12:29:28Z",
   "deals": [
+    {
+      "title": "Single Bed Comforter 220 GSM 150x220 CM at ₹383",
+      "price": 383,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HGRGP7T8?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T12:29:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HGRGP7T8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HGRGP7T8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HGRGP7T8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "500",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDG7HRNS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDG7HRNS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Philips Bluetooth Headphones at Rs.1339",
-      "price": 1339,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6XM41XB?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T08:21:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513184.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6XM41XB.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6XM41XB.01.LZZZZZZZ.jpg"
       ]
     }
   ]
