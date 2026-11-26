@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T13:14:19Z",
+  "updated_at": "2026-11-26T13:29:54Z",
   "deals": [
+    {
+      "title": "Myntra : Upto 66% Off On H&M Clothing + Extra 15% Off. Apply Code : HNM4U15 Men's : Women’s : Boy's : Girl's : H&M Loose Fit Printed Hoodie at 999* Faaaast 🔥 Rare Rabbit Mens Rango Sneaker at 3624",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "66% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GVK5HY48?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T13:29:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514200.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GVK5HY48.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GVK5HY48.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Morphy Richards air purifier ₹5999",
       "price": 5999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FKZKMJXM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FKZKMJXM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "170",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F9FT482C?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T10:00:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513199.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F9FT482C.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F9FT482C.01.LZZZZZZZ.jpg"
       ]
     }
   ]
