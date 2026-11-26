@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T11:29:26Z",
+  "updated_at": "2026-11-26T11:44:15Z",
   "deals": [
+    {
+      "title": "Loottt fasttt💥💥💥 Loot : Stainless Steel Clothes Drying Rope 10 Meter with Hooks – Only ₹199🤯 ✨Strong Steel Clothesline for Everyday Use ✨Rust-Resistant Design for Long-Term Convenience ✨Suitable for Balcony, Travel, Camp",
+      "price": 199,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HC8J82DC?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T11:44:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514181.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HC8J82DC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HC8J82DC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "598",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G5Y68CDF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G5Y68CDF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sofia Nutri Blender 500W at ₹1,599",
-      "price": 1599,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYQP623N?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T07:36:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513178.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYQP623N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYQP623N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
