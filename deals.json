@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T05:30:41Z",
+  "updated_at": "2026-11-26T05:45:26Z",
   "deals": [
+    {
+      "title": "RR Signature 1200mm BLDC Ceiling Fan @ 2,399.",
+      "price": 2399,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DSW6S3GN?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T05:45:26Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514141.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DSW6S3GN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DSW6S3GN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Aavante Prime 5.1 5050D at ₹7,920",
       "price": 7920,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F8QDZVB8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F8QDZVB8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Lenovo V14, Intel Core i3-1315U, 8GB RAM, 512GB SSD, FHD 14” (35.56cm), Windows 11 Home @49,194",
-      "price": 49194,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6XWSDYH?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T05:21:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513162.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6XWSDYH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6XWSDYH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
