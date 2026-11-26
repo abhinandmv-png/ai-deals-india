@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T07:15:27Z",
+  "updated_at": "2026-11-26T09:44:15Z",
   "deals": [
+    {
+      "title": "Men’s Casual Sliders @279.",
+      "price": 279,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GC5636T2?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T09:44:14Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514162.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GC5636T2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GC5636T2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Crompton SensoSmart 90 cm Curved Glass Kitchen Chimney with 1360 m³/hr — ₹8,490.",
       "price": 8490,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F18L1ZZB.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F18L1ZZB.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab 1199",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HC3J5BG5?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T06:06:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513169.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HC3J5BG5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HC3J5BG5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
