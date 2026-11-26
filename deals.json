@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T06:30:30Z",
+  "updated_at": "2026-11-26T07:15:27Z",
   "deals": [
+    {
+      "title": "Crompton SensoSmart 90 cm Curved Glass Kitchen Chimney with 1360 m³/hr — ₹8,490.",
+      "price": 8490,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B65PZW8F?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T07:15:27Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514148.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B65PZW8F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B65PZW8F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CELLO Inner Steel Insulated Water Bottle 650 ml, @ 283",
       "price": 283,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HC3J5BG5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HC3J5BG5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Safari Imperia Trolley 3 Years Warranty Duffle Bag (58 Cm, Black) @ 1339",
-      "price": 1339,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HLDD7VM6?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T06:06:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513168.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HLDD7VM6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HLDD7VM6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
