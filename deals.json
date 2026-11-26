@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T11:44:15Z",
+  "updated_at": "2026-11-26T12:15:58Z",
   "deals": [
+    {
+      "title": "Wipro 6W Downlight, Pack Of 20 @1145.",
+      "price": 1145,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CVTNX62C?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T12:15:57Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CVTNX62C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CVTNX62C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CVTNX62C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Loottt fasttt💥💥💥 Loot : Stainless Steel Clothes Drying Rope 10 Meter with Hooks – Only ₹199🤯 ✨Strong Steel Clothesline for Everyday Use ✨Rust-Resistant Design for Long-Term Convenience ✨Suitable for Balcony, Travel, Camp",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G1T71B9Z.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G1T71B9Z.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1138",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0G5Y68CDF?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T07:37:39Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513180.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0G5Y68CDF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0G5Y68CDF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
