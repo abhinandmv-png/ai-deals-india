@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T01:45:36Z",
+  "updated_at": "2026-11-26T01:45:45Z",
   "deals": [
+    {
+      "title": "Park Daniel Coconut Oil (Pack of 2) at Rs. 198.",
+      "price": 198,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0974QBN35?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T01:45:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514118.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0974QBN35.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0974QBN35.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "CareFoam Memory Foam Cervical Neck Pillow,pack of 2 at Rs.627.",
       "price": 627,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0188KPKB2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0188KPKB2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Casa Copenhagen, Ergonomic Chair with Advanced Mechanism & Electric Back Massager, at Rs.9,999.",
-      "price": 9999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HHXGC243?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T03:38:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513144.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HHXGC243.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HHXGC243.01.LZZZZZZZ.jpg"
       ]
     }
   ]
