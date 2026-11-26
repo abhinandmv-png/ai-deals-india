@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T10:14:11Z",
+  "updated_at": "2026-11-26T10:44:17Z",
   "deals": [
+    {
+      "title": "240 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BN9Z3KR6?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T10:44:16Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514172.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BN9Z3KR6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BN9Z3KR6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Ghee Loot @399",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GTVK1YFJ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GTVK1YFJ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot Deal 🔥 Bosch 243L, Double Door Refrigerator | 6-in-1 Convertible @22,865 Apply ₹2000 Coupon + ₹5625 Off With ICICI / Axis CC",
-      "price": 22865,
-      "original_price": 5625,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GR9VR199?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T06:21:35Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513171.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GR9VR199.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GR9VR199.01.LZZZZZZZ.jpg"
       ]
     }
   ]
