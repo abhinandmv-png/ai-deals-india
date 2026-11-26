@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T18:10:42Z",
+  "updated_at": "2026-11-26T18:10:48Z",
   "deals": [
+    {
+      "title": "Pigeon Non-Stick Biriyani Pot with Lid, 5 Litres 885",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B00F2F9CO8?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T18:10:48Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B00F2F9CO8.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B00F2F9CO8.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B00F2F9CO8.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "299",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FBLWVRCV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FBLWVRCV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Kamiliant by American Tister Laptop Backpack 899₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DRVZRJP2?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T13:04:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513229.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DRVZRJP2.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DRVZRJP2.01.LZZZZZZZ.jpg"
       ]
     }
   ]
