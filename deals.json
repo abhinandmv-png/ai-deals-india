@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T15:44:20Z",
+  "updated_at": "2026-11-26T15:44:30Z",
   "deals": [
+    {
+      "title": "Grab @6409",
+      "price": 6409,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CQ53BKWT?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T15:44:29Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514226.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CQ53BKWT.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CQ53BKWT.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Grab🔥🔥 @7200",
       "price": 7200,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07FS7C7B8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07FS7C7B8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP K270 Wireless Keyboard 🔥 699₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DXPHFMLX?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T11:22:31Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513210.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DXPHFMLX.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DXPHFMLX.01.LZZZZZZZ.jpg"
       ]
     }
   ]
