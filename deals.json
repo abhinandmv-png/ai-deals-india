@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T15:30:19Z",
+  "updated_at": "2026-11-26T15:30:30Z",
   "deals": [
+    {
+      "title": "Loot 199 Perfume 200ml Wonderchef Power Elite Chimney | 60cm |1050 m3/hr| Baffle Filter | 3 Speed Apply 25% Off Coupon get it for 3887🔥",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "25% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D25Z6ZHC?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T15:30:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514222.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D25Z6ZHC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D25Z6ZHC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GRAB : U.S. Polo ASSN. Mens Underwear Trunks - Pack of 3 @ 500/",
       "price": 500,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKVH7F25.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKVH7F25.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "29",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CY876VCW?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T11:07:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513208.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CY876VCW.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CY876VCW.01.LZZZZZZZ.jpg"
       ]
     }
   ]
