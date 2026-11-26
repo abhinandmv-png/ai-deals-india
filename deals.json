@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T01:15:33Z",
+  "updated_at": "2026-11-26T01:30:24Z",
   "deals": [
+    {
+      "title": "DongCheng 12V Cordless Drill Machine at Rs.2754.",
+      "price": 2754,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HGFGNB17?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T01:30:23Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514114.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HGFGNB17.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HGFGNB17.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Buke Thrust 26T MTB Bicycle for Adults at Rs.1819.(selected locations)",
       "price": 1819,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00G23S4YS.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00G23S4YS.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Upto 79% Off On Paragon Footwears. Lee Cooper Analog Men's Watch at Rs.3604",
-      "price": 3604,
-      "original_price": 17162,
-      "category": "Electronics",
-      "badge": "79% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BQN9NRZP?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T01:23:10Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513131.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BQN9NRZP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BQN9NRZP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
