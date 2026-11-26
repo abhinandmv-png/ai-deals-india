@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T02:15:26Z",
+  "updated_at": "2026-11-26T02:15:39Z",
   "deals": [
+    {
+      "title": "Lowest: Noise Buds E1 V2 at Rs.799 💥 3 Colours:",
+      "price": 799,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSZPQFH2?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T02:15:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514121.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSZPQFH2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSZPQFH2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "382/- Other Color Costs More",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5KF92L2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5KF92L2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Havells Ventil Air DSP 150mm Exhaust Fan at Rs.1190.",
-      "price": 1190,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GYPM1HG1?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T03:38:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513146.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GYPM1HG1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GYPM1HG1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
