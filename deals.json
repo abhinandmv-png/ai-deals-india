@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T15:44:47Z",
+  "updated_at": "2026-11-26T15:59:22Z",
   "deals": [
+    {
+      "title": "Puma Men Popcat Injex Res Slide @699. Other colour costs more 🔥",
+      "price": 699,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D6VKPRX1?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T15:59:21Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514231.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D6VKPRX1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D6VKPRX1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Puncture Kit at Rs.297",
       "price": 297,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B097MZ9SV3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B097MZ9SV3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Prestige Iris 750 Watt Mixer Grinder with 4 Jars 3,725",
-      "price": 3725,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08CFJBZRK?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T11:37:37Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513215.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08CFJBZRK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08CFJBZRK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
