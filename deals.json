@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T01:30:24Z",
+  "updated_at": "2026-11-26T01:30:33Z",
   "deals": [
+    {
+      "title": "Apply 3% Coupon🔥 tu casa Table Lamp at Rs.307.",
+      "price": 307,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B08X4FR27S?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T01:30:32Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514115.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B08X4FR27S.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B08X4FR27S.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DongCheng 12V Cordless Drill Machine at Rs.2754.",
       "price": 2754,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B38Z7TLM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B38Z7TLM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Park Avenue 8 in 1 Combo Grooming Kit for men Rs. 448.",
-      "price": 448,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00G23S4YS?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T01:38:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513133.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00G23S4YS.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00G23S4YS.01.LZZZZZZZ.jpg"
       ]
     }
   ]
