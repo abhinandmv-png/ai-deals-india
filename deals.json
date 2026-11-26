@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-26T15:59:32Z",
+  "updated_at": "2026-11-26T17:01:03Z",
   "deals": [
+    {
+      "title": ". Bikano Panjeeri Laddu Spl, 400 140",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07HLW5H3Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-26T17:01:03Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07HLW5H3Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07HLW5H3Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07HLW5H3Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "DJI Osmo Action 5 Pro Standard Combo, Waterproof Camera at ₹33,940 Flat ₹2,050 off with HDFC EMI",
       "price": 33940,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B01BYBTRAM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B01BYBTRAM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". IFB 241L 7-in-1 Multi Mode, Advanced Inverter Double Door Refrigerator 23740 Apply 500 Coupon + 2250 Off With ICICI CC / 2000 Off With SBI CC",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GWQ46LC3?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T11:52:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GWQ46LC3.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GWQ46LC3.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GWQ46LC3.01.LZZZZZZZ.jpg"
       ]
     }
   ]
