@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T13:07:12Z",
+  "updated_at": "2026-11-27T13:22:01Z",
   "deals": [
+    {
+      "title": "29",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HMHJPJ2Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T13:22:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HMHJPJ2Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HMHJPJ2Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HMHJPJ2Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". TIMEX Blue Round Dial Analog Men's Watch 6,079",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C7MJF5CH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C7MJF5CH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Bata Men Casual Lace-Up Sneaker - Green 10 (UK) — ₹655.",
-      "price": 655,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GMJWNN97?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T03:35:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513323.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GMJWNN97.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GMJWNN97.01.LZZZZZZZ.jpg"
       ]
     }
   ]
