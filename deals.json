@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T11:52:24Z",
+  "updated_at": "2026-11-27T12:07:31Z",
   "deals": [
+    {
+      "title": "Myntra Loot : Flat 70-72% Off On GAP Clothing. Men : Women : Girls : Boys : . RR Signature JWALA QUARTZ Room Heater 800W 1049",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "72% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DMT832TZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T12:07:30Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DMT832TZ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DMT832TZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DMT832TZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 3179 Lee Cooper Stainless Steel Analog Blue Dial Men's Watch",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08LNS2G1K.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08LNS2G1K.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "MAHARAJA Plastic Chair & Table Combo | Elegant Design for Indoor & Outdoor Use — ₹3,620.",
-      "price": 3620,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F9YB7GBY?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T02:05:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513316.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F9YB7GBY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F9YB7GBY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
