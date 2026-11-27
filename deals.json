@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T04:36:58Z",
+  "updated_at": "2026-11-27T04:51:59Z",
   "deals": [
+    {
+      "title": "Loot 100 :",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GQHV7JJM?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T04:51:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GQHV7JJM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GQHV7JJM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GQHV7JJM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GAP Sweatshirt at 70% off GAP Trackpants at 70% off Nike Shoes at 50% off Nike Clothing at 50% off Voltas 5L Instant Water Geyser @ 3399 Apply Rs.200 Off Coupon. GRAB : Premium Makhana, 1 Kg @699.",
       "price": 3399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09HL7P3QC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09HL7P3QC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "329",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08Q79M1YL?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T17:35:01Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513275.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08Q79M1YL.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08Q79M1YL.01.LZZZZZZZ.jpg"
       ]
     }
   ]
