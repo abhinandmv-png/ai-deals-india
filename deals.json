@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T17:01:59Z",
+  "updated_at": "2026-11-27T18:16:04Z",
   "deals": [
+    {
+      "title": "Gear 31L Laptop Backpack at 985.",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DY4JCZ46?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T18:16:03Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0DY4JCZ46.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DY4JCZ46.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DY4JCZ46.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loot: Boldfit Pull Up Bar Door for Home Workout (300Kg) @1499",
       "price": 1499,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D8LH7NFK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D8LH7NFK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Grab @1899 Havells 1200mm Ambrose BLDC Motor Ceiling Fan Apply coupon",
-      "price": 1899,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BHJF11TV?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T07:20:22Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513354.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BHJF11TV.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BHJF11TV.01.LZZZZZZZ.jpg"
       ]
     }
   ]
