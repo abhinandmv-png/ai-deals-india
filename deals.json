@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T18:31:05Z",
+  "updated_at": "2026-11-27T18:33:00Z",
   "deals": [
+    {
+      "title": ". French Connection Steel Women Watch 1,370",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FHWR6TGG?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T18:32:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FHWR6TGG.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FHWR6TGG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FHWR6TGG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Beardo SPF 50 PA+++ Body Lotion 250ml at 120.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BY5BY5SQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BY5BY5SQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Milton Flora Jr Set Insulated Inner Steel Casserole for Roti, 3 Pc at 617",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F3JNL1GM?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T08:50:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513361.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F3JNL1GM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F3JNL1GM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
