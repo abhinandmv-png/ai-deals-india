@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T15:32:06Z",
+  "updated_at": "2026-11-27T15:46:56Z",
   "deals": [
+    {
+      "title": "61",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FSS7FJ5L?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T15:46:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FSS7FJ5L.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FSS7FJ5L.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FSS7FJ5L.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Acer Aspire 3 Intel Core i5-1334U | 8GB DDR4 | 500 GB SSD Laptop 52,990",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0D7H3Q9LZ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0D7H3Q9LZ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Pond's Bright Brightening Serum 30 ml @263",
-      "price": 263,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09FMM9V9N?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T06:44:24Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B09FMM9V9N.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09FMM9V9N.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09FMM9V9N.01.LZZZZZZZ.jpg"
       ]
     }
   ]
