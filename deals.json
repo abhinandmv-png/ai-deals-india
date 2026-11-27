@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T18:16:04Z",
+  "updated_at": "2026-11-27T18:16:58Z",
   "deals": [
+    {
+      "title": ". RR Signature Centrino 5L Water Heater for Home 2699",
+      "price": null,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FTTC4Z9R?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T18:16:58Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514423.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FTTC4Z9R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FTTC4Z9R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gear 31L Laptop Backpack at 985.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HGQS1PD6.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HGQS1PD6.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "15lit @4515",
-      "price": 4515,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D8LH7NFK?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T07:20:34Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513355.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D8LH7NFK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D8LH7NFK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
