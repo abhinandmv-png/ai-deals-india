@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T07:51:58Z",
+  "updated_at": "2026-11-27T08:06:59Z",
   "deals": [
+    {
+      "title": "Dr Trust Weighing Scale at Rs.599",
+      "price": 599,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HGDRCVNK?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T08:06:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514324.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HGDRCVNK.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HGDRCVNK.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "GIVA 925 Silver 18k Gold Plated Anushka Sharma Golden Star Constellation Studs @660",
       "price": 660,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0002LYEJK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0002LYEJK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1016",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B07B78Q11W?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:35:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513287.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B07B78Q11W.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B07B78Q11W.01.LZZZZZZZ.jpg"
       ]
     }
   ]
