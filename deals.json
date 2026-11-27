@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T10:45:58Z",
+  "updated_at": "2026-11-27T10:52:02Z",
   "deals": [
+    {
+      "title": ". PUMA Slides 🔥 899₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BYSPF56N?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T10:52:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514347.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BYSPF56N.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BYSPF56N.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "R3SET Soothing Pain Relief Gel Pack of 2 at 199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B099NNW9LL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B099NNW9LL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "adidas Women Sportswear Shoes at Rs.2,000.",
-      "price": 2000,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPVM1QRH?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T00:50:30Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513308.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPVM1QRH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPVM1QRH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
