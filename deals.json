@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T04:15:50Z",
+  "updated_at": "2026-11-27T04:36:58Z",
   "deals": [
+    {
+      "title": "GAP Sweatshirt at 70% off GAP Trackpants at 70% off Nike Shoes at 50% off Nike Clothing at 50% off Voltas 5L Instant Water Geyser @ 3399 Apply Rs.200 Off Coupon. GRAB : Premium Makhana, 1 Kg @699.",
+      "price": 3399,
+      "original_price": 11330,
+      "category": "Fashion",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HSYHLMXZ?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T04:36:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514295.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HSYHLMXZ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HSYHLMXZ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Boat Rockerz 371 Headphone at 899",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08Q79M1YL.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08Q79M1YL.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". French Connection Gazellle Blue Round Analog Watch 1,066₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C6GYRZ5T?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T17:20:33Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513272.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C6GYRZ5T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C6GYRZ5T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
