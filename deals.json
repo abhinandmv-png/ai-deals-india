@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T13:46:51Z",
+  "updated_at": "2026-11-27T14:16:54Z",
   "deals": [
+    {
+      "title": ". Himalaya Refreshing Body Lotion, 200 ml 120₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0093J2C0A?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T14:16:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0093J2C0A.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0093J2C0A.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0093J2C0A.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "399",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HM8FL6W9.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HM8FL6W9.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Singer Magwave 2000W Room Heater @ Rs.1169",
-      "price": 1169,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BK5CCTBN?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T04:39:19Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0BK5CCTBN.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BK5CCTBN.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BK5CCTBN.01.LZZZZZZZ.jpg"
       ]
     }
   ]
