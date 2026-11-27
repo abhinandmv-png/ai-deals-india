@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T01:40:49Z",
+  "updated_at": "2026-11-27T01:40:58Z",
   "deals": [
+    {
+      "title": "Trajectory® Travel Neck Pillow at arms.239.",
+      "price": null,
+      "original_price": null,
+      "category": "Travel",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FPDLT1CC?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T01:40:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514278.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FPDLT1CC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FPDLT1CC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "United Colors of Benetton Lunch Bag at Rs.299.",
       "price": 299,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09RB5249D.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09RB5249D.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Nayasa Containers 2 Pcs Set 260₹",
-      "price": 2,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CRDZ4TPC?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T15:05:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CRDZ4TPC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CRDZ4TPC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CRDZ4TPC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
