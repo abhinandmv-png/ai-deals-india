@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T14:16:54Z",
+  "updated_at": "2026-11-27T14:29:05Z",
   "deals": [
+    {
+      "title": "Treo by Milton Opalware Dinner Set of 6 @435.",
+      "price": 435,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0G7ZN1868?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T14:29:04Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0G7ZN1868.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0G7ZN1868.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0G7ZN1868.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Himalaya Refreshing Body Lotion, 200 ml 120₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FDKLV15X.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FDKLV15X.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "LOOT FAST : Premium Anjeer 1KG at 420.",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HM8FL6W9?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T05:05:12Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513334.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HM8FL6W9.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HM8FL6W9.01.LZZZZZZZ.jpg"
       ]
     }
   ]
