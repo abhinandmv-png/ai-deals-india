@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T07:37:33Z",
+  "updated_at": "2026-11-27T07:51:58Z",
   "deals": [
+    {
+      "title": "GIVA 925 Silver 18k Gold Plated Anushka Sharma Golden Star Constellation Studs @660",
+      "price": 660,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09PBR3H44?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T07:51:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514322.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09PBR3H44.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09PBR3H44.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "🔥🔥 Havells BLDC Ceiling Fan 1200 mm at 2,111.",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B07B78Q11W.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B07B78Q11W.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "341",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B083NHCFCQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:35:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513286.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B083NHCFCQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B083NHCFCQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
