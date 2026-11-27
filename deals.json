@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T18:47:16Z",
+  "updated_at": "2026-11-27T18:47:36Z",
   "deals": [
+    {
+      "title": "1454",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DFMQCGT1?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T18:47:35Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514440.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DFMQCGT1.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DFMQCGT1.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "239",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CHSB2NQY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CHSB2NQY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Samsung Galaxy Tab S10 Lite @ 30999",
-      "price": 30999,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FNWNZZ1B?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T09:50:23Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513369.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FNWNZZ1B.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FNWNZZ1B.01.LZZZZZZZ.jpg"
       ]
     }
   ]
