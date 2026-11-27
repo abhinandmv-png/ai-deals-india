@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T09:06:59Z",
+  "updated_at": "2026-11-27T09:37:37Z",
   "deals": [
+    {
+      "title": "AJIO : Upto 75% Off On NETPLAY Clothing. Tshirts : Shirts : Trousers : Sweaters/Sweatshirts : Jackets : Treo by Milton Tiffin with Bag, Set of 8 @924",
+      "price": 924,
+      "original_price": 3696,
+      "category": "Fashion",
+      "badge": "75% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BJLBYDFR?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T09:37:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514336.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BJLBYDFR.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BJLBYDFR.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Hot wheels Ferrari 5 Pack for ₹899",
       "price": 899,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00563GB2M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00563GB2M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "FAAASSTT 💥 999₹ Gio Collection Analog White Dial Women's Watch",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00RMZ70YK?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T19:04:59Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513296.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00RMZ70YK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00RMZ70YK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
