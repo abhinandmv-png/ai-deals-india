@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T05:28:58Z",
+  "updated_at": "2026-11-27T06:51:58Z",
   "deals": [
+    {
+      "title": "BLAUPUNKT 2025 Launch ATOMIK Grab 20W Party Speaker Boombox, Unbelievable Loud — ₹1,049.",
+      "price": 1049,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H413H39T?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T06:51:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514314.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H413H39T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H413H39T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "S F JEANS CO AWARE Men Jeans @399.",
       "price": 399,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C243JK93.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C243JK93.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "69",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GK1Z28T6?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:20:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GK1Z28T6.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GK1Z28T6.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GK1Z28T6.01.LZZZZZZZ.jpg"
       ]
     }
   ]
