@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T15:46:56Z",
+  "updated_at": "2026-11-27T15:47:02Z",
   "deals": [
+    {
+      "title": ". REVLON Street Wear Lip2Last Matte Liquid Lipstick 198",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09CY48D6Q?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T15:47:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09CY48D6Q.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09CY48D6Q.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09CY48D6Q.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "61",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B098T7GJQG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B098T7GJQG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Himalaya Dark Spot Clearing Turmeric Kit (Pack of 3) @352.",
-      "price": 352,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D7H3Q9LZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T06:44:36Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B0D7H3Q9LZ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D7H3Q9LZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D7H3Q9LZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
