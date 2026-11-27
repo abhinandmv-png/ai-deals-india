@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T08:06:59Z",
+  "updated_at": "2026-11-27T08:07:12Z",
   "deals": [
+    {
+      "title": "boAt Airdopes 141 Elite ANC, ANC(~35dB), 4Mics ENx Tech, 42H Battery, Fast — ₹794.",
+      "price": 794,
+      "original_price": null,
+      "category": "Sports",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F5BGTXGG?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T08:07:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514325.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F5BGTXGG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F5BGTXGG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Dr Trust Weighing Scale at Rs.599",
       "price": 599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H3BXLJ3T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H3BXLJ3T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Loot 2492 : Others Sites selling @10k+",
-      "price": 10,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0002LYEJK?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:35:27Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0002LYEJK.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0002LYEJK.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0002LYEJK.01.LZZZZZZZ.jpg"
       ]
     }
   ]
