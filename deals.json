@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T05:13:57Z",
+  "updated_at": "2026-11-27T05:14:03Z",
   "deals": [
+    {
+      "title": "60% Off : POND'S Youthful Miracle Hexyl Retinol Cream 50g @392",
+      "price": 392,
+      "original_price": 980,
+      "category": "Beauty",
+      "badge": "60% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B077NDKG7D?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T05:14:02Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B077NDKG7D.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B077NDKG7D.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B077NDKG7D.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "174",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DZ6RCVZ2.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DZ6RCVZ2.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Pigeon 3L Electric Rice Cooker 2 Pots Keep warm function Steam 3,029₹",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FN7ZG4WF?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:04:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513279.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FN7ZG4WF.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FN7ZG4WF.01.LZZZZZZZ.jpg"
       ]
     }
   ]
