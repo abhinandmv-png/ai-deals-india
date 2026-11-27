@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T02:14:01Z",
+  "updated_at": "2026-11-27T03:10:52Z",
   "deals": [
+    {
+      "title": "70% Off : Livon Keratin Shampoo @238",
+      "price": 238,
+      "original_price": 793,
+      "category": "Beauty",
+      "badge": "70% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FNN4954M?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T03:10:51Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514286.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FNN4954M.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FNN4954M.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Pigeon by Stovekraft Aluminium Pressure Cooker Combo @805",
       "price": 805,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CPLTMLLP.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CPLTMLLP.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Puma Men's Ampi Sneaker 🔥 1,944₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09CYWPPZZ?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T16:04:57Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513261.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09CYWPPZZ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09CYWPPZZ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
