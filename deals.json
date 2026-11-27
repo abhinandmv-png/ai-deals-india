@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T14:31:53Z",
+  "updated_at": "2026-11-27T14:46:56Z",
   "deals": [
+    {
+      "title": ". Travel Watch Box 299",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HLK7WZ1Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T14:46:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HLK7WZ1Z.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HLK7WZ1Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HLK7WZ1Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Signoraware BoroFlow Borosilicate Glass Jug with Bamboo Lid 522₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0B1N1X7JC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0B1N1X7JC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1271",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B01M15PW8F?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T05:35:08Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513339.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B01M15PW8F.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B01M15PW8F.01.LZZZZZZZ.jpg"
       ]
     }
   ]
