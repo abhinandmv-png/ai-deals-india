@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T03:51:55Z",
+  "updated_at": "2026-11-27T04:15:50Z",
   "deals": [
+    {
+      "title": "Boat Rockerz 371 Headphone at 899",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FM38MRWL?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T04:15:49Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0FM38MRWL.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FM38MRWL.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FM38MRWL.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "@2999",
       "price": 2999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C6GYRZ5T.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C6GYRZ5T.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "100",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F2HHSXV8?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T17:06:00Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0F2HHSXV8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F2HHSXV8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F2HHSXV8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
