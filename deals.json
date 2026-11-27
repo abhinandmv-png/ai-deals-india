@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T08:14:00Z",
+  "updated_at": "2026-11-27T08:36:59Z",
   "deals": [
+    {
+      "title": "boAt Airdopes 313 @727",
+      "price": 727,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FHHLMSW6?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T08:36:59Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514331.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FHHLMSW6.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FHHLMSW6.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Sunbean Cold Brew Coffee 180ml @50.",
       "price": 50,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F9YBVKXC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F9YBVKXC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Crompton 24W LED Batten Pack Of 10 1,385₹",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09NJVBSVM?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:50:29Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B09NJVBSVM.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09NJVBSVM.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09NJVBSVM.01.LZZZZZZZ.jpg"
       ]
     }
   ]
