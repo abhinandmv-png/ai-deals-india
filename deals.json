@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T10:52:15Z",
+  "updated_at": "2026-11-27T11:22:02Z",
   "deals": [
+    {
+      "title": "Grab 💥💥💥 1609 Puma Men's Voltstride Running Shoe",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D8ZTXW9F?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T11:22:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514354.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D8ZTXW9F.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D8ZTXW9F.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Nine West Women’s Floral Dial Strap Watch 1089",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQ5WJQ3M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQ5WJQ3M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "The Man Company Hope Perfume for Man,50ml at Rs.280.",
-      "price": 280,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F74H5MSQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T01:20:03Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513310.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F74H5MSQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F74H5MSQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
