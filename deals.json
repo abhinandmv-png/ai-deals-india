@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T08:07:12Z",
+  "updated_at": "2026-11-27T08:14:00Z",
   "deals": [
+    {
+      "title": "Sunbean Cold Brew Coffee 180ml @50.",
+      "price": 50,
+      "original_price": null,
+      "category": "Grocery",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H82QJNJ2?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T08:14:00Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H82QJNJ2.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H82QJNJ2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H82QJNJ2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "boAt Airdopes 141 Elite ANC, ANC(~35dB), 4Mics ENx Tech, 42H Battery, Fast — ₹794.",
       "price": 794,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09NJVBSVM.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09NJVBSVM.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Noise Smartwatch with BT Calling @999.",
-      "price": 999,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H3BXLJ3T?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T18:39:13Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0H3BXLJ3T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H3BXLJ3T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H3BXLJ3T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
