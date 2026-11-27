@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T03:10:52Z",
+  "updated_at": "2026-11-27T03:51:55Z",
   "deals": [
+    {
+      "title": "@2999",
+      "price": 2999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HFW89379?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T03:51:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514289.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HFW89379.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HFW89379.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "70% Off : Livon Keratin Shampoo @238",
       "price": 238,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F2HHSXV8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F2HHSXV8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Nescafe Coffee 🔥 349",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CPLTMLLP?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T16:50:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513265.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CPLTMLLP.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CPLTMLLP.01.LZZZZZZZ.jpg"
       ]
     }
   ]
