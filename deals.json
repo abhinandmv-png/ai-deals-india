@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T18:47:36Z",
+  "updated_at": "2026-11-27T19:02:03Z",
   "deals": [
+    {
+      "title": "165",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B097ZTYM84?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T19:02:02Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514445.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B097ZTYM84.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B097ZTYM84.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "1454",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DNFFVN8N.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DNFFVN8N.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "@819",
-      "price": 819,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CHSB2NQY?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T10:05:17Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513371.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CHSB2NQY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CHSB2NQY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
