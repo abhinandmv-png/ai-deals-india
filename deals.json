@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T15:47:02Z",
+  "updated_at": "2026-11-27T16:01:56Z",
   "deals": [
+    {
+      "title": ". Zebronics Full HD LED Monitor, 21.5 Anti-Glare Screen 4999",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GFD11ZQJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T16:01:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0GFD11ZQJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GFD11ZQJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GFD11ZQJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". REVLON Street Wear Lip2Last Matte Liquid Lipstick 198",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0CR6GVVFG.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0CR6GVVFG.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "RiteBite Max Protein Cookies Chocolate Chip (Pack Of 6) @291",
-      "price": 291,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B098T7GJQG?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T06:44:50Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B098T7GJQG.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B098T7GJQG.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B098T7GJQG.01.LZZZZZZZ.jpg"
       ]
     }
   ]
