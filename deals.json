@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T19:02:34Z",
+  "updated_at": "2026-11-27T19:32:02Z",
   "deals": [
+    {
+      "title": "169",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DGLP3FCN?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T19:32:01Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DGLP3FCN.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DGLP3FCN.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DGLP3FCN.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "339",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F3NHYBKV.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F3NHYBKV.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "ONIDA 139 cm (55 inchs) Nexg Series 4K Ultra HD Smart QLED Mini LED Google TV @ ₹42,749 Link : Get Flat ₹1,250 off with INDIAN BANK Cc + ₹5,000 off coupon",
-      "price": 42749,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJ8FW86L?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T10:09:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0FJ8FW86L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJ8FW86L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJ8FW86L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
