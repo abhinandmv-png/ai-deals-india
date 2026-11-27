@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T09:37:37Z",
+  "updated_at": "2026-11-27T09:52:00Z",
   "deals": [
+    {
+      "title": "GAMDIAS Mars E2 White | M-ATX Gaming PC Case @ ₹3,065 With bank offer Link :",
+      "price": 3065,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CT3DTPGD?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T09:52:00Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514337.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CT3DTPGD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CT3DTPGD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "AJIO : Upto 75% Off On NETPLAY Clothing. Tshirts : Shirts : Trousers : Sweaters/Sweatshirts : Jackets : Treo by Milton Tiffin with Bag, Set of 8 @924",
       "price": 924,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HBRFXVYT.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HBRFXVYT.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". HP 920XL High Yield Cyan Original Ink Cartridge 238₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00563GB2M?tag=premiumde066c-21",
-      "posted_at": "2026-11-20T19:05:07Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513297.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00563GB2M.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00563GB2M.01.LZZZZZZZ.jpg"
       ]
     }
   ]
