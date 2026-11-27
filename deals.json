@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T15:14:07Z",
+  "updated_at": "2026-11-27T15:16:55Z",
   "deals": [
+    {
+      "title": ". DABUR Herb’L Activated Charcoal Toothpaste 240G (Pack of 2) 96₹",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BQC6B15R?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T15:16:55Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BQC6B15R.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BQC6B15R.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Allen Solly Women Boots @703.",
       "price": 703,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FWRF8DHK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FWRF8DHK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "BoroPlus Soft Light Moisturising Cream | Light & Non-sticky | Provides 24 hour — ₹44.",
-      "price": 44,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CMCW69WH?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T06:05:05Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CMCW69WH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CMCW69WH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
