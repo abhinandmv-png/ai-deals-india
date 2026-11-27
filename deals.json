@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T13:07:04Z",
+  "updated_at": "2026-11-27T13:07:12Z",
   "deals": [
+    {
+      "title": ". TIMEX Blue Round Dial Analog Men's Watch 6,079",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FCFYKHHD?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T13:07:12Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FCFYKHHD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FCFYKHHD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FCFYKHHD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Reebok Men's Running Shoes FLYLITE Vital M Sports Shoe 1620",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GMJWNN97.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GMJWNN97.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "DiSano Fusilli Pasta 1kg @ Rs.115",
-      "price": 115,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08HSTJD4L?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T03:09:17Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B08HSTJD4L.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08HSTJD4L.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08HSTJD4L.01.LZZZZZZZ.jpg"
       ]
     }
   ]
