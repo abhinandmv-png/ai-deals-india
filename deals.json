@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T12:21:59Z",
+  "updated_at": "2026-11-27T12:22:13Z",
   "deals": [
+    {
+      "title": "🔥🔥 1,199₹ PHILIPS TAH4050 Wireless Bluetooth Headphones with Mic",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H3W2N8MP?tag=premiumde066c-21",
+      "posted_at": "2026-11-27T12:22:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514366.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H3W2N8MP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H3W2N8MP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "199",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DW93VC53.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DW93VC53.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Car toy at Rs.235",
-      "price": 235,
-      "original_price": null,
-      "category": "Toys",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FD3ZNQM1?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T02:35:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513319.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FD3ZNQM1.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FD3ZNQM1.01.LZZZZZZZ.jpg"
       ]
     }
   ]
