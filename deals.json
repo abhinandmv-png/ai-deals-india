@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T03:47:06Z",
+  "updated_at": "2026-11-28T03:47:17Z",
   "deals": [
+    {
+      "title": "Nobero Caps for Men at Rs.169.",
+      "price": 169,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GWQYGV8C?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:47:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514483.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GWQYGV8C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GWQYGV8C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Fastrack Ryz Smart Watch For Women at Rs.1,999.",
       "price": 1999,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GKQ4HTB5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GKQ4HTB5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Symbol Men's Casual Trousers 🔥 379₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0991Y4RDY?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T12:59:53Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513401.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0991Y4RDY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0991Y4RDY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
