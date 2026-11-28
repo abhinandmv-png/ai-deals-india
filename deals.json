@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T11:38:44Z",
+  "updated_at": "2026-11-28T11:38:54Z",
   "deals": [
+    {
+      "title": ". JBL Flip 6 Wireless Portable Bluetooth Speaker 7,999",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B09NCDDM7T?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T11:38:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B09NCDDM7T.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B09NCDDM7T.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B09NCDDM7T.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "180",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GV3Z8FGQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GV3Z8FGQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "1L steel bottle at ₹219",
-      "price": 219,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJ2WDC27?tag=premiumde066c-21",
-      "posted_at": "2026-11-22T04:29:58Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513467.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJ2WDC27.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJ2WDC27.01.LZZZZZZZ.jpg"
       ]
     }
   ]
