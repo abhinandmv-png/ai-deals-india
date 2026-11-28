@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T02:59:15Z",
+  "updated_at": "2026-11-28T03:02:09Z",
   "deals": [
+    {
+      "title": "99 : Apply 50% Off Coupon",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "50% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0D9YMT9KM?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:02:09Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514476.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0D9YMT9KM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0D9YMT9KM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "59% Off : Dabur Gulabari Shower Gel, 250 ml @89",
       "price": 89,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0C81SXVH5.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0C81SXVH5.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "448 1699",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BWTCLMBD?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T11:35:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513390.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BWTCLMBD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BWTCLMBD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
