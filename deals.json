@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T03:47:17Z",
+  "updated_at": "2026-11-28T03:47:29Z",
   "deals": [
+    {
+      "title": "[ Coupon + Any CC Offer ] Sony ULT Field 3 Bluetooth Speaker, at Rs.10,789.",
+      "price": 10789,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DYB6KMJH?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:47:25Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514484.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DYB6KMJH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DYB6KMJH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Nobero Caps for Men at Rs.169.",
       "price": 169,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0GGRZQBQ3.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0GGRZQBQ3.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". London Fog Queenhithe Collection Watch for Women 788₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GKQ4HTB5?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T13:00:06Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513402.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GKQ4HTB5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GKQ4HTB5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
