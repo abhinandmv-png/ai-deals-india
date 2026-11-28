@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T01:32:07Z",
+  "updated_at": "2026-11-28T01:32:14Z",
   "deals": [
+    {
+      "title": "Novel 99% Pure Water Baby Wipes 80 Wipes x Pack of 5 (400 Wipes) at Rs.321.",
+      "price": 321,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CB3DB5QJ?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T01:32:13Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0CB3DB5QJ.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CB3DB5QJ.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CB3DB5QJ.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Beardo Whisky Smoke Bourbon Perfume 50ml & Mariner Perfume 50ml Combo at Rs.424.",
       "price": 424,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0DBDFGNSC.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0DBDFGNSC.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "68% Off : Fiama Shower Gel, 750ml at 238. Buy Max Qty :",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "68% OFF",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B098LR2L3K?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T10:39:24Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B098LR2L3K.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B098LR2L3K.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B098LR2L3K.01.LZZZZZZZ.jpg"
       ]
     }
   ]
