@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T06:53:47Z",
+  "updated_at": "2026-11-28T06:53:57Z",
   "deals": [
+    {
+      "title": "Gap Men Pullover Sweater at 539/",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0F6YJZSL9?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T06:53:56Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514512.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0F6YJZSL9.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0F6YJZSL9.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Olay Regenerist Retinol Night Cream 50g for ₹624.",
       "price": 624,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09K5GR32Y.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09K5GR32Y.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". adidas Men Aerr-Grvww Running Shoes 1,840",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0HJ59NC1V?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T16:44:46Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0HJ59NC1V.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0HJ59NC1V.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0HJ59NC1V.01.LZZZZZZZ.jpg"
       ]
     }
   ]
