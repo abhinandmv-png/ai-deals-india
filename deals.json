@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T06:53:57Z",
+  "updated_at": "2026-11-28T07:53:37Z",
   "deals": [
+    {
+      "title": "Fridge Storage Box at Rs.104",
+      "price": 104,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBHBC7JC?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T07:53:37Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0DBHBC7JC.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBHBC7JC.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBHBC7JC.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Gap Men Pullover Sweater at 539/",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HS6ZD6JH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HS6ZD6JH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Giordano Dapper Collection Analog Watch 1,999₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09K5GR32Y?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T16:59:52Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513427.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09K5GR32Y.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09K5GR32Y.01.LZZZZZZZ.jpg"
       ]
     }
   ]
