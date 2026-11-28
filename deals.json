@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T11:08:54Z",
+  "updated_at": "2026-11-28T11:09:06Z",
   "deals": [
+    {
+      "title": ".. Loottt fasttt💥💥💥 Loot : Microfiber Cleaning Cloth Roll (20 Sheets, 30 × 30 cm) – Only ₹199🤯 ✨Ultra-Absorbent & Lint-Free Material ✨Washable Up to 4000 Times ✨Eco-Friendly Paper Towel Replacement for Home & Kitchen Buy",
+      "price": 199,
+      "original_price": null,
+      "category": "Home",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GX2P66KX?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T11:09:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514553.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GX2P66KX.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GX2P66KX.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". GUESS Men's Trend Tonneau 43mm Watch 8,430",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00K0AL3PQ.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00K0AL3PQ.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Garnier Serum Face Mask Set 10Pcs @460",
-      "price": 460,
-      "original_price": null,
-      "category": "Beauty",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B08BMSF46R?tag=premiumde066c-21",
-      "posted_at": "2026-11-22T03:14:35Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B08BMSF46R.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B08BMSF46R.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B08BMSF46R.01.LZZZZZZZ.jpg"
       ]
     }
   ]
