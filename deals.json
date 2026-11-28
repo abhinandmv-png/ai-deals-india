@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T02:29:16Z",
+  "updated_at": "2026-11-28T02:59:15Z",
   "deals": [
+    {
+      "title": "59% Off : Dabur Gulabari Shower Gel, 250 ml @89",
+      "price": 89,
+      "original_price": 217,
+      "category": "Shopping",
+      "badge": "59% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CJLY8XS3?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T02:59:15Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0CJLY8XS3.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CJLY8XS3.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CJLY8XS3.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "61% Off : Biotique Fruit Brightening Face Wash 200ml 158",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BWTCLMBD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BWTCLMBD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Glen Multi Function OTG Kitchen 18Litre 1200W Oven Toaster Griller 3,995",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FQ2F9SZ8?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T11:20:18Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0FQ2F9SZ8.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FQ2F9SZ8.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FQ2F9SZ8.01.LZZZZZZZ.jpg"
       ]
     }
   ]
