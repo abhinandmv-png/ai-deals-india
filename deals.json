@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T04:14:21Z",
+  "updated_at": "2026-11-28T04:16:10Z",
   "deals": [
+    {
+      "title": "French Connection Analog Blue Dial Women's Watch at 1,205",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0B2K1BLM7?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T04:16:10Z",
+      "source": "Premium Deals",
+      "image": "https://m.media-amazon.com/images/P/B0B2K1BLM7.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0B2K1BLM7.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0B2K1BLM7.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Symbol Men's Jogger Pants @309.",
       "price": 309,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FJDVHJPD.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FJDVHJPD.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Dabur Honey 750g Refill Pouch 182",
-      "price": null,
-      "original_price": null,
-      "category": "Grocery",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0CJ4VSDLJ?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T13:59:56Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513408.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0CJ4VSDLJ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0CJ4VSDLJ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
