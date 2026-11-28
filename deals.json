@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T03:47:36Z",
+  "updated_at": "2026-11-28T03:47:44Z",
   "deals": [
+    {
+      "title": "EOX OLO Low Speed Electric Scooter at Rs.38,999. Other colour costs more 🔥",
+      "price": 38999,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DBVWQRS2?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:47:43Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514486.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DBVWQRS2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DBVWQRS2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[ Apply ₹700 Coupon] Tribit FlyBuds C3 Noise Cancelling Wireless Earbuds, at Rs.4599.",
       "price": 4599,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HDSSKKNR.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HDSSKKNR.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "TVS Racing Anti Matter Full Face Helmet at Rs.1595",
-      "price": 1595,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0F1MPPGCD?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T13:24:34Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0F1MPPGCD.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0F1MPPGCD.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0F1MPPGCD.01.LZZZZZZZ.jpg"
       ]
     }
   ]
