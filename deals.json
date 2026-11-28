@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T10:56:41Z",
+  "updated_at": "2026-11-28T11:08:42Z",
   "deals": [
+    {
+      "title": ". Puma Unisex-Adult Anzarun Lite Shoes 1,549₹",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07S8PXYVH?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T11:08:41Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B07S8PXYVH.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07S8PXYVH.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07S8PXYVH.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "454",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00K0AMYFO.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". EcoLink 20W LED Batten (Pack Of 4) 469₹",
-      "price": null,
-      "original_price": null,
-      "category": "Sports",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B09GPKP1LY?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T19:29:55Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513459.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B09GPKP1LY.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B09GPKP1LY.01.LZZZZZZZ.jpg"
       ]
     }
   ]
