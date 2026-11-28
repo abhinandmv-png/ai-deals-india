@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T02:02:05Z",
+  "updated_at": "2026-11-28T02:29:16Z",
   "deals": [
+    {
+      "title": "61% Off : Biotique Fruit Brightening Face Wash 200ml 158",
+      "price": null,
+      "original_price": null,
+      "category": "Beauty",
+      "badge": "61% OFF",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07QF7LNVD?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T02:29:16Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B07QF7LNVD.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07QF7LNVD.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07QF7LNVD.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Set Wet Cool, Charm & Swag Avatar Deodorant at Rs.259.",
       "price": 259,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0FQ2F9SZ8.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0FQ2F9SZ8.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "🔥🔥 1,299₹ Digitek DTR 490 LW Foldable Tripod Stand, Smartphone Holder, Pan Head",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FJ8VXQ55?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T11:20:13Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513387.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FJ8VXQ55.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FJ8VXQ55.01.LZZZZZZZ.jpg"
       ]
     }
   ]
