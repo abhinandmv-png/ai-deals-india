@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T01:32:14Z",
+  "updated_at": "2026-11-28T01:32:22Z",
   "deals": [
+    {
+      "title": "Fastrack Reflex Nitro with Revolutionary ATS Chipset at Rs.2495.",
+      "price": 2495,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0BTPSW1WM?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T01:32:22Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514466.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0BTPSW1WM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0BTPSW1WM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Novel 99% Pure Water Baby Wipes 80 Wipes x Pack of 5 (400 Wipes) at Rs.321.",
       "price": 321,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0G6LTHMLF.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0G6LTHMLF.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Studds Drifter Full Face Helmet 🔥 1,448₹",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0DBDFGNSC?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T10:50:11Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513382.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0DBDFGNSC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0DBDFGNSC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
