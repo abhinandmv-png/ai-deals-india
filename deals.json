@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T11:09:06Z",
+  "updated_at": "2026-11-28T11:23:45Z",
   "deals": [
+    {
+      "title": "140",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0DRJWW8CW?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T11:23:44Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514555.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0DRJWW8CW.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0DRJWW8CW.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ".. Loottt fasttt💥💥💥 Loot : Microfiber Cleaning Cloth Roll (20 Sheets, 30 × 30 cm) – Only ₹199🤯 ✨Ultra-Absorbent & Lint-Free Material ✨Washable Up to 4000 Times ✨Eco-Friendly Paper Towel Replacement for Home & Kitchen Buy",
       "price": 199,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B09PV84GTK.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B09PV84GTK.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony Headband Stereo Headset at Rs.899",
-      "price": 899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00K0AL3PQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-22T03:54:38Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B00K0AL3PQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00K0AL3PQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00K0AL3PQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
