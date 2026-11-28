@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T11:08:42Z",
+  "updated_at": "2026-11-28T11:08:54Z",
   "deals": [
+    {
+      "title": ". GUESS Men's Trend Tonneau 43mm Watch 8,430",
+      "price": null,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B093KG7Y8Z?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T11:08:53Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514552.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B093KG7Y8Z.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B093KG7Y8Z.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". Puma Unisex-Adult Anzarun Lite Shoes 1,549₹",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B08BMSF46R.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B08BMSF46R.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Sony Wired Headband Stereo On Ear Headset @851",
-      "price": 851,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B00K0AMYFO?tag=premiumde066c-21",
-      "posted_at": "2026-11-22T02:59:37Z",
-      "source": "Looterhub",
-      "image": "https://m.media-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B00K0AMYFO.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B00K0AMYFO.01.LZZZZZZZ.jpg"
       ]
     }
   ]
