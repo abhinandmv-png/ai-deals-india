@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T11:38:54Z",
+  "updated_at": "2026-11-28T11:39:06Z",
   "deals": [
+    {
+      "title": "1822 Coupon + Bank Offer",
+      "price": null,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GGRMXMYP?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T11:39:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514558.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GGRMXMYP.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GGRMXMYP.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": ". JBL Flip 6 Wireless Portable Bluetooth Speaker 7,999",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H417X5XX.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H417X5XX.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Wonderchef 500W Mixer Grinder (3 Jars) at ₹1899",
-      "price": 1899,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0GV3Z8FGQ?tag=premiumde066c-21",
-      "posted_at": "2026-11-22T04:30:04Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0GV3Z8FGQ.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0GV3Z8FGQ.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0GV3Z8FGQ.01.LZZZZZZZ.jpg"
       ]
     }
   ]
