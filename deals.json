@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T03:16:04Z",
+  "updated_at": "2026-11-28T03:17:07Z",
   "deals": [
+    {
+      "title": "Fire‑Boltt Rise Smart Watch at Rs.1399.",
+      "price": 1399,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0CMF25TKG?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:17:06Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514478.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0CMF25TKG.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0CMF25TKG.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Himalaya Baby Pants Diaper, Size XXL, 44 Count @511",
       "price": 511,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0HQ1D6D47.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0HQ1D6D47.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "589",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H5JVC2DH?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T12:14:45Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513394.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H5JVC2DH.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H5JVC2DH.01.LZZZZZZZ.jpg"
       ]
     }
   ]
