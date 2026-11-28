@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T03:32:14Z",
+  "updated_at": "2026-11-28T03:47:06Z",
   "deals": [
+    {
+      "title": "Fastrack Ryz Smart Watch For Women at Rs.1,999.",
+      "price": 1999,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0GSR8VV5B?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:47:05Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514482.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0GSR8VV5B.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0GSR8VV5B.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "[ Apply 7% Coupon] Fastrack Opulence Quartz Chronograph watch at Rs.5528.",
       "price": 5528,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0991Y4RDY.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0991Y4RDY.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "94",
-      "price": null,
-      "original_price": null,
-      "category": "Shopping",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0H6R2MRQC?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T12:59:44Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0H6R2MRQC.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0H6R2MRQC.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0H6R2MRQC.01.LZZZZZZZ.jpg"
       ]
     }
   ]
