@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T08:08:41Z",
+  "updated_at": "2026-11-28T08:53:38Z",
   "deals": [
+    {
+      "title": "iPhone 18 Pro at ₹1,54,990 Pay with AXIS/SBI/ICICI Credit Card",
+      "price": 154990,
+      "original_price": null,
+      "category": "Electronics",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0HJBCGNFM?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T08:53:38Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0HJBCGNFM.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0HJBCGNFM.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0HJBCGNFM.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "561",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0BXHSZG9J.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0BXHSZG9J.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". Mochi Women's Elegant Wedge Heel Sandals 791₹",
-      "price": null,
-      "original_price": null,
-      "category": "Fashion",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0FLDW9M8J?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T17:14:49Z",
-      "source": "TechFactsDeals",
-      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_513430.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0FLDW9M8J.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0FLDW9M8J.01.LZZZZZZZ.jpg"
       ]
     }
   ]
