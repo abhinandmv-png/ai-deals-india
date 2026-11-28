@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T03:02:09Z",
+  "updated_at": "2026-11-28T03:16:04Z",
   "deals": [
+    {
+      "title": "Himalaya Baby Pants Diaper, Size XXL, 44 Count @511",
+      "price": 511,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0H6BHM738?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T03:16:03Z",
+      "source": "Looterhub",
+      "image": "https://m.media-amazon.com/images/P/B0H6BHM738.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0H6BHM738.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0H6BHM738.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "99 : Apply 50% Off Coupon",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0H5JVC2DH.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0H5JVC2DH.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": "Orient Electric Enamour Classic Neo 10 L Storage Water Heater @ ₹5,360",
-      "price": 5360,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0C81SXVH5?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T11:39:25Z",
-      "source": "Premium Deals",
-      "image": "https://m.media-amazon.com/images/P/B0C81SXVH5.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0C81SXVH5.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0C81SXVH5.01.LZZZZZZZ.jpg"
       ]
     }
   ]
