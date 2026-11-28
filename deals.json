@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T10:08:51Z",
+  "updated_at": "2026-11-28T10:09:01Z",
   "deals": [
+    {
+      "title": "ADORA Teddy Soft Toy Cute Plush Teddy Bear with Hoodie at 180",
+      "price": null,
+      "original_price": null,
+      "category": "Fashion",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B0FTVFG95C?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T10:08:57Z",
+      "source": "TechFactsDeals",
+      "image": "https://m.media-amazon.com/images/P/B0FTVFG95C.01._SL500_.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B0FTVFG95C.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B0FTVFG95C.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Havells REO BLDC 1200MM 5 Star Rated Ceiling Fan @ 2,080 Apply 20% Off Coupon",
       "price": 2080,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B00791F27E.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B00791F27E.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". RR Signature 25L Water Heater 5849",
-      "price": null,
-      "original_price": null,
-      "category": "Home",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0D8LH326T?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T18:45:19Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0D8LH326T.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0D8LH326T.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0D8LH326T.01.LZZZZZZZ.jpg"
       ]
     }
   ]
