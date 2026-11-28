@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-28T04:32:08Z",
+  "updated_at": "2026-11-28T04:53:35Z",
   "deals": [
+    {
+      "title": "CELLO Aluminium Nonstick 12 Cavity Appam Patra Pan Maker with Steel Lid, Black — ₹494.",
+      "price": 494,
+      "original_price": null,
+      "category": "Shopping",
+      "badge": "DEAL",
+      "note": "Check Amazon for the latest price, availability and delivery details.",
+      "url": "https://www.amazon.in/dp/B07PXH9VS2?tag=premiumde066c-21",
+      "posted_at": "2026-11-28T04:53:34Z",
+      "source": "TechFactsDeals",
+      "image": "https://raw.githubusercontent.com/abhinandmv-png/ai-deals-india/main/deal-images/-1001422047391_514498.jpg",
+      "image_fallbacks": [
+        "https://images-na.ssl-images-amazon.com/images/P/B07PXH9VS2.01._SL500_.jpg",
+        "https://m.media-amazon.com/images/P/B07PXH9VS2.01.LZZZZZZZ.jpg"
+      ]
+    },
     {
       "title": "Lotto Men Enduro Strip Slides at 660",
       "price": null,
@@ -7983,22 +7999,6 @@
       "image_fallbacks": [
         "https://images-na.ssl-images-amazon.com/images/P/B0F66WHT1M.01._SL500_.jpg",
         "https://m.media-amazon.com/images/P/B0F66WHT1M.01.LZZZZZZZ.jpg"
-      ]
-    },
-    {
-      "title": ". boAt Rockerz Apex Bluetooth Wireless in Ear Earphones 698₹",
-      "price": null,
-      "original_price": null,
-      "category": "Electronics",
-      "badge": "DEAL",
-      "note": "Check Amazon for the latest price, availability and delivery details.",
-      "url": "https://www.amazon.in/dp/B0BSR2YV4X?tag=premiumde066c-21",
-      "posted_at": "2026-11-21T14:14:47Z",
-      "source": "TechFactsDeals",
-      "image": "https://m.media-amazon.com/images/P/B0BSR2YV4X.01._SL500_.jpg",
-      "image_fallbacks": [
-        "https://images-na.ssl-images-amazon.com/images/P/B0BSR2YV4X.01._SL500_.jpg",
-        "https://m.media-amazon.com/images/P/B0BSR2YV4X.01.LZZZZZZZ.jpg"
       ]
     }
   ]
